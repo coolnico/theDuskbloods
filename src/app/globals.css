@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 12 10 14;
+  --surface: 21 18 26;
+  --surface-2: 31 26 38;
+  --border: 44 37 54;
+  --text: 236 230 224;
+  --muted: 154 143 163;
+  --blood: 178 34 52;
+  --ember: 212 98 26;
+  --twilight: 106 76 147;
+  --gold: 201 162 75;
+  --radius: 10px;
+}
+
+@layer base {
+  html {
+    @apply bg-bg text-text font-sans scroll-smooth;
+  }
+
+  body {
+    @apply m-0 min-h-screen;
+    background:
+      radial-gradient(ellipse at 20% -10%, rgba(106, 76, 147, 0.18), transparent 55%),
+      radial-gradient(ellipse at 90% 0%, rgba(178, 34, 52, 0.16), transparent 50%),
+      rgb(var(--bg));
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    background: rgba(178, 34, 52, 0.4);
+    color: #fff;
+  }
+}
+
+@layer components {
+  .shell {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-pill px-5 py-2.5 text-sm font-semibold transition-colors;
+  }
+  .btn-primary {
+    @apply btn bg-blood text-white hover:brightness-110;
+  }
+  .btn-ghost {
+    @apply btn border border-border text-text hover:bg-surface-2;
+  }
+
+  .card {
+    @apply rounded-[var(--radius)] border border-border bg-surface/70 p-4 backdrop-blur sm:p-6;
+  }
+
+  .eyebrow {
+    @apply inline-block text-xs font-semibold uppercase tracking-[0.2em] text-gold;
+  }
+
+  .h-title {
+    @apply font-heading tracking-tight text-balance;
+  }
+
+  .prose-muted p {
+    @apply text-muted leading-relaxed;
+  }
+}
+
+.nav-link {
+  @apply text-sm font-medium text-muted transition-colors hover:text-text;
+}
+
+@media (max-width: 640px) {
+  .nav-link {
+    @apply py-1;
+  }
+}

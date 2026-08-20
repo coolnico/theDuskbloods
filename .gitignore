@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# next
+.next/
+out/
+build/
+tsconfig.tsbuildinfo
+next-env.d.ts.bak
+
+# opennext / cloudflare
+.open-next/
+.wrangler/
+.dev.vars
+
+# misc
+.DS_Store
+*.pem
+.vercel
+.mimocode
+.playwright-cli/
+
+# env
+.env*

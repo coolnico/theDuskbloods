@@ -1,0 +1,535 @@
+{
+  "Metadata": {
+    "root": {
+      "title": "The Duskbloods - 黄昏血族 — FromSoftware 宫崎英高 PvPvE 动作游戏（Nintendo Switch 2 / 2026）",
+      "description": "The Duskbloods - 黄昏血族是由宫崎英高监督、FromSoftware 开发、任天堂发行的 PvPvE 多人动作游戏，2026 年登陆 Nintendo Switch 2。发售时间、玩法、Bloodsworn角色与网络测试全解析。"
+    },
+    "home": {
+      "title": "The Duskbloods - 黄昏血族 — 发售时间、玩法与网络测试全攻略",
+      "description": "FromSoftware 为 Nintendo Switch 2 打造的 PvPvE 多人动作 RPG《The Duskbloods》（Bloodsworn）全面介绍。2026 年发售、玩法机制、Bloodsworn角色、剧情设定、封闭网络测试报名方式一网打尽。"
+    },
+    "gameplay": {
+      "title": "The Duskbloods - 黄昏血族 玩法详解 — PvPvE 战斗、Bloodsworn与对局流程",
+      "description": "完整解析 The Duskbloods 的玩法：8 人 PvPvE 对局、Bloodsworn的角色定位、血之力、武器、目标，以及战斗如何在人类黄昏之中展开。"
+    },
+    "characters": {
+      "title": "The Duskbloods - 黄昏血族 角色 — Bloodsworn阵营与血之历史",
+      "description": "认识 The Duskbloods 的可玩角色「Bloodsworn」。介绍十余位战士及其武器、能力、血之力，以及可自定义的血之历史。"
+    },
+    "networkTest": {
+      "title": "The Duskbloods - 黄昏血族 网络测试 — 时间安排、报名方式与测试内容",
+      "description": "FromSoftware 在 Nintendo Switch 2 上举办 The Duskbloods 封闭网络测试。整理测试时间、报名方式、测试内容、下载大小与玩家可期待的内容。"
+    },
+    "faq": {
+      "title": "The Duskbloods - 黄昏血族 常见问题 — 发售、平台、多人模式等",
+      "description": "解答关于 The Duskbloods 最常见的问题：发售时间、Nintendo Switch 2 独占、PvPvE 多人、单人模式、跨平台联机、网络测试等。"
+    },
+    "about": {
+      "title": "关于 The Duskbloods - 黄昏血族 — FromSoftware 的 Switch 2 独占之作",
+      "description": "FromSoftware 开发、宫崎英高监督的 Nintendo Switch 2 独占作品《The Duskbloods》概述：起源、主题与意义。"
+    },
+    "privacy": {
+      "title": "隐私政策 — The Duskbloods - 黄昏血族",
+      "description": "The Duskbloods 粉丝资讯站的隐私政策，说明我们如何处理数据、Cookie 与分析。"
+    },
+    "terms": {
+      "title": "服务条款 — The Duskbloods - 黄昏血族",
+      "description": "The Duskbloods 粉丝资讯站的使用条款。The Duskbloods 及相关的一切权益归属于 FromSoftware 与任天堂。"
+    },
+    "releaseDate": {
+      "title": "The Duskbloods - 黄昏血族 发售日 — 2026 年任天堂 Switch 2 独占",
+      "description": "The Duskbloods 发售日期：2026 年发售，任天堂 Switch 2 独占。FromSoftware × 任天堂，宫崎英高监制。发售相关信息汇总。"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "description": "The Duskbloods 粉丝站如何处理数据、Cookie 与分析。",
+    "paragraphs": [
+      "本隐私政策说明您访问 The Duskbloods 粉丝资讯站（以下简称「本站」）时，我们如何处理您的数据。",
+      "本站阅读内容无需注册账号或提交个人信息。我们可能使用注重隐私的分析工具，了解整体流量以改进站点。",
+      "如使用 Cookie，主要用于记住您的语言偏好，以及支持广告或分析合作伙伴。您可随时在浏览器设置中关闭 Cookie，且不影响内容访问。",
+      "本站为非官方粉丝资讯站，与 FromSoftware 或任天堂无任何隶属或受其认可关系。如对本政策有疑问，请通过站点的联系方式与我们沟通。"
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "description": "The Duskbloods 粉丝资讯站的使用条款。",
+    "paragraphs": [
+      "访问本站即表示您同意以下条款。The Duskbloods 粉丝站免费提供关于游戏《The Duskbloods》的非官方资讯，仅供信息与教育目的。",
+      "The Duskbloods 及相关的一切名称、商标与素材均归各自权利人所有，包括 FromSoftware 与任天堂。本站不主张与上述方有任何合作、赞助或受其认可关系。",
+      "本站内容由团队独立撰写，可能随时更新或更正。游戏 2026 年发售前仍处于开发阶段，信息可能变动，我们不保证内容的完整或准确。",
+      "如对内容有任何顾虑，请通过站点的联系方式与我们联系。"
+    ]
+  },
+  "nav": {
+    "gameplay": "玩法",
+    "characters": "角色",
+    "networkTest": "网络测试",
+    "releaseDate": "发售日",
+    "faq": "常见问题",
+    "about": "关于",
+    "privacy": "隐私",
+    "terms": "条款",
+    "explore": "探索",
+    "company": "站点",
+    "legal": "法律",
+    "footerTagline": "The Duskbloods 粉丝资讯站 — 发售时间、玩法、角色与网络测试最新消息。",
+    "disclaimer": "The Duskbloods 是 FromSoftware 与任天堂的商标。本站为非官方粉丝资讯站，与上述公司无隶属或受其认可关系。",
+    "copyright": "© {year} The Duskbloods Fan Site. 游戏内容的权益归各自权利人所有。"
+  },
+  "home": {
+    "hero": {
+      "badge": "FromSoftware × Nintendo Switch 2",
+      "title": "The Duskbloods - 黄昏血族",
+      "subtitle": "宫崎英高监督的 PvPvE 多人动作游戏。化身Bloodsworn，在人类黄昏之际为争夺First Blood而战。",
+      "ctaPrimary": "查看玩法",
+      "ctaSecondary": "网络测试信息",
+      "releaseLabel": "发售",
+      "releaseValue": "2026 年",
+      "platformLabel": "平台",
+      "platformValue": "Nintendo Switch 2（独占）",
+      "genreLabel": "类型",
+      "genreValue": "PvPvE 动作 RPG",
+      "playersLabel": "人数",
+      "playersValue": "最多 8 人",
+      "playableLabel": "可玩角色",
+      "playableValue": "12+"
+    },
+    "overview": {
+      "eyebrow": "概述",
+      "title": "The Duskbloods 是什么？",
+      "paragraphs": [
+        "The Duskbloods - 黄昏血族是由打造《艾尔登法环》与《黑暗之魂》系列的 FromSoftware 开发、宫崎英高监督的多人动作游戏。本作由任天堂发行，作为 Switch 2 独占作品，预定于 2026 年发售。",
+        "故事发生在「人类黄昏」——人类文明的终末期。玩家将扮演「Bloodsworn」：凭借特殊之血获得超越凡人之力的战士。他们为争夺「First Blood」而展开殊死之战，这正是驱动游戏核心冲突的神秘力量。",
+        "每局对战最多汇聚八名玩家，在 PvPvE 战斗中同时展开玩家间的对抗与对强敌的讨伐。每位Bloodsworn都拥有独特的武器、能力，以及可自定义、并左右其在对局中道路与命运的血之历史。"
+      ]
+    },
+    "features": {
+      "eyebrow": "核心特色",
+      "title": "The Duskbloods 的看点",
+      "items": [
+        {
+          "title": "8 人 PvPvE 战斗",
+          "desc": "每局对战最多汇聚八名Bloodsworn，玩家之间的较量与对强敌的讨伐同时进行，竞争、博弈与生存交织出难以预测的局面。"
+        },
+        {
+          "title": "Bloodsworn",
+          "desc": "十余位可玩角色，各有独特武器、能力与外观，并可借由血之历史塑造其道路。"
+        },
+        {
+          "title": "血之力",
+          "desc": "特殊之血赋予超越人类极限的能力。掌握这些力量扭转战局，追寻First Blood。"
+        },
+        {
+          "title": "人类黄昏",
+          "desc": "从哥特维多利亚街景走向近代工业世界的暗黑浪漫舞台，文明的终末即是争斗之地。"
+        },
+        {
+          "title": "FromSoftware 设计",
+          "desc": "宫崎英高监督、由专门团队打造，将工作室标志性的暗黑奇幻美学注入全新的多人方向。"
+        },
+        {
+          "title": "Nintendo Switch 2 独占",
+          "desc": "FromSoftware 二十余年来首款主机独占作品，为 Switch 2 硬件从零打造。"
+        }
+      ]
+    },
+    "networkBanner": {
+      "eyebrow": "最新消息",
+      "title": "Switch 2 封闭网络测试开启",
+      "desc": "FromSoftware 将在 Nintendo Switch 2 上举办 The Duskbloods 的封闭网络测试，测试客户端现已开放预载。查看时间安排、报名方式与测试内容。",
+      "cta": "查看网络测试详情"
+    },
+    "charactersTeaser": {
+      "eyebrow": "Bloodsworn",
+      "title": "为血所缚的战士",
+      "desc": "化身Bloodsworn——十余位可玩战士，各有独特武器、能力与个人血之历史。他们并非失控的怪物，而是拥有自我意志与命运、自觉而强大的战士。",
+      "cta": "查看角色"
+    },
+    "faq": {
+      "eyebrow": "常见问题",
+      "title": "常见问题解答",
+      "items": [
+        {
+          "q": "The Duskbloods 什么时候发售？",
+          "a": "The Duskbloods 预定于 2026 年在 Nintendo Switch 2 发售。FromSoftware 及其母公司角川已确认本作仍按 2026 年发售推进，但具体发售日尚未公布。"
+        },
+        {
+          "q": "The Duskbloods 是 Nintendo Switch 2 独占吗？",
+          "a": "是的。The Duskbloods 由任天堂发行，为 Nintendo Switch 2 独占作品，也是 FromSoftware 二十余年来首款主机独占作品。"
+        },
+        {
+          "q": "The Duskbloods 只能多人游玩吗？",
+          "a": "The Duskbloods 以 8 人 PvPvE 多人为核心，但也已确认包含单人模式，单人玩家同样可以体验。"
+        },
+        {
+          "q": "本作由谁开发？",
+          "a": "The Duskbloods 由 FromSoftware 开发，宫崎英高担任监督（FromSoftware 社长，曾监督《艾尔登法环》与《黑暗之魂》系列），由任天堂发行。"
+        },
+        {
+          "q": "如何参加网络测试？",
+          "a": "封闭网络测试通过官网报名，结果已通知中选玩家。测试在 Nintendo Switch 2 上进行，详情请见网络测试页面。"
+        },
+        {
+          "q": "The Duskbloods 支持跨平台联机吗？",
+          "a": "由于本作为 Nintendo Switch 2 独占，不存在与其他平台的跨平台联机，多人对战在 Switch 2 玩家之间进行。"
+        }
+      ]
+    }
+  },
+  "gameplay": {
+    "intro": {
+      "eyebrow": "玩法",
+      "title": "The Duskbloods - 黄昏血族怎么玩",
+      "lead": "The Duskbloods 是以 8 人 PvPvE 多人对局为核心的动作 RPG。下面解析战斗、角色与对局流程如何交织。"
+    },
+    "sections": [
+      {
+        "title": "最多 8 人的 PvPvE 对局",
+        "desc": "每局对战最多汇聚八名Bloodsworn。PvPvE 意味着玩家之间的对抗与对强大敌人的讨伐同时进行，每一场都是竞争、博弈与求生的三方角力。"
+      },
+      {
+        "title": "Bloodsworn与血之力",
+        "desc": "玩家扮演凭借特殊之血获得超凡能力的「Bloodsworn」。血之力让战士超越人类极限，决定每位角色的玩法，也决定他们如何追寻处于冲突核心的First Blood。"
+      },
+      {
+        "title": "十余位可玩角色",
+        "desc": "十余位Bloodsworn可选，各有独特武器、能力与外观，并支持流派自定义。每位角色都拥有血之历史，会影响其在对局中的道路与命运。"
+      },
+      {
+        "title": "First Blood与人类黄昏",
+        "desc": "舞台是人类黄昏——文明的终末期。其中流动的「First Blood」是Bloodsworn竞相争夺的神秘力量，这种追寻是每局对战乃至游戏整体冲突的引擎。"
+      },
+      {
+        "title": "单人游玩与协作",
+        "desc": "本作以多人为核心，但也包含单人模式。正式版中也讨论了协作要素，单人与组队体验皆有。"
+      },
+      {
+        "title": "From 工作室美学的新方向",
+        "desc": "宫崎英高监督、专门团队打造，将 FromSoftware 的暗黑奇幻设计语言注入全新的多人形式，且不会影响工作室并行推进的单人作品线。"
+      }
+    ],
+    "roles": {
+      "eyebrow": "角色定位与流派",
+      "title": "打造你的Bloodsworn",
+      "desc": "每位Bloodsworn都有独特武器与能力，血之历史塑造其道路。尝试不同角色与配装，找到契合你风格的战士。",
+      "items": [
+        {
+          "title": "武器",
+          "desc": "每位Bloodsworn都配备专武，决定其攻击距离、节奏与战斗方式。"
+        },
+        {
+          "title": "能力",
+          "desc": "血之力带来超越人类极限的招式与技能，拓展攻守选择。"
+        },
+        {
+          "title": "血之历史",
+          "desc": "可自定义的叙事要素，影响角色在对局中的道路与命运。"
+        }
+      ]
+    }
+  },
+  "characters": {
+    "intro": {
+      "eyebrow": "角色",
+      "title": "Bloodsworn",
+      "lead": "The Duskbloods 的可玩角色是「Bloodsworn」——凭借特殊之血获得超凡之力的战士。他们并非失控的怪物，而是拥有自我意志与命运、自觉而强大的战士。"
+    },
+    "about": {
+      "title": "十余位战士",
+      "desc": "阵容包含十余位可玩的Bloodsworn，各有独特武器、能力与外观，支持流派自定义以及塑造其道路的血之历史。宫崎英高表示，本作有意区别于经典吸血鬼恐怖，转而汲取血与力量中更具浪漫色彩的面向，并以Bloodsworn之姿重新诠释。"
+    },
+    "traits": {
+      "eyebrow": "何为Bloodsworn",
+      "title": "身份、力量与命运",
+      "items": [
+        {
+          "title": "专属武器",
+          "desc": "每位角色都拥有专武，决定其战斗方式与距离。"
+        },
+        {
+          "title": "血之能力",
+          "desc": "特殊之血赋予超越人类极限的技能。"
+        },
+        {
+          "title": "独特外观",
+          "desc": "每位Bloodsworn都有反映其历史与角色的独特造型。"
+        },
+        {
+          "title": "血之历史",
+          "desc": "影响角色道路与命运的个人化、可自定义要素。"
+        },
+        {
+          "title": "流派自定义",
+          "desc": "按你的游玩风格调整角色的配装与思路。"
+        },
+        {
+          "title": "命运",
+          "desc": "所有Bloodsworn都追寻First Blood，但其道路与结局各自不同。"
+        }
+      ]
+    },
+    "note": {
+      "title": "完整阵容将陆续公开",
+      "desc": "Bloodsworn的完整阵容将随发售临近逐步公开。后续将带来详细角色解析、武器与能力介绍。"
+    }
+  },
+  "networkTest": {
+    "intro": {
+      "eyebrow": "网络测试",
+      "title": "The Duskbloods - 黄昏血族",
+      "lead": "FromSoftware 在 Nintendo Switch 2 上举办 The Duskbloods 的封闭网络测试。以下是我们目前了解的时间安排、报名方式与测试内容。"
+    },
+    "facts": {
+      "eyebrow": "一览",
+      "title": "关键信息",
+      "items": [
+        {
+          "label": "平台",
+          "value": "Nintendo Switch 2"
+        },
+        {
+          "label": "形式",
+          "value": "封闭网络测试"
+        },
+        {
+          "label": "参与方式",
+          "value": "官网报名（中选玩家获通知）"
+        },
+        {
+          "label": "开发商",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "发行商",
+          "value": "任天堂"
+        }
+      ]
+    },
+    "howTo": {
+      "eyebrow": "如何参与",
+      "title": "报名与获取资格",
+      "steps": [
+        {
+          "title": "在官网报名",
+          "desc": "报名期内通过官方网络测试页面提交申请。"
+        },
+        {
+          "title": "查询结果",
+          "desc": "中选玩家会通过官网个人页面及注册邮箱收到通知。"
+        },
+        {
+          "title": "预载测试端",
+          "desc": "网络测试客户端在测试开始前即可在 Nintendo Switch 2 上预载。"
+        },
+        {
+          "title": "在测试时段游玩",
+          "desc": "测试在 Switch 2 上的预定时段进行，请在开放时段内参与。"
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "可期待的内容",
+      "title": "测试体验",
+      "items": [
+        {
+          "title": "PvPvE 一隅",
+          "desc": "可玩到本作标志性的 8 人 PvPvE 动作片段。"
+        },
+        {
+          "title": "性能与稳定性验证",
+          "desc": "作为网络测试，重点在于真实条件下的服务器负载、匹配与稳定性。"
+        },
+        {
+          "title": "开发中内容",
+          "desc": "内容、平衡与画面未必代表正式版，发售前或有调整。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "敬请关注正式版发售",
+      "desc": "网络测试是抢先了解 The Duskbloods 的机会，本作将于 2026 年登陆 Nintendo Switch 2。我们将持续在本页更新最新时间与详情。"
+    }
+  },
+  "faq": {
+    "intro": {
+      "eyebrow": "常见问题",
+      "title": "The Duskbloods - 黄昏血族 — 常见问题解答",
+      "lead": "针对发售、平台、多人模式与网络测试等常见问题，给出简洁回答。"
+    },
+    "groups": [
+      {
+        "title": "发售与平台",
+        "items": [
+          {
+            "q": "The Duskbloods 何时发售？",
+            "a": "The Duskbloods 预定 2026 年在 Nintendo Switch 2 发售，具体发售日尚未公布。"
+          },
+          {
+            "q": "The Duskbloods 仅登陆 Nintendo Switch 2 吗？",
+            "a": "是的。The Duskbloods 由任天堂发行，是 Nintendo Switch 2 独占作品。"
+          },
+          {
+            "q": "The Duskbloods 会登陆 PS5、Xbox 或 PC 吗？",
+            "a": "目前未公布其他平台版本。作为任天堂发行的独占作品，预计将仅限 Nintendo Switch 2。"
+          }
+        ]
+      },
+      {
+        "title": "玩法与多人模式",
+        "items": [
+          {
+            "q": "The Duskbloods 的 PvPvE 是什么意思？",
+            "a": "PvPvE（玩家对玩家对环境）指每局对局中，玩家间的竞争与对强大敌人的讨伐同时进行。"
+          },
+          {
+            "q": "最多几人同玩？",
+            "a": "每局对战最多汇聚八名玩家。"
+          },
+          {
+            "q": "The Duskbloods 可以单人游玩吗？",
+            "a": "可以。本作虽以 8 人多人为核心，但也包含单人模式，单人玩家同样能体验。"
+          },
+          {
+            "q": "The Duskbloods 支持跨平台联机吗？",
+            "a": "由于是 Nintendo Switch 2 独占，不存在跨平台联机，多人对战在 Switch 2 玩家之间进行。"
+          }
+        ]
+      },
+      {
+        "title": "开发",
+        "items": [
+          {
+            "q": "The Duskbloods 的监督是谁？",
+            "a": "由 FromSoftware 社长宫崎英高担任监督，他曾监督《艾尔登法环》与《黑暗之魂》系列。"
+          },
+          {
+            "q": "The Duskbloods 由谁开发与发行？",
+            "a": "The Duskbloods 由 FromSoftware 开发、任天堂发行。"
+          },
+          {
+            "q": "Bloodsworn是什么？",
+            "a": "Bloodsworn是本作的可玩角色——凭借特殊之血获得超凡之力的战士。共有十余位可选，各有独特武器、能力与可自定义的血之历史。"
+          }
+        ]
+      },
+      {
+        "title": "网络测试",
+        "items": [
+          {
+            "q": "如何参加 The Duskbloods 网络测试？",
+            "a": "通过官网报名，中选玩家获结果通知。测试在 Nintendo Switch 2 上于预定时段进行。"
+          },
+          {
+            "q": "网络测试免费吗？",
+            "a": "拥有 Nintendo Switch 2 主机的中选玩家可免费参与封闭网络测试。"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "intro": {
+      "eyebrow": "关于",
+      "title": "关于 The Duskbloods - 黄昏血族",
+      "lead": "The Duskbloods 是 FromSoftware 开发、宫崎英高监督、任天堂于 2026 年在 Nintendo Switch 2 发行的 PvPvE 多人动作游戏。"
+    },
+    "paragraphs": [
+      "本作并非社内提案，而是始于与任天堂的相遇。一份初步构想合集呈交任天堂后，立刻引起其浓厚兴趣。最初的构想是为初代 Nintendo Switch 设计，但团队为发挥新型 Switch 2 硬件之长而将其延后。",
+      "故事设定在「人类黄昏」——文明终末期，围绕「First Blood」这一神秘力量展开，Bloodsworn为争夺它而战。他们并非经典吸血鬼：宫崎英高表示，本作有意区别于传统吸血鬼恐怖，转而汲取血与力量中更具浪漫色彩的面向。",
+      "The Duskbloods 是 FromSoftware 二十余年来首款主机独占作品。宫崎英高也澄清，本作不会影响工作室的单人作品线，两者由不同团队并行推进。"
+    ],
+    "facts": {
+      "eyebrow": "关键信息",
+      "title": "一览",
+      "items": [
+        {
+          "label": "开发商",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "监督",
+          "value": "宫崎英高"
+        },
+        {
+          "label": "发行商",
+          "value": "任天堂"
+        },
+        {
+          "label": "平台",
+          "value": "Nintendo Switch 2（独占）"
+        },
+        {
+          "label": "类型",
+          "value": "PvPvE 多人动作 RPG"
+        },
+        {
+          "label": "人数",
+          "value": "最多 8 人"
+        },
+        {
+          "label": "发售",
+          "value": "2026 年"
+        },
+        {
+          "label": "可玩角色",
+          "value": "12+ 位Bloodsworn"
+        }
+      ]
+    }
+  },
+  "releaseDate": {
+    "intro": {
+      "eyebrow": "发售日",
+      "title": "The Duskbloods - 黄昏血族",
+      "lead": "The Duskbloods 预计于 2026 年作为任天堂 Switch 2 独占作品发售。以下是我们目前所知的发售信息。"
+    },
+    "facts": {
+      "eyebrow": "概览",
+      "title": "关键信息",
+      "items": [
+        {
+          "label": "发售窗口",
+          "value": "2026"
+        },
+        {
+          "label": "平台",
+          "value": "Nintendo Switch 2（独占）"
+        },
+        {
+          "label": "开发商",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "发行商",
+          "value": "任天堂"
+        },
+        {
+          "label": "总监",
+          "value": "宫崎英高"
+        },
+        {
+          "label": "类型",
+          "value": "PvPvE 动作 RPG"
+        },
+        {
+          "label": "最大玩家数",
+          "value": "8"
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "已知信息",
+      "title": "关于发售",
+      "paragraphs": [
+        "The Duskbloods 在任天堂 Switch 2 发布会上首次公布，并计划于 2026 年发售。FromSoftware 与任天堂尚未公布具体发售日期。",
+        "作为 Switch 2 独占作品，本作在发售时仅在任天堂新一代主机上推出，不会登陆 PS5、Xbox 或 PC 平台。",
+        "由宫崎英高（《艾尔登法环》和《黑暗之魂》系列缔造者）担任总监，The Duskbloods 是一款 PvPvE 多人动作游戏，玩家将扮演Bloodsworn——在人类黄昏之际为争夺First Blood而战的战士。"
+      ]
+    },
+    "cta": {
+      "title": "收藏本页，掌握发售日动态",
+      "desc": "FromSoftware 与任天堂公布具体发售日、预载时间和上线详情后，我们会立即更新本页。"
+    }
+  }
+}

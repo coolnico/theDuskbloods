@@ -1,0 +1,535 @@
+{
+  "Metadata": {
+    "root": {
+      "title": "The Duskbloods — PvPvE-Actionspiel von FromSoftware für Nintendo Switch 2 (2026)",
+      "description": "The Duskbloods ist ein neues PvPvE-Mehrspieler-Actionspiel von FromSoftware, unter der Leitung von Hidetaka Miyazaki, veröffentlicht von Nintendo für die Switch 2 im Jahr 2026. Komplette Anleitung: Release, Gameplay, Bloodsworn-Charaktere und Netzwerktest."
+    },
+    "home": {
+      "title": "The Duskbloods — Release, Gameplay und Anleitung zum Netzwerktest",
+      "description": "Alles über The Duskbloods, das PvPvE-Mehrspieler-Action-RPG von FromSoftware für Nintendo Switch 2. Release 2026, Gameplay, Bloodsworn-Charaktere, Story und Teilnahme am geschlossenen Netzwerktest."
+    },
+    "gameplay": {
+      "title": "The Duskbloods Gameplay erklärt — PvPvE-Kampf, Bloodsworn und Match-Ablauf",
+      "description": "Vollständige Analyse des Gameplays von The Duskbloods: PvPvE-Matches mit 8 Spielern, die Bloodsworn-Rollen, Blutkräfte, Waffen, Ziele und der Ablauf in der Dämmerung der Menschheit."
+    },
+    "characters": {
+      "title": "The Duskbloods Charaktere — Die Bloodsworn und ihre Blutgeschichten",
+      "description": "Lernen Sie die Bloodsworn kennen, die spielbaren Charaktere von The Duskbloods. Über ein Dutzend Kämpfer, ihre Waffen, Fähigkeiten, Blutkräfte und anpassbaren Blutgeschichten."
+    },
+    "networkTest": {
+      "title": "The Duskbloods Netzwerktest — Termine, Anmeldung und was Sie erwartet",
+      "description": "Der geschlossene Netzwerktest von The Duskbloods läuft 2026 auf Nintendo Switch 2. Termine, Anmeldung, Testinhalt, Download-Größe und was Spieler erwarten können."
+    },
+    "faq": {
+      "title": "The Duskbloods FAQ — Release, Plattformen, Mehrspieler und mehr",
+      "description": "Antworten auf die häufigsten Fragen zu The Duskbloods: Release, Nintendo Switch 2-Exklusivität, PvPvE-Mehrspieler, Einzelspieler, Crossplay und Netzwerktest."
+    },
+    "about": {
+      "title": "Über The Duskbloods — FromSoftwares Switch 2 Exklusivtitel",
+      "description": "Ein Überblick über The Duskbloods, den Nintendo Switch 2 Exklusivtitel von FromSoftware und Regisseur Hidetaka Miyazaki: Ursprünge, Themen und Bedeutung."
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung — The Duskbloods",
+      "description": "Datenschutzerklärung der The Duskbloods Fan-Informationsseite. Umgang mit Daten, Cookies und Analyse."
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen — The Duskbloods",
+      "description": "Nutzungsbedingungen der The Duskbloods Fan-Informationsseite. The Duskbloods und alle verwandten Marken gehören FromSoftware und Nintendo."
+    },
+    "releaseDate": {
+      "title": "Veröffentlichungsdatum von The Duskbloods — 2026 auf Nintendo Switch 2",
+      "description": "Veröffentlichungsdatum von The Duskbloods: erscheint 2026 als Nintendo Switch 2 Exclusive. FromSoftware × Nintendo, Regie: Hidetaka Miyazaki."
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "description": "Wie die The Duskbloods Fan-Seite mit Daten, Cookies und Analyse umgeht.",
+    "paragraphs": [
+      "Diese Datenschutzerklärung erklärt, wie die The Duskbloods Fan-Informationsseite (\"wir\") beim Besuch mit Ihren Daten umgeht.",
+      "Zum Lesen der Inhalte ist kein Konto und keine Angabe persönlicher Daten nötig. Wir nutzen ggf. datenschutzfreundliche Analyse, um aggregierten Traffic zu verstehen und die Seite zu verbessern.",
+      "Sofern verwendet, dienen Cookies der Speicherung Ihrer Sprache und unterstützen Werbe- oder Analysepartner. Sie können Cookies jederzeit in den Browser-Einstellungen deaktivieren, ohne den Zugriff auf Inhalte zu beeinträchtigen.",
+      "Diese Seite ist eine inoffizielle Fan-Ressource und weder mit FromSoftware oder Nintendo verbunden noch von diesen unterstützt. Fragen zur Richtlinie richten Sie bitte über die Kontaktkanäle der Seite an uns."
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "description": "Nutzungsbedingungen der The Duskbloods Fan-Informationsseite.",
+    "paragraphs": [
+      "Mit dem Zugriff auf diese Seite stimmen Sie diesen Bedingungen zu. Die The Duskbloods Fan-Seite bietet kostenlose, inoffizielle Informationen zum Spiel The Duskbloods zu Informations- und Bildungszwecken.",
+      "The Duskbloods sowie alle verwandten Namen, Marken und Inhalte sind Marken der jeweiligen Eigentümer, darunter FromSoftware und Nintendo. Diese Seite beansprucht keine Verbindung, kein Sponsoring und keine Befürwortung.",
+      "Inhalte werden unabhängig verfasst und können jederzeit aktualisiert oder korrigiert werden. Vor dem Release 2026 kann sich die Information ändern; für Vollständigkeit oder Richtigkeit wird keine Gewähr übernommen.",
+      "Bei Bedenken zum Inhalt wenden Sie sich bitte an die Kontaktkanäle der Seite."
+    ]
+  },
+  "nav": {
+    "gameplay": "Gameplay",
+    "characters": "Charaktere",
+    "networkTest": "Netzwerktest",
+    "releaseDate": "Veröffentlichungsdatum",
+    "faq": "FAQ",
+    "about": "Über",
+    "privacy": "Datenschutz",
+    "terms": "Bedingungen",
+    "explore": "Entdecken",
+    "company": "Seite",
+    "legal": "Rechtliches",
+    "footerTagline": "Eine Fan-Informationszentrale für The Duskbloods — Release, Gameplay, Charaktere und Neuigkeiten zum Netzwerktest.",
+    "disclaimer": "The Duskbloods ist eine Marke von FromSoftware und Nintendo. Dies ist eine inoffizielle Fan-Informationsseite ohne Verbindung zu oder Befürwortung durch FromSoftware oder Nintendo.",
+    "copyright": "© {year} The Duskbloods Fan Site. Alle Spielinhalte gehören den jeweiligen Eigentümern."
+  },
+  "home": {
+    "hero": {
+      "badge": "FromSoftware × Nintendo Switch 2",
+      "title": "The Duskbloods",
+      "subtitle": "Ein PvPvE-Mehrspieler-Actionspiel von Hidetaka Miyazaki. Werden Sie ein Bloodsworn und kämpfen Sie in der Dämmerung der Menschheit um das Erste Blut.",
+      "ctaPrimary": "Gameplay ansehen",
+      "ctaSecondary": "Netzwerktest-Info",
+      "releaseLabel": "Release",
+      "releaseValue": "2026",
+      "platformLabel": "Plattform",
+      "platformValue": "Nintendo Switch 2 (exklusiv)",
+      "genreLabel": "Genre",
+      "genreValue": "PvPvE-Action-RPG",
+      "playersLabel": "Spieler",
+      "playersValue": "Bis zu 8",
+      "playableLabel": "Charaktere",
+      "playableValue": "12+"
+    },
+    "overview": {
+      "eyebrow": "Überblick",
+      "title": "Was ist The Duskbloods?",
+      "paragraphs": [
+        "The Duskbloods ist ein Mehrspieler-Actionspiel, entwickelt von FromSoftware unter der Leitung von Hidetaka Miyazaki, den Machern von Elden Ring und der Dark Souls-Reihe. Es wird von Nintendo als Switch 2-Exklusivtitel veröffentlicht und soll 2026 erscheinen.",
+        "Es spielt während der Dämmerung der Menschheit —dem Zwielicht der menschlichen Zivilisation—. Die Spieler schlüpfen in die Rolle der Bloodsworn: Krieger, die durch besonderes Blut übermenschliche Kraft erlangt haben. Sie kämpfen um das Erste Blut, eine mysteriöse Kraft, die den zentralen Konflikt antreibt.",
+        "Die Matches bringen bis zu acht Spieler in PvPvE-Schlachten zusammen, die Wettkampf untereinander mit Kämpfen gegen mächtige Feinde verbinden. Jeder Bloodsworn hat eigene Waffen, Fähigkeiten und eine anpassbare Blutgeschichte, die Weg und Schicksal prägt."
+      ]
+    },
+    "features": {
+      "eyebrow": "Hauptmerkmale",
+      "title": "Was The Duskbloods auszeichnet",
+      "items": [
+        {
+          "title": "PvPvE-Kampf mit 8 Spielern",
+          "desc": "Jedes Match bringt bis zu acht Bloodsworn zusammen, die gleichzeitig gegeneinander und gegen mächtige Feinde kämpfen — Rivalität und Kooperation auf unvorhersehbare Weise."
+        },
+        {
+          "title": "Die Bloodsworn",
+          "desc": "Über ein Dutzend spielbare Charaktere, jeder mit eigenen Waffen, Fähigkeiten und Aussehen. Jeder Bloodsworn trägt eine formbare Blutgeschichte."
+        },
+        {
+          "title": "Blutkräfte",
+          "desc": "Besonderes Blut verleiht Fähigkeiten jenseits menschlicher Grenzen. Meistern Sie diese Kräfte, um die Schlacht zu wenden und das Erste Blut zu verfolgen."
+        },
+        {
+          "title": "Dämmerung der Menschheit",
+          "desc": "Eine dunkle, romantische Welt vom viktorianischen Gotik bis zur industriellen Moderne — das Endstadium der Zivilisation als Schauplatz."
+        },
+        {
+          "title": "FromSoftware-Design",
+          "desc": "Unter der Leitung von Hidetaka Miyazaki bringt The Duskbloods die Dark-Fantasy-Ästhetik des Studios in eine neue Mehrspieler-Richtung, von einem eigenen Team."
+        },
+        {
+          "title": "Nintendo Switch 2 exklusiv",
+          "desc": "FromSoftwares erster Konsolen-Exklusivtitel seit über zwanzig Jahren, von Grund auf für die Switch 2-Hardware entwickelt."
+        }
+      ]
+    },
+    "networkBanner": {
+      "eyebrow": "Frisch angekündigt",
+      "title": "Geschlossener Netzwerktest auf Switch 2",
+      "desc": "FromSoftware führt einen geschlossenen Netzwerktest für The Duskbloods auf Nintendo Switch 2 durch. Der Download ist als Vorabladung verfügbar. Termine, Anmeldung und Erwartungen.",
+      "cta": "Netzwerktest-Details ansehen"
+    },
+    "charactersTeaser": {
+      "eyebrow": "Die Bloodsworn",
+      "title": "Durch Blut gebundene Krieger",
+      "desc": "Schlüpfen Sie in die Rolle der Bloodsworn — über ein Dutzend spielbare Krieger, jeder mit eigenen Waffen, Fähigkeiten und einer persönlichen Blutgeschichte. Keine unkontrollierbaren Monster, sondern bewusste, dominante Kämpfer.",
+      "cta": "Charaktere ansehen"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Wann erscheint The Duskbloods?",
+          "a": "The Duskbloods soll 2026 auf Nintendo Switch 2 erscheinen. FromSoftware und die Muttergesellschaft Kadokawa haben bestätigt, dass der Titel auf Kurs für 2026 ist, ein genaues Datum wurde aber nicht genannt."
+        },
+        {
+          "q": "Ist The Duskbloods ein Nintendo Switch 2-Exklusivtitel?",
+          "a": "Ja. The Duskbloods wird von Nintendo veröffentlicht und ist exklusiv für Nintendo Switch 2. Es ist FromSoftwares erster Konsolen-Exklusivtitel seit über zwanzig Jahren."
+        },
+        {
+          "q": "Ist The Duskbloods nur Mehrspieler?",
+          "a": "The Duskbloods basiert auf 8-Spieler-PvPvE-Mehrspieler, es wurde aber bestätigt, dass es auch einen Einzelspielermodus gibt."
+        },
+        {
+          "q": "Wer entwickelt The Duskbloods?",
+          "a": "The Duskbloods wird von FromSoftware entwickelt und von Hidetaka Miyazaki geleitet, dem Präsidenten von FromSoftware und Regisseur von Elden Ring und der Dark Souls-Reihe. Verlag ist Nintendo."
+        },
+        {
+          "q": "Wie nehme ich am Netzwerktest teil?",
+          "a": "Die Anmeldung zum geschlossenen Netzwerktest lief über die offizielle Seite, die Ergebnisse wurden den Ausgewählten mitgeteilt. Der Test läuft auf Nintendo Switch 2. Siehe unsere Netzwerktest-Seite."
+        },
+        {
+          "q": "Gibt es Crossplay bei The Duskbloods?",
+          "a": "Da The Duskbloods exklusiv für Nintendo Switch 2 ist, ist Crossplay nicht relevant. Mehrspieler läuft unter Switch 2-Spielern."
+        }
+      ]
+    }
+  },
+  "gameplay": {
+    "intro": {
+      "eyebrow": "Gameplay",
+      "title": "Wie The Duskbloods gespielt wird",
+      "lead": "The Duskbloods ist ein Action-RPG um 8-Spieler-PvPvE-Matches. So greifen Kampf, Charaktere und Match-Ablauf ineinander."
+    },
+    "sections": [
+      {
+        "title": "PvPvE-Matches für bis zu 8 Spieler",
+        "desc": "Jedes Match bringt bis zu acht Bloodsworn zusammen. PvPvE bedeutet: Sie kämpfen gleichzeitig gegen andere Spieler und gegen mächtige Feinde — ein Dreikampf aus Rivalität, Opportunismus und Überleben."
+      },
+      {
+        "title": "Die Bloodsworn und ihre Blutkräfte",
+        "desc": "Die Spieler schlüpfen in die Rolle der Bloodsworn — Menschen mit übermenschlichen Fähigkeiten durch besonderes Blut. Diese Kräfte definieren, wie jeder Charakter spielt."
+      },
+      {
+        "title": "Über ein Dutzend Charaktere",
+        "desc": "Über ein Dutzend Bloodsworn stehen bereit, jeder mit eigenen Waffen, Fähigkeiten und Aussehen, plus Anpassungsmöglichkeiten und einer Blutgeschichte."
+      },
+      {
+        "title": "Das Erste Blut und die Dämmerung",
+        "desc": "Schauplatz ist die Dämmerung der Menschheit, das Endstadium der Zivilisation. Darin fließt das Erste Blut, eine mysteriöse Kraft, die die Bloodsworn zu erlangen suchen."
+      },
+      {
+        "title": "Solo und Kooperation",
+        "desc": "Mehrspieler ist der Kern, aber The Duskbloods enthält auch einen Einzelspielermodus. Kooperative Elemente wurden für die Vollversion diskutiert."
+      },
+      {
+        "title": "FromSoftwares Handwerk, neue Richtung",
+        "desc": "Unter Hidetaka Miyazaki und einem eigenen Team wird die Dark-Fantasy-Designsprache von FromSoftware in ein neues Mehrspieler-Format überführt, ohne die Solo-Reihe des Studios zu beeinträchtigen."
+      }
+    ],
+    "roles": {
+      "eyebrow": "Rollen und Builds",
+      "title": "Gestalten Sie Ihren Bloodsworn",
+      "desc": "Jeder Bloodsworn bietet eigene Waffen und Fähigkeiten, und Ihre Blutgeschichte prägt seinen Weg. Probieren Sie verschiedene Charaktere und Ausrüstungen.",
+      "items": [
+        {
+          "title": "Waffen",
+          "desc": "Jeder Bloodsworn führt charakteristische Waffen, die Reichweite, Tempo und Ansatz definieren."
+        },
+        {
+          "title": "Fähigkeiten",
+          "desc": "Blutkräfte gewähren Techniken jenseits menschlicher Grenzen."
+        },
+        {
+          "title": "Blutgeschichte",
+          "desc": "Ein anpassbares narratives Element, das Weg und Schicksal beeinflusst."
+        }
+      ]
+    }
+  },
+  "characters": {
+    "intro": {
+      "eyebrow": "Charaktere",
+      "title": "Die Bloodsworn",
+      "lead": "Die spielbaren Charaktere von The Duskbloods sind die Bloodsworn — Krieger, die durch besonderes Blut übermenschliche Kraft erlangt haben. Keine unkontrollierbaren Monster, sondern bewusste, dominante Kämpfer mit eigener Identität und eigenem Schicksal."
+    },
+    "about": {
+      "title": "Über ein Dutzend Kämpfer",
+      "desc": "Das Roster umfasst über ein Dutzend spielbare Bloodsworn, jeder mit eigenen Waffen, Fähigkeiten und Aussehen, plus Anpassung und einer Blutgeschichte. Miyazaki betonte, dass sich das Konzept bewusst vom klassischen Vampir-Horror abhebt."
+    },
+    "traits": {
+      "eyebrow": "Was einen Bloodsworn definiert",
+      "title": "Identität, Macht und Schicksal",
+      "items": [
+        {
+          "title": "Eigene Waffen",
+          "desc": "Jeder Charakter bringt eigene Waffen mit, die definieren, wie und in welcher Distanz er kämpft."
+        },
+        {
+          "title": "Blut-Fähigkeiten",
+          "desc": "Besonderes Blut verleiht übermenschliche Fähigkeiten jenseits menschlicher Grenzen."
+        },
+        {
+          "title": "Einzigartiges Aussehen",
+          "desc": "Jeder Bloodsworn hat ein eigenes Erscheinungsbild, das Geschichte und Rolle widerspiegelt."
+        },
+        {
+          "title": "Blutgeschichte",
+          "desc": "Ein persönlicher, anpassbarer Aspekt, der Weg und Schicksal prägt."
+        },
+        {
+          "title": "Anpassung",
+          "desc": "Passen Sie Ausrüstung und Ansatz an Ihren Stil an."
+        },
+        {
+          "title": "Schicksal",
+          "desc": "Alle Bloodsworn verfolgen das Erste Blut, doch Weg und Ende sind jeweils eigene."
+        }
+      ]
+    },
+    "note": {
+      "title": "Komplettes Roster folgt",
+      "desc": "Das vollständige Roster wird im Vorfeld des Releases nach und nach enthüllt. Schauen Sie wieder vorbei für detaillierte Charakteranalysen."
+    }
+  },
+  "networkTest": {
+    "intro": {
+      "eyebrow": "Netzwerktest",
+      "title": "Der geschlossene Netzwerktest von The Duskbloods",
+      "lead": "FromSoftware führt einen geschlossenen Netzwerktest für The Duskbloods auf Nintendo Switch 2 durch. Das wissen wir über Termine, Anmeldung und Inhalt."
+    },
+    "facts": {
+      "eyebrow": "Auf einen Blick",
+      "title": "Kerndaten",
+      "items": [
+        {
+          "label": "Plattform",
+          "value": "Nintendo Switch 2"
+        },
+        {
+          "label": "Format",
+          "value": "Geschlossener Netzwerktest"
+        },
+        {
+          "label": "Zugang",
+          "value": "Anmeldung auf der offiziellen Seite (Ergebnisse an Ausgewählte)"
+        },
+        {
+          "label": "Entwickler",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "Verlag",
+          "value": "Nintendo"
+        }
+      ]
+    },
+    "howTo": {
+      "eyebrow": "Wie teilnehmen",
+      "title": "Anmeldung und Zugang",
+      "steps": [
+        {
+          "title": "Auf der offiziellen Seite anmelden",
+          "desc": "Die Anmeldung lief während des Zeitraums über die offizielle Testseite."
+        },
+        {
+          "title": "Ergebnis prüfen",
+          "desc": "Ausgewählte Spieler wurden auf der persönlichen Seite und per E-Mail benachrichtigt."
+        },
+        {
+          "title": "Test vorab laden",
+          "desc": "Der Test-Client ist für Nintendo Switch 2 als Vorabladung verfügbar."
+        },
+        {
+          "title": "In den aktiven Fenstern spielen",
+          "desc": "Der Test läuft in geplanten Sessions auf Switch 2."
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "Was Sie erwartet",
+      "title": "Im Test",
+      "items": [
+        {
+          "title": "Ein PvPvE-Ausschnitt",
+          "desc": "Erwarten Sie einen spielbaren Ausschnitt der 8-Spieler-PvPvE-Action des fertigen Spiels."
+        },
+        {
+          "title": "Performance und Stabilität",
+          "desc": "Der Test zielt auf Serverlast, Matchmaking und Stabilität unter realen Bedingungen."
+        },
+        {
+          "title": "In Arbeit",
+          "desc": "Inhalt, Balance und Optik können das fertige Spiel nicht vollständig widerspiegeln."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bleiben Sie am Ball bis zum Release",
+      "desc": "Der Netzwerktest ist ein erster Blick auf The Duskbloods vor dem Release 2026 auf Nintendo Switch 2. Wir halten diese Seite auf dem Laufenden."
+    }
+  },
+  "faq": {
+    "intro": {
+      "eyebrow": "FAQ",
+      "title": "The Duskbloods — häufig gestellte Fragen",
+      "lead": "Kurze Antworten auf die häufigsten Fragen rund um Release, Plattformen, Mehrspieler-Modus und Netzwerktest."
+    },
+    "groups": [
+      {
+        "title": "Release und Plattformen",
+        "items": [
+          {
+            "q": "Wann erscheint The Duskbloods?",
+            "a": "The Duskbloods soll 2026 für Nintendo Switch 2 erscheinen. Ein genaues Veröffentlichungsdatum wurde bislang nicht genannt."
+          },
+          {
+            "q": "Ist The Duskbloods nur auf der Switch 2 erhältlich?",
+            "a": "Ja. The Duskbloods wird von Nintendo veröffentlicht und ist ein Exklusivtitel für Nintendo Switch 2."
+          },
+          {
+            "q": "Kommt The Duskbloods auch für PS5, Xbox oder PC?",
+            "a": "Es wurden keine Versionen für andere Plattformen angekündigt. Als Nintendo-exklusiver Titel dürfte The Duskbloods auf der Switch 2 bleiben."
+          }
+        ]
+      },
+      {
+        "title": "Gameplay und Mehrspieler",
+        "items": [
+          {
+            "q": "Was bedeutet PvPvE bei The Duskbloods?",
+            "a": "PvPvE — also Spieler gegen Spieler gegen Umgebung — bedeutet, dass jede Partie direkten Wettbewerb unter Spielern und Kämpfe gegen mächtige Feinde gleichzeitig verbindet."
+          },
+          {
+            "q": "Wie viele Spieler können gleichzeitig spielen?",
+            "a": "In einer Partie treten bis zu acht Spieler gegeneinander an."
+          },
+          {
+            "q": "Kann ich The Duskbloods alleine spielen?",
+            "a": "Ja. Auch wenn der Fokus auf dem 8-Spieler-Mehrspieler-Modus liegt, verfügt The Duskbloods über einen Einzelspieler-Modus für Solo-Spieler."
+          },
+          {
+            "q": "Gibt es Crossplay?",
+            "a": "Da The Duskbloods exklusiv für Nintendo Switch 2 ist, fällt Crossplay mit anderen Plattformen weg. Der Mehrspieler-Modus läuft ausschließlich zwischen Switch-2-Spielern."
+          }
+        ]
+      },
+      {
+        "title": "Entwicklung",
+        "items": [
+          {
+            "q": "Wer führt bei The Duskbloods Regie?",
+            "a": "Bei The Duskbloods führt Hidetaka Miyazaki Regie — Präsident von FromSoftware und Director von Elden Ring sowie der Dark-Souls-Reihe."
+          },
+          {
+            "q": "Wer entwickelt und veröffentlicht The Duskbloods?",
+            "a": "The Duskbloods wird von FromSoftware entwickelt und von Nintendo veröffentlicht."
+          },
+          {
+            "q": "Was sind die Bloodsworn?",
+            "a": "Die Bloodsworn sind die spielbaren Charaktere — Menschen, die durch besonderes Blut übermenschliche Kräfte erlangt haben. Mehr als ein Dutzend steht zur Verfügung, jeder mit eigenen Waffen, Fähigkeiten und einer individuell gestaltbaren Blutgeschichte."
+          }
+        ]
+      },
+      {
+        "title": "Netzwerktest",
+        "items": [
+          {
+            "q": "Wie nehme ich am Netzwerktest teil?",
+            "a": "Die Anmeldung lief über die offizielle Website; die Ergebnisse wurden den ausgewählten Spielern mitgeteilt. Der Test findet auf Nintendo Switch 2 in geplanten Zeitfenstern statt."
+          },
+          {
+            "q": "Ist der Netzwerktest kostenlos?",
+            "a": "Die Teilnahme am geschlossenen Netzwerktest ist für ausgewählte Spieler mit einer Nintendo-Switch-2-Konsole kostenlos."
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "intro": {
+      "eyebrow": "Über",
+      "title": "Über The Duskbloods",
+      "lead": "The Duskbloods ist ein PvPvE-Mehrspieler-Actionspiel von FromSoftware unter Hidetaka Miyazaki, veröffentlicht von Nintendo für Switch 2 im Jahr 2026."
+    },
+    "paragraphs": [
+      "Das Projekt entstand aus einer Begegnung mit Nintendo statt aus einem internen FromSoftware-Pitch. Eine embryonische Ideensammlung wurde Nintendo vorgestellt, das sofort Interesse zeigte. Ursprünglich für die erste Switch konzipiert, verschob das Team es zugunsten der neuen Switch 2-Hardware.",
+      "Es spielt in der Dämmerung der Menschheit, dem Endstadium der Zivilisation, und dreht sich um das Erste Blut, eine mysteriöse Kraft, die die Bloodsworn zu erlangen suchen. Keine klassischen Vampire: Miyazaki erklärte, das Konzept löse sich bewusst vom traditionellen Vampir-Horror.",
+      "The Duskbloods ist FromSoftwares erster Konsolen-Exklusivtitel seit über zwanzig Jahren. Miyazaki stellte klar, dass die Solo-Reihe des Studios davon unberührt parallel weiterläuft."
+    ],
+    "facts": {
+      "eyebrow": "Kerndaten",
+      "title": "Auf einen Blick",
+      "items": [
+        {
+          "label": "Entwickler",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "Regisseur",
+          "value": "Hidetaka Miyazaki"
+        },
+        {
+          "label": "Verlag",
+          "value": "Nintendo"
+        },
+        {
+          "label": "Plattform",
+          "value": "Nintendo Switch 2 (exklusiv)"
+        },
+        {
+          "label": "Genre",
+          "value": "PvPvE-Mehrspieler-Action-RPG"
+        },
+        {
+          "label": "Spieler",
+          "value": "Bis zu 8"
+        },
+        {
+          "label": "Release",
+          "value": "2026"
+        },
+        {
+          "label": "Spielbare Charaktere",
+          "value": "12+ Bloodsworn"
+        }
+      ]
+    }
+  },
+  "releaseDate": {
+    "intro": {
+      "eyebrow": "Veröffentlichungsdatum",
+      "title": "Veröffentlichungsdatum von The Duskbloods",
+      "lead": "The Duskbloods soll 2026 als Exklusivtitel für Nintendo Switch 2 erscheinen. Hier ist alles, was wir zum Launch wissen."
+    },
+    "facts": {
+      "eyebrow": "Auf einen Blick",
+      "title": "Kerndaten",
+      "items": [
+        {
+          "label": "Release-Zeitraum",
+          "value": "2026"
+        },
+        {
+          "label": "Plattform",
+          "value": "Nintendo Switch 2 (Exklusivtitel)"
+        },
+        {
+          "label": "Entwickler",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "Verlag",
+          "value": "Nintendo"
+        },
+        {
+          "label": "Regisseur",
+          "value": "Hidetaka Miyazaki"
+        },
+        {
+          "label": "Genre",
+          "value": "PvPvE-Action-RPG"
+        },
+        {
+          "label": "Max. Spieler",
+          "value": "8"
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "Was wir wissen",
+      "title": "Zum Launch",
+      "paragraphs": [
+        "The Duskbloods wurde während einer Nintendo-Switch-2-Präsentation enthüllt und ist für 2026 geplant. FromSoftware und Nintendo haben noch kein genaues Datum genannt.",
+        "Als Switch-2-Exklusivtitel wird das Spiel nur auf Nintendos neuer Konsolengeneration erscheinen — nicht für PS5, Xbox oder PC zum Launch.",
+        "Unter der Regie von Hidetaka Miyazaki (Schöpfer von Elden Ring und der Dark-Souls-Reihe) ist The Duskbloods ein PvPvE-Mehrspieler-Actionspiel, in dem Spieler die Rolle der Bloodsworn übernehmen — Krieger, die in der Dämmerung der Menschheit um das Erste Blut kämpfen."
+      ]
+    },
+    "cta": {
+      "title": "Lesezeichen setzen für das genaue Datum",
+      "desc": "Wir aktualisieren diese Seite, sobald FromSoftware und Nintendo das genaue Release-Datum, den Preload-Zeitplan und weitere Launch-Details bekanntgeben."
+    }
+  }
+}

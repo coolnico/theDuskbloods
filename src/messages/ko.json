@@ -1,0 +1,535 @@
+{
+  "Metadata": {
+    "root": {
+      "title": "The Duskbloods — FromSoftware의 PvPvE 액션 게임 (Nintendo Switch 2 / 2026)",
+      "description": "The Duskbloods는 미야자키 히데타카가 감독하고 FromSoftware가 개발하며 닌텐도가 배급하는 PvPvE 멀티플레이 액션 게임입니다. 2026년 닌텐도 Switch 2 출시. 출시 시기, 게임플레이, 블러드스월른, 네트워크 테스트 완벽 가이드."
+    },
+    "home": {
+      "title": "The Duskbloods — 출시 시기, 게임플레이 및 네트워크 테스트 가이드",
+      "description": "FromSoftware가 닌텐도 Switch 2를 위해 만든 PvPvE 멀티플레이 액션 RPG The Duskbloods의 모든 것. 2026년 출시, 게임플레이, 블러드스월른 캐릭터, 스토리, 폐쇄 네트워크 테스트 참여 방법까지."
+    },
+    "gameplay": {
+      "title": "The Duskbloods 게임플레이 해설 — PvPvE 전투, 블러드스월른, 매치 흐름",
+      "description": "The Duskbloods 게임플레이의 완전한 분석: 8인 PvPvE 매치, 블러드스월른 역할, 혈의 힘, 무기, 목표, 인류의 황혼 속에서 매치가 전개되는 방식."
+    },
+    "characters": {
+      "title": "The Duskbloods 캐릭터 — Bloodsworn 명단과 피의 역사",
+      "description": "The Duskbloods의 플레이어블 캐릭터 Bloodsworn을 소개합니다. 12체 이상의 전사, 그들의 무기, 능력, 혈의 힘, 그리고 사용자 정의 가능한 피의 역사."
+    },
+    "networkTest": {
+      "title": "The Duskbloods 넽워크 테스트 — 일정, 신청 방법 및 예상 내용",
+      "description": "FromSoftware가 닌텐도 Switch 2에서 진행하는 The Duskbloods 폐쇄 네트워크 테스트. 일정, 신청 방법, 테스트 내용, 다운로드 크기, 플레이어가 기대할 수 있는 것."
+    },
+    "faq": {
+      "title": "The Duskbloods FAQ — 출시, 플랫폼, 멀티플레이 등",
+      "description": "The Duskbloods에 대한 가장 자주 묻는 질문 답변: 출시 시기, 닌텐도 Switch 2 독점, PvPvE 멀티플레이, 싱글 플레이, 크로스플레이, 네트워크 테스트."
+    },
+    "about": {
+      "title": "The Duskbloods 정보 — FromSoftware의 Switch 2 독점작",
+      "description": "FromSoftware가 개발하고 미야자키 히데타카가 감독하는 닌텐도 Switch 2 독점작 The Duskbloods의 개요: 기원, 주제, 의의."
+    },
+    "privacy": {
+      "title": "개인정보 처리방침 — The Duskbloods",
+      "description": "The Duskbloods 팬 정보 사이트의 개인정보 처리방침. 데이터, 쿠키, 분석 처리 방식."
+    },
+    "terms": {
+      "title": "이용약관 — The Duskbloods",
+      "description": "The Duskbloods 팬 정보 사이트의 이용약관. The Duskbloods 및 관련 모든 권리는 FromSoftware와 닌텐도에 귀속됩니다."
+    },
+    "releaseDate": {
+      "title": "The Duskbloods 출시일 — 2026년 닌텐도 Switch 2",
+      "description": "The Duskbloods 출시일: 2026년 닌텐도 Switch 2 독점. FromSoftware × 닌텐도, 미야자키 히데타카 감독. 출시 정보를 정리했습니다."
+    }
+  },
+  "privacy": {
+    "title": "개인정보 처리방침",
+    "description": "The Duskbloods 팬 사이트가 데이터, 쿠키, 분석을 처리하는 방식.",
+    "paragraphs": [
+      "이 개인정보 처리방침은 방문 시 The Duskbloods 팬 정보 사이트(이하 '당 사이트')가 데이터를 어떻게 처리하는지 설명합니다.",
+      "콘텐츠를 읽기 위해 계정을 만들거나 개인정보를 제공할 필요는 없습니다. 트래픽을 이해하고 사이트를 개선하기 위해 개인정보 친화적 분석을 사용할 수 있습니다.",
+      "사용되는 경우 쿠키는 언어 환경 설정을 기억하고 광고 또는 분석 파트너를 지원하는 데 쓰입니다. 언제든 브라우저 설정에서 쿠키를 비활성화할 수 있으며 콘텐츠 접근에는 영향이 없습니다.",
+      "당 사이트는 비공식 팬 자료이며 FromSoftware나 닌텐도와 제휴하거나 보증받지 않았습니다. 정책 관련 문의는 사이트의 연락처를 이용해 주세요."
+    ]
+  },
+  "terms": {
+    "title": "이용약관",
+    "description": "The Duskbloods 팬 정보 사이트의 이용약관.",
+    "paragraphs": [
+      "이 사이트에 접속하면 이 약관에 동의하는 것으로 간주합니다. The Duskbloods 팬 사이트는 정보 및 교육 목적으로 게임 The Duskbloods에 대한 무료 비공식 정보를 제공합니다.",
+      "The Duskbloods 및 관련 모든 이름, 상표, 자산은 FromSoftware와 닌텐도 등 각 소유자의 상표입니다. 당 사이트는 이들과의 제휴, 스폰서, 보증을 주장하지 않습니다.",
+      "콘텐츠는 독자적으로 작성되며 언제든 업데이트·수정될 수 있습니다. 2026년 출시 전 개발 상황에 따라 정보가 변동될 수 있어 완전성이나 정확성을 보증하지 않습니다.",
+      "콘텐츠 관련 우려가 있으시면 사이트의 연락처로 문의해 주세요."
+    ]
+  },
+  "nav": {
+    "gameplay": "게임플레이",
+    "characters": "캐릭터",
+    "networkTest": "네트워크 테스트",
+    "releaseDate": "출시일",
+    "faq": "FAQ",
+    "about": "정보",
+    "privacy": "개인정보",
+    "terms": "약관",
+    "explore": "탐색",
+    "company": "사이트",
+    "legal": "법적",
+    "footerTagline": "The Duskbloods 팬 정보 센터 — 출시 시기, 게임플레이, 캐릭터 및 네트워크 테스트 소식.",
+    "disclaimer": "The Duskbloods는 FromSoftware와 닌텐도의 상표입니다. 본 사이트는 비공식 팬 정보 사이트이며 FromSoftware나 닌텐도와 제휴하거나 보증받지 않았습니다.",
+    "copyright": "© {year} The Duskbloods Fan Site. 모든 게임 콘텐츠의 권리는 각 소유자에게 있습니다."
+  },
+  "home": {
+    "hero": {
+      "badge": "FromSoftware × Nintendo Switch 2",
+      "title": "The Duskbloods",
+      "subtitle": "미야자키 히데타카의 PvPvE 멀티플레이 액션 게임. Bloodsworn이 되어 인류의 황혼 속에서 First Blood를 두고 싸우십시오.",
+      "ctaPrimary": "게임플레이 보기",
+      "ctaSecondary": "네트워크 테스트 정보",
+      "releaseLabel": "출시",
+      "releaseValue": "2026",
+      "platformLabel": "플랫폼",
+      "platformValue": "Nintendo Switch 2 (독점)",
+      "genreLabel": "장르",
+      "genreValue": "PvPvE 액션 RPG",
+      "playersLabel": "인원",
+      "playersValue": "최대 8인",
+      "playableLabel": "캐릭터",
+      "playableValue": "12+"
+    },
+    "overview": {
+      "eyebrow": "개요",
+      "title": "The Duskbloods란?",
+      "paragraphs": [
+        "The Duskbloods는 엘든 링과 다크 소울 시리즈를 만든 FromSoftware가 개발하고 미야자키 히데타카가 감독하는 멀티플레이 액션 게임입니다. 닌텐도가 Switch 2 독점작으로 배급하며 2026년 출시 예정입니다.",
+        "인류의 황혼 —문명의 종말기—를 무대로, 플레이어는 특별한 혈으로 초인적 힘을 얻은 전사 'Bloodsworn'이 됩니다. 그들은 게임의 핵심 갈등을 이끄는 신비한 힘 'First Blood'를 두고 다툽니다.",
+        "각 매치에는 최대 8명의 플레이어가 모여 PvPvE 전투를 펼치며, 플레이어 간 경쟁과 강력한 적과의 전투가 동시에 전개됩니다. 각 Bloodsworn은 고유한 무기와 능력, 그리고 매치에서 길과 운명을 형성하는 사용자 정의 가능한 피의 역사를 지닙니다."
+      ]
+    },
+    "features": {
+      "eyebrow": "핵심 특징",
+      "title": "The Duskbloods의 매력",
+      "items": [
+        {
+          "title": "8인 PvPvE 전투",
+          "desc": "모든 매치에는 최대 8명의 Bloodsworn이 모여, 플레이어 간 경쟁과 강적과의 전투가 동시에 어우러져 예측 불가능한 경쟁과 협력을 만들어냅니다."
+        },
+        {
+          "title": "Bloodsworn",
+          "desc": "12체 이상의 플레이어블 캐릭터, 각각 고유한 무기·능력·외형을 지니며 피의 역사로 길을 형성할 수 있습니다."
+        },
+        {
+          "title": "혈의 힘",
+          "desc": "특별한 혈은 인간의 한계를 넘는 능력을 부여합니다. 이 힘을 익혀 전황을 뒤집고 First Blood를 추구하십시오."
+        },
+        {
+          "title": "인류의 황혼",
+          "desc": "고딕 빅토리아 거리에서 근대 산업 세계로 나아가는 어둡고 낭만적인 세계. 문명의 종말이 곧 전장입니다."
+        },
+        {
+          "title": "FromSoftware 디자인",
+          "desc": "미야자키 히데타카가 감독하고 전담팀이 개발하여, 스튜디오 특유의 다크 판타지 미학을 새로운 멀티플레이 방향으로 담아냅니다."
+        },
+        {
+          "title": "Nintendo Switch 2 독점",
+          "desc": "FromSoftware 20년 만의 콘솔 독점작으로, Switch 2 하드웨어에 맞춰 처음부터 만들어졌습니다."
+        }
+      ]
+    },
+    "networkBanner": {
+      "eyebrow": "최신 소식",
+      "title": "Switch 2에서 폐쇄 네트워크 테스트 실시",
+      "desc": "FromSoftware가 닌텐도 Switch 2에서 The Duskbloods의 폐쇄 네트워크 테스트를 진행합니다. 테스트 다운로드 사전 예약이 가능합니다. 일정, 신청 방법, 예상 내용을 확인하세요.",
+      "cta": "네트워크 테스트 자세히 보기"
+    },
+    "charactersTeaser": {
+      "eyebrow": "Bloodsworn",
+      "title": "피에 얽힌 전사들",
+      "desc": "Bloodsworn — 12체 이상의 플레이어블 전사 중 한 명이 되세요. 각자 고유한 무기·능력·개인적 피의 역사를 지닙니다. 통제 불가능한 괴물이 아니라, 자신의 정체성과 운명을 가진 자각적이고 강력한 전사입니다.",
+      "cta": "캐릭터 보기"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "자주 묻는 질문",
+      "items": [
+        {
+          "q": "The Duskbloods는 언제 출시되나요?",
+          "a": "The Duskbloods는 2026년 닌텐도 Switch 2에서 출시 예정입니다. FromSoftware와 모회사 가도카와는 2026년 출시를 향해 순조롭게 진행 중임을 확인했으나, 정확한 출시일은 발표되지 않았습니다."
+        },
+        {
+          "q": "닌텐도 Switch 2 독점작인가요?",
+          "a": "네. The Duskbloods는 닌텐도가 배급하며 닌텐도 Switch 2 독점작입니다. FromSoftware의 20년 만 첫 콘솔 독점작입니다."
+        },
+        {
+          "q": "멀티플레이 전용인가요?",
+          "a": "The Duskbloods는 8인 PvPvE 멀티플레이를 핵심으로 하지만, 싱글 플레이 모드도 포함되어 있어 혼자서도 즐길 수 있습니다."
+        },
+        {
+          "q": "누가 개발하나요?",
+          "a": "The Duskbloods는 FromSoftware가 개발하고, 엘든 링과 다크 소울 시리즈의 감독인 미야자키 히데타카(FromSoftware 대표)가 감독합니다. 배급은 닌텐도입니다."
+        },
+        {
+          "q": "네트워크 테스트엔 어떻게 참여하나요?",
+          "a": "폐쇄 네트워크 테스트 신청은 공식 사이트에서 진행되었으며, 선정자에게 결과가 안내되었습니다. 테스트는 닌텐도 Switch 2에서 진행됩니다. 자세한 내용은 네트워크 테스트 페이지를 참고하세요."
+        },
+        {
+          "q": "크로스플레이를 지원하나요?",
+          "a": "The Duskbloods는 닌텐도 Switch 2 독점작이므로 타 플랫폼과의 크로스플레이는 해당하지 않으며, Switch 2 플레이어 간에 멀티플레이가 이루어집니다."
+        }
+      ]
+    }
+  },
+  "gameplay": {
+    "intro": {
+      "eyebrow": "게임플레이",
+      "title": "The Duskbloods, 어떻게 즐기나",
+      "lead": "The Duskbloods는 8인 PvPvE 멀티플레이 매치를 중심으로 한 액션 RPG입니다. 전투·캐릭터·매치 흐름이 어떻게 어우러지는지 해설합니다."
+    },
+    "sections": [
+      {
+        "title": "최대 8인 PvPvE 매치",
+        "desc": "각 매치에 최대 8명의 Bloodsworn이 모입니다. PvPvE는 플레이어 간 경쟁과 강력한 적과의 전투가 동시에 이루어짐을 뜻하며, 경쟁·기회·생존이 얽힌 삼파전이 됩니다."
+      },
+      {
+        "title": "Bloodsworn과 혈의 힘",
+        "desc": "플레이어는 특별한 혈로 초인적 능력을 얻은 전사 'Bloodsworn'을 연기합니다. 혈의 힘은 인간의 한계를 넘어 각 캐릭터의 플레이 방식을 규정합니다."
+      },
+      {
+        "title": "12체 이상의 캐릭터",
+        "desc": "12체 이상의 Bloodsworn이 있으며 각각 고유한 무기·능력·외형과 사용자 정의 옵션, 그리고 피의 역사를 지닙니다."
+      },
+      {
+        "title": "First Blood와 인류의 황혼",
+        "desc": "무대는 인류의 황혼, 문명의 종말기입니다. 그 안을 흐르는 'First Blood'는 Bloodsworn이 얻고자 다투는 신비한 힘입니다."
+      },
+      {
+        "title": "싱글 플레이와 협력",
+        "desc": "멀티플레이가 핵심이지만 The Duskbloods는 싱글 플레이 모드도 포함합니다. 정식 버전에서는 협력 요소도 논의되었습니다."
+      },
+      {
+        "title": "FromSoftware 미학, 새로운 방향",
+        "desc": "미야자키 히데타카가 감독하고 전담팀이 개발하여, FromSoftware의 다크 판타지 설계 언어를 새로운 멀티플레이 형식에 담아내며 스튜디오의 싱글 작품 라인에는 영향을 주지 않습니다."
+      }
+    ],
+    "roles": {
+      "eyebrow": "역할과 빌드",
+      "title": "나만의 Bloodsworn 만들기",
+      "desc": "각 Bloodsworn은 고유한 무기와 능력을 지니며, 피의 역사가 그 길을 형성합니다. 다양한 캐릭터와 장비를 시도해 보세요.",
+      "items": [
+        {
+          "title": "무기",
+          "desc": "각 Bloodsworn은 사거리·속도·접근 방식을 정하는 고유 무기를 지닙니다."
+        },
+        {
+          "title": "능력",
+          "desc": "혈의 힘은 인간 한계를 넘는 기술과 기능을 부여합니다."
+        },
+        {
+          "title": "피의 역사",
+          "desc": "매치에서 캐릭터의 길과 운명에 영향을 주는 사용자 정의 가능한 요소입니다."
+        }
+      ]
+    }
+  },
+  "characters": {
+    "intro": {
+      "eyebrow": "캐릭터",
+      "title": "Bloodsworn",
+      "lead": "The Duskbloods의 플레이어블 캐릭터는 'Bloodsworn' — 특별한 혈로 초인적 힘을 얻은 전사입니다. 통제 불가능한 괴물이 아니라 자신의 정체성과 운명을 가진 자각적이고 강력한 전사입니다."
+    },
+    "about": {
+      "title": "12체 이상의 전사",
+      "desc": "명단에는 12체 이상의 플레이어블 Bloodsworn이 있으며, 각자 고유한 무기·능력·외형과 빌드 사용자 정의, 그리고 길을 형성하는 피의 역사가 있습니다. 미야자키 히데타카는 고전적 뱀파이어 호러에서 의도적으로 벗어났다고 밝혔습니다."
+    },
+    "traits": {
+      "eyebrow": "Bloodsworn을 정의하는 것",
+      "title": "정체성·힘·운명",
+      "items": [
+        {
+          "title": "고유 무기",
+          "desc": "각 캐릭터는 전투 방식과 거리를 정하는 고유 무기를 지닙니다."
+        },
+        {
+          "title": "혈의 능력",
+          "desc": "특별한 혈은 인간 한계를 넘는 능력을 부여합니다."
+        },
+        {
+          "title": "고유한 외형",
+          "desc": "각 Bloodsworn은 역사와 역할을 반영한 고유한 모습을 지닙니다."
+        },
+        {
+          "title": "피의 역사",
+          "desc": "캐릭터의 길과 운명에 영향을 주는 개인적이고 사용자 정의 가능한 요소입니다."
+        },
+        {
+          "title": "빌드 사용자 정의",
+          "desc": "플레이 스타일에 맞춰 장비와 접근 방식을 조정할 수 있습니다."
+        },
+        {
+          "title": "운명",
+          "desc": "모든 Bloodsworn은 First Blood를 추구하지만, 그 길과 결말은 각자 다릅니다."
+        }
+      ]
+    },
+    "note": {
+      "title": "전체 명단은 순차 공개",
+      "desc": "Bloodsworn의 전체 명단은 출시가 다가오며 공개됩니다. 캐릭터 상세 분석, 무기와 능력은 추후 안내합니다."
+    }
+  },
+  "networkTest": {
+    "intro": {
+      "eyebrow": "네트워크 테스트",
+      "title": "The Duskbloods 폐쇄 네트워크 테스트",
+      "lead": "FromSoftware가 닌텐도 Switch 2에서 The Duskbloods의 폐쇄 네트워크 테스트를 진행합니다. 현재 파악된 일정·신청·내용을 정리했습니다."
+    },
+    "facts": {
+      "eyebrow": "한눈에",
+      "title": "핵심 정보",
+      "items": [
+        {
+          "label": "플랫폼",
+          "value": "Nintendo Switch 2"
+        },
+        {
+          "label": "형식",
+          "value": "폐쇄 네트워크 테스트"
+        },
+        {
+          "label": "참여 방법",
+          "value": "공식 사이트 신청(선정자에게 결과 안내)"
+        },
+        {
+          "label": "개발사",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "배급사",
+          "value": "닌텐도"
+        }
+      ]
+    },
+    "howTo": {
+      "eyebrow": "참여 방법",
+      "title": "신청과 접근",
+      "steps": [
+        {
+          "title": "공식 사이트에서 신청",
+          "desc": "신청 기간 중 공식 테스트 페이지에서 접수했습니다."
+        },
+        {
+          "title": "결과 확인",
+          "desc": "선정자는 공식 사이트 마이페이지와 이메일로 안내받았습니다."
+        },
+        {
+          "title": "테스트 사전 예약",
+          "desc": "네트워크 테스트 클라이언트는 사전에 Switch 2에서 예약 가능합니다."
+        },
+        {
+          "title": "테스트 시간대에 플레이",
+          "desc": "테스트는 Switch 2에서 예정된 세션 동안 진행됩니다."
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "기대할 수 있는 것",
+      "title": "테스트 내부",
+      "items": [
+        {
+          "title": "PvPvE의 한 단면",
+          "desc": "본작을 특징짓는 8인 PvPvE 액션의 플레이 가능한 단편을 기대할 수 있습니다."
+        },
+        {
+          "title": "성능·안정성 검증",
+          "desc": "네트워크 테스트로 서버 부하·매치메이킹·안정성에 초점을 맞춥니다."
+        },
+        {
+          "title": "개발 중인 콘텐츠",
+          "desc": "콘텐츠·밸런스·연출이 정식 버전과 다를 수 있으며 출시 전 조정될 수 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "title": "정식 출시까지 계속 지켜보세요",
+      "desc": "네트워크 테스트는 2026년 닌텐도 Switch 2 출시를 앞둔 The Duskbloods를 먼저 만나볼 기회입니다. 최신 일정과 자세한 내용을 이 페이지에서 계속 안내합니다."
+    }
+  },
+  "faq": {
+    "intro": {
+      "eyebrow": "FAQ",
+      "title": "The Duskbloods — 자주 묻는 질문",
+      "lead": "출시, 플랫폼, 멀티플레이, 네트워크 테스트에 관한 자주 묻는 질문에 간결히 답합니다."
+    },
+    "groups": [
+      {
+        "title": "출시와 플랫폼",
+        "items": [
+          {
+            "q": "The Duskbloods는 언제 출시되나요?",
+            "a": "The Duskbloods는 2026년 닌텐도 Switch 2에서 출시될 예정입니다. 다만 정확한 출시일은 아직 발표되지 않았습니다."
+          },
+          {
+            "q": "The Duskbloods는 닌텐도 Switch 2 전용인가요?",
+            "a": "네. The Duskbloods는 닌텐도가 배급하는 닌텐도 Switch 2 독점작입니다."
+          },
+          {
+            "q": "PS5, Xbox, PC로도 출시되나요?",
+            "a": "다른 플랫폼 버전은 아직 발표되지 않았습니다. 닌텐도가 배급하는 독점작인 만큼 Switch 2에 머무를 것으로 보입니다."
+          }
+        ]
+      },
+      {
+        "title": "게임플레이와 멀티플레이",
+        "items": [
+          {
+            "q": "The Duskbloods에서 PvPvE란 무엇인가요?",
+            "a": "PvPvE(플레이어 대 플레이어 대 환경)는 각 매치에서 플레이어 간의 직접 경쟁과 강력한 적과의 전투가 동시에 이루어짐을 뜻합니다."
+          },
+          {
+            "q": "한 매치에 최대 몇 명까지 참여하나요?",
+            "a": "한 매치에는 최대 8명의 플레이어가 참여합니다."
+          },
+          {
+            "q": "싱글 플레이로도 즐길 수 있나요?",
+            "a": "네. 8인 멀티플레이가 중심이지만, The Duskbloods는 혼자 즐기는 플레이어를 위해 싱글 플레이 모드도 제공합니다."
+          },
+          {
+            "q": "크로스플레이를 지원하나요?",
+            "a": "닌텐도 Switch 2 독점작이므로 다른 플랫폼과의 크로스플레이는 해당하지 않습니다. 멀티플레이는 Switch 2 플레이어 간에만 이루어집니다."
+          }
+        ]
+      },
+      {
+        "title": "개발",
+        "items": [
+          {
+            "q": "The Duskbloods의 감독은 누구인가요?",
+            "a": "FromSoftware의 대표이자 엘든 링과 다크 소울 시리즈의 감독인 미야자키 히데타카입니다."
+          },
+          {
+            "q": "개발과 배급은 누가 담당하나요?",
+            "a": "The Duskbloods는 FromSoftware가 개발하고 닌텐도가 배급합니다."
+          },
+          {
+            "q": "Bloodsworn이란 무엇인가요?",
+            "a": "Bloodsworn은 플레이 가능한 캐릭터로, 특별한 피를 통해 초인적인 힘을 얻은 인간들입니다. 12체 이상이 있으며, 각자 고유한 무기·능력과 사용자 정의가 가능한 ‘피의 역사’를 지닙니다."
+          }
+        ]
+      },
+      {
+        "title": "네트워크 테스트",
+        "items": [
+          {
+            "q": "네트워크 테스트에는 어떻게 참여하나요?",
+            "a": "공식 사이트에서 신청을 받았으며, 선정자에게 결과가 안내되었습니다. 테스트는 닌텐도 Switch 2에서 예정된 세션 동안 진행됩니다."
+          },
+          {
+            "q": "네트워크 테스트는 무료인가요?",
+            "a": "닌텐도 Switch 2를 보유한 선정자는 폐쇄 네트워크 테스트에 무료로 참여할 수 있습니다."
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "intro": {
+      "eyebrow": "정보",
+      "title": "The Duskbloods 정보",
+      "lead": "The Duskbloods는 FromSoftware가 개발하고 미야자키 히데타카가 감독하며, 닌텐도가 2026년 닌텐도 Switch 2로 배급하는 PvPvE 멀티플레이 액션 게임입니다."
+    },
+    "paragraphs": [
+      "이 작품은 FromSoftware 내부 기획이 아니라 닌텐도와의 만남에서 시작되었습니다. 초기 아이디어 모음을 닌텐도에 제시하자 즉각적인 관심을 보였습니다. 원래는 1세대 Switch를 위해 구상됐으나 새 Switch 2 하드웨어를 살리기 위해 연기했습니다.",
+      "인류의 황혼을 무대로, 신비한 힘 'First Blood'를 두고 Bloodsworn이 경쟁하는 이야기를 중심으로 전개됩니다. 고전적 뱀파이어가 아니며, 미야자키 히데타카는 전통적 뱀파이어 호러에서 의도적으로 벗어났다고 밝혔습니다.",
+      "The Duskbloods는 FromSoftware 20년 만의 첫 콘솔 독점작입니다. 미야자키 히데타카는 본작이 스튜디오의 싱글 작품 라인에 영향을 주지 않으며, 별도 팀이 병행한다고 밝혔습니다."
+    ],
+    "facts": {
+      "eyebrow": "핵심 정보",
+      "title": "한눈에",
+      "items": [
+        {
+          "label": "개발사",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "감독",
+          "value": "미야자키 히데타카"
+        },
+        {
+          "label": "배급사",
+          "value": "닌텐도"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Nintendo Switch 2 (독점)"
+        },
+        {
+          "label": "장르",
+          "value": "PvPvE 멀티플레이 액션 RPG"
+        },
+        {
+          "label": "인원",
+          "value": "최대 8인"
+        },
+        {
+          "label": "출시",
+          "value": "2026"
+        },
+        {
+          "label": "플레이어블",
+          "value": "12체 이상 Bloodsworn"
+        }
+      ]
+    }
+  },
+  "releaseDate": {
+    "intro": {
+      "eyebrow": "출시일",
+      "title": "The Duskbloods 출시일",
+      "lead": "The Duskbloods는 2026년 닌텐도 Switch 2 독점작으로 출시될 예정입니다. 지금까지 알려진 출시 정보를 정리했습니다."
+    },
+    "facts": {
+      "eyebrow": "한눈에",
+      "title": "핵심 정보",
+      "items": [
+        {
+          "label": "출시 시기",
+          "value": "2026"
+        },
+        {
+          "label": "플랫폼",
+          "value": "닌텐도 Switch 2 (독점)"
+        },
+        {
+          "label": "개발사",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "배급사",
+          "value": "닌텐도"
+        },
+        {
+          "label": "감독",
+          "value": "미야자키 히데타카"
+        },
+        {
+          "label": "장르",
+          "value": "PvPvE 액션 RPG"
+        },
+        {
+          "label": "최대 플레이어",
+          "value": "8"
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "현재까지 알려진 점",
+      "title": "출시에 관하여",
+      "paragraphs": [
+        "The Duskbloods는 닌텐도 Switch 2 발표에서 처음 공개되었으며 2026년 출시를 목표로 하고 있습니다. FromSoftware와 닌텐도는 아직 정확한 날짜를 발표하지 않았습니다.",
+        "Switch 2 독점작이므로 이 게임은 닌텐도의 차세대 콘솔에서만 즐길 수 있으며, 출시 시점에 PS5·Xbox·PC에서는 플레이할 수 없습니다.",
+        "미야자키 히데타카(엘든 링·다크 소울 시리즈 감독)가 연출을 맡은 The Duskbloods는 PvPvE 멀티플레이 액션 게임으로, 플레이어는 ‘Bloodsworn’이 되어 인류의 황혼 속에서 ‘최초의 피’를 두고 싸웁니다."
+      ]
+    },
+    "cta": {
+      "title": "정확한 날짜가 나오면 이 페이지에서 확인하세요",
+      "desc": "FromSoftware와 닌텐도가 정확한 출시일, 사전 다운로드 일정, 출시 세부 정보를 발표하는 즉시 이 페이지를 업데이트합니다."
+    }
+  }
+}

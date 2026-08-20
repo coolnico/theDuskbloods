@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a0f1f"/>
+      <stop offset="55%" stop-color="#3a1a2a"/>
+      <stop offset="100%" stop-color="#0c0a0e"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="82%" cy="28%" r="40%">
+      <stop offset="0%" stop-color="#f4d9d9"/>
+      <stop offset="50%" stop-color="#b22234" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7a0f1f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="984" cy="176" r="130" fill="url(#moon)"/>
+  <circle cx="984" cy="176" r="82" fill="#e8c9c9" opacity="0.85"/>
+  <g fill="#070608" opacity="0.95">
+    <path d="M0 560 L160 470 L240 520 L360 430 L470 500 L580 440 L700 500 L820 450 L940 500 L1060 440 L1200 480 L1200 630 L0 630 Z"/>
+  </g>
+  <g fill="#0c0a0e" opacity="0.95">
+    <path d="M520 630 C520 520 580 480 640 480 C580 500 600 580 580 630 Z"/>
+    <path d="M640 630 C640 540 700 500 760 500 C700 520 720 560 700 630 Z"/>
+    <path d="M760 630 C760 560 810 530 870 530 C820 545 840 580 820 630 Z"/>
+  </g>
+  <text x="90" y="300" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#ece6e0">The Dusk<tspan fill="#b22234">bloods</tspan></text>
+  <text x="92" y="350" font-family="Inter, system-ui, sans-serif" font-size="28" fill="#c9a24b" letter-spacing="3">FROMSOFTWARE × NINTENDO SWITCH 2 · 2026</text>
+  <text x="92" y="400" font-family="Inter, system-ui, sans-serif" font-size="26" fill="#9a8fa3">PvPvE multiplayer action — Become a Bloodsworn</text>
+</svg>
