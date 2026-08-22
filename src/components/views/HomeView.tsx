@@ -6,6 +6,13 @@ import { Swords, Droplet, Users, Moon, Gamepad2, MonitorSmartphone } from 'lucid
 import FaqAccordion from '@/components/FaqAccordion';
 
 const HERO_IMG = '/hero.svg';
+const BASE = 'https://media.fromsoftware.jp/theduskbloods/resources/images/images/pc';
+const PREVIEW_IDS = [1, 5, 8, 14, 20, 26];
+
+const VIDEOS = [
+  { id: 'K7oI_Bo9z8I', key: 'debut' },
+  { id: '020HBXwwFeo', key: 'networkTest' },
+];
 
 const FEATURE_ICONS = [Swords, Droplet, Users, Moon, Gamepad2, MonitorSmartphone];
 
@@ -16,7 +23,8 @@ export default function HomeView() {
 
   return (
     <div className="space-y-12 sm:space-y-20">
-      {/* Hero */}
+      {/* Hero + Videos — tight grouping */}
+      <div className="space-y-4 sm:space-y-6">
       <section className="relative overflow-hidden rounded-[var(--radius)] border border-border">
         <div
           className="absolute inset-0 bg-cover bg-center"
@@ -67,6 +75,59 @@ export default function HomeView() {
               <dd className="mt-1 font-heading text-lg font-bold text-text">{t('hero.playableValue')}</dd>
             </div>
           </dl>
+        </div>
+      </section>
+
+      {/* Videos */}
+      <section>
+        <span className="eyebrow">{t('videos.eyebrow')}</span>
+        <h2 className="h-title mt-3 text-2xl font-bold sm:text-3xl">{t('videos.title')}</h2>
+        <div className="mt-6 grid gap-4 sm:gap-5 lg:grid-cols-2">
+          {VIDEOS.map((v) => (
+            <div key={v.id} className="card overflow-hidden p-0">
+              <div className="relative aspect-video">
+                <iframe
+                  src={`https://www.youtube.com/embed/${v.id}`}
+                  title={t(`videos.${v.key}`)}
+                  className="absolute inset-0 h-full w-full"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  loading="lazy"
+                />
+              </div>
+              <div className="px-4 py-3 sm:px-5 sm:py-4">
+                <h3 className="font-heading text-sm font-bold text-text sm:text-base">{t(`videos.${v.key}`)}</h3>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+      </div>
+
+      {/* Screenshot preview */}
+      <section>
+        <div className="flex items-end justify-between gap-4">
+          <div>
+            <span className="eyebrow">{t('screenshots.eyebrow')}</span>
+            <h2 className="h-title mt-3 text-2xl font-bold sm:text-3xl">{t('screenshots.title')}</h2>
+          </div>
+          <Link href="/gallery" className="btn-ghost shrink-0 text-sm">{t('screenshots.cta')}</Link>
+        </div>
+        <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4">
+          {PREVIEW_IDS.map((n) => (
+            <Link
+              key={n}
+              href="/gallery"
+              className="group relative aspect-video overflow-hidden rounded-[var(--radius)] border border-border bg-surface-2 transition hover:border-blood"
+            >
+              <img
+                src={`${BASE}/${String(n).padStart(3, '0')}.png`}
+                alt={t('screenshots.alt', { n })}
+                className="h-full w-full object-cover transition group-hover:scale-105"
+                loading="lazy"
+              />
+            </Link>
+          ))}
         </div>
       </section>
 

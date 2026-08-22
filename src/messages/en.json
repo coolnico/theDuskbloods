@@ -9,8 +9,8 @@
       "description": "Everything about The Duskbloods, FromSoftware's PvPvE multiplayer action RPG for Nintendo Switch 2. Release date 2026, gameplay, Bloodsworn characters, story, and how to join the closed network test."
     },
     "gameplay": {
-      "title": "The Duskbloods Gameplay Explained — PvPvE Combat, Bloodsworn & Match Flow",
-      "description": "A complete breakdown of The Duskbloods gameplay: 8-player PvPvE matches, the Bloodsworn roles, blood powers, weapons, objectives, and how matches unfold across the Twilight of Humanity."
+      "title": "The Duskbloods Gameplay Guide — How to Play, Combat, Roles & Tips",
+      "description": "Complete Duskbloods gameplay guide: how to play PvPvE matches, Bloodsworn roles & builds, combat mechanics, virtue system, dusk battle flow, red & gold stones, and beginner tips. Everything you need to know about FromSoftware's Switch 2 action game."
     },
     "characters": {
       "title": "The Duskbloods Characters — The Bloodsworn Roster & Blood Histories",
@@ -39,6 +39,14 @@
     "releaseDate": {
       "title": "The Duskbloods Release Date — 2026 on Nintendo Switch 2",
       "description": "The Duskbloods release date: launching in 2026 as a Nintendo Switch 2 exclusive. FromSoftware × Nintendo, directed by Hidetaka Miyazaki. Everything we know about the launch."
+    },
+    "gallery": {
+      "title": "Gallery — The Duskbloods Screenshots",
+      "description": "Browse official screenshots from The Duskbloods, the multiplayer action game by FromSoftware for Nintendo Switch 2."
+    },
+    "contact": {
+      "title": "Contact — The Duskbloods Fan Site",
+      "description": "Get in touch with The Duskbloods fan site. Reach out for feedback, suggestions, or partnership inquiries."
     }
   },
   "privacy": {
@@ -68,6 +76,7 @@
     "releaseDate": "Release Date",
     "faq": "FAQ",
     "about": "About",
+    "contact": "Contact",
     "privacy": "Privacy",
     "terms": "Terms",
     "explore": "Explore",
@@ -75,7 +84,8 @@
     "legal": "Legal",
     "footerTagline": "A fan-made information hub for The Duskbloods — release date, gameplay, characters and network test news.",
     "disclaimer": "The Duskbloods is a trademark of FromSoftware and Nintendo. This is an unofficial fan information site and is not affiliated with or endorsed by FromSoftware or Nintendo.",
-    "copyright": "© {year} The Duskbloods Fan Site. All game content belongs to its respective owners."
+    "copyright": "© {year} The Duskbloods Fan Site. All game content belongs to its respective owners.",
+    "gallery": "Gallery"
   },
   "home": {
     "hero": {
@@ -135,9 +145,9 @@
       ]
     },
     "networkBanner": {
-      "eyebrow": "Just Announced",
-      "title": "Closed Network Test on Switch 2",
-      "desc": "FromSoftware is running a closed network test for The Duskbloods on Nintendo Switch 2. The test download is now available for preload. Find the schedule, how to register, and what to expect.",
+      "eyebrow": "Latest Update",
+      "title": "Network Test Applications Closed",
+      "desc": "The application period for The Duskbloods closed network test has ended. Selected players were notified on August 7. The network test runs August 21–23.",
       "cta": "See Network Test Details"
     },
     "charactersTeaser": {
@@ -175,12 +185,24 @@
           "a": "Because The Duskbloods is exclusive to Nintendo Switch 2, crossplay with other platforms is not applicable. Multiplayer takes place among Switch 2 players."
         }
       ]
+    },
+    "screenshots": {
+      "eyebrow": "SCREENSHOTS",
+      "title": "From the Game",
+      "cta": "Get More →",
+      "alt": "The Duskbloods screenshot {n}"
+    },
+    "videos": {
+      "eyebrow": "TRAILERS",
+      "title": "Watch",
+      "debut": "The Duskbloods — Debut Trailer",
+      "networkTest": "The Duskbloods — Network Test Announcement"
     }
   },
   "gameplay": {
     "intro": {
       "eyebrow": "Gameplay",
-      "title": "How The Duskbloods plays",
+      "title": "How to Play The Duskbloods",
       "lead": "The Duskbloods is an action RPG built around 8-player PvPvE multiplayer matches. Here's how combat, characters, and match flow come together."
     },
     "sections": [
@@ -211,7 +233,7 @@
     ],
     "roles": {
       "eyebrow": "Roles & Builds",
-      "title": "Build your Bloodsworn",
+      "title": "Bloodsworn Roles & Builds",
       "desc": "Each Bloodsworn offers distinct weapons and abilities, and your blood history shapes their path. Experiment with different characters and loadouts to find the fighter that fits your style.",
       "items": [
         {
@@ -225,6 +247,289 @@
         {
           "title": "Blood History",
           "desc": "A customizable narrative element that influences your character's path and destiny through the match."
+        }
+      ]
+    },
+    "matchStructure": {
+      "eyebrow": "MATCH STRUCTURE",
+      "title": "Dusk Battle Match Flow",
+      "desc": "Eight Bloodsworn are summoned to the human dusk to compete for the First Blood. Battles are divided into 4 phases, with the Grail progressively culling until the final 3 survivors compete for the Blood Bestowal.",
+      "stages": [
+        {
+          "name": "Phase I: Exploration and Conquest",
+          "desc": "Eight Bloodsworn enter the Lands of Dusk and begin accumulating Virtue.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "bullets": [
+            "Defeat enemies, light lantern corpses for Flame Virtue, explore for items",
+            "Regional features appear — Bloodbag Elders, Alchemy Furnaces, Kin Small Circles",
+            "Earn Repulsion Virtue by defeating great foes or trespassers",
+            "Collect items to increase Collector Commendation"
+          ]
+        },
+        {
+          "name": "Phase II: Ritual Sites and Culling",
+          "desc": "The Grail begins its culling. Bloodsworn with insufficient Virtue are eliminated. Ritual sites open.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "bullets": [
+            "Two Virtue types at ritual sites: Sword Virtue (defeat Bloodsworn) and Pledge Virtue (swear to pillars)",
+            "Claim Redstones (boost Sword Virtue) or Goldstones (boost Pledge Virtue) from rock plinths",
+            "Leaving a ritual site after entering penalizes you with HP loss",
+            "Random events trigger: zeppelin support fire, magnetic storms"
+          ]
+        },
+        {
+          "name": "Phase III: Events and Intensifying Battle",
+          "desc": "Culling continues. Regional features change. The battlefield grows more dangerous.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "bullets": [
+            "Regional features change, offering new enhancement opportunities",
+            "Ritual sites reopen with even fiercer competition",
+            "Random events continue to affect the battlefield",
+            "Accumulate Blood Powers and grow your kin to prepare for the final phase"
+          ]
+        },
+        {
+          "name": "Final Phase: Moon's Blood Bestowal",
+          "desc": "Only the three Bloodsworn with the highest Virtue remain. They fight for the ultimate victory.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "bullets": [
+            "The Grail grants two lives — you can revive once",
+            "Bonus HP based on accumulated Virtue from previous phases",
+            "Alliances dissolve — former allies become opponents",
+            "Use your Bloodsworn, kin powers, and items to claim victory"
+          ]
+        }
+      ],
+      "finalDetail": "Only the tear of the moon falls for one. Use the Bloodsworn, kin powers, and items you've honed in earlier phases to become the last victor."
+    },
+    "coreSystems": {
+      "title": "Enhancing Bloodsworn — Upgrade Guide",
+      "systems": [
+        {
+          "title": "Leveling Up Bloodsworn",
+          "desc": "You can earn experience and level up by defeating enemies and other players, increasing HP and attack power."
+        },
+        {
+          "title": "Compacts with Kin",
+          "desc": "Those who have entered an agreement with the Order of Dusk are known as kin."
+        }
+      ]
+    },
+    "combat": {
+      "eyebrow": "Combat",
+      "title": "Combat Mechanics Guide",
+      "mechanics": [
+        {
+          "title": "Staggering",
+          "desc": "Attacking an enemy fills the stagger gauge. Max out the gauge to stagger enemies and create a significant opportunity."
+        },
+        {
+          "title": "Drinking Blood",
+          "desc": "Suck the blood of staggered enemies, inflicting large damage while recovering HP. Weaker foes will be spellbound and follow you."
+        },
+        {
+          "title": "Howling",
+          "desc": "All Bloodsworn can howl, producing a gust of wind. Howl in time with an enemy's attack to interrupt it and greatly increase their stagger gauge. Can deflect some ranged attacks."
+        },
+        {
+          "title": "Guard",
+          "desc": "Generate a shield to block frontward attacks. Works in the air. Repeated attacks will break the shield. Broken shields auto-repair. Press R after guarding for a Guard Counter."
+        },
+        {
+          "title": "Golden Blood Stake",
+          "desc": "Restores HP. Replenish uses by defeating enemies or finding Golden Blood in the world."
+        }
+      ]
+    },
+    "alliances": {
+      "eyebrow": "Social",
+      "title": "Alliances & Sigils",
+      "items": [
+        {
+          "title": "Alliances",
+          "desc": "You can form alliances with rival Bloodsworn. Petition other Bloodsworn you encounter for an alliance."
+        },
+        {
+          "title": "Sigils",
+          "desc": "Sigils establish relationships with other Bloodsworn."
+        }
+      ]
+    },
+    "hub": {
+      "eyebrow": "Base",
+      "title": "House of Night",
+      "desc": "The base of the Bloodsworn. You can choose which Bloodsworn to use or learn basic controls and rules.",
+      "features": [
+        {
+          "name": "Battle Remembrance",
+          "desc": "You can experience parts of Dusk Battles and learn the rules. Once you visit the House of Night, it's recommended that you first try experiencing the battle from this menu."
+        },
+        {
+          "name": "Archive",
+          "desc": "Information recorded here can be reviewed at any time, including tutorials, Bloodsworn weapons, the kin you've entered a compact with, items, Powers of Blood, and events."
+        },
+        {
+          "name": "Courtyard",
+          "desc": "In the House of Night's courtyard, you can practice controls on the Graveyard Scarecrow or try out Bloodsworn actions. You can also change various settings from the menu."
+        },
+        {
+          "name": "Game Rules",
+          "desc": "In the Dusk Battle menu, you can configure matchmaking. Standard (default), No Alliances, or Bloodbound Alliances. In Bloodbound, all Bloodsworn battle in pairs — the alliance persists into the final phase."
+        }
+      ]
+    },
+    "virtue": {
+      "title": "Virtue System Explained",
+      "desc": "Virtue is needed to survive Dusk Battles. Only the Bloodsworn with the highest Virtue in the second and third phases survive the culling. Virtue can be obtained not just through battle, but also through exploration and strategy.",
+      "types": [
+        {
+          "title": "Repulsion Virtue",
+          "desc": "Within the Lands of Dusk, there are great foes. These are stronger even than other enemies. Then there are even greater outside threats called trespassers."
+        },
+        {
+          "title": "Flame Virtue",
+          "desc": "Flame Virtue can be obtained by lighting flames within the skulls of corpses sitting on chairs scattered around the Lands of Dusk. There are lantern corpses that are a degree larger."
+        },
+        {
+          "title": "Sword Virtue",
+          "desc": "You can get Sword Virtue by defeating other Bloodsworn at ritual sites. This Virtue is not earned outside of ritual sites."
+        },
+        {
+          "title": "Pledge Virtue",
+          "desc": "Blood pledge pillars can be found within each ritual site. Swear to them to earn Pledge Virtue. This Virtue is lost if the pledge is overwritten by another Bloodsworn."
+        },
+        {
+          "title": "Commendation Virtue",
+          "desc": "There are two types of Commendations, and the players with the highest and second-highest values for each of these can earn Virtue at the end of each phase."
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "Battlefield Changes",
+      "title": "Events",
+      "desc": "In Phase II and Phase III, there may be events that change the Lands of Dusk.",
+      "items": [
+        {
+          "title": "Events",
+          "desc": "In Phase II and Phase III, there may be events that change the Lands of Dusk. There may be unexpected developments, such as a zeppelin appearing in the sky from which you can request supporting fire, or a powerful storm that forcefully transports players to other locations."
+        }
+      ]
+    },
+    "controls": {
+      "eyebrow": "Controls",
+      "title": "Controls",
+      "desc": "Basic controls and function menu."
+    },
+    "expedition": {
+      "eyebrow": "Expedition",
+      "title": "Taking on Great Foes",
+      "bloodPowers": {
+        "title": "Powers of Blood",
+        "desc": "Defeat great foes or trespassers to acquire Powers of Blood, granting various abilities. Select one from multiple options. Up to 5 can be manifested at once, adjustable via menu."
+      },
+      "coopBattle": {
+        "title": "Co-op Battles",
+        "desc": "When battling a trespasser, nearby Bloodsworn are invited to join forces. Fight together with those who accept."
+      },
+      "regions": {
+        "title": "Exploring Regions",
+        "desc": "Each region of the Lands of Dusk has different features per phase. Check the map for features that suit your play style.",
+        "features": [
+          {
+            "title": "Bloodbag Elder",
+            "desc": "Bloodbag Elders appear. Defeat them to earn Blood Crystals for enhancing Bloodsworn arts."
+          },
+          {
+            "title": "Alchemy Furnace",
+            "desc": "Alchemy Furnaces appear, granting elemental attributes to weapons. Matching attributes upgrades the weapon."
+          },
+          {
+            "title": "Kin Small Circle",
+            "desc": "Kin Small Circles appear, strengthening your compact and granting large EXP to contracted kin."
+          },
+          {
+            "title": "Exploration Items",
+            "desc": "Obtain items through exploration or defeating enemies. Molotov cocktails burn fiercely, Life Gravestones let you revive at their location."
+          }
+        ]
+      }
+    },
+    "tips": {
+      "eyebrow": "Tips",
+      "title": "Beginner Tips & Tricks",
+      "items": [
+        {
+          "title": "Lock-on Target Priority",
+          "desc": "In game options, set whether to prioritize enemies attacking you when switching lock-on targets. Default is OFF."
+        },
+        {
+          "title": "Info Screen",
+          "desc": "Press [+] during Dusk Battles to view the map, your position, other Bloodsworn traces, and regional features."
+        },
+        {
+          "title": "Warp",
+          "desc": "Select warp points on the map to travel far distances. Cannot be used: at phase start, shortly after warping/reviving, or during combat."
+        },
+        {
+          "title": "Trespasser Location",
+          "desc": "Trespassers are shown on the map with special markers. Even stronger trespassers also exist."
+        },
+        {
+          "title": "Gestures",
+          "desc": "Hold [+] to open the gesture menu. Some gesture actions are key to completing certain Sigil objectives."
+        },
+        {
+          "title": "Function Menu",
+          "desc": "Hold [Y] to open the function menu. Includes: Alliance Requests, Placing Markers, Observation Mode, Summoning Kin."
+        }
+      ]
+    },
+    "meta": {
+      "title": "Game Mechanics | The Duskbloods Guide",
+      "desc": "Deep dive into The Duskbloods core mechanics: Dusk Battle flow, Virtue system, combat mechanics, kin compacts, and more."
+    },
+    "stones": {
+      "eyebrow": "Ritual Sites",
+      "title": "Red & Gold Stones Guide",
+      "desc": "Claim Redstones and Goldstones from rock plinths at ritual sites. Only one type at a time — Redstones boost Sword Virtue, Goldstones boost Pledge Virtue. Choose based on your play style.",
+      "items": [
+        {
+          "title": "Redstone",
+          "desc": "While holding a Redstone, earn more Sword Virtue at ritual sites. Suited for aggressive players."
+        },
+        {
+          "title": "Goldstone",
+          "desc": "While holding a Goldstone, earn more Pledge Virtue. Suited for players who prefer to avoid combat."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Gameplay FAQ",
+      "items": [
+        {
+          "q": "How many players are in a Duskbloods match?",
+          "a": "Each Dusk Battle match supports up to 8 players competing in PvPvE combat. Players fight against each other and against AI-controlled enemies simultaneously."
+        },
+        {
+          "q": "What is PvPvE in The Duskbloods?",
+          "a": "PvPvE means Player versus Player versus Environment. In The Duskbloods, you compete against other Bloodsworn while also fighting powerful AI enemies, bosses, and environmental hazards across the map."
+        },
+        {
+          "q": "What are the Bloodsworn roles?",
+          "a": "The Bloodsworn are playable characters with unique weapons and abilities. Each role offers a different playstyle — melee-focused fighters, ranged attackers, and support-oriented builds. Your Blood History further customizes your character's path."
+        },
+        {
+          "q": "How does the Virtue system work?",
+          "a": "Virtue is a progression mechanic that enhances your Bloodsworn during a match. Different Virtue types provide passive bonuses and unlock new abilities as you progress through the Dusk Battle."
+        },
+        {
+          "q": "What are Red Stones and Gold Stones?",
+          "a": "Red Stones and Gold Stones are collectible items found at Ritual Sites on the map. They provide powerful buffs and upgrades to your Bloodsworn during a match."
+        },
+        {
+          "q": "How do I join The Duskbloods network test?",
+          "a": "Register through the Nintendo eShop on your Switch 2. The closed network test runs in 2026. Check our Network Test page for exact dates and registration details."
         }
       ]
     }
@@ -272,29 +577,248 @@
     "note": {
       "title": "Full roster coming soon",
       "desc": "The complete Bloodsworn roster will be revealed as launch approaches. Check back for detailed character breakdowns, weapons, and abilities."
+    },
+    "roster": {
+      "eyebrow": "PLAYABLE CHARACTERS",
+      "title": "Bloodsworn",
+      "desc": "The Network Test features 6 playable Bloodsworn, each with unique weapons and Bloodsworn Skills.",
+      "labels": {
+        "melee": "Melee: ",
+        "ranged": "Ranged: ",
+        "bloodArts": "BLOOD ARTS",
+        "powers": "ASPECTS"
+      },
+      "items": [
+        {
+          "name": "Albert",
+          "melee": "Lorrik's Jeweled Saber",
+          "ranged": "Submachine Gun",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "bloodArts": [
+            {
+              "name": "Blood Blade",
+              "desc": "Fires off a blade formed of the wielder's blood. Scales with wielder's blood caliber."
+            },
+            {
+              "name": "Light of Hayern",
+              "desc": "Raises the crystal of light mounted on the casing and shines forth a beam of light."
+            }
+          ],
+          "powers": [
+            {
+              "name": "High Lorrik Blood",
+              "desc": "Blood-based Bloodsworn skills have additional usages."
+            },
+            {
+              "name": "Upriser",
+              "desc": "Increases stagger potential of attacks against Bloodsworn with high Virtue."
+            }
+          ]
+        },
+        {
+          "name": "Bloodhand Jan",
+          "melee": "Bloodthirsty Axe",
+          "ranged": "Stone of Sorcery",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "bloodArts": [
+            {
+              "name": "Blink",
+              "desc": "Uses the wielder's blood to enhance the speed of evasion. Effect will be lost after some time."
+            },
+            {
+              "name": "Surrender to My Blood",
+              "desc": "Quench the axe's thirst with the wielder's blood, strike the blade into the ground and rend the surrounding area with blood slashes."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Bloodhand Lineage",
+              "desc": "Counterattacking after receiving damage restores HP."
+            },
+            {
+              "name": "Lord of Blood",
+              "desc": "Heals HP of spellbound foes and also boosts attack power."
+            }
+          ]
+        },
+        {
+          "name": "Trang Lanh",
+          "melee": "Full Moon Blade",
+          "ranged": "Full Moon Blade (thrown)",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "bloodArts": [
+            {
+              "name": "Darkmoon",
+              "desc": "Conceals the body behind the darkmoon for a limited period."
+            },
+            {
+              "name": "Mama Nātha",
+              "desc": "Summons a giant silver serpent, the guardian of the Ratnam, to attack the surrounding area."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Alluring Bride",
+              "desc": "Drinking blood also spellbinds nearby enemies."
+            },
+            {
+              "name": "Daughter of the Darkmoon",
+              "desc": "Hides oneself from distant foes, and makes one harder for foes to target."
+            }
+          ]
+        },
+        {
+          "name": "Sniper Layla",
+          "melee": "Hieroglyph Katars",
+          "ranged": "Sniper Rifle",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "bloodArts": [
+            {
+              "name": "Neb-ra Vanishing",
+              "desc": "Assume the form of a swarm of insects to move to a distant location. The afterimage confuses foes."
+            },
+            {
+              "name": "Verd Gatling Gun",
+              "desc": "Extracts a giant Gatling gun from the wielder's body, prepares to fire, and then unleashes a rapid-fire barrage."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Neb-ra Lineage",
+              "desc": "HP is gradually restored to 1/2 of max. A Goldblood Stake restores less than others'."
+            },
+            {
+              "name": "Nighteye",
+              "desc": "Longer range for lock-ons and observation."
+            }
+          ]
+        },
+        {
+          "name": "Senator Samir Patres",
+          "melee": "Senate Rapier",
+          "ranged": "Soulbird Ring",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "bloodArts": [
+            {
+              "name": "Bloodstake",
+              "desc": "Form a swamp of blood at the feet of foes. A colossal bloodstake rises from the swamp."
+            },
+            {
+              "name": "Saurian Form",
+              "desc": "Assume the form of a carnivorous dinosaur before charging at foes and attacking with powerful jaws."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Blood Disciple",
+              "desc": "Lowers required Bloodsworn skill level."
+            },
+            {
+              "name": "Unshakable Sword",
+              "desc": "Perfect guarding boosts melee attack power."
+            }
+          ]
+        },
+        {
+          "name": "Zork",
+          "melee": "Undersea Cable",
+          "ranged": "Speargun",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "bloodArts": [
+            {
+              "name": "Missile",
+              "desc": "Deploys a cannon from the back of the diving suit, assumes a firing stance, and then fires."
+            },
+            {
+              "name": "Human Rocket",
+              "desc": "Deploys a propulsion mechanism from the back of the diving suit, shifting to flight mode and charging straight ahead."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Law of the Deep Sea",
+              "desc": "Defeat Bloodsworn to steal max HP. Any HP gained is lost if defeated by a victim."
+            },
+            {
+              "name": "Dread Resonance",
+              "desc": "A howl of inhuman sonic wavelength. Hold down [L] + [ZR] to extend howling."
+            }
+          ]
+        }
+      ]
     }
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Network Test",
-      "title": "The Duskbloods closed network test",
-      "lead": "FromSoftware is running a closed network test for The Duskbloods on Nintendo Switch 2. Here's what we know about the schedule, registration, and content."
+      "title": "The Duskbloods Closed Network Test",
+      "lead": "The application period for FromSoftware's closed network test of The Duskbloods on Nintendo Switch 2 has ended. Here is the full schedule and details."
     },
-    "facts": {
-      "eyebrow": "At a glance",
-      "title": "Key facts",
+    "status": {
+      "label": "Applications Closed",
+      "desc": "The network test application period has ended. Selected players were notified on August 7."
+    },
+    "schedule": {
+      "eyebrow": "Schedule",
+      "title": "Full Timeline",
+      "application": {
+        "label": "Application Period",
+        "start": "July 22 (Wed.) at 7:00 a.m. PDT",
+        "end": "July 28 (Tues.) at 6:59 a.m. PDT",
+        "note": "Repeated applications by the same user will be rejected. Participants will be selected by order of sign-up."
+      },
+      "selection": {
+        "label": "Selection Announcement",
+        "date": "August 7 (Fri.) at 6:00 a.m. PDT",
+        "note": "Check your account page on the official site to find out the result. Selected players received a download code."
+      },
+      "download": {
+        "label": "Client Download",
+        "date": "Available from August 18 (Tues.) at 6:00 a.m. PDT",
+        "note": "Selected players can use the download code on Nintendo Store or Nintendo eShop. In some regions, downloading via means other than Nintendo eShop is not supported."
+      },
+      "sessions": {
+        "label": "Test Sessions",
+        "note": "Session dates and times may change or be canceled without notice.",
+        "items": [
+          {
+            "date": "Aug. 21, 2026 (Fri.)",
+            "time": "3:00 a.m. to 7:00 a.m. PDT"
+          },
+          {
+            "date": "Aug. 21, 2026 (Fri.)",
+            "time": "7:00 p.m. to 11:00 p.m. PDT"
+          },
+          {
+            "date": "Aug. 22, 2026 (Sat.)",
+            "time": "11:00 a.m. to 3:00 p.m. PDT"
+          },
+          {
+            "date": "Aug. 23, 2026 (Sun.)",
+            "time": "3:00 a.m. to 7:00 a.m. PDT"
+          },
+          {
+            "date": "Aug. 23, 2026 (Sun.)",
+            "time": "7:00 p.m. to 11:00 p.m. PDT"
+          }
+        ]
+      }
+    },
+    "requirements": {
+      "eyebrow": "Requirements",
+      "title": "What You Need",
       "items": [
         {
           "label": "Platform",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Format",
-          "value": "Closed network test"
+          "label": "Membership",
+          "value": "Nintendo Switch Online membership"
         },
         {
-          "label": "Access",
-          "value": "Registration via official site (results sent to selected players)"
+          "label": "Selection",
+          "value": "By order of sign-up (limited spots)"
         },
         {
           "label": "Developer",
@@ -303,28 +827,6 @@
         {
           "label": "Publisher",
           "value": "Nintendo"
-        }
-      ]
-    },
-    "howTo": {
-      "eyebrow": "How to take part",
-      "title": "Registration and access",
-      "steps": [
-        {
-          "title": "Register on the official site",
-          "desc": "Sign-up was held through the official network test page during the registration window."
-        },
-        {
-          "title": "Check your result",
-          "desc": "Selected players were notified through the official site's personal page and via email."
-        },
-        {
-          "title": "Preload the test",
-          "desc": "The network test client is available for preload on Nintendo Switch 2 ahead of the test sessions."
-        },
-        {
-          "title": "Play during the test windows",
-          "desc": "The test runs during scheduled sessions on Switch 2. Join within the active windows to participate."
         }
       ]
     },
@@ -348,7 +850,7 @@
     },
     "cta": {
       "title": "Stay tuned for the full release",
-      "desc": "The network test is a first look at The Duskbloods ahead of its 2026 launch on Nintendo Switch 2. We'll keep this page updated with the latest schedule and details."
+      "desc": "The network test was a first look at The Duskbloods ahead of its 2026 launch on Nintendo Switch 2. We'll keep this page updated with the latest news."
     }
   },
   "faq": {
@@ -530,6 +1032,56 @@
     "cta": {
       "title": "Bookmark this page for the exact date",
       "desc": "We'll update this page the moment FromSoftware and Nintendo announce the exact release date, preload schedule, and launch details."
+    }
+  },
+  "gallery": {
+    "intro": {
+      "eyebrow": "SCREENSHOTS",
+      "title": "Gallery",
+      "lead": "Official screenshots from The Duskbloods — explore the dark, atmospheric world of FromSoftware's multiplayer action title for Nintendo Switch 2."
+    },
+    "main": {
+      "eyebrow": "MAIN SET",
+      "title": "Official Screenshots",
+      "alt": "The Duskbloods screenshot {n}"
+    },
+    "expansion": {
+      "eyebrow": "EXPANSION SET",
+      "title": "Additional Screenshots",
+      "alt": "The Duskbloods expansion screenshot {n}"
+    },
+    "lightbox": {
+      "alt": "The Duskbloods screenshot {n}"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "Contact",
+      "title": "Contact The Duskbloods Fan Site",
+      "lead": "Thanks for visiting our fan site. Feel free to reach out with feedback, suggestions, partnership inquiries, or content corrections."
+    },
+    "email": {
+      "title": "Email",
+      "desc": "Send us an email and we'll get back to you as soon as possible.",
+      "address": "contact@duskbloods.com"
+    },
+    "social": {
+      "title": "Social Media",
+      "desc": "You can also connect with us on these platforms.",
+      "links": [
+        {
+          "name": "Twitter / X",
+          "url": "https://x.com/duskbloods"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/duskbloods"
+        }
+      ]
+    },
+    "note": {
+      "title": "Disclaimer",
+      "desc": "This is an unofficial fan site and is not affiliated with or endorsed by FromSoftware or Nintendo. We cannot assist with game support or account issues — please contact the respective official support for those."
     }
   }
 }

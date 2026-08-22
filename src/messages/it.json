@@ -39,6 +39,14 @@
     "releaseDate": {
       "title": "Data di uscita di The Duskbloods — 2026 su Nintendo Switch 2",
       "description": "Data di uscita di The Duskbloods: in arrivo nel 2026 in esclusiva su Nintendo Switch 2. FromSoftware × Nintendo, diretto da Hidetaka Miyazaki."
+    },
+    "gallery": {
+      "title": "Galleria — Schermate di The Duskbloods",
+      "description": "Sfoglia le schermate ufficiali di The Duskbloods, il gioco d'azione multigiocatore di FromSoftware per Nintendo Switch 2."
+    },
+    "contact": {
+      "title": "Contatti — Sito fan The Duskbloods",
+      "description": "Contatta il sito fan The Duskbloods. Per feedback, suggerimenti o richieste di collaborazione, contattaci qui."
     }
   },
   "privacy": {
@@ -68,6 +76,7 @@
     "releaseDate": "Data di uscita",
     "faq": "FAQ",
     "about": "Info",
+    "contact": "Contatti",
     "privacy": "Privacy",
     "terms": "Termini",
     "explore": "Esplora",
@@ -75,7 +84,8 @@
     "legal": "Legale",
     "footerTagline": "Un centro informativo fan per The Duskbloods — uscita, gameplay, personaggi e notizie del test di rete.",
     "disclaimer": "The Duskbloods è un marchio di FromSoftware e Nintendo. Sito informativo fan non ufficiale, non affiliato o approvato da FromSoftware o Nintendo.",
-    "copyright": "© {year} The Duskbloods Fan Site. Tutti i contenuti del gioco appartengono ai rispettivi proprietari."
+    "copyright": "© {year} The Duskbloods Fan Site. Tutti i contenuti del gioco appartengono ai rispettivi proprietari.",
+    "gallery": "Galleria"
   },
   "home": {
     "hero": {
@@ -135,9 +145,9 @@
       ]
     },
     "networkBanner": {
-      "eyebrow": "Appena annunciato",
-      "title": "Test di rete chiuso su Switch 2",
-      "desc": "FromSoftware terrà un test di rete chiuso per The Duskbloods su Nintendo Switch 2. Il download è disponibile in precaricamento. Date, iscrizione e cosa aspettarsi.",
+      "eyebrow": "Ultimo aggiornamento",
+      "title": "Iscrizioni al test di rete chiuse",
+      "desc": "Il periodo di iscrizione al test di rete chiuso di The Duskbloods è terminato. I giocatori selezionati sono stati avvisati il 7 agosto. Il test di rete si svolge dal 21 al 23 agosto.",
       "cta": "Vedi i dettagli del test di rete"
     },
     "charactersTeaser": {
@@ -175,6 +185,18 @@
           "a": "Essendo esclusivo di Nintendo Switch 2, il crossplay con altre piattaforme non si applica. Il multigiocatore è tra giocatori Switch 2."
         }
       ]
+    },
+    "screenshots": {
+      "eyebrow": "SCHERMATE",
+      "title": "Dal Gioco",
+      "cta": "Vedi Altro →",
+      "alt": "Schermata di The Duskbloods {n}"
+    },
+    "videos": {
+      "eyebrow": "TRAILER",
+      "title": "Guarda i Video",
+      "debut": "The Duskbloods — Trailer di Presentazione",
+      "networkTest": "The Duskbloods — Annuncio Test di Rete"
     }
   },
   "gameplay": {
@@ -211,7 +233,7 @@
     ],
     "roles": {
       "eyebrow": "Ruoli e build",
-      "title": "Costruisci il tuo Bloodsworn",
+      "title": "Ruoli e Build dei Bloodsworn",
       "desc": "Ogni Bloodsworn offre armi e abilità distinte, e la tua storia di sangue ne plasma il cammino. Prova diversi personaggi e configurazioni.",
       "items": [
         {
@@ -225,6 +247,289 @@
         {
           "title": "Storia di sangue",
           "desc": "Un elemento narrativo personalizzabile che influenza cammino e destino del personaggio."
+        }
+      ]
+    },
+    "matchStructure": {
+      "eyebrow": "STRUTTURA",
+      "title": "Flusso della Battaglia del Crepuscolo",
+      "desc": "Otto sanguinatori sono convocati al crepuscolo umano per competere per il Primo Sangue. Le battaglie si dividono in 4 fasi, con il Graal che elimina progressivamente fino a quando gli ultimi 3 sopravvissuti combattono per la Concessione del Sangue.",
+      "stages": [
+        {
+          "name": "Fase I: Esplorazione e conquista",
+          "desc": "Otto sanguinatori entrano nelle terre crepuscolari e iniziano ad accumulare Virtù.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "bullets": [
+            "Sconfiggi nemici, accendi fiamme per Virtù della fiamma, esplora oggetti",
+            "Appaiono caratteristiche regionali — Borse di sangue, Forni alchemici, Cerchi di vassalli",
+            "Ottieni Virtù del castigo sconfiggendo nemici potenti o intrusi",
+            "Raccogli oggetti per aumentare l'Encomio del collezionista"
+          ]
+        },
+        {
+          "name": "Fase II: Siti rituali e selezione",
+          "desc": "Il Graal inizia la sua selezione. I sanguinatori con Virtù insufficiente vengono eliminati.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "bullets": [
+            "Due tipi di Virtù nei siti rituali: Virtù della spada e Virtù del giuramento",
+            "Richiedi Pietre rosse (spada) o Pietre d'oro (giuramento) dai plinti",
+            "Lasciare un sito rituale dopo l'ingresso ti penalizza in HP",
+            "Eventi casuali: fuoco di supporto da zeppelin, tempeste magnetiche"
+          ]
+        },
+        {
+          "name": "Fase III: Eventi e battaglia intensificata",
+          "desc": "La selezione continua. Le caratteristiche regionali cambiano. Il campo di battaglia è più pericoloso.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "bullets": [
+            "Le caratteristiche regionali cambiano, offrendo nuove opportunità",
+            "I siti rituali riaprono con competizione più feroce",
+            "Gli eventi casuali continuano a influenzare il campo di battaglia",
+            "Accumula Poteri del sangue e fai crescere i vassalli per la fase finale"
+          ]
+        },
+        {
+          "name": "Fase finale: Concessione del sangue lunare",
+          "desc": "Rimangono solo i tre sanguinatori con la Virtù più alta. Combattono per la vittoria finale.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "bullets": [
+            "Il Graal concede due vite — puoi rinascere una volta",
+            "HP bonus basato sulla Virtù accumulata nelle fasi precedenti",
+            "Le alleanze si sciolgono — gli alleati diventano avversari",
+            "Usa il sanguinatore, i poteri dei vassalli e gli oggetti per rivendicare la vittoria"
+          ]
+        }
+      ],
+      "finalDetail": "La lacrima della luna cade solo per uno. Usa il sanguinatore, i poteri dei vassalli e gli oggetti forgiati nelle fasi precedenti per diventare l'ultimo vincitore."
+    },
+    "coreSystems": {
+      "title": "Guida al Potenziamento dei Bloodsworn",
+      "systems": [
+        {
+          "title": "Far salire di livello i sanguinatori",
+          "desc": "Puoi ottenere esperienza e salire di livello sconfiggendo nemici e altri giocatori."
+        },
+        {
+          "title": "Patti con i vassalli",
+          "desc": "Coloro che hanno stretto un accordo con l'Ordine del Crepuscolo sono chiamati vassalli."
+        }
+      ]
+    },
+    "combat": {
+      "eyebrow": "Combattimento",
+      "title": "Guida alle Meccaniche di Combattimento",
+      "mechanics": [
+        {
+          "title": "Squilibrio",
+          "desc": "Attaccare un nemico riempie la barra di squilibrio. Quando è piena, il nemico è squilibrio e vulnerabile."
+        },
+        {
+          "title": "Assorbimento",
+          "desc": "Assorbi il sangue dei nemici squilibrio, infliggendo danni e recuperando HP. I nemici deboli saranno ammaliati e ti seguiranno."
+        },
+        {
+          "title": "Urlo",
+          "desc": "Tutti i sanguinatori possono urlare, producendo una raffica. Urla in sincronia con l'attacco nemico per interromperlo. Può deviare alcuni attacchi a distanza."
+        },
+        {
+          "title": "Guardia",
+          "desc": "Genera uno scudo per bloccare gli attacchi frontali. Funziona in aria. Gli attacchi continui rompono lo scudo. Si ripara automaticamente. Premi R dopo la guardia per un Contrattacco."
+        },
+        {
+          "title": "Paletto di sangue dorato",
+          "desc": "Ripristina HP. Ricarica le utilizzazioni sconfiggendo nemici o trovando Sangue dorato nel mondo."
+        }
+      ]
+    },
+    "alliances": {
+      "eyebrow": "Sociale",
+      "title": "Alleanze e Marchi",
+      "items": [
+        {
+          "title": "Alleanze",
+          "desc": "Puoi formare alleanze con i sanguinatori rivali. Richiedi un'alleanza ad altri sanguinatori che incontri."
+        },
+        {
+          "title": "Marchi",
+          "desc": "I marchi stabiliscono rapporti con altri sanguinatori."
+        }
+      ]
+    },
+    "hub": {
+      "eyebrow": "Base",
+      "title": "Dimora della notte",
+      "desc": "La base dei sanguinatori. Puoi scegliere il sanguinatore da usare o imparare i controlli e le regole.",
+      "features": [
+        {
+          "name": "Ricordo di battaglia",
+          "desc": "Puoi partecipare a sezioni delle battaglie crepuscolari e imparare le regole. Si consiglia di iniziare da qui dopo aver visitato la Dimora della notte."
+        },
+        {
+          "name": "Archivio",
+          "desc": "Puoi consultare in qualsiasi momento le informazioni registrate: armi, vassalli, oggetti, poteri del sangue, eventi e tutorial."
+        },
+        {
+          "name": "Cortile",
+          "desc": "Nel cortile della Dimora della notte puoi esercitarti con gli Spaventapasseri o provare le azioni. Puoi anche modificare varie impostazioni dal menu."
+        },
+        {
+          "name": "Regole di gioco",
+          "desc": "Nel menu delle battaglie crepuscolari puoi configurare il matchmaking. Standard (predefinito), Senza alleanze, o Alleanze di sangue. In queste ultime, tutti combattono in coppia e l'alleanza persiste fino alla fase finale."
+        }
+      ]
+    },
+    "virtue": {
+      "title": "Sistema di Virtù Spiegato",
+      "desc": "La virtù è necessaria per sopravvivere nelle battaglie crepuscolari. Solo i sanguinatori con la virtù più alta sopravvivono alla selezione. Si può ottenere non solo dal combattimento, ma anche dall'esplorazione e dalla strategia.",
+      "types": [
+        {
+          "title": "Virtù del castigo",
+          "desc": "Nelle terre crepuscolari incontrerai nemici potenti, più forti degli altri avversari. Esistono inoltre minacce esterne ancora più grandi, note come &quot;invasori&quot;."
+        },
+        {
+          "title": "Virtù della fiamma",
+          "desc": "Puoi ottenere virtù della fiamma accendendo una fiamma dentro il teschio di uno dei cadaveri seduti su una sedia che si trovano nelle terre crepuscolari."
+        },
+        {
+          "title": "Virtù della spada",
+          "desc": "Puoi ottenere virtù della spada sconfiggendo altri sanguinatori presso i siti rituali. Questa virtù non può essere ottenuta fuori dal sito rituale."
+        },
+        {
+          "title": "Virtù del giuramento",
+          "desc": "Puoi trovare i giuramenti di sangue presso ogni sito rituale. Eseguili per ottenere virtù del giuramento. Questa virtù va perduta se il tuo giuramento viene rimpiazzato da quello di un altro sanguinatore."
+        },
+        {
+          "title": "Virtù dell'encomio",
+          "desc": "Esistono due tipi di encomio e i giocatori rispettivamente con il primo e il secondo valore più alto per ognuno di essi possono ricevere virtù alla fine di ogni fase."
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "Cambamenti sul campo",
+      "title": "Eventi",
+      "desc": "Nelle fasi II e III, possono verificarsi eventi che cambiano le terre crepuscolari.",
+      "items": [
+        {
+          "title": "Eventi",
+          "desc": "Nelle fasi 2 e 3 potrebbero verificarsi eventi che cambiano le terre crepuscolari. Potresti incontrare sviluppi inattesi, come un dirigibile che appare nel cielo e al quale puoi richiedere fuoco di supporto, oppure potrebbe scatenarsi una violenta tempesta che trasporta forzatamente i giocatori in altre posizioni."
+        }
+      ]
+    },
+    "controls": {
+      "eyebrow": "Comandi",
+      "title": "Comandi",
+      "desc": "Comandi di base e menu delle funzioni."
+    },
+    "expedition": {
+      "eyebrow": "Dettagli spedizione",
+      "title": "Affrontare nemici potenti",
+      "bloodPowers": {
+        "title": "Poteri del sangue",
+        "desc": "Sconfiggi nemici potenti o intrusi per ottenere Poteri del sangue, che conferiscono varie abilità. Fino a 5 possono essere manifestati contemporaneamente."
+      },
+      "coopBattle": {
+        "title": "Battaglie cooperative",
+        "desc": "Durante il combattimento con un intruso, i sanguinatori vicini sono invitati a unirsi. Combatti insieme a chi accetta."
+      },
+      "regions": {
+        "title": "Esplorare le regioni",
+        "desc": "Durante ogni fase, le regioni presentano diverse caratteristiche. Controlla la mappa e cerca le migliorie adatte al tuo stile.",
+        "features": [
+          {
+            "title": "Borsa di sangue",
+            "desc": "Le Borse di sangue appaiono. Sconfiggile per ottenere Cristalli di sangue e potenziare le arti del sanguinatore."
+          },
+          {
+            "title": "Forno alchemico",
+            "desc": "I Forni alchemici appaiono, conferendo attributi elementali alle armi. Lo stesso attributo migliora l'arma."
+          },
+          {
+            "title": "Cerchio di vassalli",
+            "desc": "I Cerchi di vassalli appaiono, rafforzando il tuo patto e conferendo molti EXP ai vassalli."
+          },
+          {
+            "title": "Oggetti di esplorazione",
+            "desc": "Ottieni oggetti esplorando o sconfiggendo nemici. Le Molotov bruciano, le Lapidi permettono di rinascere nella loro posizione."
+          }
+        ]
+      }
+    },
+    "tips": {
+      "eyebrow": "Consigli",
+      "title": "Consigli per Principianti",
+      "items": [
+        {
+          "title": "Priorità di puntamento",
+          "desc": "Nelle opzioni, imposta se dare priorità ai nemici che ti attaccano quando cambi bersaglio. Predefinito: OFF."
+        },
+        {
+          "title": "Schermata info",
+          "desc": "Premi [+] durante le battaglie per vedere la mappa, la tua posizione, le tracce di altri sanguinatori e le caratteristiche regionali."
+        },
+        {
+          "title": "Teletrasporto",
+          "desc": "Seleziona punti di teletrasporto sulla mappa. Non disponibile: inizio fase, dopo teletrasporto/resurrezione, o in combattimento."
+        },
+        {
+          "title": "Posizione intrusi",
+          "desc": "Gli intrusi sono mostrati sulla mappa con marcatori speciali. Esistono anche intrusi più potenti."
+        },
+        {
+          "title": "Gesti",
+          "desc": "Tieni premuto [+] per aprire il menu dei gesti. Alcuni gesti sono fondamentali per certi obiettivi di Marchio."
+        },
+        {
+          "title": "Menu funzioni",
+          "desc": "Tieni premuto [Y] per aprire il menu. Include: Richieste di alleanza, Punti di riferimento, Modalità osservazione, Invocazione vassalli."
+        }
+      ]
+    },
+    "meta": {
+      "title": "Meccaniche di gioco | Guida The Duskbloods",
+      "desc": "Scopri le meccaniche di The Duskbloods: flusso di battaglia, sistema di Virtù, combattimento, patti con vassalli e altro."
+    },
+    "stones": {
+      "eyebrow": "Siti rituali",
+      "title": "Guida Pietre Rosse e d'Oro",
+      "desc": "Richiedi Pietre rosse e d'oro dai plinti nei siti rituali. Solo un tipo alla volta — le rosse aumentano Virtù della spada, le d'oro Virtù del giuramento.",
+      "items": [
+        {
+          "title": "Pietra rossa",
+          "desc": "Con la Pietra rossa, ottieni più Virtù della spada nei siti rituali. Per giocatori aggressivi."
+        },
+        {
+          "title": "Pietra d'oro",
+          "desc": "Con la Pietra d'oro, ottieni più Virtù del giuramento. Per giocatori che evitano il combattimento."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "FAQ sul gameplay",
+      "items": [
+        {
+          "q": "Quanti giocatori ci sono in una partita di Duskbloods?",
+          "a": "Ogni battaglia del crepuscolo supporta fino a 8 giocatori in combattimento PvPvE. I giocatori competono tra loro mentre combattono nemici controllati dall'IA."
+        },
+        {
+          "q": "Cos'è il PvPvE in The Duskbloods?",
+          "a": "PvPvE significa Giocatore contro Giocatore contro Ambiente. In The Duskbloods, competi contro altri Bloodsworn mentre combatti nemici IA, boss e pericoli della mappa."
+        },
+        {
+          "q": "Quali sono i ruoli dei Bloodsworn?",
+          "a": "I Bloodsworn sono personaggi giocabili con armi e abilità uniche. Ogni ruolo offre uno stile di gioco diverso: corpo a corpo, attacco a distanza e supporto. La Storia del Sangue personalizza ulteriormente il percorso del tuo personaggio."
+        },
+        {
+          "q": "Come funziona il sistema di Virtù?",
+          "a": "La Virtù è una meccanica di progressione che potenzia il tuo Bloodsworn durante una partita. I diversi tipi di Virtù forniscono bonus passivi e sbloccano nuove abilità."
+        },
+        {
+          "q": "Cosa sono le Pietre Rosse e le Pietre d'Oro?",
+          "a": "Le Pietre Rosse e d'Oro sono oggetti collezionabili trovati nei siti rituali della mappa. Forniscono potenziamenti al tuo Bloodsworn durante una partita."
+        },
+        {
+          "q": "Come partecipare al test di rete di The Duskbloods?",
+          "a": "Registrati tramite il Nintendo eShop sul tuo Switch 2. Il test chiuso si tiene nel 2026. Consulta la nostra pagina Test di Rete per date e dettagli di registrazione."
         }
       ]
     }
@@ -272,29 +577,248 @@
     "note": {
       "title": "Roster completo in arrivo",
       "desc": "Il roster completo sarà rivelato in avvicinamento all'uscita. Torna per analisi dettagliate di personaggi, armi e abilità."
+    },
+    "roster": {
+      "eyebrow": "PERSONAGGI GIOCABILI",
+      "title": "Sanguinatori",
+      "desc": "Il test di rete offre 6 Sanguinatori giocabili, ciascuno con armi e abilità sanguinatore uniche.",
+      "labels": {
+        "melee": "Corpo a corpo: ",
+        "ranged": "A distanza: ",
+        "bloodArts": "ARTI DEL SANGUE",
+        "powers": "ASPETTI"
+      },
+      "items": [
+        {
+          "name": "Albert",
+          "melee": "Sciabola ornata di Lorrik",
+          "ranged": "Mitra",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "bloodArts": [
+            {
+              "name": "Lama di sangue",
+              "desc": "Spara una lama fatta del sangue del lanciatore; la potenza dipende dalla purezza del sangue."
+            },
+            {
+              "name": "Luce di Hayern",
+              "desc": "Solleva il cristallo di luce incastonato nel gioiello e rilascia un raggio di luce."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Sangue nobile di Lorrik",
+              "desc": "Le abilità sanguinatore basate sul sangue iniziano con utilizzi aggiuntivi."
+            },
+            {
+              "name": "Insurrezione",
+              "desc": "Aumenta il potenziale di stordimento degli attacchi contro sanguinatori con virtù elevata."
+            }
+          ]
+        },
+        {
+          "name": "Jan dei Mano di sangue",
+          "melee": "Ascia sanguinaria",
+          "ranged": "Pietra magica",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "bloodArts": [
+            {
+              "name": "Velocità",
+              "desc": "Sfrutta il sangue del lanciatore per potenziare la velocità delle schivate, effetto temporaneo."
+            },
+            {
+              "name": "Abbandonati al mio sangue",
+              "desc": "Infilza l'ascia nel terreno per placarne la sete, generando petali di sangue nelle vicinanze."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Lignaggio dei Mano di sangue",
+              "desc": "Contrattaccare dopo aver subito danni ripristina i PS."
+            },
+            {
+              "name": "Signore del sangue",
+              "desc": "Ripristina i PS dei nemici ammaliati e aumenta la potenza d'attacco."
+            }
+          ]
+        },
+        {
+          "name": "Trang Lanh",
+          "melee": "Lama del plenilunio",
+          "ranged": "Lama del plenilunio (lanciata)",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "bloodArts": [
+            {
+              "name": "Luna oscura",
+              "desc": "Nasconde il corpo del lanciatore dietro la luna oscura, effetto temporaneo."
+            },
+            {
+              "name": "Mama Nātha",
+              "desc": "Evoca un enorme serpente d'argento, guardiano delle Ratnam, che attacca l'area circostante."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Sposa seducente",
+              "desc": "Bere sangue ammalia anche i nemici vicini."
+            },
+            {
+              "name": "Figlia della luna oscura",
+              "desc": "Si rende invisibile ai nemici lontani, diventando più difficile da prendere di mira."
+            }
+          ]
+        },
+        {
+          "name": "Layla la cecchina",
+          "melee": "Katar con geroglifici",
+          "ranged": "Fucile da cecchino",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "bloodArts": [
+            {
+              "name": "Scomparsa dei Neb-ra",
+              "desc": "Assume le sembianze di uno sciame d'insetti che si sposta verso una meta lontana, confondendo il nemico."
+            },
+            {
+              "name": "Mitragliatrice di Verd",
+              "desc": "Una mitragliatrice gigante fuoriesce dal corpo del lanciatore, sprigionando una raffica di colpi ininterrotta."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Lignaggio dei Neb-ra",
+              "desc": "Ripristina lentamente i PS fino a metà del massimo; il paletto del sangue dorato ripristina meno."
+            },
+            {
+              "name": "Occhio notturno",
+              "desc": "Aumenta la portata dell'aggancio dei bersagli e della concentrazione."
+            }
+          ]
+        },
+        {
+          "name": "Senatore Samir Patres",
+          "melee": "Stocco del Senato",
+          "ranged": "Anello del volatile",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "bloodArts": [
+            {
+              "name": "Paletto di sangue",
+              "desc": "Forma una palude di sangue ai piedi dei nemici, da cui fuoriesce un colossale paletto di sangue."
+            },
+            {
+              "name": "Saurificazione",
+              "desc": "Assume le sembianze di un dinosauro carnivoro e attacca il nemico azzannandolo con le fauci."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Discepolo di sangue",
+              "desc": "Riduce il livello richiesto per le abilità sanguinatore."
+            },
+            {
+              "name": "Spada inscalfibile",
+              "desc": "La parata perfetta aumenta la potenza degli attacchi in mischia."
+            }
+          ]
+        },
+        {
+          "name": "Zork",
+          "melee": "Condotto sottomarino",
+          "ranged": "Arpione",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "bloodArts": [
+            {
+              "name": "Missile",
+              "desc": "Schiera un cannone dal retro dello scafandro, assume una posizione di tiro e spara."
+            },
+            {
+              "name": "Razzo umano",
+              "desc": "Schiera un meccanismo a propulsione dal retro dello scafandro, entra in modalità volo e consente di caricare in avanti."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Legge degli abissi",
+              "desc": "Dopo aver sconfitto un sanguinatore ne ruba i PS max; se sconfitto dalla vittima, perde i PS rubati."
+            },
+            {
+              "name": "Risonanza terrificante",
+              "desc": "Un urlo dalla lunghezza d'onda sonica disumana; tenendo premuto i tasti prolunga l'ululato."
+            }
+          ]
+        }
+      ]
     }
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Test di rete",
-      "title": "Il test di rete chiuso di The Duskbloods",
-      "lead": "FromSoftware tiene un test di rete chiuso per The Duskbloods su Nintendo Switch 2. Ecco cosa sappiamo di date, iscrizione e contenuti."
+      "title": "The Duskbloods Closed Network Test",
+      "lead": "Il periodo di iscrizione al test di rete chiuso di The Duskbloods su Nintendo Switch 2 di FromSoftware è terminato. Ecco il calendario completo e tutti i dettagli."
     },
-    "facts": {
-      "eyebrow": "In breve",
-      "title": "Dati chiave",
+    "status": {
+      "label": "Iscrizioni chiuse",
+      "desc": "Il periodo di iscrizione al test di rete è terminato. I giocatori selezionati sono stati avvisati il 7 agosto."
+    },
+    "schedule": {
+      "eyebrow": "Calendario",
+      "title": "Calendario completo",
+      "application": {
+        "label": "Periodo di iscrizione",
+        "start": "22 luglio (mer.) alle 7:00 PDT",
+        "end": "28 luglio (mar.) alle 6:59 PDT",
+        "note": "Le iscrizioni multiple dello stesso utente verranno rifiutate. I partecipanti saranno selezionati in ordine di iscrizione."
+      },
+      "selection": {
+        "label": "Annuncio della selezione",
+        "date": "7 agosto (ven.) alle 6:00 PDT",
+        "note": "Controlla la pagina del tuo account sul sito ufficiale per conoscere il risultato. I giocatori selezionati hanno ricevuto un codice di download."
+      },
+      "download": {
+        "label": "Download del client",
+        "date": "Disponibile dal 18 agosto (mar.) alle 6:00 PDT",
+        "note": "I giocatori selezionati possono utilizzare il codice di download sul Nintendo Store o sul Nintendo eShop. In alcune regioni, il download tramite canali diversi dal Nintendo eShop non è supportato."
+      },
+      "sessions": {
+        "label": "Sessioni di test",
+        "note": "Le date e gli orari delle sessioni possono essere modificati o cancellati senza preavviso.",
+        "items": [
+          {
+            "date": "21 ago 2026 (ven.)",
+            "time": "3:00 - 7:00 PDT"
+          },
+          {
+            "date": "21 ago 2026 (ven.)",
+            "time": "19:00 - 23:00 PDT"
+          },
+          {
+            "date": "22 ago 2026 (sab.)",
+            "time": "11:00 - 15:00 PDT"
+          },
+          {
+            "date": "23 ago 2026 (dom.)",
+            "time": "3:00 - 7:00 PDT"
+          },
+          {
+            "date": "23 ago 2026 (dom.)",
+            "time": "19:00 - 23:00 PDT"
+          }
+        ]
+      }
+    },
+    "requirements": {
+      "eyebrow": "Requisiti",
+      "title": "Cosa serve",
       "items": [
         {
           "label": "Piattaforma",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Formato",
-          "value": "Test di rete chiuso"
+          "label": "Abbonamento",
+          "value": "Abbonamento Nintendo Switch Online"
         },
         {
-          "label": "Accesso",
-          "value": "Iscrizione sul sito ufficiale (risultati ai selezionati)"
+          "label": "Selezione",
+          "value": "In ordine di iscrizione (posti limitati)"
         },
         {
           "label": "Sviluppatore",
@@ -306,49 +830,27 @@
         }
       ]
     },
-    "howTo": {
-      "eyebrow": "Come partecipare",
-      "title": "Iscrizione e accesso",
-      "steps": [
-        {
-          "title": "Iscriviti sul sito ufficiale",
-          "desc": "L'iscrizione è avvenuta tramite la pagina ufficiale durante il periodo."
-        },
-        {
-          "title": "Controlla il risultato",
-          "desc": "I selezionati sono stati avvisati sulla pagina personale e via email."
-        },
-        {
-          "title": "Precarica il test",
-          "desc": "Il client di test è disponibile in precaricamento su Nintendo Switch 2."
-        },
-        {
-          "title": "Gioca nelle finestre attive",
-          "desc": "Il test si svolge in sessioni programmate su Switch 2."
-        }
-      ]
-    },
     "expect": {
       "eyebrow": "Cosa aspettarsi",
       "title": "Nel test",
       "items": [
         {
-          "title": "Un frammento di PvPvE",
-          "desc": "Aspettati una porzione giocabile dell'azione PvPvE a 8 del gioco finale."
+          "title": "Un assaggio di PvPvE",
+          "desc": "Aspettati una porzione giocabile dell'azione PvPvE a 8 giocatori che caratterizza il gioco completo."
         },
         {
-          "title": "Performance e stabilità",
-          "desc": "Il test mira a carico del server, matchmaking e stabilità in condizioni di gioco reali."
+          "title": "Verifiche di prestazioni e stabilità",
+          "desc": "Come test di rete, l'obiettivo è il carico del server, il matchmaking e la stabilità in condizioni reali."
         },
         {
           "title": "Lavori in corso",
-          "desc": "Contenuti, bilanciamento e grafica possono non rappresentare il gioco finale."
+          "desc": "Contenuti, bilanciamento e grafica potrebbero non rappresentare il gioco finale. Aspettati imperfezioni e modifiche prima dell'uscita."
         }
       ]
     },
     "cta": {
-      "title": "Resta in attesa dell'uscita",
-      "desc": "Il test di rete è una prima occhiata a The Duskbloods prima dell'uscita 2026 su Nintendo Switch 2. Aggiorneremo questa pagina."
+      "title": "Resta in attesa dell'uscita completa",
+      "desc": "Il test di rete è stato un primo assaggio di The Duskbloods prima dell'uscita nel 2026 su Nintendo Switch 2. Aggiorneremo questa pagina con le ultime novità."
     }
   },
   "faq": {
@@ -530,6 +1032,56 @@
     "cta": {
       "title": "Salva questa pagina tra i preferiti per la data esatta",
       "desc": "Aggiorneremo questa pagina non appena FromSoftware e Nintendo annunceranno la data di uscita esatta, il calendario di preload e i dettagli del lancio."
+    }
+  },
+  "gallery": {
+    "intro": {
+      "eyebrow": "SCHERMATE",
+      "title": "Galleria",
+      "lead": "Schermate ufficiali di The Duskbloods — esplora il mondo oscuro e immersivo del titolo d'azione multigiocatore di FromSoftware per Nintendo Switch 2."
+    },
+    "main": {
+      "eyebrow": "SET PRINCIPALE",
+      "title": "Schermate Ufficiali",
+      "alt": "Schermata di The Duskbloods {n}"
+    },
+    "expansion": {
+      "eyebrow": "SET DI ESPANSIONE",
+      "title": "Schermate Aggiuntive",
+      "alt": "Schermata di espansione di The Duskbloods {n}"
+    },
+    "lightbox": {
+      "alt": "Schermata di The Duskbloods {n}"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "Contatti",
+      "title": "Contatta il sito fan The Duskbloods",
+      "lead": "Grazie per aver visitato il nostro sito fan. Contattaci liberamente per feedback, suggerimenti, richieste di collaborazione o correzioni dei contenuti."
+    },
+    "email": {
+      "title": "E-mail",
+      "desc": "Inviaci un'e-mail e ti risponderemo il prima possibile.",
+      "address": "contact@duskbloods.com"
+    },
+    "social": {
+      "title": "Social Media",
+      "desc": "Puoi anche connetterti con noi su queste piattaforme.",
+      "links": [
+        {
+          "name": "Twitter / X",
+          "url": "https://x.com/duskbloods"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/duskbloods"
+        }
+      ]
+    },
+    "note": {
+      "title": "Note legali",
+      "desc": "Questo è un sito fan non ufficiale e non è affiliato a FromSoftware né a Nintendo né approvato da essi. Non possiamo assistere con il supporto tecnico del gioco o problemi relativi agli account — contatta il supporto ufficiale competente."
     }
   }
 }

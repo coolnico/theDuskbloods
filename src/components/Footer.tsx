@@ -30,6 +30,7 @@ export default function Footer() {
               <ul className="space-y-2 text-sm">
                 <li><Link href="/gameplay" className="nav-link">{t('gameplay')}</Link></li>
                 <li><Link href="/characters" className="nav-link">{t('characters')}</Link></li>
+                <li><Link href="/gallery" className="nav-link">{t('gallery')}</Link></li>
                 <li><Link href="/network-test" className="nav-link">{t('networkTest')}</Link></li>
                 <li><Link href="/release-date" className="nav-link">{t('releaseDate')}</Link></li>
               </ul>
@@ -39,6 +40,7 @@ export default function Footer() {
               <ul className="space-y-2 text-sm">
                 <li><Link href="/about" className="nav-link">{t('about')}</Link></li>
                 <li><Link href="/faq" className="nav-link">{t('faq')}</Link></li>
+                <li><Link href="/contact" className="nav-link">{t('contact')}</Link></li>
               </ul>
             </div>
             <div>

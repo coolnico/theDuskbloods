@@ -10,6 +10,7 @@ const PAGES = [
   { path: '/characters', priority: 0.9 },
   { path: '/network-test', priority: 0.9 },
   { path: '/release-date', priority: 0.9 },
+  { path: '/gallery', priority: 0.8 },
   { path: '/faq', priority: 0.8 },
   { path: '/about', priority: 0.6 },
   { path: '/privacy', priority: 0.3 },

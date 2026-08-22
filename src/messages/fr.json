@@ -39,6 +39,14 @@
     "releaseDate": {
       "title": "Date de sortie de The Duskbloods — 2026 sur Nintendo Switch 2",
       "description": "Date de sortie de The Duskbloods : prévu pour 2026 en exclusivité sur Nintendo Switch 2. FromSoftware × Nintendo, réalisé par Hidetaka Miyazaki."
+    },
+    "gallery": {
+      "title": "Galerie — Captures de The Duskbloods",
+      "description": "Parcourez les captures officielles de The Duskbloods, le jeu d'action multijoueur de FromSoftware pour Nintendo Switch 2."
+    },
+    "contact": {
+      "title": "Contact — Site fan The Duskbloods",
+      "description": "Contactez le site fan The Duskbloods. Pour vos retours, suggestions ou demandes de partenariat, contactez-nous ici."
     }
   },
   "privacy": {
@@ -68,6 +76,7 @@
     "releaseDate": "Date de sortie",
     "faq": "FAQ",
     "about": "À propos",
+    "contact": "Contact",
     "privacy": "Confidentialité",
     "terms": "Conditions",
     "explore": "Explorer",
@@ -75,7 +84,8 @@
     "legal": "Mentions légales",
     "footerTagline": "Un centre d'information fan pour The Duskbloods — sortie, gameplay, personnages et actualités du test réseau.",
     "disclaimer": "The Duskbloods est une marque de FromSoftware et Nintendo. Site d'information fan non officiel, sans affiliation ni approbation de FromSoftware ou Nintendo.",
-    "copyright": "© {year} The Duskbloods Fan Site. Tout le contenu du jeu appartient à ses propriétaires respectifs."
+    "copyright": "© {year} The Duskbloods Fan Site. Tout le contenu du jeu appartient à ses propriétaires respectifs.",
+    "gallery": "Galerie"
   },
   "home": {
     "hero": {
@@ -135,9 +145,9 @@
       ]
     },
     "networkBanner": {
-      "eyebrow": "Annoncé",
-      "title": "Test réseau fermé sur Switch 2",
-      "desc": "FromSoftware organise un test réseau fermé de The Duskbloods sur Nintendo Switch 2. Le téléchargement est disponible en préchargement. Calendrier, inscription et attentes.",
+      "eyebrow": "Dernière mise à jour",
+      "title": "Inscriptions au test réseau fermées",
+      "desc": "La période d'inscription au test réseau fermé de The Duskbloods est terminée. Les joueurs sélectionnés ont été notifiés le 7 août. Le test réseau se déroule du 21 au 23 août.",
       "cta": "Voir les détails du test réseau"
     },
     "charactersTeaser": {
@@ -175,6 +185,18 @@
           "a": "Étant exclusif à Nintendo Switch 2, le crossplay avec d'autres plateformes n'est pas pertinent. Le multijoueur se fait entre joueurs Switch 2."
         }
       ]
+    },
+    "screenshots": {
+      "eyebrow": "CAPTURES D'ÉCRAN",
+      "title": "Du Jeu",
+      "cta": "Voir Plus →",
+      "alt": "Capture de The Duskbloods {n}"
+    },
+    "videos": {
+      "eyebrow": "BANDES-ANNONCES",
+      "title": "Vidéos",
+      "debut": "The Duskbloods — Bande-annonce de Révélation",
+      "networkTest": "The Duskbloods — Annonce du Test Réseau"
     }
   },
   "gameplay": {
@@ -211,7 +233,7 @@
     ],
     "roles": {
       "eyebrow": "Rôles et builds",
-      "title": "Construisez votre Bloodsworn",
+      "title": "Rôles et Builds des Bloodsworn",
       "desc": "Chaque Bloodsworn offre des armes et capacités distinctes, et votre histoire de sang façonne son chemin. Essayez différents personnages et configurations.",
       "items": [
         {
@@ -225,6 +247,297 @@
         {
           "title": "Histoire de sang",
           "desc": "Un élément narratif personnalisable qui influence le chemin et le destin du personnage."
+        }
+      ]
+    },
+    "matchStructure": {
+      "eyebrow": "STRUCTURE",
+      "title": "Déroulement d'une Bataille Crépusculaire",
+      "desc": "Huit Hémaliges sont convoqués au crépuscule humain pour rivaliser pour la Première Sang. Les batailles se divisent en 4 phases, le Graal éliminant progressivement jusqu'à ce que les 3 derniers survivants se battent pour le Don du Sang.",
+      "stages": [
+        {
+          "name": "Phase I : Exploration et conquête",
+          "desc": "Huit Hémaliges entrent dans les terres du Crépuscule et commencent à accumuler de la Vertu.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "bullets": [
+            "Vainquez des ennemis, allumez des flammes pour la Vertu de flamme, explorez pour des objets",
+            "Des caractéristiques régionales apparaissent — Sanguines, Fours alchimistes, Cercles de vassaux",
+            "Obtenez la Vertu de bannissement en vainquant des ennemis majeurs ou des intrus",
+            "Collectez des objets pour augmenter les Éloges du collectionneur"
+          ]
+        },
+        {
+          "name": "Phase II : Sites rituels et sélection",
+          "desc": "Le Graal commence sa sélection. Les Hémaliges à la Vertu insuffisante sont éliminés.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "bullets": [
+            "Deux types de Vertu aux sites rituels : Vertu de lame et Vertu de foi",
+            "Réclamez des Pierres rouges (lame) ou Pierres d'or (foi) des piédestaux",
+            "Quitter un site ritual après y être entré vous pénalise en HP",
+            "Événements aléatoires : tirs de soutien de zéphyr, tempêtes magnétiques"
+          ]
+        },
+        {
+          "name": "Phase III : Événements et bataille intense",
+          "desc": "La sélection se poursuit. Les caractéristiques régionales changent. Le champ de bataille est plus dangereux.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "bullets": [
+            "Les caractéristiques régionales changent, offrant de nouvelles opportunités",
+            "Les sites rituels rouvrent avec une compétition plus feroce",
+            "Les événements aléatoires continuent d'affecter le champ de bataille",
+            "Accumulez les Pouvoirs hématiques et faites grandir vos vassaux pour la phase finale"
+          ]
+        },
+        {
+          "name": "Phase finale : Don du sang lunaire",
+          "desc": "Seuls les trois Hémaliges avec la Vertu la plus élevée restent. Ils se battent pour la victoire ultime.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "bullets": [
+            "Le Graal accorde deux vies — vous pouvez revivre une fois",
+            "HP bonus basé sur la Vertu accumulée dans les phases précédentes",
+            "Les alliances se dissolvent — les alliés deviennent des adversaires",
+            "Utilisez votre Hémalige, les pouvoirs des vassaux et les objets pour remporter la victoria"
+          ]
+        }
+      ],
+      "finalDetail": "La larme de la lune ne tombe que pour un seul. Utilisez l'Hémalige, les pouvoirs des vassaux et les objets aiguisés dans les phases précédentes pour devenir le dernier vainqueur."
+    },
+    "coreSystems": {
+      "title": "Guide d'Amélioration des Bloodsworn",
+      "systems": [
+        {
+          "title": "Passer l'Hémalige au niveau supérieur",
+          "desc": "Vaincre des ennemis ainsi que d'autres Hémaliges rapporte de l'expérience qui permet d'augmenter votre niveau, ce qui a pour effet d'augmenter votre santé et votre puissance d'attaque."
+        },
+        {
+          "title": "Contrats avec les vassaux",
+          "desc": "Les vassaux sont des êtres ayant conclu un accord avec l'Ordre du Crépuscule."
+        }
+      ]
+    },
+    "combat": {
+      "eyebrow": "Combat",
+      "title": "Guide des Mécaniques de Combat",
+      "mechanics": [
+        {
+          "title": "Déséquilibre",
+          "desc": "Attaquer un ennemi remplit la jauge de déséquilibre. Quand elle est pleine, l'ennemi est déséquilibré et vulnérable."
+        },
+        {
+          "title": "Hématophagie",
+          "desc": "Aspirez le sang des ennemis déséquilibrés, infligeant de lourds dégâts et récupérant des PV. Les ennemis faibles seront ensorcelés et vous suivront."
+        },
+        {
+          "title": "Hurlement",
+          "desc": "Tous les Hémaliges peuvent hurler, produisant une rafale. Hurlez en synchronisation avec l'attaque ennemie pour l'interrompre. Peut dévier certaines attaques à distance."
+        },
+        {
+          "title": "Garde",
+          "desc": "Générez un bouclier pour bloquer les attaques frontales. Fonctionne en l'air. Les attaques répétées brisent le bouclier. Se répare automatiquement. Appuyez R après une garde pour un Contre."
+        },
+        {
+          "title": "Pieu de sang doré",
+          "desc": "Restaure les PV. Rechargez les utilisations en vainquant des ennemis ou en trouvant du Sang doré dans le monde."
+        }
+      ]
+    },
+    "alliances": {
+      "eyebrow": "Social",
+      "title": "Alliances et Influx",
+      "items": [
+        {
+          "title": "Alliances",
+          "desc": "Vous pouvez forger des alliances avec d'autres Hémaliges."
+        },
+        {
+          "title": "Influx",
+          "desc": "Les influx établissent une relation entre les Hémaliges."
+        },
+        {
+          "title": "Événements",
+          "desc": "Au cours des deuxième et troisième phases, des événements inattendus peuvent survenir et apporter des changements aux terres du Crépuscule, comme l'apparition d'un dirigeable permettant de demander l'appui d'une attaque aérienne ou une puissante tempête emportant les joueurs aux quatre coins de la carte."
+        }
+      ]
+    },
+    "hub": {
+      "eyebrow": "Base",
+      "title": "Demeure de la nuit",
+      "desc": "La base des Hémaliges. Vous pouvez y sélectionner votre Hémalige ou apprendre les contrôles et règles.",
+      "features": [
+        {
+          "name": "Souvenir de bataille",
+          "desc": "Vous pouvez vous plonger dans des épisodes de batailles crépusculaires et en apprendre les règles. Il est recommandé de commencer par ce menu après avoir visité la Demeure de la nuit."
+        },
+        {
+          "name": "Archives",
+          "desc": "Consultez à tout moment les informations enregistrées : armes, vassaux, objets, pouvoirs hématiques, événements et tutoriels."
+        },
+        {
+          "name": "Cour",
+          "desc": "Dans la cour de la Demeure de la nuit, vous pouvez vous entraîner avec les Épouvantails ou essayer des actions. Vous pouvez aussi modifier divers réglages depuis le menu."
+        },
+        {
+          "name": "Règles du jeu",
+          "desc": "Dans le menu des batailles crépusculaires, vous pouvez configurer le matchmaking. Standard (par défaut), Sans alliances, ou Alliances de sang. Dans ces dernières, tous combattent en duo et l'alliance persiste jusqu'à la phase finale."
+        }
+      ]
+    },
+    "virtue": {
+      "title": "Système de Vertu Expliqué",
+      "desc": "La vertu est essentielle à la survie lors des batailles crépusculaires. Seuls les Hémaliges avec la plus haute Vertu survivent à la sélection. Elle s'obtient par le combat, l'exploration et la stratégie.",
+      "types": [
+        {
+          "title": "Vertu de bannissement",
+          "desc": "Au cours de votre exploration des terres du Crépuscule, vous affronterez des ennemis majeurs, plus puissants que les ennemis ordinaires. Il existe également des menaces venues d'ailleurs encore plus terrifiantes, les abominations."
+        },
+        {
+          "title": "Vertu de flamme",
+          "desc": "Vous obtenez de la vertu de flamme en allumant une flamme dans le crâne de dépouilles reposant sur des chaises à travers les terres du Crépuscule."
+        },
+        {
+          "title": "Vertu de lame",
+          "desc": "Vous ne pouvez obtenir de la vertu de lame qu'en vainquant d'autres Hémaliges sur les sites de rituel."
+        },
+        {
+          "title": "Vertu de foi",
+          "desc": "Des piliers du serment de sang se dressent sur chaque site de rituel. Prêtez serment auprès d'eux pour acquérir de la vertu de foi. Cette dernière est perdue si le serment est subtilisé par un autre Hémalige."
+        },
+        {
+          "title": "Vertu de louange",
+          "desc": "Il existe deux types de louanges, et les Hémaliges possédant la première et la deuxième valeur la plus élevée de chaque type peuvent obtenir de la vertu à la fin de chaque phase."
+        }
+      ]
+    },
+    "controls": {
+      "eyebrow": "Commandes",
+      "title": "Commandes",
+      "desc": "Commandes de base et menu des fonctions."
+    },
+    "expedition": {
+      "eyebrow": "Détails d'expédition",
+      "title": "Affronter les ennemis majeurs",
+      "bloodPowers": {
+        "title": "Pouvoirs hématiques",
+        "desc": "Vainquez des ennemis majeurs ou des intrus pour acquérir des Pouvoirs hématiques, accordant diverses capacités. Jusqu'à 5 peuvent être manifestés à la fois."
+      },
+      "coopBattle": {
+        "title": "Batailles coopératives",
+        "desc": "Lors d'un combat contre un intrus, les Hémaliges proches sont invités à se joindre. Combattez ensemble avec ceux qui acceptent."
+      },
+      "regions": {
+        "title": "Explorer les régions",
+        "desc": "Les régions présentent différentes caractéristiques au cours de chaque phase. Consultez la carte et cherchez les améliorations adaptées à votre style.",
+        "features": [
+          {
+            "title": "Sanguine",
+            "desc": "Des Sanguines apparaissent. Vainquez-les pour obtenir des Cristaux de sang et améliorer les arts de l'Hémalige."
+          },
+          {
+            "title": "Four alchimiste",
+            "desc": "Des Fours alchimistes apparaissent, conférant des attributs élémentaires aux armes. Le même attribut améliore l'arme."
+          },
+          {
+            "title": "Cercle de vassaux",
+            "desc": "Des Cercles de vassaux apparaissent, renforçant votre contrat et accordant beaucoup d'EXP aux vassaux."
+          },
+          {
+            "title": "Objets d'exploration",
+            "desc": "Obtenez des objets en explorant ou vainquant des ennemis. Les cocktails Molotov brûlent, les Pierres tombales permettent de revivre à leur emplacement."
+          }
+        ]
+      }
+    },
+    "tips": {
+      "eyebrow": "Astuces",
+      "title": "Astuces pour Débutants",
+      "items": [
+        {
+          "title": "Priorité de ciblage",
+          "desc": "Dans les options, configurez la priorité de ciblage des ennemis qui vous attaquent. Par défaut : OFF."
+        },
+        {
+          "title": "Écran d'informations",
+          "desc": "Appuyez sur [+] pendant les batailles pour voir la carte, votre position, les traces des autres Hémaliges et les caractéristiques régionales."
+        },
+        {
+          "title": "Téléportation",
+          "desc": "Sélectionnez des points de téléportation sur la carte. Indisponible : début de phase, après téléportation/résurrection, ou en combat."
+        },
+        {
+          "title": "Position des intrus",
+          "desc": "Les intrus sont indiqués sur la carte par des marqueurs spéciaux. Des intrus plus puissants existent aussi."
+        },
+        {
+          "title": "Gestes",
+          "desc": "Maintenez [+] pour ouvrir le menu des gestes. Certains gestes sont essentiels pour des objectifs d'Influx."
+        },
+        {
+          "title": "Menu des fonctions",
+          "desc": "Maintenez [Y] pour ouvrir le menu. Inclut : Demandes d'alliance, Marqueurs, Mode observation, Invocation de vassaux."
+        }
+      ]
+    },
+    "meta": {
+      "title": "Mécaniques de jeu | Guide The Duskbloods",
+      "desc": "Découvrez les mécaniques de The Duskbloods : flux de bataille, système de Vertu, combat, contrats de vassaux et plus."
+    },
+    "stones": {
+      "eyebrow": "Sites rituels",
+      "title": "Guide des Pierres Rouges et Dorées",
+      "desc": "Réclamez des Pierres rouges et dorées des piédestaux aux sites rituels. Un seul type à la fois — les rouges augmentent la Vertu de lame, les dorées la Vertu de foi.",
+      "items": [
+        {
+          "title": "Pierre rouge",
+          "desc": "Avec une Pierre rouge, obtenez plus de Vertu de lame aux sites rituels. Pour les joueurs agressifs."
+        },
+        {
+          "title": "Pierre dorée",
+          "desc": "Avec une Pierre dorée, obtenez plus de Vertu de foi. Pour les joueurs qui évitent le combat."
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "Changements du champ de bataille",
+      "title": "Événements",
+      "desc": "En Phase II et Phase III, des événements peuvent changer les terres du Crépuscule.",
+      "items": [
+        {
+          "title": "Zéphyr de soutien",
+          "desc": "Un zéphyr apparaît dans le ciel, vous pouvez demander des tirs de soutien."
+        },
+        {
+          "title": "Tempête magnétique",
+          "desc": "Une puissante tempête magnétique transporte de force les joueurs vers d'autres endroits."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "FAQ Gameplay",
+      "items": [
+        {
+          "q": "Combien de joueurs dans une partie de Duskbloods ?",
+          "a": "Chaque bataille crépusculaire accueille jusqu'à 8 joueurs en combat PvPvE. Les joueurs s'affrontent tout en combattant des ennemis contrôlés par l'IA."
+        },
+        {
+          "q": "Qu'est-ce que le PvPvE dans The Duskbloods ?",
+          "a": "PvPvE signifie Joueur contre Joueur contre Environnement. Dans The Duskbloods, vous affrontez d'autres Bloodsworn tout en combattant des ennemis IA, des boss et des dangers de la carte."
+        },
+        {
+          "q": "Quels sont les rôles des Bloodsworn ?",
+          "a": "Les Bloodsworn sont des personnages jouables avec des armes et capacités uniques. Chaque rôle offre un style de jeu différent : mêlée, attaque à distance et support. L'Histoire de Sang personnalise davantage le chemin de votre personnage."
+        },
+        {
+          "q": "Comment fonctionne le système de Vertu ?",
+          "a": "La Vertu est une mécanique de progression qui améliore votre Bloodsworn pendant une partie. Les différents types de Vertu offrent des bonus passifs et débloquent de nouvelles capacités."
+        },
+        {
+          "q": "Que sont les Pierres Rouges et Pierres Dorées ?",
+          "a": "Les Pierres Rouges et Dorées sont des objets collectibles trouvés aux sites rituels de la carte. Elles fournissent des améliorations puissantes à votre Bloodsworn pendant une partie."
+        },
+        {
+          "q": "Comment rejoindre le test réseau de The Duskbloods ?",
+          "a": "Inscrivez-vous via le Nintendo eShop sur votre Switch 2. Le test fermé a lieu en 2026. Consultez notre page Test Réseau pour les dates et détails d'inscription."
         }
       ]
     }
@@ -272,29 +585,248 @@
     "note": {
       "title": "Roster complet à venir",
       "desc": "Le roster complet sera révélé à l'approche de la sortie. Revenez pour des analyses détaillées des personnages, armes et capacités."
+    },
+    "roster": {
+      "eyebrow": "PERSONNAGES JOUABLES",
+      "title": "Hémaliges",
+      "desc": "Le test réseau propose 6 Hémaliges jouables, chacun avec des armes et techniques d'Hémalige uniques.",
+      "labels": {
+        "melee": "Corps à corps : ",
+        "ranged": "À distance : ",
+        "bloodArts": "ARTS DU SANG",
+        "powers": "ASPECTS"
+      },
+      "items": [
+        {
+          "name": "Albert",
+          "melee": "Sabre serti des Lorrik",
+          "ranged": "Mitraillette",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "bloodArts": [
+            {
+              "name": "Lame de sang",
+              "desc": "Projette une lame constituée de son propre sang, d'autant plus puissante que ce dernier est pur."
+            },
+            {
+              "name": "Rayon d'Hayern",
+              "desc": "Élève le cristal de lumière serti et projette un rayon de lumière d'une aveuglante intensité."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Sang bleu des Lorrik",
+              "desc": "Augmente le nombre d'utilisations initiales des techniques d'Hémalige sanguines."
+            },
+            {
+              "name": "Rebelle",
+              "desc": "Les attaques remplissent davantage la jauge de vulnérabilité des Hémaliges très vertueux."
+            }
+          ]
+        },
+        {
+          "name": "Jan la Main sanglante",
+          "melee": "Hache sanglante",
+          "ranged": "Gemme arcanique",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "bloodArts": [
+            {
+              "name": "Rapidité",
+              "desc": "Met le sang à contribution pour accélérer les esquives. Les effets se dissipent passé un certain délai."
+            },
+            {
+              "name": "Sang conquérant",
+              "desc": "Étanche la soif de la hache avec le sang de son porteur, puis déclenche une frappe au sol libérant des flots de sang tranchants."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Héritage des Mains sanglantes",
+              "desc": "Contre-attaquer après avoir subi des dégâts restaure de la santé."
+            },
+            {
+              "name": "Seigneur du sang",
+              "desc": "Restaure la santé des créatures sous votre joug et augmente la puissance."
+            }
+          ]
+        },
+        {
+          "name": "Trang Lanh",
+          "melee": "Lame de la pleine lune",
+          "ranged": "Lame de la pleine lune (lancée)",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "bloodArts": [
+            {
+              "name": "Lune noire",
+              "desc": "Dissimule le corps derrière la lune noire pendant un certain temps."
+            },
+            {
+              "name": "Mama Nātha",
+              "desc": "Invoque un serpent d'argent géant, gardien des Ratnam, pour répandre la terreur dans les alentours."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Épouse envoûtante",
+              "desc": "Boire du sang fait également tomber les ennemis alentour sous votre joug."
+            },
+            {
+              "name": "Fille de la lune noire",
+              "desc": "Se dissimule aux yeux des ennemis lointains afin d'être moins facilement prise pour cible."
+            }
+          ]
+        },
+        {
+          "name": "Tireuse d'élite Layla",
+          "melee": "Katars sacrés",
+          "ranged": "Fusil à lunette",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "bloodArts": [
+            {
+              "name": "Dissipation Neb-ra",
+              "desc": "Permet de se transformer en une nuée d'insectes et de s'envoler vers un lieu éloigné en laissant un reflet plongeant les ennemis dans la confusion."
+            },
+            {
+              "name": "Mitrailleuse de Verd",
+              "desc": "Fait jaillir une gigantesque mitrailleuse de son torse, prête à faire pleuvoir un déluge de balles."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Héritage des Neb-ra",
+              "desc": "Restaure graduellement la santé jusqu'à la moitié, mais réduit l'efficacité des pieux de sang doré."
+            },
+            {
+              "name": "Pupille des ténèbres",
+              "desc": "Augmente la portée du verrouillage de cibles et du mode observation."
+            }
+          ]
+        },
+        {
+          "name": "Sénateur Samir Patres",
+          "melee": "Rapière de sénateur",
+          "ranged": "Bague aviaire",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "bloodArts": [
+            {
+              "name": "Pieu de sang",
+              "desc": "Forme une mare de sang aux pieds des ennemis, d'où peut jaillir un pieu de sang colossal."
+            },
+            {
+              "name": "Dinomorphose",
+              "desc": "Permet de se métamorphoser en un féroce dinosaure avant de fondre sur sa proie et de la disloquer entre ses mâchoires."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Disciple du sang",
+              "desc": "Réduit le niveau requis des techniques d'Hémalige."
+            },
+            {
+              "name": "Lame inébranlable",
+              "desc": "Réaliser une parade parfaite augmente la puissance des attaques au corps à corps."
+            }
+          ]
+        },
+        {
+          "name": "Zork",
+          "melee": "Câble sous-marin",
+          "ranged": "Harpon",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "bloodArts": [
+            {
+              "name": "Missile",
+              "desc": "Déploie un canon à l'arrière de la combinaison avant de déclencher un déluge de feu."
+            },
+            {
+              "name": "Fusée humaine",
+              "desc": "Système de propulsion fixé à l'arrière de la combinaison permettant de prendre son envol avant de plonger au cœur de la bataille."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Loi des abysses",
+              "desc": "Battre un Hémalige permet de lui voler une partie de sa santé maximale, qu'il récupère en vous vainquant."
+            },
+            {
+              "name": "Terrible écho",
+              "desc": "Pousse un rugissement inhumain créant une onde sonique. Maintenez les boutons pour prolonger le rugissement."
+            }
+          ]
+        }
+      ]
     }
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Test réseau",
-      "title": "Le test réseau fermé de The Duskbloods",
-      "lead": "FromSoftware organise un test réseau fermé de The Duskbloods sur Nintendo Switch 2. Voici ce que nous savons du calendrier, de l'inscription et du contenu."
+      "title": "The Duskbloods Closed Network Test",
+      "lead": "La période d'inscription au test réseau fermé de The Duskbloods sur Nintendo Switch 2 de FromSoftware est terminée. Voici le calendrier complet et tous les détails."
     },
-    "facts": {
-      "eyebrow": "En bref",
-      "title": "Données clés",
+    "status": {
+      "label": "Inscriptions closes",
+      "desc": "La période d'inscription au test réseau est terminée. Les joueurs sélectionnés ont été notifiés le 7 août."
+    },
+    "schedule": {
+      "eyebrow": "Calendrier",
+      "title": "Calendrier complet",
+      "application": {
+        "label": "Période d'inscription",
+        "start": "22 juillet (mer.) à 7h00 PDT",
+        "end": "28 juillet (mar.) à 6h59 PDT",
+        "note": "Les inscriptions multiples d'un même utilisateur seront rejetées. Les participants seront sélectionnés par ordre d'inscription."
+      },
+      "selection": {
+        "label": "Annonce de la sélection",
+        "date": "7 août (ven.) à 6h00 PDT",
+        "note": "Consultez votre page de compte sur le site officiel pour connaître le résultat. Les joueurs sélectionnés ont reçu un code de téléchargement."
+      },
+      "download": {
+        "label": "Téléchargement du client",
+        "date": "Disponible à partir du 18 août (mar.) à 6h00 PDT",
+        "note": "Les joueurs sélectionnés peuvent utiliser le code de téléchargement sur le Nintendo Store ou le Nintendo eShop. Dans certaines régions, le téléchargement par d'autres moyens que le Nintendo eShop n'est pas pris en charge."
+      },
+      "sessions": {
+        "label": "Sessions de test",
+        "note": "Les dates et heures des sessions peuvent être modifiées ou annulées sans préavis.",
+        "items": [
+          {
+            "date": "21 août 2026 (ven.)",
+            "time": "3h00 à 7h00 PDT"
+          },
+          {
+            "date": "21 août 2026 (ven.)",
+            "time": "19h00 à 23h00 PDT"
+          },
+          {
+            "date": "22 août 2026 (sam.)",
+            "time": "11h00 à 15h00 PDT"
+          },
+          {
+            "date": "23 août 2026 (dim.)",
+            "time": "3h00 à 7h00 PDT"
+          },
+          {
+            "date": "23 août 2026 (dim.)",
+            "time": "19h00 à 23h00 PDT"
+          }
+        ]
+      }
+    },
+    "requirements": {
+      "eyebrow": "Prérequis",
+      "title": "Ce dont vous avez besoin",
       "items": [
         {
           "label": "Plateforme",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Format",
-          "value": "Test réseau fermé"
+          "label": "Abonnement",
+          "value": "Abonnement Nintendo Switch Online"
         },
         {
-          "label": "Accès",
-          "value": "Inscription sur le site officiel (résultats aux sélectionnés)"
+          "label": "Sélection",
+          "value": "Par ordre d'inscription (places limitées)"
         },
         {
           "label": "Développeur",
@@ -306,49 +838,27 @@
         }
       ]
     },
-    "howTo": {
-      "eyebrow": "Comment participer",
-      "title": "Inscription et accès",
-      "steps": [
-        {
-          "title": "Inscrivez-vous sur le site officiel",
-          "desc": "L'inscription s'est faite via la page officielle durant la période d'ouverture."
-        },
-        {
-          "title": "Vérifiez votre résultat",
-          "desc": "Les sélectionnés ont été notifiés sur leur page personnelle et par e-mail."
-        },
-        {
-          "title": "Préchargez le test",
-          "desc": "Le client de test est disponible en préchargement sur Nintendo Switch 2."
-        },
-        {
-          "title": "Jouez aux horaires actifs",
-          "desc": "Le test se déroule par sessions programmées sur Switch 2."
-        }
-      ]
-    },
     "expect": {
       "eyebrow": "À quoi s'attendre",
       "title": "Dans le test",
       "items": [
         {
-          "title": "Un fragment de PvPvE",
-          "desc": "Attendez-vous à une tranche jouable de l'action PvPvE à 8 du jeu final."
+          "title": "Un aperçu du PvPvE",
+          "desc": "Attendez-vous à une tranche jouable de l'action PvPvE à 8 joueurs qui caractérise le jeu complet."
         },
         {
-          "title": "Performance et stabilité",
-          "desc": "Le test vise la charge serveur, le matchmaking et la stabilité en conditions réelles."
+          "title": "Vérifications de performance et de stabilité",
+          "desc": "En tant que test réseau, l'accent est mis sur la charge serveur, le matchmaking et la stabilité en conditions réelles."
         },
         {
           "title": "Travail en cours",
-          "desc": "Contenu, équilibrage et visuels peuvent ne pas représenter le jeu final."
+          "desc": "Le contenu, l'équilibrage et les visuels peuvent ne pas refléter le jeu final. Attendez-vous à des imperfections et des changements avant la sortie."
         }
       ]
     },
     "cta": {
-      "title": "Restez à l'affût de la sortie",
-      "desc": "Le test réseau est un premier aperçu de The Duskbloods avant sa sortie 2026 sur Nintendo Switch 2. Nous mettrons cette page à jour."
+      "title": "Restez à l'affût de la sortie complète",
+      "desc": "Le test réseau était un premier aperçu de The Duskbloods avant sa sortie en 2026 sur Nintendo Switch 2. Nous tiendrons cette page à jour avec les dernières informations."
     }
   },
   "faq": {
@@ -530,6 +1040,56 @@
     "cta": {
       "title": "Ajoutez cette page à vos favoris pour la date exacte",
       "desc": "Nous mettrons cette page à jour dès que FromSoftware et Nintendo annonceront la date de sortie exacte, le calendrier de préchargement et les détails du lancement."
+    }
+  },
+  "gallery": {
+    "intro": {
+      "eyebrow": "CAPTURES D'ÉCRAN",
+      "title": "Galerie",
+      "lead": "Captures d'écran officielles de The Duskbloods — explorez le monde sombre et immersif du titre d'action multijoueur de FromSoftware pour Nintendo Switch 2."
+    },
+    "main": {
+      "eyebrow": "ENSEMBLE PRINCIPAL",
+      "title": "Captures Officielles",
+      "alt": "Capture de The Duskbloods {n}"
+    },
+    "expansion": {
+      "eyebrow": "ENSEMBLE D'EXTENSION",
+      "title": "Captures Supplémentaires",
+      "alt": "Capture d'extension de The Duskbloods {n}"
+    },
+    "lightbox": {
+      "alt": "Capture de The Duskbloods {n}"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "Contact",
+      "title": "Contacter le site fan The Duskbloods",
+      "lead": "Merci de visiter notre site fan. N'hésitez pas à nous contacter pour vos retours, suggestions, demandes de partenariat ou corrections de contenu."
+    },
+    "email": {
+      "title": "E-mail",
+      "desc": "Envoyez-nous un e-mail et nous vous répondrons dès que possible.",
+      "address": "contact@duskbloods.com"
+    },
+    "social": {
+      "title": "Réseaux sociaux",
+      "desc": "Vous pouvez également nous rejoindre sur ces plateformes.",
+      "links": [
+        {
+          "name": "Twitter / X",
+          "url": "https://x.com/duskbloods"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/duskbloods"
+        }
+      ]
+    },
+    "note": {
+      "title": "Mentions légales",
+      "desc": "Ce site est un site fan non officiel et n'est pas affilié à FromSoftware ou Nintendo ni approuvé par ces derniers. Nous ne pouvons pas vous aider pour le support du jeu ou les problèmes de compte — veuillez contacter le support officiel correspondant."
     }
   }
 }

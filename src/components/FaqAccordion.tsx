@@ -12,18 +12,18 @@ export default function FaqAccordion({
   items: Item[];
   groupTitle?: string;
 }) {
-  const [open, setOpen] = useState<number | null>(0);
+  const [closed, setClosed] = useState<Set<number>>(new Set());
 
   return (
     <div className="space-y-6">
       {groupTitle && <h2 className="h-title text-xl">{groupTitle}</h2>}
       <div className="space-y-3">
         {items.map((item, i) => {
-          const isOpen = open === i;
+          const isOpen = !closed.has(i);
           return (
             <div key={i} className="overflow-hidden rounded-[var(--radius)] border border-border bg-surface/60">
               <button
-                onClick={() => setOpen(isOpen ? null : i)}
+                onClick={() => setClosed(prev => { const next = new Set(prev); isOpen ? next.add(i) : next.delete(i); return next; })}
                 className="flex w-full items-center justify-between gap-4 px-5 py-4 text-left"
                 aria-expanded={isOpen}
               >

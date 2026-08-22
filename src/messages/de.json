@@ -39,6 +39,14 @@
     "releaseDate": {
       "title": "Veröffentlichungsdatum von The Duskbloods — 2026 auf Nintendo Switch 2",
       "description": "Veröffentlichungsdatum von The Duskbloods: erscheint 2026 als Nintendo Switch 2 Exclusive. FromSoftware × Nintendo, Regie: Hidetaka Miyazaki."
+    },
+    "gallery": {
+      "title": "Galerie — The Duskbloods Bildschirmfotos",
+      "description": "Durchstöbern Sie offizielle Bildschirmfotos von The Duskbloods, dem Multiplayer-Action-Spiel von FromSoftware für Nintendo Switch 2."
+    },
+    "contact": {
+      "title": "Kontakt — The Duskbloods Fan-Site",
+      "description": "Kontaktieren Sie die The Duskbloods Fan-Site. Für Feedback, Vorschläge oder Partnerschaftsanfragen erreichen Sie uns hier."
     }
   },
   "privacy": {
@@ -68,6 +76,7 @@
     "releaseDate": "Veröffentlichungsdatum",
     "faq": "FAQ",
     "about": "Über",
+    "contact": "Kontakt",
     "privacy": "Datenschutz",
     "terms": "Bedingungen",
     "explore": "Entdecken",
@@ -75,7 +84,8 @@
     "legal": "Rechtliches",
     "footerTagline": "Eine Fan-Informationszentrale für The Duskbloods — Release, Gameplay, Charaktere und Neuigkeiten zum Netzwerktest.",
     "disclaimer": "The Duskbloods ist eine Marke von FromSoftware und Nintendo. Dies ist eine inoffizielle Fan-Informationsseite ohne Verbindung zu oder Befürwortung durch FromSoftware oder Nintendo.",
-    "copyright": "© {year} The Duskbloods Fan Site. Alle Spielinhalte gehören den jeweiligen Eigentümern."
+    "copyright": "© {year} The Duskbloods Fan Site. Alle Spielinhalte gehören den jeweiligen Eigentümern.",
+    "gallery": "Galerie"
   },
   "home": {
     "hero": {
@@ -135,9 +145,9 @@
       ]
     },
     "networkBanner": {
-      "eyebrow": "Frisch angekündigt",
-      "title": "Geschlossener Netzwerktest auf Switch 2",
-      "desc": "FromSoftware führt einen geschlossenen Netzwerktest für The Duskbloods auf Nintendo Switch 2 durch. Der Download ist als Vorabladung verfügbar. Termine, Anmeldung und Erwartungen.",
+      "eyebrow": "Neuestes Update",
+      "title": "Bewerbungen für Netzwerktest geschlossen",
+      "desc": "Die Bewerbungsphase für den geschlossenen Netzwerktest von The Duskbloods ist beendet. Ausgewählte Spieler wurden am 7. August benachrichtigt. Der Netzwerktest findet vom 21. bis 23. August statt.",
       "cta": "Netzwerktest-Details ansehen"
     },
     "charactersTeaser": {
@@ -175,6 +185,18 @@
           "a": "Da The Duskbloods exklusiv für Nintendo Switch 2 ist, ist Crossplay nicht relevant. Mehrspieler läuft unter Switch 2-Spielern."
         }
       ]
+    },
+    "screenshots": {
+      "eyebrow": "BILDSCHIRMFOTOS",
+      "title": "Aus dem Spiel",
+      "cta": "Mehr Ansehen →",
+      "alt": "The Duskbloods Bildschirmfoto {n}"
+    },
+    "videos": {
+      "eyebrow": "TRAILER",
+      "title": "Videos Ansehen",
+      "debut": "The Duskbloods — Enthüllungstrailer",
+      "networkTest": "The Duskbloods — Netzwerktest-Ankündigung"
     }
   },
   "gameplay": {
@@ -211,7 +233,7 @@
     ],
     "roles": {
       "eyebrow": "Rollen und Builds",
-      "title": "Gestalten Sie Ihren Bloodsworn",
+      "title": "Bloodsworn-Rollen und Builds",
       "desc": "Jeder Bloodsworn bietet eigene Waffen und Fähigkeiten, und Ihre Blutgeschichte prägt seinen Weg. Probieren Sie verschiedene Charaktere und Ausrüstungen.",
       "items": [
         {
@@ -225,6 +247,289 @@
         {
           "title": "Blutgeschichte",
           "desc": "Ein anpassbares narratives Element, das Weg und Schicksal beeinflusst."
+        }
+      ]
+    },
+    "matchStructure": {
+      "eyebrow": "ABLAUF",
+      "title": "Ablauf der Dämmerungsschlacht",
+      "desc": "Acht Blutgeweihte werden in die menschliche Dämmerung gerufen, um um das Erstblut zu kämpfen. Schlachten gliedern sich in 4 Phasen, wobei der Kelch schrittweise auslese, bis die letzten 3 Überlebenden um die Blutverleihung kämpfen.",
+      "stages": [
+        {
+          "name": "Phase I: Erkundung und Eroberung",
+          "desc": "Acht Blutgeweihte betreten die Dämmerungslande und beginnen, Tugend anzuhäufen.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "bullets": [
+            "Besiege Gegner, entzünde Kerzen für Licht-Tugend, erkunde Gegenstände",
+            "Regionale Merkmale erscheinen — Blutsäcke, Alchemieöfen, Vasallenkreise",
+            "Verdiene Jagd-Tugend durch Besiegen von Elitegegnern oder Eindringlingen",
+            "Sammle Gegenstände für die Sammler-Lobpreisung"
+          ]
+        },
+        {
+          "name": "Phase II: Rituale und Auslese",
+          "desc": "Der Kelch beginnt seine Auslese. Blutgeweihte mit zu wenig Tugend werden eliminiert.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "bullets": [
+            "Zwei Tugendarten an Ritualstätten: Schwert-Tugend und Gelübde-Tugend",
+            "Fordere Rote Steine (Schwert) oder Goldene Steine (Gelübde) an den Plinthen",
+            "Verlassen einer Ritualstätte nach Betreten kostet HP",
+            "Zufallsereignisse: Zeppelin-Unterstützung, Magnetstürme"
+          ]
+        },
+        {
+          "name": "Phase III: Ereignisse und verschärfter Kampf",
+          "desc": "Die Auslese geht weiter. Regionale Merkmale ändern sich. Das Schlachtfeld wird gefährlicher.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "bullets": [
+            "Regionale Merkmale ändern sich, bieten neue Verstärkungsmöglichkeiten",
+            "Ritualestätten öffnen sich erneut mit härterer Konkurrenz",
+            "Zufallsereignisse beeinflussen weiterhin das Schlachtfeld",
+            "Sammle Blutkräfte und stärke deine Vasallen für die finale Phase"
+          ]
+        },
+        {
+          "name": "Finale Phase: Mondesblut-Verleihung",
+          "desc": "Nur die drei Blutgeweihten mit der höchsten Tugend bleiben. Sie kämpfen um den ultimativen Sieg.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "bullets": [
+            "Der Kelch gewährt zwei Leben — einmaliges Wiederbeleben möglich",
+            "Bonus-HP basierend auf der gesammelten Tugend vorheriger Phasen",
+            "Bündnisse lösen sich auf — ehemalige Verbündete werden Gegner",
+            "Nutze deinen Blutgeweihten, Vasallenkräfte und Gegenstände für den Sieg"
+          ]
+        }
+      ],
+      "finalDetail": "Die Träne des Mondes fällt nur für einen. Nutze den Blutgeweihten, Vasallenkräfte und Gegenstände aus früheren Phasen, um der letzte Sieger zu sein."
+    },
+    "coreSystems": {
+      "title": "Bloodsworn-Verstärkung-Guide",
+      "systems": [
+        {
+          "title": "Stufenanstiege von Blutgeweihten",
+          "desc": "Durch das Besiegen von Gegnern und anderen Spielern erhältst du Erfahrungspunkte."
+        },
+        {
+          "title": "Vasallen anheuern",
+          "desc": "Diejenigen, die einen Pakt mit dem Dämmerungsbund geschlossen haben, werden als „Vasallen“ bezeichnet."
+        }
+      ]
+    },
+    "combat": {
+      "eyebrow": "Kampf",
+      "title": "Kampfmechanik-Guide",
+      "mechanics": [
+        {
+          "title": "Brechen",
+          "desc": "Angriffe auf einen Gegner füllen die Brech-Leiste. Wenn sie voll ist, wird der Gegner gebrochen und ist verwundbar."
+        },
+        {
+          "title": "Blut trinken",
+          "desc": "Trinke das Blut gebrochener Gegner, füge großen Schaden zu und stelle HP wieder her. Schwächere Gegner werden verzaubert und folgen dir."
+        },
+        {
+          "title": "Heulen",
+          "desc": "Alle Blutgeweihten können heulen und einen Windstoß erzeugen. Heule im Rhythmus des gegnerischen Angriffs, um ihn zu unterbrechen. Manche Fernangriffe können abgewehrt werden."
+        },
+        {
+          "title": "Blocken",
+          "desc": "Erzeuge einen Schild gegen Frontalangriffe. Funktioniert in der Luft. Dauerangriffe zerstören den Schild. Repariert sich automatisch. Drücke R nach dem Blocken für einen Gegenangriff."
+        },
+        {
+          "title": "Goldener Blutpfahl",
+          "desc": "Stellt HP wieder her. Lade Nutzungen auf, indem du Gegner besiegst oder Goldenes Blut in der Welt findest."
+        }
+      ]
+    },
+    "alliances": {
+      "eyebrow": "Sozial",
+      "title": "Bündnisse und Brandmale",
+      "items": [
+        {
+          "title": "Bündnisse",
+          "desc": "Einem konkurrierenden Blutgeweihten, dem du begegnet bist, kannst du ein Bündnis anbieten."
+        },
+        {
+          "title": "Brandmale",
+          "desc": "Brandmale bestimmen das Verhältnis zwischen Blutgeweihten."
+        }
+      ]
+    },
+    "hub": {
+      "eyebrow": "Basis",
+      "title": "Das Domizil der Nacht",
+      "desc": "Die Basis der Blutgeweihten. Wähle deinen Blutgeweihten oder lerne die grundlegenden Steuerungen und Regeln.",
+      "features": [
+        {
+          "name": "Schlachtenechos",
+          "desc": "Hier kannst du Teile von Dämmerungsschlachten spielen und die Regeln kennenlernen. Es wird empfohlen, zuerst dieses Menü zu besuchen, wenn du das Domizil der Nacht erreichst."
+        },
+        {
+          "name": "Archiv",
+          "desc": "Hier kannst du jederzeit aufgezeichnete Informationen einsehen: Waffen, Vasallen, Gegenstände, Blutkräfte, Ereignisse und Tutorials."
+        },
+        {
+          "name": "Innenhof",
+          "desc": "Im Innenhof des Domizils der Nacht kannst du an den Grabhüterscheuchen üben oder Aktionen ausprobieren. Über das Menü kannst du auch verschiedene Einstellungen ändern."
+        },
+        {
+          "name": "Spielregeln",
+          "desc": "Im Menü der Dämmerungsschlachten kannst du das Matchmaking konfigurieren. Standard (Standard), Keine Bündnisse oder Blutbündnisse. Bei letzteren kämpfen alle in Paaren und das Bündnis bleibt bis zur finalen Phase bestehen."
+        }
+      ]
+    },
+    "virtue": {
+      "title": "Tugend-System erklärt",
+      "desc": "Tugend ist nötig, um Dämmerungsschlachten zu überleben. Nur Blutgeweihte mit der höchsten Tugend überstehen die Auslese. Tugend kann durch Kampf, Erkundung und Strategie erlangt werden.",
+      "types": [
+        {
+          "title": "Jagd-Tugend",
+          "desc": "In den Dämmerungslanden lauern neben den gewöhnlichen Feinden auch stärkere Elitegegner. Eine noch größere Gefahr stellen die als Aggressoren bekannten Eindringlinge dar."
+        },
+        {
+          "title": "Licht-Tugend",
+          "desc": "Für das Entzünden von Kerzen im Schädel auf Stühlen sitzender Leichen, die überall in den Dämmerungslanden zu finden sind, gewinnst du Licht-Tugend."
+        },
+        {
+          "title": "Schwert-Tugend",
+          "desc": "Für das Besiegen anderer Blutgeweihter an Ritualstätten erhältst du Tugend. Außerhalb von Ritualstätten kannst du keine Schwert-Tugend erlangen."
+        },
+        {
+          "title": "Gelübde-Tugend",
+          "desc": "An Ritualstätten gibt es Gelübdepfosten. Wenn du hier einen Eid ablegst, erhältst du Gelübde-Tugend. Sollte jedoch ein anderer Blutgeweihter das Gelübde überschreiben, verlierst du die Tugend."
+        },
+        {
+          "title": "Lobpreis-Tugend",
+          "desc": "Es gibt zwei Arten von Lobpreis, und die zwei Blutgeweihten mit dem meisten Lobpreis in jeder Kategorie können am Ende jeder Phase Tugend erhalten."
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "Schlachtfeld-Veränderungen",
+      "title": "Ereignisse",
+      "desc": "In Phase II und III können Ereignisse die Dämmerungslande verändern.",
+      "items": [
+        {
+          "title": "Ereignisse",
+          "desc": "In den Phasen II und III treten manchmal Ereignisse ein, die gewisse Veränderungen über die Dämmerungslande bringen. So könnte etwa ein Luftschiff am Himmel auftauchen, von dem ein Bombardement angefordert werden kann, oder ein heftiger magnetischer Sturm teleportiert Spieler gegen ihren Willen an andere Positionen."
+        }
+      ]
+    },
+    "controls": {
+      "eyebrow": "Steuerung",
+      "title": "Steuerung",
+      "desc": "Grundlegende Steuerung und Funktionsmenü."
+    },
+    "expedition": {
+      "eyebrow": "Expedition",
+      "title": "Kampf gegen Elitegegner",
+      "bloodPowers": {
+        "title": "Blutkräfte",
+        "desc": "Besiege Elitegegner oder Eindringlinge, um Blutkräfte zu erhalten, die verschiedene Fähigkeiten verleihen. Bis zu 5 können gleichzeitig manifestiert werden."
+      },
+      "coopBattle": {
+        "title": "Kooperative Kämpfe",
+        "desc": "Bei Kampf gegen einen Eindringling werden nahe Blutgeweihte zum gemeinsamen Kampf eingeladen. Kämpfe zusammen mit denen, die annehmen."
+      },
+      "regions": {
+        "title": "Gebiete erkunden",
+        "desc": "Jedes Gebiet in den Dämmerungslanden hat je nach Phase eine eigene Tendenz. Prüfe die Karte und suche Verstärkungen, die zu deinem Spielstil passen.",
+        "features": [
+          {
+            "title": "Blutsack",
+            "desc": "Blutsäcke erscheinen. Besiege sie für Blutkristalle zur Stärkung der Blutgeweihten-Künste."
+          },
+          {
+            "title": "Alchemieofen",
+            "desc": "Alchemieöfen erscheinen und verleihen Waffen Elementarattribute. Gleiches Attribut erhöht die Waffenstufe."
+          },
+          {
+            "title": "Vasallenkreis",
+            "desc": "Vasallenkreise erscheinen, stärken deinen Vertrag und verleihen viel EXP an vertragene Vasallen."
+          },
+          {
+            "title": "Erkundungsitems",
+            "desc": "Erhalte Items durch Erkundung oder Besiegen von Gegnern. Molotowcocktails brennen, Lebensgrabsteine ermöglichen Wiederbelebung am Standort."
+          }
+        ]
+      }
+    },
+    "tips": {
+      "eyebrow": "Tipps",
+      "title": "Tipps für Anfänger",
+      "items": [
+        {
+          "title": "Zielpriorität",
+          "desc": "In den Optionen kannst du einstellen, ob beim Zielwechsel angreifende Gegner priorisiert werden. Standard: OFF."
+        },
+        {
+          "title": "Info-Bildschirm",
+          "desc": "Drücke [+] während Dämmerungsschlachten, um die Karte, deine Position, Spuren anderer Blutgeweihter und Gebietsmerkmale zu sehen."
+        },
+        {
+          "title": "Teleport",
+          "desc": "Wähle Teleportpunkte auf der Karte. Nicht verfügbar: Phasenbeginn, nach Teleport/Wiederbelebung, oder im Kampf."
+        },
+        {
+          "title": "Eindringlingsposition",
+          "desc": "Eindringlinge werden auf der Karte mit speziellen Markern angezeigt. Noch stärkere Eindringlinge existieren ebenfalls."
+        },
+        {
+          "title": "Gesten",
+          "desc": "Halte [+] gedrückt, um das Gestenmenü zu öffnen. Manche Gesten sind für Brandmal-Ziele erforderlich."
+        },
+        {
+          "title": "Funktionsmenü",
+          "desc": "Halte [Y] gedrückt, um das Menü zu öffnen. Enthält: Bündnisanfragen, Markierungen, Beobachtungsmodus, Vasallenbeschwörung."
+        }
+      ]
+    },
+    "meta": {
+      "title": "Spielmechanik | The Duskbloods Leitfaden",
+      "desc": "Die Kernmechaniken von The Duskbloods: Dämmerungsschlachten, Tugendsystem, Kampf, Vasallenverträge und mehr."
+    },
+    "stones": {
+      "eyebrow": "Ritualstätten",
+      "title": "Rot- und Goldsteine-Guide",
+      "desc": "Fordere Rote und Goldene Steine an den Plinthen in Ritualstätten. Nur ein Typ gleichzeitig — Rote erhöhen Schwert-Tugend, Goldene Gelübde-Tugend.",
+      "items": [
+        {
+          "title": "Roter Stein",
+          "desc": "Mit Rotem Stein: Mehr Schwert-Tugend an Ritualstätten. Für aggressive Spieler."
+        },
+        {
+          "title": "Goldener Stein",
+          "desc": "Mit Goldenem Stein: Mehr Gelübde-Tugend. Für Spieler, die Kampf meiden."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Gameplay-FAQ",
+      "items": [
+        {
+          "q": "Wie viele Spieler sind in einem Duskbloods-Match?",
+          "a": "Jede Dämmerungsschlacht unterstützt bis zu 8 Spieler im PvPvE-Kampf. Spieler kämpfen gegeneinander und gleichzeitig gegen KI-gesteuerte Gegner."
+        },
+        {
+          "q": "Was ist PvPvE in The Duskbloods?",
+          "a": "PvPvE steht für Spieler gegen Spieler gegen Umgebung. In The Duskbloods kämpfst du gegen andere Bloodsworn und gleichzeitig gegen KI-Gegner, Bosse und Umgefahren auf der Karte."
+        },
+        {
+          "q": "Welche Rollen gibt es bei den Bloodsworn?",
+          "a": "Die Bloodsworn sind spielbare Charaktere mit einzigartigen Waffen und Fähigkeiten. Jede Rolle bietet einen anderen Spielstil — Nahkampf, Fernangriff und Support. Die Blutgeschichte passt den Weg deines Charakters weiter an."
+        },
+        {
+          "q": "Wie funktioniert das Tugend-System?",
+          "a": "Tugend ist ein Fortschrittsmechanismus, der deinen Bloodsworn während eines Matches verstärkt. Verschiedene Tugendtypen bieten passive Boni und schalten neue Fähigkeiten frei."
+        },
+        {
+          "q": "Was sind Rotsteine und Goldsteine?",
+          "a": "Rot- und Goldsteine sind Sammelobjekte, die an Ritualstätten auf der Karte gefunden werden. Sie bieten mächtige Verbesserungen für deinen Bloodsworn während eines Matches."
+        },
+        {
+          "q": "Wie nehme ich am Netzwerktest von The Duskbloods teil?",
+          "a": "Registriere dich über den Nintendo eShop auf deiner Switch 2. Der geschlossene Netzwerktest findet 2026 statt. Besuche unsere Netzwerktest-Seite für genaue Termine und Registrierungsdetails."
         }
       ]
     }
@@ -272,29 +577,248 @@
     "note": {
       "title": "Komplettes Roster folgt",
       "desc": "Das vollständige Roster wird im Vorfeld des Releases nach und nach enthüllt. Schauen Sie wieder vorbei für detaillierte Charakteranalysen."
+    },
+    "roster": {
+      "eyebrow": "SPIELBARE CHARAKTERE",
+      "title": "Blutsbrüder",
+      "desc": "Der Netzwerktest bietet 6 spielbare Blutsbrüder, jeder mit einzigartigen Waffen und Blutsbruder-Künsten.",
+      "labels": {
+        "melee": "Nahkampf: ",
+        "ranged": "Fernkampf: ",
+        "bloodArts": "BLUTKÜNSTE",
+        "powers": "ASPEKTE"
+      },
+      "items": [
+        {
+          "name": "Albert",
+          "melee": "Lorriks Juwelensäbel",
+          "ranged": "MP",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "bloodArts": [
+            {
+              "name": "Blutklinge",
+              "desc": "Schleudert eine Klinge aus deinem eigenen Blut. Die Kraft hängt von der Blutreinheit ab."
+            },
+            {
+              "name": "Licht von Hayern",
+              "desc": "Hebt den Lichtkristall in seiner Fassung an und sendet einen Lichtstrahl aus."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Das edle Blut der Lorriks",
+              "desc": "Blutbasierte Blutsbruder-Künste können von Anfang an öfter eingesetzt werden."
+            },
+            {
+              "name": "Rebell",
+              "desc": "Erhöht den Haltungsschaden gegen Blutsbrüder mit hoher Tugend."
+            }
+          ]
+        },
+        {
+          "name": "Bluthand Jan",
+          "melee": "Blutrünstige Axt",
+          "ranged": "Zauberstein",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "bloodArts": [
+            {
+              "name": "Schattenschritt",
+              "desc": "Nutzt dein Blut für schnellere Ausweichmanöver. Die Wirkung lässt mit der Zeit nach."
+            },
+            {
+              "name": "Gib dich meinem Blut hin",
+              "desc": "Stillt den Durst der Axt mit deinem Blut und schlägt die Klinge in den Boden, wodurch blutige Schockwellen entstehen."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Die Linie der Bluthände",
+              "desc": "Ein Gegenangriff nach erlittenem Schaden heilt Trefferpunkte."
+            },
+            {
+              "name": "Blutmonarchie",
+              "desc": "Heilt Feinde in deinem Bann und stärkt gleichzeitig ihren Angriff."
+            }
+          ]
+        },
+        {
+          "name": "Trang Lanh",
+          "melee": "Vollmondklinge",
+          "ranged": "Vollmondklinge (geworfen)",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "bloodArts": [
+            {
+              "name": "Dunkelmond",
+              "desc": "Verbirgt dich hinter dem Dunkelmond für eine gewisse Dauer. Die Wirkung lässt nach."
+            },
+            {
+              "name": "Mama Nātha",
+              "desc": "Ruft eine riesige Silberschlange, Beschützerin der Ratnam, für einen kurzen Flächenangriff herbei."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Die Betörung der Braut",
+              "desc": "Blutsaugen bringt auch nahe Feinde in deinen Bann."
+            },
+            {
+              "name": "Tochter des Dunkelmonds",
+              "desc": "Entfernte Feinde können dich nicht sehen und du wirst seltener ins Visier genommen."
+            }
+          ]
+        },
+        {
+          "name": "Scharfschützin Layla",
+          "melee": "Sakrale Katare",
+          "ranged": "Scharfschützengewehr",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "bloodArts": [
+            {
+              "name": "Neb-ra-Flucht",
+              "desc": "Verwandelst dich in einen Schwarm und bewegst dich an eine neue Position, wobei ein Köder die Feinde verwirrt."
+            },
+            {
+              "name": "Verd-Trommelfeuer",
+              "desc": "Zieht eine riesige Trommelwaffe aus deinem Körper und entfesselt Schnellfeuer."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Die Linie von Neb-ra",
+              "desc": "Trefferpunkte regenerieren langsam bis zur Hälfte, aber Goldblut-Pfahl-Wirkung ist reduziert."
+            },
+            {
+              "name": "Nachtauge",
+              "desc": "Zielerfassung und Fokus sind aus größerer Entfernung möglich."
+            }
+          ]
+        },
+        {
+          "name": "Senator Samir Patres",
+          "melee": "Rapier des Senats",
+          "ranged": "Geistervogelring",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "bloodArts": [
+            {
+              "name": "Richtpfahl",
+              "desc": "Erzeugt eine Blutlache an den Füßen des Feindes, aus der ein gewaltiger Richtpfahl aufsteigt."
+            },
+            {
+              "name": "Saurifikation",
+              "desc": "Nimm die Gestalt eines Raptors an, stürze den Feind und zerquetsche ihn zwischen deinen Kiefern."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Blutkultivierung",
+              "desc": "Blutsbruder-Künste werden auf niedrigeren Stufen freigeschaltet."
+            },
+            {
+              "name": "Unerschütterliches Schwert",
+              "desc": "Nach einem perfekten Block erhöht sich deine Nahkampfangriffskraft."
+            }
+          ]
+        },
+        {
+          "name": "Zork",
+          "melee": "Unterseekabel",
+          "ranged": "Harpune",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "bloodArts": [
+            {
+              "name": "Schwarmfeuer",
+              "desc": "Eine Kanone fährt aus dem Rückenteil des Taucheranzugs hervor und feuert einen Torpedo-Schwarm."
+            },
+            {
+              "name": "Raketenflug",
+              "desc": "Ein Antriebssystem fährt aus dem Rücken des Taucheranzugs, geht in den Flugmodus und rast nach vorne."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Gesetz der Tiefsee",
+              "desc": "Wenn du andere Blutsbrüder besiegst, stiehlst du ihre max. TP. Falls ein Gegner dich tötet, gehen sie verloren."
+            },
+            {
+              "name": "Schauerlicher Schall",
+              "desc": "Ein Brüllen, das nicht mehr menschlich klingt. Halte [L]+[ZR] gedrückt, um das Brüllen zu verlängern."
+            }
+          ]
+        }
+      ]
     }
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Netzwerktest",
-      "title": "Der geschlossene Netzwerktest von The Duskbloods",
-      "lead": "FromSoftware führt einen geschlossenen Netzwerktest für The Duskbloods auf Nintendo Switch 2 durch. Das wissen wir über Termine, Anmeldung und Inhalt."
+      "title": "The Duskbloods Closed Network Test",
+      "lead": "Die Bewerbungsphase für den geschlossenen Netzwerktest von The Duskbloods auf Nintendo Switch 2 von FromSoftware ist beendet. Hier finden Sie den vollständigen Zeitplan und alle Details."
     },
-    "facts": {
-      "eyebrow": "Auf einen Blick",
-      "title": "Kerndaten",
+    "status": {
+      "label": "Bewerbungen geschlossen",
+      "desc": "Die Bewerbungsphase für den Netzwerktest ist beendet. Ausgewählte Spieler wurden am 7. August benachrichtigt."
+    },
+    "schedule": {
+      "eyebrow": "Zeitplan",
+      "title": "Vollständiger Ablauf",
+      "application": {
+        "label": "Bewerbungszeitraum",
+        "start": "22. Juli (Mi.) um 7:00 Uhr PDT",
+        "end": "28. Juli (Di.) um 6:59 Uhr PDT",
+        "note": "Mehrfache Bewerbungen desselben Nutzers werden abgelehnt. Teilnehmer werden nach Reihenfolge der Anmeldung ausgewählt."
+      },
+      "selection": {
+        "label": "Auswahlbekanntgabe",
+        "date": "7. August (Fr.) um 6:00 Uhr PDT",
+        "note": "Prüfen Sie Ihre Kontoseite auf der offiziellen Website, um das Ergebnis zu erfahren. Ausgewählte Spieler erhielten einen Download-Code."
+      },
+      "download": {
+        "label": "Client-Download",
+        "date": "Verfügbar ab 18. August (Di.) um 6:00 Uhr PDT",
+        "note": "Ausgewählte Spieler können den Download-Code im Nintendo Store oder Nintendo eShop einlösen. In einigen Regionen wird das Herunterladen über andere Wege als den Nintendo eShop nicht unterstützt."
+      },
+      "sessions": {
+        "label": "Test-Sitzungen",
+        "note": "Sitzungstermine und -zeiten können sich ohne Vorankündigung ändern oder abgesagt werden.",
+        "items": [
+          {
+            "date": "21. Aug. 2026 (Fr.)",
+            "time": "3:00 bis 7:00 Uhr PDT"
+          },
+          {
+            "date": "21. Aug. 2026 (Fr.)",
+            "time": "19:00 bis 23:00 Uhr PDT"
+          },
+          {
+            "date": "22. Aug. 2026 (Sa.)",
+            "time": "11:00 bis 15:00 Uhr PDT"
+          },
+          {
+            "date": "23. Aug. 2026 (So.)",
+            "time": "3:00 bis 7:00 Uhr PDT"
+          },
+          {
+            "date": "23. Aug. 2026 (So.)",
+            "time": "19:00 bis 23:00 Uhr PDT"
+          }
+        ]
+      }
+    },
+    "requirements": {
+      "eyebrow": "Voraussetzungen",
+      "title": "Was Sie benötigen",
       "items": [
         {
           "label": "Plattform",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Format",
-          "value": "Geschlossener Netzwerktest"
+          "label": "Mitgliedschaft",
+          "value": "Nintendo Switch Online-Mitgliedschaft"
         },
         {
-          "label": "Zugang",
-          "value": "Anmeldung auf der offiziellen Seite (Ergebnisse an Ausgewählte)"
+          "label": "Auswahl",
+          "value": "Nach Reihenfolge der Anmeldung (begrenzte Plätze)"
         },
         {
           "label": "Entwickler",
@@ -306,49 +830,27 @@
         }
       ]
     },
-    "howTo": {
-      "eyebrow": "Wie teilnehmen",
-      "title": "Anmeldung und Zugang",
-      "steps": [
-        {
-          "title": "Auf der offiziellen Seite anmelden",
-          "desc": "Die Anmeldung lief während des Zeitraums über die offizielle Testseite."
-        },
-        {
-          "title": "Ergebnis prüfen",
-          "desc": "Ausgewählte Spieler wurden auf der persönlichen Seite und per E-Mail benachrichtigt."
-        },
-        {
-          "title": "Test vorab laden",
-          "desc": "Der Test-Client ist für Nintendo Switch 2 als Vorabladung verfügbar."
-        },
-        {
-          "title": "In den aktiven Fenstern spielen",
-          "desc": "Der Test läuft in geplanten Sessions auf Switch 2."
-        }
-      ]
-    },
     "expect": {
       "eyebrow": "Was Sie erwartet",
       "title": "Im Test",
       "items": [
         {
-          "title": "Ein PvPvE-Ausschnitt",
-          "desc": "Erwarten Sie einen spielbaren Ausschnitt der 8-Spieler-PvPvE-Action des fertigen Spiels."
+          "title": "Ein Ausschnitt von PvPvE",
+          "desc": "Erwarten Sie einen spielbaren Ausschnitt der 8-Spieler-PvPvE-Action, die das vollständige Spiel prägt."
         },
         {
-          "title": "Performance und Stabilität",
-          "desc": "Der Test zielt auf Serverlast, Matchmaking und Stabilität unter realen Bedingungen."
+          "title": "Performance- und Stabilitätsprüfungen",
+          "desc": "Als Netzwerktest liegt der Fokus auf Serverlast, Matchmaking und Stabilität unter realen Bedingungen."
         },
         {
           "title": "In Arbeit",
-          "desc": "Inhalt, Balance und Optik können das fertige Spiel nicht vollständig widerspiegeln."
+          "desc": "Inhalt, Balance und Optik entsprechen möglicherweise nicht dem finalen Spiel. Erwarten Sie Unregelmäßigkeiten und Änderungen vor dem Release."
         }
       ]
     },
     "cta": {
-      "title": "Bleiben Sie am Ball bis zum Release",
-      "desc": "Der Netzwerktest ist ein erster Blick auf The Duskbloods vor dem Release 2026 auf Nintendo Switch 2. Wir halten diese Seite auf dem Laufenden."
+      "title": "Bleiben Sie gespannt auf den Release",
+      "desc": "Der Netzwerktest war ein erster Blick auf The Duskbloods vor dem Release 2026 auf Nintendo Switch 2. Wir halten diese Seite mit den neuesten Informationen auf dem Laufenden."
     }
   },
   "faq": {
@@ -530,6 +1032,56 @@
     "cta": {
       "title": "Lesezeichen setzen für das genaue Datum",
       "desc": "Wir aktualisieren diese Seite, sobald FromSoftware und Nintendo das genaue Release-Datum, den Preload-Zeitplan und weitere Launch-Details bekanntgeben."
+    }
+  },
+  "gallery": {
+    "intro": {
+      "eyebrow": "BILDSCHIRMFOTOS",
+      "title": "Galerie",
+      "lead": "Offizielle Bildschirmfotos von The Duskbloods — erkunden Sie die dunkle, immersive Welt des Multiplayer-Action-Titels von FromSoftware für Nintendo Switch 2."
+    },
+    "main": {
+      "eyebrow": "HAUPTSET",
+      "title": "Offizielle Bildschirmfotos",
+      "alt": "The Duskbloods Bildschirmfoto {n}"
+    },
+    "expansion": {
+      "eyebrow": "ERWEITERUNGSSET",
+      "title": "Zusätzliche Bildschirmfotos",
+      "alt": "The Duskbloods Erweiterungs-Bildschirmfoto {n}"
+    },
+    "lightbox": {
+      "alt": "The Duskbloods Bildschirmfoto {n}"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "Kontakt",
+      "title": "The Duskbloods Fan-Site kontaktieren",
+      "lead": "Vielen Dank für Ihren Besuch auf unserer Fan-Site. Kontaktieren Sie uns gerne mit Feedback, Vorschlägen, Partnerschaftsanfragen oder inhaltlichen Korrekturen."
+    },
+    "email": {
+      "title": "E-Mail",
+      "desc": "Senden Sie uns eine E-Mail und wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "address": "contact@duskbloods.com"
+    },
+    "social": {
+      "title": "Soziale Medien",
+      "desc": "Sie können uns auch über diese Plattformen erreichen.",
+      "links": [
+        {
+          "name": "Twitter / X",
+          "url": "https://x.com/duskbloods"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/duskbloods"
+        }
+      ]
+    },
+    "note": {
+      "title": "Haftungsausschluss",
+      "desc": "Dies ist eine inoffizielle Fan-Site und steht in keiner Verbindung zu FromSoftware oder Nintendo und wird von diesen nicht unterstützt. Wir können keine Hilfe bei Spielsupport oder Kontoproblemen leisten — wenden Sie sich bitte an den jeweiligen offiziellen Support."
     }
   }
 }

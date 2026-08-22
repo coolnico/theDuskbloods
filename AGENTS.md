@@ -85,11 +85,11 @@ src/
 │   ├── (root)/                English route group
 │   │   ├── layout.tsx         LocaleShell(en) wrapper
 │   │   ├── page.tsx           Homepage (/)
-│   │   └── {about,privacy,terms,gameplay,characters,faq,network-test,release-date}/page.tsx
+│   │   └── {about,privacy,terms,gameplay,characters,faq,gallery,network-test,release-date}/page.tsx
 │   └── [locale]/              Localized route group
 │       ├── layout.tsx         LocaleShell(locale) wrapper
 │       ├── page.tsx           Homepage (/zh, /ja, ...)
-│       └── {about,privacy,terms,gameplay,characters,faq,network-test,release-date}/page.tsx
+│       └── {about,privacy,terms,gameplay,characters,faq,gallery,network-test,release-date}/page.tsx
 ├── components/
 │   ├── LocaleShell.tsx        Client: NextIntlClientProvider + Header + Footer. detectLocale() reads URL only (no cookie)
 │   ├── Header.tsx             Top nav (5 links + LanguageSwitcher)
@@ -223,15 +223,22 @@ npm run deploy     # Deploy to Cloudflare Workers
 - Use `DOMAIN` constant (`https://duskbloods.net`) for any URL
 - Keep `VideoGame` JSON-LD `name` as `'The Duskbloods'` (the game's actual name) — only `WebSite.name` uses `SITE_NAME`
 - Translate `Metadata.{page}` (title/description) in all 9 message files — SEO-critical
-- Page-content nodes (`{page}` top-level) can fall back to English if not yet translated; next-intl handles gracefully
+- All 9 locales have full translations — never leave English fallback content in non-English files
 
-## Translation Status (as of 2026-08-20)
+## Translation Status (as of 2026-08-22)
 
 - `Metadata.*` (title/description): all 9 locales fully translated ✓
 - `nav.*`: all 9 locales fully translated ✓
-- Page content (intro/facts/expect/cta etc.):
-  - `en/ja/zh/es`: real translations ✓
-  - `fr/de/ko/it/pt`: English fallback (acceptable, next-intl handles)
+- Page content (intro/facts/expect/cta etc.): all 9 locales fully translated ✓
+  - `en/ja/zh/es/fr/de/ko/it/pt`: real translations ✓
+
+## YouTube Video IDs
+
+Extracted from official site's `resources/scripts/top.js`:
+- `K7oI_Bo9z8I` — Debut Trailer
+- `020HBXwwFeo` — Network Test Announcement
+
+Used in `HomeView.tsx` for the video embed section.
 
 ## Game Data Caveats
 

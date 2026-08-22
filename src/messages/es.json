@@ -39,6 +39,14 @@
     "releaseDate": {
       "title": "Fecha de lanzamiento de The Duskbloods — 2026 en Nintendo Switch 2",
       "description": "Fecha de lanzamiento de The Duskbloods: llega en 2026 como exclusiva de Nintendo Switch 2. FromSoftware × Nintendo, dirigido por Hidetaka Miyazaki."
+    },
+    "gallery": {
+      "title": "Galería — Capturas de The Duskbloods",
+      "description": "Explora las capturas oficiales de The Duskbloods, el juego de acción multijugador de FromSoftware para Nintendo Switch 2."
+    },
+    "contact": {
+      "title": "Contacto — Sitio fan de The Duskbloods",
+      "description": "Contacta con el sitio fan de The Duskbloods. Para comentarios, sugerencias o consultas de colaboración, contáctanos aquí."
     }
   },
   "privacy": {
@@ -68,6 +76,7 @@
     "releaseDate": "Fecha de lanzamiento",
     "faq": "FAQ",
     "about": "Acerca de",
+    "contact": "Contacto",
     "privacy": "Privacidad",
     "terms": "Términos",
     "explore": "Explorar",
@@ -75,7 +84,8 @@
     "legal": "Legal",
     "footerTagline": "Un centro de información de fans para The Duskbloods — fecha de lanzamiento, jugabilidad, personajes y noticias de la prueba de red.",
     "disclaimer": "The Duskbloods es una marca comercial de FromSoftware y Nintendo. Este es un sitio de información de fans no oficial y no está afiliado ni respaldado por FromSoftware o Nintendo.",
-    "copyright": "© {year} The Duskbloods Fan Site. Todo el contenido del juego pertenece a sus respectivos propietarios."
+    "copyright": "© {year} The Duskbloods Fan Site. Todo el contenido del juego pertenece a sus respectivos propietarios.",
+    "gallery": "Galería"
   },
   "home": {
     "hero": {
@@ -135,9 +145,9 @@
       ]
     },
     "networkBanner": {
-      "eyebrow": "Recién anunciado",
-      "title": "Prueba de red cerrada en Switch 2",
-      "desc": "FromSoftware realizará una prueba de red cerrada de The Duskbloods en Nintendo Switch 2. La descarga de la prueba ya está disponible para precarga. Consulta el calendario, cómo registrarte y qué esperar.",
+      "eyebrow": "Última actualización",
+      "title": "Inscripciones a la prueba de red cerradas",
+      "desc": "El periodo de inscripción para la prueba de red cerrada de The Duskbloods ha finalizado. Los jugadores seleccionados fueron notificados el 7 de agosto. La prueba de red se celebra del 21 al 23 de agosto.",
       "cta": "Ver detalles de la prueba de red"
     },
     "charactersTeaser": {
@@ -175,6 +185,18 @@
           "a": "Al ser exclusivo de Nintendo Switch 2, el crossplay con otras plataformas no aplica. El multijugador se da entre jugadores de Switch 2."
         }
       ]
+    },
+    "screenshots": {
+      "eyebrow": "CAPTURAS",
+      "title": "Del Juego",
+      "cta": "Ver Más →",
+      "alt": "Captura de The Duskbloods {n}"
+    },
+    "videos": {
+      "eyebrow": "TRÁILERS",
+      "title": "Ver Vídeos",
+      "debut": "The Duskbloods — Tráiler de Presentación",
+      "networkTest": "The Duskbloods — Anuncio del Test de Red"
     }
   },
   "gameplay": {
@@ -211,7 +233,7 @@
     ],
     "roles": {
       "eyebrow": "Roles y builds",
-      "title": "Construye tu Bloodsworn",
+      "title": "Roles y Builds de Bloodsworn",
       "desc": "Cada Bloodsworn ofrece armas y habilidades distintas, y tu historia de sangre moldea su camino. Prueba distintos personajes y configuraciones para encontrar al luchador que encaje contigo.",
       "items": [
         {
@@ -225,6 +247,289 @@
         {
           "title": "Historia de sangre",
           "desc": "Un elemento narrativo personalizable que influye en el camino y destino del personaje en la partida."
+        }
+      ]
+    },
+    "matchStructure": {
+      "eyebrow": "ESTRUCTURA",
+      "title": "Flujo de Partida de Batalla Crepuscular",
+      "desc": "Ocho Conversos de Sangre son convocados al crepúsculo humano para competir por la Primera Sangre. Las batallas se dividen en 4 fases, con el Grial eliminando progresivamente hasta que los 3 supervivientes finales luchen por la Concesión de Sangre.",
+      "stages": [
+        {
+          "name": "Fase I: Exploración y conquista",
+          "desc": "Ocho Conversos entran en las Tierras del Crepúsculo y comienzan a acumular Virtud.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "bullets": [
+            "Derrota enemigos, enciende candiles para Virtud de la llama, explora objetos",
+            "Aparecen rasgos regionales — Bolsas de sangre, Hornos alquímicos, Círculos de vasallos",
+            "Obtén Virtud del repudio derrotando a superenemigos o intrusos",
+            "Consigue objetos para aumentar la Loa del coleccionista"
+          ]
+        },
+        {
+          "name": "Fase II: Sitios rituales y selección",
+          "desc": "El Grial comienza su selección. Los Conversos con Virtud insuficiente son eliminados.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "bullets": [
+            "Dos tipos de Virtud en sitios rituales: Virtud de la espada y Virtud del juramento",
+            "Reclama Piedras rojas (espada) o Piedras doradas (juramento) de los plintos",
+            "Salir de un sitio ritual tras entrar te penaliza con pérdida de HP",
+            "Eventos aleatorios: apoyo de zepelines, tormentas magnéticas"
+          ]
+        },
+        {
+          "name": "Fase III: Eventos y batalla intensificada",
+          "desc": "La selección continúa. Los rasgos regionales cambian. El campo de batalla es más peligroso.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "bullets": [
+            "Los rasgos regionales cambian, ofreciendo nuevas oportunidades de mejora",
+            "Los sitios rituales reabren con competencia más feroz",
+            "Los eventos aleatorios continúan afectando el campo de batalla",
+            "Acumula Poderes de sangre y crece a tus vasallos para la fase final"
+          ]
+        },
+        {
+          "name": "Fase final: Otorgamiento de sangre lunar",
+          "desc": "Solo quedan los tres Conversos con mayor Virtud. Luchan por la victoria definitiva.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "bullets": [
+            "El Grial otorga dos vidas — puedes revivir una vez",
+            "HP bonus basado en la Virtud acumulada en fases anteriores",
+            "Las alianzas se disuelven — los aliados se convierten en oponentes",
+            "Usa tu Converso, poderes de vasallos e items para reclamar la victoria"
+          ]
+        }
+      ],
+      "finalDetail": "La lágrima de la luna solo cae por uno. Usa el Converso, poderes de vasallos e items forjados en las fases anteriores para ser el último vencedor."
+    },
+    "coreSystems": {
+      "title": "Guía de Mejora de Bloodsworn",
+      "systems": [
+        {
+          "title": "Subir de nivel al Converso",
+          "desc": "Derrota a enemigos y a otros jugadores para ganar experiencia y subir de nivel, lo cual incrementará tus PV y potencia de ataque."
+        },
+        {
+          "title": "Pactos de vasallaje",
+          "desc": "A quienes han cerrado un acuerdo con la Orden del Crepúsculo se los conoce como «vasallos», y prestan sus servicios al formar un pacto con ellos en los sellos de invocación."
+        }
+      ]
+    },
+    "combat": {
+      "eyebrow": "Combate",
+      "title": "Guía de Mecánicas de Combate",
+      "mechanics": [
+        {
+          "title": "Desequilibrio",
+          "desc": "Atacar a un enemigo llena la barra de desequilibrio. Al llenarse, el enemigo queda desequilibrado y vulnerable."
+        },
+        {
+          "title": "Absorción de sangre",
+          "desc": "Absorbe la sangre de enemigos desequilibrados, infligiendo gran daño y recuperando HP. Los enemigos débiles quedan hechizados y te siguen."
+        },
+        {
+          "title": "Aullido",
+          "desc": "Todos los Conversos pueden aullar, produciendo una ráfaga. Aúlla sincronizado con el ataque enemigo para interrumpirlo. Puede desviar algunos ataques a distancia."
+        },
+        {
+          "title": "Guardia",
+          "desc": "Genera un escudo para bloquear ataques frontales. Funciona en el aire. Los ataques continuos rompen el escudo. Se repara solo. Pulsa R tras bloquear para un Contraataque."
+        },
+        {
+          "title": "Estaca de sangre dorada",
+          "desc": "Restaura HP. Repón usos derrotando enemigos o encontrando Sangre dorada en el mundo."
+        }
+      ]
+    },
+    "alliances": {
+      "eyebrow": "Social",
+      "title": "Alianzas y Estigmas",
+      "items": [
+        {
+          "title": "Alianzas",
+          "desc": "Es posible forjar alianzas con otros Conversos de Sangre durante la partida."
+        },
+        {
+          "title": "Estigmas",
+          "desc": "Los estigmas determinan qué relación une entre sí a los Conversos de Sangre."
+        }
+      ]
+    },
+    "hub": {
+      "eyebrow": "Base",
+      "title": "La Morada de la Noche",
+      "desc": "Tu base. Puedes elegir qué Converso usar o aprender controles y reglas básicas.",
+      "features": [
+        {
+          "name": "Ecos de batalla",
+          "desc": "Te permiten experimentar partes de las batallas crepusculares y aprender las reglas. Se recomienda empezar por aquí al llegar a La Morada de la Noche."
+        },
+        {
+          "name": "Archivo",
+          "desc": "Consulta en cualquier momento la información registrada: armas, vasallos, objetos, poderes de sangre, eventos y tutoriales."
+        },
+        {
+          "name": "Patio",
+          "desc": "En el patio de La Morada de la Noche puedes practicar con los Espantapájaros o probar acciones. También puedes cambiar varios ajustes desde el menú."
+        },
+        {
+          "name": "Reglas del juego",
+          "desc": "En el menú de batallas crepusculares puedes configurar el matchmaking. Estándar (predeterminado), Sin alianzas, o Alianzas de sangre. En estas últimas, todos luchan en pareja y la alianza persiste hasta la fase final."
+        }
+      ]
+    },
+    "virtue": {
+      "title": "Sistema de Virtud Explicado",
+      "desc": "La Virtud es indispensable para sobrevivir en las batallas crepusculares. Solo los Conversos con mayor Virtud sobreviven a la selección. Se puede obtener no solo por combate, sino también por exploración y estrategia.",
+      "types": [
+        {
+          "title": "Virtud del repudio",
+          "desc": "En las Tierras del Crepúsculo, te cruzarás con adversarios más poderosos de lo normal: los superenemigos. No obstante, existen amenazas externas aún más serias: los invasores conocidos como «intrusos»."
+        },
+        {
+          "title": "Virtud de la llama",
+          "desc": "La virtud de la llama se obtiene al encender el candil de la calavera de cadáveres que se hallan sentados en tronos a lo largo de las Tierras del Crepúsculo."
+        },
+        {
+          "title": "Virtud de la espada",
+          "desc": "Vence a otros Conversos de Sangre en un espacio ritual para ganar este tipo de virtud, que no se puede conseguir fuera de estas ubicaciones."
+        },
+        {
+          "title": "Virtud del juramento",
+          "desc": "En los espacios rituales, se erigen efigies de lealtad, que otorgan virtud del juramento al jurar abnegación ante ellas. No obstante, se perderá dicha virtud si otro Converso de Sangre suplanta el juramento."
+        },
+        {
+          "title": "Virtud de la loa",
+          "desc": "Existen dos tipos de loa, y los dos jugadores con mayor cantidad de cada una recibirán virtud al final de cada fase."
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "Cambios en el campo",
+      "title": "Eventos",
+      "desc": "En las fases II y III, pueden ocurrir eventos que cambian las Tierras del Crepúsculo.",
+      "items": [
+        {
+          "title": "Eventos",
+          "desc": "Durante las fases II y III, se puede producir algún evento que altere las Tierras del Crepúsculo; por ejemplo, un zepelín que sobrevuela repentinamente los cielos y al que puedes solicitar fuego de cobertura, o una intensa tormenta que teletransporta a la fuerza a los jugadores a otro lugar."
+        }
+      ]
+    },
+    "controls": {
+      "eyebrow": "Controles",
+      "title": "Controles",
+      "desc": "Controles básicos y menú de funciones."
+    },
+    "expedition": {
+      "eyebrow": "Detalles de expedición",
+      "title": "Enfrentamientos contra superenemigos",
+      "bloodPowers": {
+        "title": "Poderes de sangre",
+        "desc": "Derrota a superenemigos o intrusos para obtener Poderes de sangre, que otorgan diversas habilidades. Selecciona uno de varios opciones. Hasta 5 pueden manifestarse a la vez."
+      },
+      "coopBattle": {
+        "title": "Batallas cooperativas",
+        "desc": "Al iniciar combate con un intruso, se invita a los Conversos cercanos a unirse. Lucha junto a quienes acepten."
+      },
+      "regions": {
+        "title": "Explorar las regiones",
+        "desc": "Cada área de las Tierras del Crepúsculo posee sus propios rasgos por fase. Consulta el mapa y busca las mejoras que se adapten a tu estilo.",
+        "features": [
+          {
+            "title": "Bolsa de sangre",
+            "desc": "Aparecen Bolsas de sangre. Derrótalas para obtener Cristales de sangre y potenciar las artes del Converso."
+          },
+          {
+            "title": "Horno alquímico",
+            "desc": "Aparecen Hornos alquímicos que otorgan atributos elementales a las armas. El mismo atributo sube el nivel del arma."
+          },
+          {
+            "title": "Círculo de vasallos",
+            "desc": "Aparecen Círculos de vasallos, fortaleciendo tu pacto y otorgando gran EXP a los vasallos contratados."
+          },
+          {
+            "title": "Objetos de exploración",
+            "desc": "Obtén objetos explorando o derrotando enemigos. Los cócteles Molotov arden, las Lápidas te permiten revivir en su ubicación."
+          }
+        ]
+      }
+    },
+    "tips": {
+      "eyebrow": "Consejos",
+      "title": "Consejos para Principiantes",
+      "items": [
+        {
+          "title": "Prioridad de objetivo",
+          "desc": "En opciones, configura si priorizar enemigos que te atacan al cambiar de objetivo. Por defecto es OFF."
+        },
+        {
+          "title": "Pantalla de información",
+          "desc": "Pulsa [+] durante las batallas para ver el mapa, tu posición, rastros de otros Conversos y rasgos regionales."
+        },
+        {
+          "title": "Teletransporte",
+          "desc": "Selecciona puntos de teletransporte en el mapa. No disponible: al inicio de fase, tras teletransporte/revivir, o en combate."
+        },
+        {
+          "title": "Ubicación de intrusos",
+          "desc": "Los intrusos se muestran en el mapa con marcadores especiales. También existen intrusos más poderosos."
+        },
+        {
+          "title": "Gestos",
+          "desc": "Mantén [+] para abrir el menú de gestos. Algunos gestos son clave para ciertos objetivos de Estigmas."
+        },
+        {
+          "title": "Menú de funciones",
+          "desc": "Mantén [Y] para abrir el menú. Incluye: Solicitudes de alianza, Marcadores, Modo observación, Invocar vasallos."
+        }
+      ]
+    },
+    "meta": {
+      "title": "Mecánicas del juego | Guía de The Duskbloods",
+      "desc": "Profundiza en las mecánicas de The Duskbloods: flujo de batalla, sistema de Virtud, combate, pactos de vasallaje y más."
+    },
+    "stones": {
+      "eyebrow": "Sitios rituales",
+      "title": "Guía de Piedras Rojas y Doradas",
+      "desc": "Reclama Piedras rojas y doradas de los plintos en sitios rituales. Solo un tipo a la vez — las rojas potencian Virtud de la espada, las doradas Virtud del juramento.",
+      "items": [
+        {
+          "title": "Piedra roja",
+          "desc": "Con Piedra roja, obtén más Virtud de la espada en sitios rituales. Para jugadores agresivos."
+        },
+        {
+          "title": "Piedra dorada",
+          "desc": "Con Piedra dorada, obtén más Virtud del juramento. Para jugadores que evitan el combate."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Preguntas frecuentes de jugabilidad",
+      "items": [
+        {
+          "q": "¿Cuántos jugadores hay en una partida de Duskbloods?",
+          "a": "Cada batalla crepuscular admite hasta 8 jugadores en combate PvPvE. Los jugadores compiten entre sí mientras luchan contra enemigos controlados por IA."
+        },
+        {
+          "q": "¿Qué es PvPvE en The Duskbloods?",
+          "a": "PvPvE significa Jugador contra Jugador contra Entorno. En The Duskbloods, compites contra otros Bloodsworn mientras luchas contra enemigos IA, jefes y peligros del mapa."
+        },
+        {
+          "q": "¿Cuáles son los roles de los Bloodsworn?",
+          "a": "Los Bloodsworn son personajes jugables con armas y habilidades únicas. Cada rol ofrece un estilo de juego diferente: cuerpo a cuerpo, ataque a distancia y soporte. La Historia de Sangre personaliza aún más el camino de tu personaje."
+        },
+        {
+          "q": "¿Cómo funciona el sistema de Virtud?",
+          "a": "Virtud es una mecánica de progresión que mejora tu Bloodsworn durante una partida. Los diferentes tipos de Virtud proporcionan bonificaciones pasivas y desbloquean nuevas habilidades."
+        },
+        {
+          "q": "¿Qué son las Piedras Rojas y Piedras Doradas?",
+          "a": "Las Piedras Rojas y Doradas son objetos coleccionables encontrados en sitios rituales del mapa. Proporcionan mejoras poderosas a tu Bloodsworn durante una partida."
+        },
+        {
+          "q": "¿Cómo me uno a la prueba de red de The Duskbloods?",
+          "a": "Regístrate a través de la Nintendo eShop en tu Switch 2. La prueba cerrada se realiza en 2026. Consulta nuestra página de Prueba de Red para fechas y detalles de registro."
         }
       ]
     }
@@ -272,29 +577,248 @@
     "note": {
       "title": "Plantel completo próximamente",
       "desc": "El plantel completo de Bloodsworn se revelará conforme se acerque el lanzamiento. Vuelve para análisis detallados de personajes, armas y habilidades."
+    },
+    "roster": {
+      "eyebrow": "PERSONAJES JUGABLES",
+      "title": "Sangrientos",
+      "desc": "La prueba de red cuenta con 6 Sangrientos jugables, cada uno con armas y habilidades únicas.",
+      "labels": {
+        "melee": "Cuerpo a cuerpo: ",
+        "ranged": "A distancia: ",
+        "bloodArts": "ARTES DE SANGRE",
+        "powers": "ASPECTOS"
+      },
+      "items": [
+        {
+          "name": "Albert",
+          "melee": "Sable de los Lorrik",
+          "ranged": "Ametralladora",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "bloodArts": [
+            {
+              "name": "Espada de sangre",
+              "desc": "Lanza una hoja forjada con la sangre del portador. Su potencia depende de la pureza de la sangre."
+            },
+            {
+              "name": "Luz de Hayern",
+              "desc": "Levanta el cristal incrustado para emitir un rayo de luz."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Sangre pura de Lorrik",
+              "desc": "Las habilidades basadas en la sangre se pueden usar más veces desde el inicio."
+            },
+            {
+              "name": "Rebelde",
+              "desc": "Aumenta el potencial de aturdimiento contra Sangrientos con alta virtud."
+            }
+          ]
+        },
+        {
+          "name": "Jan Manosangrienta",
+          "melee": "Hacha sangrienta",
+          "ranged": "Rubí de hechicería",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "bloodArts": [
+            {
+              "name": "Destello",
+              "desc": "Usa la sangre del portador para aumentar la velocidad de evasión. El efecto se desvanece con el tiempo."
+            },
+            {
+              "name": "Rendición a mi sangre",
+              "desc": "Sacia la sed del hacha con la sangre del portador, luego golpea la hoja contra el suelo generando ondas de choque sangrientas."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Linaje de los Manosangrienta",
+              "desc": "Restaura HP al contraatacar después de recibir daño."
+            },
+            {
+              "name": "Señor de la sangre",
+              "desc": "Restaura HP a los enemigos embrujados y también potencia el ataque."
+            }
+          ]
+        },
+        {
+          "name": "Trang Lanh",
+          "melee": "Hojaluna",
+          "ranged": "Hojaluna (lanzada)",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "bloodArts": [
+            {
+              "name": "Hija de la luna oscura",
+              "desc": "La luna oscura la oculta de los enemigos durante un período de tiempo."
+            },
+            {
+              "name": "Mama Nātha",
+              "desc": "Invoca una serpiente gigante de plata, guardiana de los Ratnam, para atacar el área durante un tiempo."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Seducción de la novia",
+              "desc": "Beber sangre también encanta a los enemigos cercanos."
+            },
+            {
+              "name": "Hija de la luna oscura",
+              "desc": "Permite ocultarse de enemigos lejanos y dificulta que los rivales la apunten."
+            }
+          ]
+        },
+        {
+          "name": "Layla, la tiradora",
+          "melee": "Catares sagrados",
+          "ranged": "Rifle de francotirador",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "bloodArts": [
+            {
+              "name": "Desvanecimiento Neb-ra",
+              "desc": "Toma la forma de un enjambre de insectos para teletransportarse a una ubicación lejana, dejando una imagen señuelo que confunde al enemigo."
+            },
+            {
+              "name": "Ametralladora Verd",
+              "desc": "Extrae una ametralladora gigante de su cuerpo, se prepara para disparar y desata una ráfaga de tiros."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Linaje Neb-ra",
+              "desc": "Recupera HP gradualmente hasta el 50% del máximo, pero la estaca de sangre dorada restaura menos."
+            },
+            {
+              "name": "Ojo de la noche",
+              "desc": "Aumenta el rango al fijar un objetivo y al concentrarse."
+            }
+          ]
+        },
+        {
+          "name": "Senador Samir Patres",
+          "melee": "Estoque del Senado",
+          "ranged": "Anillo aviar",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "bloodArts": [
+            {
+              "name": "Estaca sangrienta",
+              "desc": "Forma un charco de sangre a los pies del enemigo del que erupciona una estaca sangrienta gigante."
+            },
+            {
+              "name": "Forma sauria",
+              "desc": "Toma la apariencia de un dinosaurio carnívoro antes de cargar contra el enemigo y atraparlo con sus fauces."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Discípulo de la sangre",
+              "desc": "Reduce el nivel requerido para usar habilidades de sangre."
+            },
+            {
+              "name": "Espada inquebrantable",
+              "desc": "Realizar un bloqueo perfecto aumenta el poder de ataque cuerpo a cuerpo."
+            }
+          ]
+        },
+        {
+          "name": "Zork",
+          "melee": "Cable submarino",
+          "ranged": "Lanzar arpón",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "bloodArts": [
+            {
+              "name": "Misil",
+              "desc": "Despliega un cañón desde la parte trasera del traje de buceo, se prepara para disparar y lanza un misil."
+            },
+            {
+              "name": "Cohete humano",
+              "desc": "Activa un mecanismo de propulsión en el traje de buceo para entrar en modo de vuelo y lanzarse hacia adelante."
+            }
+          ],
+          "powers": [
+            {
+              "name": "Ley del lecho marino",
+              "desc": "Derrota a otros Sangrientos para robar su HP máximo. Pierdes ese HP si la víctima te mata."
+            },
+            {
+              "name": "Resonancia aterradora",
+              "desc": "Emite un aullido a frecuencia inhumana. Mantén L y ZR para prolongar el aullido."
+            }
+          ]
+        }
+      ]
     }
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Prueba de red",
-      "title": "La prueba de red cerrada de The Duskbloods",
-      "lead": "FromSoftware realiza una prueba de red cerrada de The Duskbloods en Nintendo Switch 2. Esto es lo que sabemos sobre calendario, registro y contenido."
+      "title": "The Duskbloods Closed Network Test",
+      "lead": "El periodo de inscripción para la prueba de red cerrada de The Duskbloods en Nintendo Switch 2 de FromSoftware ha finalizado. Aquí tienes el calendario completo y todos los detalles."
     },
-    "facts": {
-      "eyebrow": "De un vistazo",
-      "title": "Datos clave",
+    "status": {
+      "label": "Inscripciones cerradas",
+      "desc": "El periodo de inscripción para la prueba de red ha finalizado. Los jugadores seleccionados fueron notificados el 7 de agosto."
+    },
+    "schedule": {
+      "eyebrow": "Calendario",
+      "title": "Cronograma completo",
+      "application": {
+        "label": "Periodo de inscripción",
+        "start": "22 de julio (mié.) a las 7:00 PDT",
+        "end": "28 de julio (mar.) a las 6:59 PDT",
+        "note": "Las inscripciones múltiples del mismo usuario serán rechazadas. Los participantes serán seleccionados por orden de inscripción."
+      },
+      "selection": {
+        "label": "Anuncio de la selección",
+        "date": "7 de agosto (vie.) a las 6:00 PDT",
+        "note": "Consulta la página de tu cuenta en el sitio oficial para conocer el resultado. Los jugadores seleccionados recibieron un código de descarga."
+      },
+      "download": {
+        "label": "Descarga del cliente",
+        "date": "Disponible desde el 18 de agosto (mar.) a las 6:00 PDT",
+        "note": "Los jugadores seleccionados pueden usar el código de descarga en Nintendo Store o Nintendo eShop. En algunas regiones, la descarga por medios distintos al Nintendo eShop no está disponible."
+      },
+      "sessions": {
+        "label": "Sesiones de prueba",
+        "note": "Las fechas y horarios de las sesiones pueden cambiar o cancelarse sin previo aviso.",
+        "items": [
+          {
+            "date": "21 ago 2026 (vie.)",
+            "time": "3:00 a 7:00 PDT"
+          },
+          {
+            "date": "21 ago 2026 (vie.)",
+            "time": "19:00 a 23:00 PDT"
+          },
+          {
+            "date": "22 ago 2026 (sáb.)",
+            "time": "11:00 a 15:00 PDT"
+          },
+          {
+            "date": "23 ago 2026 (dom.)",
+            "time": "3:00 a 7:00 PDT"
+          },
+          {
+            "date": "23 ago 2026 (dom.)",
+            "time": "19:00 a 23:00 PDT"
+          }
+        ]
+      }
+    },
+    "requirements": {
+      "eyebrow": "Requisitos",
+      "title": "Lo que necesitas",
       "items": [
         {
           "label": "Plataforma",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Formato",
-          "value": "Prueba de red cerrada"
+          "label": "Suscripción",
+          "value": "Suscripción a Nintendo Switch Online"
         },
         {
-          "label": "Acceso",
-          "value": "Registro en la web oficial (resultados a los seleccionados)"
+          "label": "Selección",
+          "value": "Por orden de inscripción (plazas limitadas)"
         },
         {
           "label": "Desarrollador",
@@ -306,49 +830,27 @@
         }
       ]
     },
-    "howTo": {
-      "eyebrow": "Cómo participar",
-      "title": "Registro y acceso",
-      "steps": [
-        {
-          "title": "Regístrate en la web oficial",
-          "desc": "El alta se realizó a través de la página oficial durante el periodo de registro."
-        },
-        {
-          "title": "Comprueba tu resultado",
-          "desc": "Los seleccionados fueron avisados en la página personal del sitio y por correo."
-        },
-        {
-          "title": "Precarga la prueba",
-          "desc": "El cliente de la prueba de red está disponible para precarga en Nintendo Switch 2."
-        },
-        {
-          "title": "Juega en las ventanas activas",
-          "desc": "La prueba se celebra en sesiones programadas en Switch 2. Únete dentro de las ventanas activas."
-        }
-      ]
-    },
     "expect": {
       "eyebrow": "Qué esperar",
       "title": "Dentro de la prueba",
       "items": [
         {
-          "title": "Un fragmento de PvPvE",
-          "desc": "Espera una porción jugable de la acción PvPvE de 8 jugadores que define el juego."
+          "title": "Una muestra de PvPvE",
+          "desc": "Espera una porción jugable de la acción PvPvE de 8 jugadores que define el juego completo."
         },
         {
-          "title": "Rendimiento y estabilidad",
-          "desc": "Como prueba de red, el foco es la carga del servidor, el emparejamiento y la estabilidad."
+          "title": "Pruebas de rendimiento y estabilidad",
+          "desc": "Como prueba de red, el enfoque está en la carga del servidor, el emparejamiento y la estabilidad en condiciones reales."
         },
         {
           "title": "Trabajo en progreso",
-          "desc": "El contenido, el balance y los gráficos pueden no representar el juego final."
+          "desc": "El contenido, el equilibrio y los gráficos pueden no representar el juego final. Espera imperfecciones y cambios antes del lanzamiento."
         }
       ]
     },
     "cta": {
       "title": "Atento al lanzamiento completo",
-      "desc": "La prueba de red es un primer vistazo de The Duskbloods antes de su lanzamiento en 2026 en Nintendo Switch 2. Mantendremos esta página actualizada."
+      "desc": "La prueba de red fue un primer vistazo de The Duskbloods antes de su lanzamiento en 2026 en Nintendo Switch 2. Mantendremos esta página actualizada con las últimas novedades."
     }
   },
   "faq": {
@@ -530,6 +1032,56 @@
     "cta": {
       "title": "Guarda esta página para la fecha exacta",
       "desc": "Actualizaremos esta página en el momento en que FromSoftware y Nintendo anuncien la fecha exacta de lanzamiento, la fecha de precarga y los detalles del lanzamiento."
+    }
+  },
+  "gallery": {
+    "intro": {
+      "eyebrow": "CAPTURAS",
+      "title": "Galería",
+      "lead": "Capturas oficiales de The Duskbloods — explora el mundo oscuro e inmersivo del título de acción multijugador de FromSoftware para Nintendo Switch 2."
+    },
+    "main": {
+      "eyebrow": "CONJUNTO PRINCIPAL",
+      "title": "Capturas Oficiales",
+      "alt": "Captura de The Duskbloods {n}"
+    },
+    "expansion": {
+      "eyebrow": "CONJUNTO DE EXPANSIÓN",
+      "title": "Capturas Adicionales",
+      "alt": "Captura de expansión de The Duskbloods {n}"
+    },
+    "lightbox": {
+      "alt": "Captura de The Duskbloods {n}"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "Contacto",
+      "title": "Contactar con el sitio fan de The Duskbloods",
+      "lead": "Gracias por visitar nuestro sitio fan. No dudes en contactarnos para comentarios, sugerencias, consultas de colaboración o correcciones de contenido."
+    },
+    "email": {
+      "title": "Correo electrónico",
+      "desc": "Envíanos un correo electrónico y te responderemos lo antes posible.",
+      "address": "contact@duskbloods.com"
+    },
+    "social": {
+      "title": "Redes sociales",
+      "desc": "También puedes conectarte con nosotros en estas plataformas.",
+      "links": [
+        {
+          "name": "Twitter / X",
+          "url": "https://x.com/duskbloods"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/duskbloods"
+        }
+      ]
+    },
+    "note": {
+      "title": "Aviso legal",
+      "desc": "Este es un sitio fan no oficial y no está afiliado ni respaldado por FromSoftware ni Nintendo. No podemos ayudar con soporte del juego o problemas de cuenta — contacta al soporte oficial correspondiente."
     }
   }
 }
