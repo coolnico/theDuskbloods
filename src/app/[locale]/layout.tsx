@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import LocaleShell from '@/components/LocaleShell';
 import { alternates, DOMAIN, LOCALES, SITE_NAME } from '@/lib/seo';
+import { notFound } from 'next/navigation';
 
 export const revalidate = 172800;
 
@@ -11,6 +12,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  if (!LOCALES.includes(locale as any)) return {};
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'Metadata.root' });
   const path = '';
@@ -48,6 +50,7 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  if (!LOCALES.includes(locale as any)) notFound();
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'Metadata.root' });
   const messages = (await import(`@/messages/${locale}.json`)).default;

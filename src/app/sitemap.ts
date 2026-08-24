@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { DOMAIN, LOCALES } from '@/lib/seo';
+import { getAllSlugs, getTranslatedLocales } from '@/lib/news';
 
 // English served at root (no prefix) + each non-en locale prefixed
 const NON_EN = LOCALES.filter((l) => l !== 'en');
@@ -12,6 +13,7 @@ const PAGES = [
   { path: '/release-date', priority: 0.9 },
   { path: '/gallery', priority: 0.8 },
   { path: '/faq', priority: 0.8 },
+  { path: '/latest', priority: 0.8 },
   { path: '/about', priority: 0.6 },
   { path: '/privacy', priority: 0.3 },
   { path: '/terms', priority: 0.3 },
@@ -24,6 +26,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     urls.push({ url: `${DOMAIN}${path}`, priority, changeFrequency: 'weekly' });
     for (const locale of NON_EN) {
       urls.push({ url: `${DOMAIN}/${locale}${path}`, priority, changeFrequency: 'weekly' });
+    }
+  }
+
+  // News articles — only include locales with actual translations
+  const slugs = getAllSlugs();
+  for (const slug of slugs) {
+    urls.push({ url: `${DOMAIN}/latest/${slug}`, priority: 0.7, changeFrequency: 'monthly' });
+    for (const locale of getTranslatedLocales(slug)) {
+      urls.push({ url: `${DOMAIN}/${locale}/latest/${slug}`, priority: 0.7, changeFrequency: 'monthly' });
     }
   }
 

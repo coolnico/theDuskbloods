@@ -28,6 +28,7 @@ export default function Footer() {
             <div>
               <div className="mb-3 text-xs font-semibold uppercase tracking-wider text-gold">{t('explore')}</div>
               <ul className="space-y-2 text-sm">
+                <li><Link href="/latest" className="nav-link">{t('latest')}</Link></li>
                 <li><Link href="/gameplay" className="nav-link">{t('gameplay')}</Link></li>
                 <li><Link href="/characters" className="nav-link">{t('characters')}</Link></li>
                 <li><Link href="/gallery" className="nav-link">{t('gallery')}</Link></li>

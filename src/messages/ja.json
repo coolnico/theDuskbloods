@@ -47,6 +47,10 @@
     "contact": {
       "title": "お問い合わせ — The Duskbloods ファンサイト",
       "description": "The Duskbloods ファンサイトへのお問い合わせ。フィードバック、ご提言、パートナーシップに関するお問い合わせはこちらから。"
+    },
+    "news": {
+      "title": "最新ニュース＆記事 — ダスクブラッド ガイド",
+      "description": "フロム・ソフトウェアのPvPvEマルチプレイアクション『The Duskbloods』の最新ニュース、ガイド、アップデートをお届けします。"
     }
   },
   "privacy": {
@@ -85,7 +89,18 @@
     "footerTagline": "The Duskbloodsのファン情報ハブ — 発売時期、ゲームプレイ、キャラクター、ネットワークテストの最新情報。",
     "disclaimer": "The Duskbloodsはフロム・ソフトウェアおよび任天堂の商標です。当サイトは非公式のファン情報サイトであり、両社とは提携・推奨関係にありません。",
     "copyright": "© {year} The Duskbloods Fan Site. ゲームコンテンツの一切の権利はそれぞれの権利者に帰属します。",
-    "gallery": "ギャラリー"
+    "gallery": "ギャラリー",
+    "latest": "最新情報"
+  },
+  "news": {
+    "backToList": "最新情報一覧に戻る",
+    "noArticles": "記事はまだありません。また後で確認してください。",
+    "eyebrow": "ニュース",
+    "title": "最新記事",
+    "lead": "The Duskbloodsの最新ニュース、ガイド、アップデート。",
+    "updatedOn": "更新日",
+    "fallbackNotice": "この記事はまだお使いの言語で利用できません。英語版を表示しています。",
+    "readingTime": "約{min}分"
   },
   "home": {
     "hero": {

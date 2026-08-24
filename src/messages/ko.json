@@ -47,6 +47,10 @@
     "contact": {
       "title": "문의 — The Duskbloods 팬 사이트",
       "description": "The Duskbloods 팬 사이트에 문의하세요. 피드백, 제안, 파트너십 문의는 여기로 연락해 주세요."
+    },
+    "news": {
+      "title": "최신 뉴스 및 기사 — 더스크블러드 가이드",
+      "description": "프롬소프트웨어의 PvPvE 멀티플레이어 액션 게임 'The Duskbloods'의 최신 뉴스, 가이드, 업데이트를 확인하세요."
     }
   },
   "privacy": {
@@ -85,7 +89,18 @@
     "footerTagline": "The Duskbloods 팬 정보 센터 — 출시 시기, 게임플레이, 캐릭터 및 네트워크 테스트 소식.",
     "disclaimer": "The Duskbloods는 FromSoftware와 닌텐도의 상표입니다. 본 사이트는 비공식 팬 정보 사이트이며 FromSoftware나 닌텐도와 제휴하거나 보증받지 않았습니다.",
     "copyright": "© {year} The Duskbloods Fan Site. 모든 게임 콘텐츠의 권리는 각 소유자에게 있습니다.",
-    "gallery": "갤러리"
+    "gallery": "갤러리",
+    "latest": "최신 소식"
+  },
+  "news": {
+    "backToList": "최신 소식으로 돌아가기",
+    "noArticles": "아직 기사가 없습니다. 곧 다시 확인해 주세요.",
+    "eyebrow": "뉴스",
+    "title": "최신 기사",
+    "lead": "The Duskbloods의 최신 뉴스, 가이드, 업데이트.",
+    "updatedOn": "업데이트",
+    "fallbackNotice": "이 기사는 아직 귀하의 언어로 제공되지 않습니다. 영어 버전을 표시합니다.",
+    "readingTime": "약 {min}분 소요"
   },
   "home": {
     "hero": {

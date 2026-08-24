@@ -47,6 +47,10 @@
     "contact": {
       "title": "Contacto — Sitio fan de The Duskbloods",
       "description": "Contacta con el sitio fan de The Duskbloods. Para comentarios, sugerencias o consultas de colaboración, contáctanos aquí."
+    },
+    "news": {
+      "title": "Últimas noticias y artículos — Guía de The Duskbloods",
+      "description": "Mantente al día con las últimas noticias, guías y novedades sobre The Duskbloods, el juego de acción PvPvE de FromSoftware para Nintendo Switch 2."
     }
   },
   "privacy": {
@@ -85,7 +89,18 @@
     "footerTagline": "Un centro de información de fans para The Duskbloods — fecha de lanzamiento, jugabilidad, personajes y noticias de la prueba de red.",
     "disclaimer": "The Duskbloods es una marca comercial de FromSoftware y Nintendo. Este es un sitio de información de fans no oficial y no está afiliado ni respaldado por FromSoftware o Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. Todo el contenido del juego pertenece a sus respectivos propietarios.",
-    "gallery": "Galería"
+    "gallery": "Galería",
+    "latest": "Novedades"
+  },
+  "news": {
+    "backToList": "Volver a Novedades",
+    "noArticles": "Aún no hay artículos. Vuelve pronto.",
+    "eyebrow": "Noticias",
+    "title": "Últimos artículos",
+    "lead": "Noticias, guías y novedades sobre The Duskbloods.",
+    "updatedOn": "Actualizado",
+    "fallbackNotice": "Este artículo aún no está disponible en tu idioma. Mostrando versión en inglés.",
+    "readingTime": "{min} min de lectura"
   },
   "home": {
     "hero": {

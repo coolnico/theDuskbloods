@@ -47,6 +47,10 @@
     "contact": {
       "title": "联系我们 — The Duskbloods - 黄昏血族",
       "description": "联系 The Duskbloods 粉丝资讯站。反馈、建议或合作洽谈，请通过以下方式联系我们。"
+    },
+    "news": {
+      "title": "最新资讯与文章 — 黄昏血族指南",
+      "description": "掌握 FromSoftware PvPvE 多人动作游戏《The Duskbloods》的最新消息、攻略与更新。"
     }
   },
   "privacy": {
@@ -85,7 +89,18 @@
     "footerTagline": "The Duskbloods 粉丝资讯站 — 发售时间、玩法、角色与网络测试最新消息。",
     "disclaimer": "The Duskbloods 是 FromSoftware 与任天堂的商标。本站为非官方粉丝资讯站，与上述公司无隶属或受其认可关系。",
     "copyright": "© {year} The Duskbloods Fan Site. 游戏内容的权益归各自权利人所有。",
-    "gallery": "游戏截图"
+    "gallery": "游戏截图",
+    "latest": "最新资讯"
+  },
+  "news": {
+    "backToList": "返回最新资讯",
+    "noArticles": "暂无文章，请稍后再来。",
+    "eyebrow": "资讯",
+    "title": "最新文章",
+    "lead": "The Duskbloods 的最新消息、攻略与更新。",
+    "updatedOn": "更新于",
+    "fallbackNotice": "该文章暂无您的语言版本，正在显示英文版。",
+    "readingTime": "{min} 分钟阅读"
   },
   "home": {
     "hero": {
