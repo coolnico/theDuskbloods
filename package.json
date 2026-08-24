@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --port 3444",
+    "pregenerate": "node scripts/generate-articles.mjs",
+    "generate": "node scripts/generate-articles.mjs",
     "build": "next build",
     "start": "next start",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
