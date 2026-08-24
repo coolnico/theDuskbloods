@@ -2,7 +2,12 @@ import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { getAllArticleMetas } from '@/lib/news';
+import { LOCALES } from '@/lib/seo';
 import NewsList from '@/components/NewsList';
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.news', path: '/latest' });
 
