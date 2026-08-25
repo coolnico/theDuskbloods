@@ -57,5 +57,52 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "content": "<blockquote>\n<p><strong>结论先行</strong>：根据 IGN 对宫崎英高的采访，《The Duskbloods》（黄昏血族）将采用更偏向&quot;按水平分层&quot;的匹配思路——<strong>高水平玩家优先匹配高手，新手玩家优先匹配新手</strong>。这对第一次接触 The Duskbloods 的玩家来说，是一个非常重要的利好信号。</p>\n</blockquote>\n<p>如果你是因为&quot;怕被老玩家碾压&quot;而犹豫是否入坑《The Duskbloods》（黄昏血族），那么现在可以放心了。宫崎英高在受访时明确表示，游戏的匹配系统会以类似&quot;ranked（分级/按水平分层）&quot;的方式运作，避免新手直接掉进高手局。</p>\n<p>这意味着，<strong>第一次玩 The Duskbloods 的玩家，大概率会先遇到和你一样正在学习游戏的新手</strong>，而不是一上来就被顶级玩家&quot;炸鱼&quot;。</p>\n<hr>\n<h2>为什么这对 The Duskbloods 新手玩家很重要？</h2>\n<p>The Duskbloods 作为一款强调多人对局博弈的作品，玩家最担心的并不是&quot;画面不够好&quot;或&quot;武器不够多&quot;，而是——\n<strong>&quot;我刚进游戏，会不会完全没有体验？&quot;</strong></p>\n<p>宫崎英高的表态，本质上就是在回应这个问题：</p>\n<ul>\n<li>高水平玩家优先和高手匹配</li>\n<li>新手玩家优先和新手匹配</li>\n<li>尽量避免极端实力差距带来的糟糕体验</li>\n</ul>\n<p>这对新手有三个直接好处：</p>\n<h3>1）学习曲线更友好</h3>\n<p>你可以在相对平等的环境里熟悉操作、机制、节奏，而不是刚开局就被瞬间击溃。</p>\n<h3>2）失败也能积累价值</h3>\n<p>在很多带有成长系统的多人游戏里，失败并不等于&quot;毫无收益&quot;。\n只要你在对局中持续探索、解锁内容、理解系统，你的投入依然是有效的。</p>\n<h3>3）更容易坚持到&quot;真正上手&quot;</h3>\n<p>很多玩家不是不喜欢游戏，而是<strong>在前几局体验太差时直接流失</strong>。\n更合理的匹配机制能帮助新手撑过最初的学习期，逐渐体会到 The Duskbloods 的真正乐趣。</p>\n<hr>\n<h2>宫崎英高到底说了什么？（The Duskbloods 匹配机制原文）</h2>\n<p>在 IGN 的采访中，围绕&quot;如何让新玩家也能有良好体验&quot;这个问题，宫崎英高回应道：</p>\n<blockquote>\n<p>&quot;In terms of really, really good players, we definitely plan on having the matchmaking system work in a way so it&#39;s ranked, and players who are really good tend to be matched with other players who are great, and players who are new tend to be matched with other new players…&quot;</p>\n</blockquote>\n<p>翻译过来就是：\n<strong>高手倾向于匹配高手，新手倾向于匹配新手</strong>，以此避免新玩家一开始就遭遇极端实力差的对局。</p>\n<p>这段话也是目前中文社区广泛传播&quot;《黄昏血族》将采用 SBMM、保护新手玩家&quot;的核心依据。</p>\n<hr>\n<h2>The Duskbloods 是严格 SBMM 吗？先别急着下结论</h2>\n<p>虽然很多中文内容会直接把宫崎英高的话归纳为&quot;采用 SBMM&quot;，但从英文表述来看，更准确的理解应该是：</p>\n<h3>官方强调的是&quot;按水平分层匹配&quot;</h3>\n<p>也就是：</p>\n<ul>\n<li>高手更容易匹配到高手</li>\n<li>新手更容易匹配到新手</li>\n</ul>\n<h3>不一定要等同于&quot;某种具体算法名称&quot;</h3>\n<p>换句话说，<strong>核心目标是保护新手、减少炸鱼</strong>，但未必等于完全照搬某些竞技游戏那种&quot;每一局都严格按隐藏分推演&quot;的 SBMM 模型。</p>\n<p>所以更稳妥的说法是：\n<strong>The Duskbloods 会采用更偏向分级匹配的机制，优先保证新手体验。</strong></p>\n<hr>\n<h2>总结：The Duskbloods 新手玩家可以更安心入坑</h2>\n<p>综合目前公开信息来看：</p>\n<ul>\n<li><strong>宫崎英高已经明确表示，The Duskbloods 会更偏向按水平分层匹配</strong></li>\n<li><strong>新手玩家更可能先匹配到新手</strong></li>\n<li><strong>这是为了降低&quot;炸鱼&quot;体验，帮助新手更好入门</strong></li>\n</ul>\n<p>因此，<strong>第一次玩 The Duskbloods 的玩家不用太焦虑</strong>。\n与其担心被高手碾压，不如把注意力放在理解机制、熟悉地图、提升基本功上。</p>\n<hr>\n<p><em>信息来源：<a href=\"https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn\">IGN 宫崎英高采访原文</a></em></p>\n",
       "wordCount": 1160
     }
+  },
+  "duskbloods-release-date-september24-denied": {
+    "en": {
+      "title": "The Duskbloods Release Date: September 24? Nintendo Says No",
+      "date": "2026-08-25",
+      "modified": null,
+      "summary": "A preview article claimed The Duskbloods would launch on September 24, 2026. Nintendo has since denied the date. Here's what we actually know.",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "release-date",
+        "nintendo",
+        "switch2",
+        "news"
+      ],
+      "content": "<blockquote>\n<p><strong>TL;DR</strong>: The September 24 release date floating around? Not confirmed. Nintendo has denied it. The only solid info we have: 2026, Switch 2 exclusive, exact date TBA.</p>\n</blockquote>\n<hr>\n<h2>Where Did September 24 Come From?</h2>\n<p>A single preview article dropped the date <strong>September 24, 2026</strong> as <em>The Duskbloods</em>&#39; launch day. It spread fast — a lot of players took it as gospel.</p>\n<p>But here&#39;s the thing: <strong>neither Nintendo nor FromSoftware ever officially confirmed that date.</strong></p>\n<hr>\n<h2>Nintendo&#39;s Response</h2>\n<p>Two outlets quickly set the record straight:</p>\n<ul>\n<li><strong>Nintendo Wire</strong> ran with: Nintendo confirms <em>The Duskbloods</em> is not releasing on September 24.</li>\n<li><strong>NintendoLife</strong> followed up: Nintendo has denied the rumoured release date.</li>\n</ul>\n<p>To be clear — <strong>this isn&#39;t a delay. You can&#39;t delay something that was never officially dated.</strong> It was an error in a preview piece that got picked up and repeated before anyone fact-checked it.</p>\n<hr>\n<h2>What Do We Actually Know?</h2>\n<p>Here&#39;s where things stand right now:</p>\n<ul>\n<li><em>The Duskbloods</em> is still targeting a <strong>2026 release</strong></li>\n<li>It&#39;s a <strong>Nintendo Switch 2 exclusive</strong></li>\n<li>The <strong>exact release date has not been announced</strong> — and September 24 has been specifically denied</li>\n</ul>\n<p>Until Nintendo or FromSoftware make an official announcement, any specific date is just speculation.</p>\n<hr>\n<h2>The Bottom Line</h2>\n<p>The &quot;September 24&quot; thing wasn&#39;t a leak, wasn&#39;t a delay — <strong>it was inaccurate info from a preview that Nintendo has since corrected.</strong></p>\n<p>As of now, the safe bet on <em>The Duskbloods</em>: <strong>2026, Switch 2 only, date TBD.</strong> Wait for the official word.</p>\n<hr>\n<p><em>Sources: <a href=\"https://nintendowire.com/news/2026/08/20/nintendo-confirms-the-duskbloods-is-not-releasing-on-september-24-despite-one-preview-claiming-it-was/\">Nintendo Wire</a> · <a href=\"https://www.nintendolife.com/news/2026/08/nintendo-denies-rumoured-release-date-for-the-duskbloods\">NintendoLife</a></em></p>\n",
+      "wordCount": 262
+    },
+    "ja": {
+      "title": "The Duskbloods 発売日は9月24日？任天堂が正式に否定",
+      "date": "2026-08-25",
+      "modified": null,
+      "summary": "一部のプレビュー記事で『The Duskbloods』の発売日が9月24日と報じられたが、任天堂がこの日付を否定。現在確定しているのは2026年発売、Switch 2専売のみ。",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "release-date",
+        "nintendo",
+        "switch2",
+        "news"
+      ],
+      "content": "<blockquote>\n<p><strong>要点</strong>：9月24日という発売日は公式情報ではない。任天堂がすでに否定している。確定しているのは「2026年発売、Switch 2専売、正確な日付は未定」の3点だけだ。</p>\n</blockquote>\n<hr>\n<h2>9月24日という情報の出所は？</h2>\n<p>きっかけは1本のプレビュー記事。そこに <strong>2026年9月24日</strong> という具体的な日付が書かれていた。</p>\n<p>瞬く間に広まり、多くのプレイヤーが公式情報として受け止めた。しかし——<strong>任天堂もFromSoftwareも、この日付を正式に発表したことはない。</strong></p>\n<hr>\n<h2>任天堂の対応</h2>\n<p>すぐに2つのメディアが事実関係を整理した。</p>\n<ul>\n<li><strong>Nintendo Wire</strong> は「任天堂、The Duskbloodsは9月24日に発売しないことを確認」と報じた。</li>\n<li><strong>NintendoLife</strong> も続報。任天堂がこの噂の発売日を否定したことを伝えた。</li>\n</ul>\n<p>つまり、<strong>延期ではない。正式に発表されていない日付を「延期」とは言えない。</strong> プレビュー記事の誤りが、確認される前に一人歩きしただけの話だ。</p>\n<hr>\n<h2>現時点で分かっていること</h2>\n<p>ここまでに判明している情報：</p>\n<ul>\n<li>『The Duskbloods』は <strong>2026年の発売を予定</strong></li>\n<li><strong>Nintendo Switch 2 専売</strong></li>\n<li><strong>正確な発売日は未発表</strong> —— 9月24日はすでに否定済み</li>\n</ul>\n<p>任天堂またはFromSoftwareの正式発表があるまで、具体的な日付はあくまで推測の域を出ない。</p>\n<hr>\n<h2>まとめ</h2>\n<p>「発売日9月24日」はリークでも延期でもない。<strong>プレビュー記事の不正確な情報であり、任天堂がすでに否定したものだ。</strong></p>\n<p>現段階で『The Duskbloods』について確実なのは、<strong>2026年、Switch 2専売、日程は未定</strong>という3点。正式発表を待つのが一番だ。</p>\n<hr>\n<p><em>出典：<a href=\"https://nintendowire.com/news/2026/08/20/nintendo-confirms-the-duskbloods-is-not-releasing-on-september-24-despite-one-preview-claiming-it-was/\">Nintendo Wire</a> · <a href=\"https://www.nintendolife.com/news/2026/08/nintendo-denies-rumoured-release-date-for-the-duskbloods\">NintendoLife</a></em></p>\n",
+      "wordCount": 573
+    },
+    "zh": {
+      "title": "The Duskbloods 发售日是9月24？任天堂已否认",
+      "date": "2026-08-25",
+      "modified": null,
+      "summary": "此前有媒体声称 The Duskbloods 将于9月24日发售，随后 Nintendo Wire 和 NintendoLife 相继报道任天堂已否认这一日期。目前确认的只有：2026年发售，Switch 2 独占。",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "release-date",
+        "nintendo",
+        "switch2",
+        "news"
+      ],
+      "content": "<blockquote>\n<p><strong>一句话总结</strong>：9月24日这个发售日不是官方确认的，任天堂已经否认。目前唯一确定的是——2026年内发售，Switch 2 独占。</p>\n</blockquote>\n<hr>\n<h2>9月24日这个说法从哪来的？</h2>\n<p>事情的起因是一篇报道里提到了一个具体日期：<strong>2026年9月24日</strong>。</p>\n<p>这个日期被迅速传播，很多玩家当成了官方消息。但问题是——<strong>这个日期从未被任天堂或 FromSoftware 正式确认过。</strong></p>\n<hr>\n<h2>任天堂怎么回应的？</h2>\n<p>后续两篇报道直接澄清了这件事：</p>\n<ul>\n<li><strong>Nintendo Wire</strong> 的标题写得很明确：任天堂确认 <em>The Duskbloods</em> 不会在9月24日发售。</li>\n<li><strong>NintendoLife</strong> 也跟进报道：任天堂方面已经否认了这个日期。</li>\n</ul>\n<p>换句话说，<strong>这是一次媒体端的信息错误，不是跳票，不是延期，因为这个日期从来就不是正式公布过的。</strong></p>\n<hr>\n<h2>那现在到底知道什么？</h2>\n<p>目前已确认的信息：</p>\n<ul>\n<li><em>The Duskbloods</em> <strong>计划2026年内发售</strong></li>\n<li><strong>Nintendo Switch 2 独占</strong></li>\n<li><strong>正式发售日尚未公布</strong>——9月24日已经被否认</li>\n</ul>\n<p>所以在官方正式宣布之前，任何具体日期都不值得当真。</p>\n<hr>\n<h2>结论</h2>\n<p>&quot;发售日9月24&quot;不是跳票，也不是泄露，<strong>是一篇 preview 里的不准确信息，随后被任天堂否认。</strong></p>\n<p>目前对 <em>The Duskbloods</em> 最稳妥的认知就是：<strong>2026年，Switch 2 独占，日期待定。</strong> 等官方消息就好。</p>\n<hr>\n<p><em>来源：<a href=\"https://nintendowire.com/news/2026/08/20/nintendo-confirms-the-duskbloods-is-not-releasing-on-september-24-despite-one-preview-claiming-it-was/\">Nintendo Wire</a> · <a href=\"https://www.nintendolife.com/news/2026/08/nintendo-denies-rumoured-release-date-for-the-duskbloods\">NintendoLife</a></em></p>\n",
+      "wordCount": 430
+    }
   }
 };
