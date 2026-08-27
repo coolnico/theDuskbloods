@@ -6,17 +6,19 @@ import Header from './Header';
 import Footer from './Footer';
 import { useEffect, useState } from 'react';
 
-const LOCALES = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'ko', 'it', 'pt'] as const;
+const LOCALES = ['en', 'ja', 'zh', 'zh-TW', 'es', 'fr', 'de', 'ko', 'it', 'pt', 'ru'] as const;
 const MESSAGES: Record<string, () => Promise<any>> = {
   en: () => import('@/messages/en.json'),
   ja: () => import('@/messages/ja.json'),
   zh: () => import('@/messages/zh.json'),
+  'zh-TW': () => import('@/messages/zh-TW.json'),
   es: () => import('@/messages/es.json'),
   fr: () => import('@/messages/fr.json'),
   de: () => import('@/messages/de.json'),
   ko: () => import('@/messages/ko.json'),
   it: () => import('@/messages/it.json'),
   pt: () => import('@/messages/pt.json'),
+  ru: () => import('@/messages/ru.json'),
 };
 
 function detectLocale(): string {
