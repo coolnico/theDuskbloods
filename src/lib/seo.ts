@@ -1,6 +1,6 @@
 export const DOMAIN = 'https://duskbloods.net';
 export const SITE_NAME = 'Duskbloods Guide';
-export const LOCALES = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'ko', 'it', 'pt'] as const;
+export const LOCALES = ['en', 'ja', 'zh', 'zh-TW', 'es', 'fr', 'de', 'ko', 'it', 'pt', 'ru'] as const;
 export const DEFAULT_OG_IMAGE = `${DOMAIN}/og.svg`;
 export const PROD_HOSTNAMES = ['duskbloods.net', 'www.duskbloods.net'];
 

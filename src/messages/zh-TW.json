@@ -1,0 +1,1114 @@
+{
+  "Metadata": {
+    "root": {
+      "title": "The Duskbloods - 黃昏血族 — FromSoftware 宮崎英高 PvPvE 動作遊戲（Nintendo Switch 2 / 2026）",
+      "description": "The Duskbloods - 黃昏血族是由宮崎英高監督、FromSoftware 開發、任天堂發行的 PvPvE 多人動作遊戲，2026 年登陸 Nintendo Switch 2。發售時間、玩法、Bloodsworn角色與網路測試全解析。"
+    },
+    "home": {
+      "title": "The Duskbloods - 黃昏血族 — 發售時間、玩法與網路測試全攻略",
+      "description": "FromSoftware 為 Nintendo Switch 2 打造的 PvPvE 多人動作 RPG《The Duskbloods》（Bloodsworn）全面介紹。2026 年發售、玩法機制、Bloodsworn角色、劇情設定、封閉網路測試報名方式一網打盡。"
+    },
+    "gameplay": {
+      "title": "The Duskbloods - 黃昏血族 玩法詳解 — PvPvE 戰鬥、Bloodsworn與對局流程",
+      "description": "完整解析 The Duskbloods 的玩法：8 人 PvPvE 對局、Bloodsworn的角色定位、血之力、武器、目標，以及戰鬥如何在人類黃昏之中展開。"
+    },
+    "characters": {
+      "title": "The Duskbloods - 黃昏血族 角色 — Bloodsworn陣營與血之歷史",
+      "description": "認識 The Duskbloods 的可玩角色「Bloodsworn」。介紹十餘位戰士及其武器、能力、血之力，以及可自訂的血之歷史。"
+    },
+    "networkTest": {
+      "title": "The Duskbloods - 黃昏血族 網路測試 — 時間安排、報名方式與測試內容",
+      "description": "FromSoftware 在 Nintendo Switch 2 上舉辦 The Duskbloods 封閉網路測試。整理測試時間、報名方式、測試內容、下載大小與玩家可期待的內容。"
+    },
+    "faq": {
+      "title": "The Duskbloods - 黃昏血族 常見問題 — 發售、平台、多人模式等",
+      "description": "解答關於 The Duskbloods 最常見的問題：發售時間、Nintendo Switch 2 獨佔、PvPvE 多人、單人模式、跨平台連線、網路測試等。"
+    },
+    "about": {
+      "title": "關於 The Duskbloods - 黃昏血族 — FromSoftware 的 Switch 2 獨佔之作",
+      "description": "FromSoftware 開發、宮崎英高監督的 Nintendo Switch 2 獨佔作品《The Duskbloods》概述：起源、主題與意義。"
+    },
+    "privacy": {
+      "title": "隱私政策 — The Duskbloods - 黃昏血族",
+      "description": "The Duskbloods 粉絲資訊站的隱私政策，說明我們如何處理資料、Cookie 與分析。"
+    },
+    "terms": {
+      "title": "服務條款 — The Duskbloods - 黃昏血族",
+      "description": "The Duskbloods 粉絲資訊站的使用條款。The Duskbloods 及相關的一切權益歸屬於 FromSoftware 與任天堂。"
+    },
+    "releaseDate": {
+      "title": "The Duskbloods - 黃昏血族 發售日 — 2026 年任天堂 Switch 2 獨佔",
+      "description": "The Duskbloods 發售日期：2026 年發售，任天堂 Switch 2 獨佔。FromSoftware × 任天堂，宮崎英高監製。發售相關資訊彙整。"
+    },
+    "gallery": {
+      "title": "遊戲截圖 — 黃昏血族官方截圖",
+      "description": "瀏覽 FromSoftware 為 Nintendo Switch 2 打造的多人動作遊戲「黃昏血族」的官方遊戲截圖。"
+    },
+    "contact": {
+      "title": "聯繫我們 — The Duskbloods - 黃昏血族",
+      "description": "聯繫 The Duskbloods 粉絲資訊站。回饋、建議或合作洽談，請透過以下方式聯繫我們。"
+    },
+    "news": {
+      "title": "最新資訊與文章 — 黃昏血族指南",
+      "description": "掌握宮崎英高監製、FromSoftware PvPvE 多人動作遊戲《The Duskbloods》的最新消息、攻略與更新。"
+    }
+  },
+  "privacy": {
+    "title": "隱私政策",
+    "description": "The Duskbloods 粉絲站如何處理資料、Cookie 與分析。",
+    "paragraphs": [
+      "本隱私政策說明您造訪 The Duskbloods 粉絲資訊站（以下簡稱「本站」）時，我們如何處理您的資料。",
+      "本站閱讀內容無需註冊帳號或提交個人資訊。我們可能使用注重隱私的分析工具，了解整體流量以改進站點。",
+      "如使用 Cookie，主要用於記住您的語言偏好，以及支援廣告或分析合作夥伴。您可隨時在瀏覽器設定中關閉 Cookie，且不影響內容存取。",
+      "本站為非官方粉絲資訊站，與 FromSoftware 或任天堂無任何隸屬或受其認可關係。如對本政策有疑問，請透過站點的聯繫方式與我們溝通。"
+    ]
+  },
+  "terms": {
+    "title": "服務條款",
+    "description": "The Duskbloods 粉絲資訊站的使用條款。",
+    "paragraphs": [
+      "造訪本站即表示您同意以下條款。The Duskbloods 粉絲站免費提供關於遊戲《The Duskbloods》的非官方資訊，僅供資訊與教育目的。",
+      "The Duskbloods 及相關的一切名稱、商標與素材均歸各自權利人所有，包括 FromSoftware 與任天堂。本站不主張與上述方有任何合作、贊助或受其認可關係。",
+      "本站內容由團隊獨立撰寫，可能隨時更新或更正。遊戲 2026 年發售前仍處於開發階段，資訊可能變動，我們不保證內容的完整或準確。",
+      "如對內容有任何顧慮，請透過站點的聯繫方式與我們聯繫。"
+    ]
+  },
+  "nav": {
+    "gameplay": "玩法",
+    "characters": "角色",
+    "networkTest": "網路測試",
+    "releaseDate": "發售日",
+    "faq": "常見問題",
+    "about": "關於",
+    "contact": "聯繫我們",
+    "privacy": "隱私",
+    "terms": "條款",
+    "explore": "探索",
+    "company": "站點",
+    "legal": "法律",
+    "footerTagline": "The Duskbloods 粉絲資訊站 — 發售時間、玩法、角色與網路測試最新消息。",
+    "disclaimer": "The Duskbloods 是 FromSoftware 與任天堂的商標。本站為非官方粉絲資訊站，與上述公司無隸屬或受其認可關係。",
+    "copyright": "© {year} The Duskbloods Fan Site. 遊戲內容的權益歸各自權利人所有。",
+    "gallery": "遊戲截圖",
+    "latest": "最新資訊"
+  },
+  "news": {
+    "backToList": "返回最新資訊",
+    "noArticles": "暫無文章，請稍後再來。",
+    "eyebrow": "資訊",
+    "title": "最新文章",
+    "lead": "The Duskbloods 的最新消息、攻略與更新。",
+    "updatedOn": "更新於",
+    "fallbackNotice": "該文章暫無您的語言版本，正在顯示英文版。",
+    "readingTime": "{min} 分鐘閱讀"
+  },
+  "home": {
+    "hero": {
+      "badge": "FromSoftware × Nintendo Switch 2",
+      "title": "The Duskbloods - 黃昏血族",
+      "subtitle": "宮崎英高監督的 PvPvE 多人動作遊戲。化身Bloodsworn，在人類黃昏之際為爭奪First Blood而戰。",
+      "ctaPrimary": "查看玩法",
+      "ctaSecondary": "網路測試資訊",
+      "releaseLabel": "發售",
+      "releaseValue": "2026 年",
+      "platformLabel": "平台",
+      "platformValue": "Nintendo Switch 2（獨佔）",
+      "genreLabel": "類型",
+      "genreValue": "PvPvE 動作 RPG",
+      "playersLabel": "人數",
+      "playersValue": "最多 8 人",
+      "playableLabel": "可玩角色",
+      "playableValue": "12+"
+    },
+    "overview": {
+      "eyebrow": "概述",
+      "title": "The Duskbloods 是什麼？",
+      "paragraphs": [
+        "The Duskbloods - 黃昏血族是由打造《艾爾登法環》與《黑暗之魂》系列的 FromSoftware 開發、宮崎英高監督的多人動作遊戲。本作由任天堂發行，作為 Switch 2 獨佔作品，預定於 2026 年發售。",
+        "故事發生在「人類黃昏」——人類文明的終末期。玩家將扮演「Bloodsworn」：憑藉特殊之血獲得超越凡人之力的戰士。他們為爭奪「First Blood」而展開殊死之戰，這正是驅動遊戲核心衝突的神秘力量。",
+        "每局對戰最多匯聚八名玩家，在 PvPvE 戰鬥中同時展開玩家間的對抗與對強敵的討伐。每位Bloodsworn都擁有獨特的武器、能力，以及可自訂、並左右其在對局中道路與命運的血之歷史。"
+      ]
+    },
+    "features": {
+      "eyebrow": "核心特色",
+      "title": "The Duskbloods 的看點",
+      "items": [
+        {
+          "title": "8 人 PvPvE 戰鬥",
+          "desc": "每局對戰最多匯聚八名Bloodsworn，玩家之間的較量與對強敵的討伐同時進行，競爭、博弈與生存交織出難以預測的局面。"
+        },
+        {
+          "title": "Bloodsworn",
+          "desc": "十餘位可玩角色，各有獨特武器、能力與外觀，並可藉由血之歷史塑造其道路。"
+        },
+        {
+          "title": "血之力",
+          "desc": "特殊之血賦予超越人類極限的能力。掌握這些力量扭轉戰局，追尋First Blood。"
+        },
+        {
+          "title": "人類黃昏",
+          "desc": "從哥特維多利亞街景走向近代工業世界的暗黑浪漫舞台，文明的終末即是爭鬥之地。"
+        },
+        {
+          "title": "FromSoftware 設計",
+          "desc": "宮崎英高監督、由專門團隊打造，將工作室標誌性的暗黑奇幻美學注入全新的多人方向。"
+        },
+        {
+          "title": "Nintendo Switch 2 獨佔",
+          "desc": "FromSoftware 二十餘年來首款主機獨佔作品，為 Switch 2 硬體從零打造。"
+        }
+      ]
+    },
+    "networkBanner": {
+      "eyebrow": "最新消息",
+      "title": "Switch 2 封閉網路測試報名已截止",
+      "desc": "The Duskbloods 封閉網路測試的報名已截止，中選玩家已於 8 月 7 日收到通知。網路測試將於 8 月 21 日至 23 日進行。",
+      "cta": "查看網路測試詳情"
+    },
+    "charactersTeaser": {
+      "eyebrow": "Bloodsworn",
+      "title": "為血所縛的戰士",
+      "desc": "化身Bloodsworn——十餘位可玩戰士，各有獨特武器、能力與個人血之歷史。他們並非失控的怪物，而是擁有自我意志與命運、自覺而強大的戰士。",
+      "cta": "查看角色"
+    },
+    "faq": {
+      "eyebrow": "常見問題",
+      "title": "常見問題解答",
+      "items": [
+        {
+          "q": "The Duskbloods 什麼時候發售？",
+          "a": "The Duskbloods 預定於 2026 年在 Nintendo Switch 2 發售。FromSoftware 及其母公司角川已確認本作仍按 2026 年發售推進，但具體發售日尚未公布。"
+        },
+        {
+          "q": "The Duskbloods 是 Nintendo Switch 2 獨佔嗎？",
+          "a": "是的。The Duskbloods 由任天堂發行，為 Nintendo Switch 2 獨佔作品，也是 FromSoftware 二十餘年來首款主機獨佔作品。"
+        },
+        {
+          "q": "The Duskbloods 只能多人遊玩嗎？",
+          "a": "The Duskbloods 以 8 人 PvPvE 多人為核心，但也已確認包含單人模式，單人玩家同樣可以體驗。"
+        },
+        {
+          "q": "本作由誰開發？",
+          "a": "The Duskbloods 由 FromSoftware 開發，宮崎英高擔任監督（FromSoftware 社長，曾監督《艾爾登法環》與《黑暗之魂》系列），由任天堂發行。"
+        },
+        {
+          "q": "如何參加網路測試？",
+          "a": "封閉網路測試透過官網報名，結果已通知中選玩家。測試在 Nintendo Switch 2 上進行，詳情請見網路測試頁面。"
+        },
+        {
+          "q": "The Duskbloods 支援跨平台連線嗎？",
+          "a": "由於本作為 Nintendo Switch 2 獨佔，不存在與其他平台的跨平台連線，多人對戰在 Switch 2 玩家之間進行。"
+        }
+      ]
+    },
+    "screenshots": {
+      "eyebrow": "遊戲截圖",
+      "title": "遊戲場景",
+      "cta": "查看更多 →",
+      "alt": "黃昏血族 截圖 {n}"
+    },
+    "videos": {
+      "eyebrow": "預告片",
+      "title": "觀看影片",
+      "debut": "黃昏血族 — 首發預告片",
+      "networkTest": "黃昏血族 — 網路測試公告"
+    }
+  },
+  "gameplay": {
+    "intro": {
+      "eyebrow": "玩法介紹",
+      "title": "遊戲機制",
+      "lead": "深入了黃昏征討的核心機制。8位血族戰士在人類黃昏中爭奪始源之血，每場征討都是一場生存、戰鬥與策略的較量。"
+    },
+    "sections": [
+      {
+        "title": "最多8人的PvPvE對局",
+        "desc": "每局對戰最多匯聚八名Bloodsworn。PvPvE意味著玩家之間的對抗與對強大敵人的討伐同時進行，每一場都是競爭、博弈與求生的三方角力。"
+      },
+      {
+        "title": "Bloodsworn與血之力",
+        "desc": "玩家扮演憑藉特殊之血獲得超凡能力的「Bloodsworn」。血之力讓戰士超越人類極限，決定每位角色的玩法，也決定他們如何追尋處於衝突核心的First Blood。"
+      },
+      {
+        "title": "十餘位可玩角色",
+        "desc": "十餘位Bloodsworn可選，各有獨特武器、能力與外觀，並支援流派自訂。每位角色都擁有血之歷史，會影響其在對局中的道路與命運。"
+      },
+      {
+        "title": "First Blood與人類黃昏",
+        "desc": "舞台是人類黃昏——文明的終末期。其中流動的「First Blood」是Bloodsworn競相爭奪的神祕力量，這種追尋是每局對戰乃至遊戲整體衝突的引擎。"
+      },
+      {
+        "title": "單人遊玩與協作",
+        "desc": "本作以多人為核心，但也包含單人模式。正式版中也討論了協作要素，單人與組隊體驗皆有。"
+      },
+      {
+        "title": "From工作室美學的新方向",
+        "desc": "宮崎英高監督、專門團隊打造，將FromSoftware的暗黑奇幻設計語言注入全新的多人形式，且不會影響工作室並行推進的單人作品線。"
+      }
+    ],
+    "roles": {
+      "eyebrow": "角色",
+      "title": "Bloodsworn 角色定位與搭配",
+      "desc": "每位Bloodsworn在征討中扮演不同角色，發揮各自優勢。",
+      "items": [
+        {
+          "title": "進攻型",
+          "desc": "擅長近戰輸出，前線作戰，利用高傷害技能壓制敵人。"
+        },
+        {
+          "title": "支援型",
+          "desc": "提供治療與增益，輔助隊友，在聯盟中發揮關鍵作用。"
+        },
+        {
+          "title": "偵察型",
+          "desc": "擅長遠端攻擊與探索，快速收集美德值，掌握戰場資訊。"
+        }
+      ]
+    },
+    "matchStructure": {
+      "eyebrow": "比賽流程",
+      "title": "黃昏戰鬥對局流程",
+      "desc": "8位血族戰士被召喚至人類黃昏，爭奪始源之血。征討分為4個階段，聖杯逐步篩選，最終3位倖存者爭奪授血。",
+      "stages": [
+        {
+          "name": "第1階段：探索與征伐",
+          "desc": "8位血族戰士進入黃昏之地，開始累積美德值。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "bullets": [
+            "擊殺敵人、點亮遺體顱骨獲取燈之美德、探索收集道具",
+            "各地區出現基礎特性——血袋翁、鍊金爐、眷屬小魔法陣",
+            "可透過擊殺強敵或侵略者獲取討伐之美德",
+            "收集道具提升收藏家的讚賞值"
+          ]
+        },
+        {
+          "name": "第2階段：儀式場與篩選",
+          "desc": "聖杯開始篩選，美德值不足者被淘汰。儀式場開放，競爭升級。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "bullets": [
+            "儀式場出現兩種美德：劍之美德（擊敗血族）和誓約美德（向誓柱起誓）",
+            "可從石之座獲取赤石（增強劍之美德）或黃金石（增強誓約美德）",
+            "離開儀式場會受到傷害懲罰",
+            "隨機事件觸發：飛艇支援砲擊、磁場風暴強制傳送"
+          ]
+        },
+        {
+          "name": "第3階段：事件與激戰",
+          "desc": "篩選繼續，區域特性變化，戰場環境更加危險。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "bullets": [
+            "區域特性發生變化，出現新的強化機會",
+            "儀式場再次開放，競爭更加激烈",
+            "隨機事件繼續影響戰場局勢",
+            "血之力累積，眷屬成長，為最終階段做準備"
+          ]
+        },
+        {
+          "name": "最終階段：月亮授血",
+          "desc": "僅剩3位美德值最高的血族戰士，爭奪最終勝利。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "bullets": [
+            "聖杯授予兩條性命，可復活一次",
+            "根據此前累積的美德值獲得額外HP",
+            "聯盟自動解散，昔日盟友變為對手",
+            "靈活運用血族、眷屬之力和道具爭奪最後的勝者"
+          ]
+        }
+      ],
+      "finalDetail": "月之淚僅會為一人而流。靈活運用前幾個階段強化的血族、眷屬之力或各種道具，努力成為戰役最後的勝者吧。"
+    },
+    "virtue": {
+      "title": "美德系統詳解",
+      "desc": "在黃昏戰役存活下去所需的正是「美德」。第2及第3階段只有美德更高的血族能通過篩選，進入下一個階段。除了戰鬥之外，也能配合當下狀況及遊玩風格透過探索或行動等許多方法獲得美德。",
+      "types": [
+        {
+          "title": "討伐之美德",
+          "desc": "黃昏之地會出現特別強力的敵人「強敵」和更加危險的外敵「侵略者」。打倒這些敵人可獲得「討伐之美德」。「強敵」和「侵略者」都是棘手的敵人，建議先做好強化血族等事前準備，再去挑戰。"
+        },
+        {
+          "title": "燈之美德",
+          "desc": "點亮分佈在黃昏之地中，坐在椅子上的遺體顱骨就能獲得「燈之美德」。大型燈之遺體可以獲得更多美德，但只有第一個抵達的血族才能將其點亮。"
+        },
+        {
+          "title": "劍之美德",
+          "desc": "在儀式場打倒其他血族即可獲得「劍之美德」。而在儀式場外打倒其他血族則無法獲得該美德。"
+        },
+        {
+          "title": "誓約之美德",
+          "desc": "儀式場中存在著血族誓柱，向其起誓便可以獲得「誓約之美德」。但是，若誓約被其他血族覆蓋，就會失去該美德。"
+        },
+        {
+          "title": "讚賞之美德",
+          "desc": "讚賞之美德分為兩種：血牙的讚賞（每次打倒敵人提升，敵人種類不限）和收藏家的讚賞（每次透過探索獲得道具提升，道具越珍貴讚賞值越高）。各階段結束時，每種讚賞值最高及第二高的血族都會獲得美德。"
+        }
+      ]
+    },
+    "coreSystems": {
+      "title": "Bloodsworn 強化指南",
+      "systems": [
+        {
+          "title": "等級提升",
+          "desc": "透過擊殺敵人或玩家獲取經驗值。提升HP上限和攻擊力，達到特定等級解鎖血技。"
+        },
+        {
+          "title": "眷屬契約",
+          "desc": "在光鏈下的魔法陣簽訂契約。三種契約環（環、刃、眼）召喚不同眷屬。眷屬透過戰鬥獲取經驗升級，可解鎖新攻擊。"
+        },
+        {
+          "title": "血之力",
+          "desc": "擊敗強敵或入侵者後可選擇能力強化。最多同時啟用5個血之力，可透過選單切換。"
+        },
+        {
+          "title": "區域特性",
+          "desc": "黃昏之地各區域每階段特性不同：血袋翁（強化血技）、鍊金爐（強化武器）、眷屬小圈（眷屬經驗）、探索道具（燃燒瓶、生命墓碑等）。"
+        }
+      ]
+    },
+    "expedition": {
+      "eyebrow": "征討詳解",
+      "title": "挑戰強敵與探索",
+      "bloodPowers": {
+        "title": "血之力",
+        "desc": "打倒強敵或侵略者後，可獲得會為血族帶來種種力量的「血之力」。能從數個選項中選擇其中一個。獲得的血之力最多同時顯現5種，可透過特定選單任意替換要顯現的血之力。"
+      },
+      "coopBattle": {
+        "title": "與其他血族共同戰鬥",
+        "desc": "開始與「侵略者」戰鬥時，會臨時向附近的血族發布共同戰鬥的請求，能與接受請求的其他血族合力挑戰。"
+      },
+      "regions": {
+        "title": "探索各地區",
+        "desc": "黃昏之地的各個地區，會隨階段產生數種地區特性。其中有可以獲得讓戰役更加有利的強化。確認地圖上的特性，尋找適合自己遊玩風格的強化吧。",
+        "features": [
+          {
+            "title": "更容易強化血族技",
+            "desc": "地區將會出現「血袋翁」。打倒血袋翁獲得的「血結晶」可用來強化血族技。"
+          },
+          {
+            "title": "能強化武器",
+            "desc": "地區將會出現「鍊金爐」，可以為武器賦予火屬性等各種屬性。在屬性與武器相同的鍊金爐進行強化，即可使武器的強化級別提升一級。"
+          },
+          {
+            "title": "更容易讓眷屬成長",
+            "desc": "地區將會出現「眷屬小魔法陣」。可以強化與眷屬的契約，使已訂定契約的眷屬獲得大量經驗值。"
+          },
+          {
+            "title": "透過探索獲得道具",
+            "desc": "道具可透過在地圖探索，或打倒敵人等方式獲得。本作有許多能讓戰鬥更加有利的道具，例如投擲出去會猛烈燃燒的「燃燒瓶」，或立在地面上可以在死亡時從該處復活的「生碑」等。"
+          }
+        ]
+      }
+    },
+    "combat": {
+      "eyebrow": "戰鬥機制",
+      "title": "戰鬥機制詳解",
+      "mechanics": [
+        {
+          "title": "架勢破壞",
+          "desc": "攻擊累積敵人硬直值，滿值後敵人硬直，露出大破綻。"
+        },
+        {
+          "title": "吸血",
+          "desc": "對硬直敵人施展吸血，造成大量傷害並恢復HP。弱小敵人會被魅惑成為同伴。"
+        },
+        {
+          "title": "咆哮",
+          "desc": "所有血族戰士可發出風壓咆哮。在敵人攻擊時施展可打斷攻擊並造成大量硬直。可彈開部分遠端攻擊。"
+        },
+        {
+          "title": "防禦與格擋",
+          "desc": "展開護盾格擋前方攻擊，空中也可使用。持續受擊會破盾（大破綻），自動修復。格擋後立即按[R]可施展格擋反擊。"
+        },
+        {
+          "title": "金血樁（回血）",
+          "desc": "恢復HP；透過擊敗敵人或在世界中拾取金血補充使用次數。"
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "戰場變化",
+      "title": "事件系統",
+      "desc": "在第2階段及第3階段中，有時會發生為黃昏之地帶來變化的事件。讓戰役產生意想不到的變化。",
+      "items": [
+        {
+          "title": "飛艇支援",
+          "desc": "空中出現遊蕩的飛艇，可以向其請求支援砲擊。"
+        },
+        {
+          "title": "磁場風暴",
+          "desc": "出現強力磁場風暴，把玩家強制傳送到其他地方。"
+        }
+      ]
+    },
+    "alliances": {
+      "eyebrow": "社交系統",
+      "title": "聯盟與烙印",
+      "items": [
+        {
+          "title": "聯盟系統",
+          "desc": "戰役中可以與其他血族締結同盟。遇見其他血族時可以發出同盟請求，若成功締結同盟，彼此可暫時成為友方。同盟者之間不會受到彼此攻擊影響，且還能與同盟者分享在儀式場中獲得的「劍之美德」「誓約之美德」。進入最終階段後同盟會隨之解除。"
+        },
+        {
+          "title": "烙印系統",
+          "desc": "烙印會使血族與其他血族建立各種關係。當血族的烙印成立時，將出現獨特目標，只要達成目標即可獲得美德。網路測試版包含4種烙印：宿敵的烙印、舊友的烙印、繆拉爾之眼的烙印、飄渺之戀的烙印。正式版中預計將成為可任意更改的要素。"
+        }
+      ]
+    },
+    "hub": {
+      "eyebrow": "據點",
+      "title": "夜之宅邸",
+      "desc": "作為血族據點的地區。在網路測試版中可從這裡選擇要使用的血族，或是學習遊戲基本操作以及規則。",
+      "features": [
+        {
+          "name": "戰役記憶",
+          "desc": "可以體驗黃昏戰役的其中一部份，從中學習相關規則。到達夜之宅邸後，建議先透過此選單接觸血族們的戰役。"
+        },
+        {
+          "name": "檔案",
+          "desc": "此處會記錄血族的武器、黃昏戰役中訂定契約的眷屬，獲得的道具、血之力，遭遇的事件以及教學的資訊，以供再次閱覽。即使是在黃昏戰役中，也能從資訊畫面查看檔案。"
+        },
+        {
+          "name": "庭院",
+          "desc": "夜之宅邸的庭院中，可以透過「守墓稻草人」練習各種操作，或者嘗試血族動作。此外，若想把標靶設定成「守墓稻草人」以外的敵人、召喚任意眷屬、調整血族等級等等，都可以透過選單進行更改。"
+        },
+        {
+          "name": "比賽模式",
+          "desc": "「黃昏戰役」的選單中，可以進行配對設定。預設設定為「標準」，您也可以更改成「無同盟」或「血盟」等規則進行配對。無同盟：無法與其他血族締結同盟。血盟：所有血族都分成兩人一組締結血盟，血盟即使進入最終階段也不會解除，最後的勝負由兩人共同分享。"
+        }
+      ]
+    },
+    "tips": {
+      "eyebrow": "進階技巧",
+      "title": "新手入門技巧",
+      "items": [
+        {
+          "title": "優先切換鎖定目標設定",
+          "desc": "在遊戲選項能更改幾項目標切換的相關設定。在「優先切換鎖定目標」能設定切換鎖定目標時，是否要以向自己發動攻擊的敵人為優先。設定成「ON」則此功能會生效。預設為「OFF」。"
+        },
+        {
+          "title": "資訊畫面",
+          "desc": "在黃昏戰役中，可以按[+]鍵開啟資訊畫面，從地圖上查看自己的位置或其他血族的蹤跡，還可以確認地區特性等有助探索的資訊。"
+        },
+        {
+          "title": "傳送",
+          "desc": "選擇地圖上的傳送點即可移動到遠處的位置，進而擴展探索的行動範圍。但以下情況無法使用傳送：階段剛開始時、使用傳送後或復活後的一定時間內、戰鬥中。"
+        },
+        {
+          "title": "侵略者位置",
+          "desc": "「侵略者」會在地圖上以特殊標記顯示。另外也有更加強大的侵略者存在。"
+        },
+        {
+          "title": "肢體動作",
+          "desc": "長按[+]可開啟肢體動作選單，使用各種肢體動作。部分特定的烙印若想要達成目標，某些肢體動作將是重要關鍵。"
+        },
+        {
+          "title": "功能選單",
+          "desc": "長按[Y]可開啟功能選單。包含：同盟請求（鎖定目標時可對該血族提出同盟請求）、放置標記（可在畫面中央放置標記作為探索指引）、觀察視角（切換觀察視角查看其他血族資訊）、召喚眷屬（召喚或遣返眷屬，眷屬死亡後需經過一定時間才能再度召喚）。"
+        }
+      ]
+    },
+    "controls": {
+      "eyebrow": "操作",
+      "title": "操作說明",
+      "desc": "基本操作與功能選單。"
+    },
+    "meta": {
+      "title": "遊戲機制 | The Duskbloods 攻略",
+      "desc": "深入了解The Duskbloods的核心遊戲機制：黃昏征討流程、美德值系統、戰鬥機制、眷屬契約、聯盟系統等。"
+    },
+    "stones": {
+      "eyebrow": "儀式場",
+      "title": "紅石頭與金石頭攻略",
+      "desc": "可以從儀式場出現的石之座獲得「赤石」和「黃金石」。一次只能持有其中一種，持有赤石會獲得更多「劍之美德」、持有黃金石會獲得更多「誓約之美德」。請按照自己的遊玩風格和當下戰況，巧妙地選擇石頭。",
+      "items": [
+        {
+          "title": "赤石",
+          "desc": "持有赤石時，在儀式場擊敗其他血族可獲得更多「劍之美德」。適合主動進攻的玩家。"
+        },
+        {
+          "title": "黃金石",
+          "desc": "持有黃金石時，向血族誓柱起誓可獲得更多「誓約之美德」。適合避開戰鬥、穩健累積美德的玩家。"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "常見問題",
+      "title": "玩法常見問題",
+      "items": [
+        {
+          "q": "一場 Duskbloods 對局有多少玩家？",
+          "a": "每場黃昏戰鬥最多支援 8 名玩家進行 PvPvE 對戰。玩家之間相互競爭，同時還要對抗 AI 控制的敵人。"
+        },
+        {
+          "q": "The Duskbloods 裡的 PvPvE 是什麼意思？",
+          "a": "PvPvE 即 玩家對玩家對環境。在 The Duskbloods 中，你要與其他 Bloodsworn 競爭，同時還要對抗強大的 AI 敵人、Boss 和地圖上的環境威脅。"
+        },
+        {
+          "q": "Bloodsworn 有哪些角色定位？",
+          "a": "Bloodsworn 是可操作角色，擁有獨特的武器和能力。每個角色定位提供不同的玩法風格——近戰戰士、遠端攻擊者和輔助型搭配。血之歷史進一步定制你的角色路線。"
+        },
+        {
+          "q": "美德系統怎麼玩？",
+          "a": "美德是一種進度機制，在對局中增強你的 Bloodsworn。不同類型的美德提供被動加成，並在黃昏戰鬥過程中解鎖新能力。"
+        },
+        {
+          "q": "紅石頭和金石頭是什麼？",
+          "a": "紅石頭和金石頭是在地圖儀式場發現的可收集物品。它們在對局中為你的 Bloodsworn 提供強大的增益和升級。"
+        },
+        {
+          "q": "如何參加 The Duskbloods 網路測試？",
+          "a": "透過 Switch 2 上的 Nintendo eShop 註冊。封閉網路測試於 2026 年舉行。請查看我們的網路測試頁面了解確切日期和註冊詳情。"
+        }
+      ]
+    }
+  },
+  "characters": {
+    "intro": {
+      "eyebrow": "角色",
+      "title": "Bloodsworn",
+      "lead": "The Duskbloods 的可玩角色是「Bloodsworn」——憑藉特殊之血獲得超凡之力的戰士。他們並非失控的怪物，而是擁有自我意志與命運、自覺而強大的戰士。"
+    },
+    "about": {
+      "title": "十餘位戰士",
+      "desc": "陣容包含十餘位可玩的Bloodsworn，各有獨特武器、能力與外觀，支援流派自訂以及塑造其道路的血之歷史。宮崎英高表示，本作有意區別於經典吸血鬼恐怖，轉而汲取血與力量中更具浪漫色彩的面向，並以Bloodsworn之姿重新詮釋。"
+    },
+    "traits": {
+      "eyebrow": "何為Bloodsworn",
+      "title": "身份、力量與命運",
+      "items": [
+        {
+          "title": "專屬武器",
+          "desc": "每位角色都擁有專武，決定其戰鬥方式與距離。"
+        },
+        {
+          "title": "血之能力",
+          "desc": "特殊之血賦予超越人類極限的技能。"
+        },
+        {
+          "title": "獨特外觀",
+          "desc": "每位Bloodsworn都有反映其歷史與角色的獨特造型。"
+        },
+        {
+          "title": "血之歷史",
+          "desc": "影響角色道路與命運的個人化、可自訂要素。"
+        },
+        {
+          "title": "流派自訂",
+          "desc": "按你的遊玩風格調整角色的配裝與思路。"
+        },
+        {
+          "title": "命運",
+          "desc": "所有Bloodsworn都追尋First Blood，但其道路與結局各自不同。"
+        }
+      ]
+    },
+    "note": {
+      "title": "完整陣容將陸續公開",
+      "desc": "Bloodsworn的完整陣容將隨發售臨近逐步公開。後續將帶來詳細角色解析、武器與能力介紹。"
+    },
+    "roster": {
+      "eyebrow": "可選角色",
+      "title": "血族戰士",
+      "desc": "網路測試版包含6位可選角色，每位都有獨特的武器和血技。",
+      "labels": {
+        "melee": "近戰：",
+        "ranged": "遠端：",
+        "bloodArts": "血技",
+        "powers": "能力"
+      },
+      "items": [
+        {
+          "name": "Albert",
+          "melee": "洛里克的寶刀",
+          "ranged": "機關槍",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "bloodArts": [
+            {
+              "name": "血刃",
+              "desc": "將自身血液化為利刃射出；血質越高威力越強。"
+            },
+            {
+              "name": "哈揚之光",
+              "desc": "舉起嵌入台座的光晶，釋放光束。"
+            }
+          ],
+          "powers": [
+            {
+              "name": "洛里克的尊血",
+              "desc": "血技使用次數初始即強化。"
+            },
+            {
+              "name": "反抗者",
+              "desc": "對高美德值敵人的軀幹攻擊力提升。"
+            }
+          ]
+        },
+        {
+          "name": "血手 Jan",
+          "melee": "渴血之斧",
+          "ranged": "魔術之石",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "bloodArts": [
+            {
+              "name": "瞬身",
+              "desc": "以自身血液強化體能，暫時提升迴避速度。"
+            },
+            {
+              "name": "為我的血發狂",
+              "desc": "向斧頭注入血液，將刃砸入地面，以血斬裂周圍。"
+            }
+          ],
+          "powers": [
+            {
+              "name": "血手的血繼",
+              "desc": "受傷後立即反擊可恢復HP。"
+            },
+            {
+              "name": "血之君主",
+              "desc": "治癒被吸血魅惑的敵人，同時提升其攻擊力。"
+            }
+          ]
+        },
+        {
+          "name": "莊瀾",
+          "melee": "月輪之刃",
+          "ranged": "月輪之刃（投擲）",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "bloodArts": [
+            {
+              "name": "暗月",
+              "desc": "將身形隱藏於暗月之中；效果持續一段時間後消退。"
+            },
+            {
+              "name": "瑪瑪納塔",
+              "desc": "召喚拉特納族守護獸銀蛇，暫時攻擊周圍。"
+            }
+          ],
+          "powers": [
+            {
+              "name": "新娘的蠱惑",
+              "desc": "吸血時同時魅惑周圍敵人。"
+            },
+            {
+              "name": "暗月之女",
+              "desc": "遠處敵人無法看見自身；更難被鎖定為目標。"
+            }
+          ]
+        },
+        {
+          "name": "狙擊手 Layla",
+          "melee": "聖刻之卡塔爾",
+          "ranged": "狙擊槍",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "bloodArts": [
+            {
+              "name": "內卜拉消散",
+              "desc": "化為無數蟲群轉移至遠方。殘像迷惑敵人。"
+            },
+            {
+              "name": "維爾德的機槍",
+              "desc": "從體內拉出巨大機槍，架好後連續射擊。"
+            }
+          ],
+          "powers": [
+            {
+              "name": "內卜拉的血繼",
+              "desc": "HP緩慢恢復至最大值的一半；金血樁恢復量降低。"
+            },
+            {
+              "name": "夜之瞳",
+              "desc": "延長鎖定和觀察距離。"
+            }
+          ]
+        },
+        {
+          "name": "長老 Samir Patres",
+          "melee": "元老院細劍",
+          "ranged": "靈鳥之戒",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "bloodArts": [
+            {
+              "name": "血刑柱",
+              "desc": "在敵人腳下製造血沼，從中噴湧出巨大的血柱。"
+            },
+            {
+              "name": "恐龍化",
+              "desc": "變身為肉食恐龍，衝向前方撕咬敵人。"
+            }
+          ],
+          "powers": [
+            {
+              "name": "血液研究者",
+              "desc": "降低血技所需的等級。"
+            },
+            {
+              "name": "不動劍術",
+              "desc": "完美格擋後，近戰攻擊力提升。"
+            }
+          ]
+        },
+        {
+          "name": "Zork",
+          "melee": "海底電纜",
+          "ranged": "魚叉槍",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "bloodArts": [
+            {
+              "name": "導彈",
+              "desc": "從潛水服背部展開砲身，架好後發射。"
+            },
+            {
+              "name": "人體火箭",
+              "desc": "展開潛水服背部推進裝置，進入飛行模式衝鋒。"
+            }
+          ],
+          "powers": [
+            {
+              "name": "深海法則",
+              "desc": "擊敗其他血族戰士可竊取其最大HP。若被對方擊敗則歸還。"
+            },
+            {
+              "name": "怪音波",
+              "desc": "非人類的聲波咆哮；按住[L]+[ZR]持續。"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "networkTest": {
+    "intro": {
+      "eyebrow": "網路測試",
+      "title": "The Duskbloods - 黃昏血族 封閉網路測試",
+      "lead": "FromSoftware 在 Nintendo Switch 2 上舉辦的 The Duskbloods 封閉網路測試報名已截止。以下為完整時間安排與詳細資訊。"
+    },
+    "status": {
+      "label": "報名已截止",
+      "desc": "網路測試的申請期間已結束。中選玩家已於 8 月 7 日收到通知。"
+    },
+    "schedule": {
+      "eyebrow": "時間安排",
+      "title": "完整日程",
+      "application": {
+        "label": "申請期間",
+        "start": "7 月 22 日（週三）上午 7:00（太平洋夏令時間）",
+        "end": "7 月 28 日（週二）上午 6:59（太平洋夏令時間）",
+        "note": "同一用戶重複申請將被拒絕。參與者按報名順序選拔。"
+      },
+      "selection": {
+        "label": "結果公布",
+        "date": "8 月 7 日（週五）上午 6:00（太平洋夏令時間）",
+        "note": "請在官網個人頁面查看申請結果。中選玩家將收到下載碼。"
+      },
+      "download": {
+        "label": "用戶端下載",
+        "date": "8 月 18 日（週二）上午 6:00（太平洋夏令時間）起",
+        "note": "中選玩家可使用下載碼在 Nintendo Store 或 Nintendo eShop 下載網路測試版。部分地區不支援透過 Nintendo eShop 以外的方式下載。"
+      },
+      "sessions": {
+        "label": "測試時段",
+        "note": "測試時段可能會有變更或取消，恕不另行通知。",
+        "items": [
+          {
+            "date": "8 月 21 日（週五）",
+            "time": "上午 3:00 — 上午 7:00（太平洋夏令時間）"
+          },
+          {
+            "date": "8 月 21 日（週五）",
+            "time": "下午 7:00 — 下午 11:00（太平洋夏令時間）"
+          },
+          {
+            "date": "8 月 22 日（週六）",
+            "time": "上午 11:00 — 下午 3:00（太平洋夏令時間）"
+          },
+          {
+            "date": "8 月 23 日（週日）",
+            "time": "上午 3:00 — 上午 7:00（太平洋夏令時間）"
+          },
+          {
+            "date": "8 月 23 日（週日）",
+            "time": "下午 7:00 — 下午 11:00（太平洋夏令時間）"
+          }
+        ]
+      }
+    },
+    "requirements": {
+      "eyebrow": "參與條件",
+      "title": "必要條件",
+      "items": [
+        {
+          "label": "主機",
+          "value": "Nintendo Switch 2"
+        },
+        {
+          "label": "會員",
+          "value": "Nintendo Switch Online 會員"
+        },
+        {
+          "label": "選拔方式",
+          "value": "按報名順序選拔（名額有限）"
+        },
+        {
+          "label": "開發商",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "發行商",
+          "value": "任天堂"
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "測試內容",
+      "title": "測試體驗",
+      "items": [
+        {
+          "title": "PvPvE 一隅",
+          "desc": "可體驗本作標誌性的 8 人 PvPvE 動作玩法片段。"
+        },
+        {
+          "title": "效能與穩定性驗證",
+          "desc": "作為網路測試，重點在於真實條件下的伺服器負載、配對與穩定性。"
+        },
+        {
+          "title": "開發中內容",
+          "desc": "內容、平衡與畫面未必代表正式版，發售前或有調整。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "敬請關注正式版發售",
+      "desc": "網路測試是搶先了解 The Duskbloods 的機會，本作將於 2026 年登陸 Nintendo Switch 2。我們將持續在本頁更新最新消息。"
+    }
+  },
+  "faq": {
+    "intro": {
+      "eyebrow": "常見問題",
+      "title": "The Duskbloods - 黃昏血族 — 常見問題解答",
+      "lead": "針對發售、平台、多人模式與網路測試等常見問題，給出簡潔回答。"
+    },
+    "groups": [
+      {
+        "title": "發售與平台",
+        "items": [
+          {
+            "q": "The Duskbloods 何時發售？",
+            "a": "The Duskbloods 預定 2026 年在 Nintendo Switch 2 發售，具體發售日尚未公布。"
+          },
+          {
+            "q": "The Duskbloods 僅登陸 Nintendo Switch 2 嗎？",
+            "a": "是的。The Duskbloods 由任天堂發行，是 Nintendo Switch 2 獨佔作品。"
+          },
+          {
+            "q": "The Duskbloods 會登陸 PS5、Xbox 或 PC 嗎？",
+            "a": "目前未公布其他平台版本。作為任天堂發行的獨佔作品，預計將僅限 Nintendo Switch 2。"
+          }
+        ]
+      },
+      {
+        "title": "玩法與多人模式",
+        "items": [
+          {
+            "q": "The Duskbloods 的 PvPvE 是什麼意思？",
+            "a": "PvPvE（玩家對玩家對環境）指每局對局中，玩家間的競爭與對強大敵人的討伐同時進行。"
+          },
+          {
+            "q": "最多幾人同玩？",
+            "a": "每局對戰最多匯聚八名玩家。"
+          },
+          {
+            "q": "The Duskbloods 可以單人遊玩嗎？",
+            "a": "可以。本作雖以 8 人多人為核心，但也包含單人模式，單人玩家同樣能體驗。"
+          },
+          {
+            "q": "The Duskbloods 支援跨平台連線嗎？",
+            "a": "由於是 Nintendo Switch 2 獨佔，不存在跨平台連線，多人對戰在 Switch 2 玩家之間進行。"
+          }
+        ]
+      },
+      {
+        "title": "開發",
+        "items": [
+          {
+            "q": "The Duskbloods 的監督是誰？",
+            "a": "由 FromSoftware 社長宮崎英高擔任監督，他曾監督《艾爾登法環》與《黑暗之魂》系列。"
+          },
+          {
+            "q": "The Duskbloods 由誰開發與發行？",
+            "a": "The Duskbloods 由 FromSoftware 開發、任天堂發行。"
+          },
+          {
+            "q": "Bloodsworn是什麼？",
+            "a": "Bloodsworn是本作的可玩角色——憑藉特殊之血獲得超凡之力的戰士。共有十餘位可選，各有獨特武器、能力與可自訂的血之歷史。"
+          }
+        ]
+      },
+      {
+        "title": "網路測試",
+        "items": [
+          {
+            "q": "如何參加 The Duskbloods 網路測試？",
+            "a": "透過官網報名，中選玩家獲結果通知。測試在 Nintendo Switch 2 上於預定時段進行。"
+          },
+          {
+            "q": "網路測試免費嗎？",
+            "a": "擁有 Nintendo Switch 2 主機的中選玩家可免費參與封閉網路測試。"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "intro": {
+      "eyebrow": "關於",
+      "title": "關於 The Duskbloods - 黃昏血族",
+      "lead": "The Duskbloods 是 FromSoftware 開發、宮崎英高監督、任天堂於 2026 年在 Nintendo Switch 2 發行的 PvPvE 多人動作遊戲。"
+    },
+    "paragraphs": [
+      "本作並非社內提案，而是始於與任天堂的相遇。一份初步構想合集呈交任天堂後，立刻引起其濃厚興趣。最初的構想是為初代 Nintendo Switch 設計，但團隊為發揮新型 Switch 2 硬體之長而將其延後。",
+      "故事設定在「人類黃昏」——文明終末期，圍繞「First Blood」這一神祕力量展開，Bloodsworn為爭奪它而戰。他們並非經典吸血鬼：宮崎英高表示，本作有意區別於傳統吸血鬼恐怖，轉而汲取血與力量中更具浪漫色彩的面向。",
+      "The Duskbloods 是 FromSoftware 二十餘年來首款主機獨佔作品。宮崎英高也澄清，本作不會影響工作室的單人作品線，兩者由不同團隊並行推進。"
+    ],
+    "facts": {
+      "eyebrow": "關鍵資訊",
+      "title": "一覽",
+      "items": [
+        {
+          "label": "開發商",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "監督",
+          "value": "宮崎英高"
+        },
+        {
+          "label": "發行商",
+          "value": "任天堂"
+        },
+        {
+          "label": "平台",
+          "value": "Nintendo Switch 2（獨佔）"
+        },
+        {
+          "label": "類型",
+          "value": "PvPvE 多人動作 RPG"
+        },
+        {
+          "label": "人數",
+          "value": "最多 8 人"
+        },
+        {
+          "label": "發售",
+          "value": "2026 年"
+        },
+        {
+          "label": "可玩角色",
+          "value": "12+ 位Bloodsworn"
+        }
+      ]
+    }
+  },
+  "releaseDate": {
+    "intro": {
+      "eyebrow": "發售日",
+      "title": "The Duskbloods - 黃昏血族",
+      "lead": "The Duskbloods 預計於 2026 年作為任天堂 Switch 2 獨佔作品發售。以下是我們目前所知的發售資訊。"
+    },
+    "facts": {
+      "eyebrow": "概覽",
+      "title": "關鍵資訊",
+      "items": [
+        {
+          "label": "發售窗口",
+          "value": "2026"
+        },
+        {
+          "label": "平台",
+          "value": "Nintendo Switch 2（獨佔）"
+        },
+        {
+          "label": "開發商",
+          "value": "FromSoftware"
+        },
+        {
+          "label": "發行商",
+          "value": "任天堂"
+        },
+        {
+          "label": "總監",
+          "value": "宮崎英高"
+        },
+        {
+          "label": "類型",
+          "value": "PvPvE 動作 RPG"
+        },
+        {
+          "label": "最大玩家數",
+          "value": "8"
+        }
+      ]
+    },
+    "expect": {
+      "eyebrow": "已知資訊",
+      "title": "關於發售",
+      "paragraphs": [
+        "The Duskbloods 在任天堂 Switch 2 發布會上首次公布，並計劃於 2026 年發售。FromSoftware 與任天堂尚未公布具體發售日期。",
+        "作為 Switch 2 獨佔作品，本作在發售時僅在任天堂新一代主機上推出，不會登陸 PS5、Xbox 或 PC 平台。",
+        "由宮崎英高（《艾爾登法環》和《黑暗之魂》系列締造者）擔任總監，The Duskbloods 是一款 PvPvE 多人動作遊戲，玩家將扮演Bloodsworn——在人類黃昏之際為爭奪First Blood而戰的戰士。"
+      ]
+    },
+    "cta": {
+      "title": "收藏本頁，掌握發售日動態",
+      "desc": "FromSoftware 與任天堂公布具體發售日、預載時間和上線詳情後，我們會立即更新本頁。"
+    }
+  },
+  "gallery": {
+    "intro": {
+      "eyebrow": "遊戲截圖",
+      "title": "遊戲截圖",
+      "lead": "The Duskbloods（黃昏血族）官方截圖 — 探索 FromSoftware 為 Nintendo Switch 2 打造的多人動作遊戲的黑暗沉浸世界。"
+    },
+    "main": {
+      "eyebrow": "主圖集",
+      "title": "官方截圖",
+      "alt": "黃昏血族 截圖 {n}"
+    },
+    "expansion": {
+      "eyebrow": "擴展圖集",
+      "title": "額外截圖",
+      "alt": "黃昏血族 擴展截圖 {n}"
+    },
+    "lightbox": {
+      "alt": "黃昏血族 截圖 {n}"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "聯繫我們",
+      "title": "聯繫 The Duskbloods - 黃昏血族 粉絲資訊站",
+      "lead": "感謝您造訪本粉絲資訊站。如有回饋、建議、合作洽談或內容勘誤，歡迎透過以下方式聯繫我們。"
+    },
+    "email": {
+      "title": "電子郵件",
+      "desc": "發送郵件至以下地址，我們會盡快回覆。",
+      "address": "contact@duskbloods.com"
+    },
+    "social": {
+      "title": "社群媒體",
+      "desc": "也可以透過以下社群平台與我們互動。",
+      "links": [
+        {
+          "name": "Twitter / X",
+          "url": "https://x.com/duskbloods"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/duskbloods"
+        }
+      ]
+    },
+    "note": {
+      "title": "聲明",
+      "desc": "本站為非官方粉絲資訊站，與 FromSoftware 或任天堂無任何隸屬或受其認可關係。本站無法處理遊戲技術支援或帳號相關問題，此類問題請聯繫對應官方客服。"
+    }
+  }
+}

@@ -5,7 +5,7 @@ import { marked } from 'marked';
 
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 const OUT_FILE = path.join(process.cwd(), 'src/lib/articles-generated.ts');
-const LOCALES = ['en', 'ja', 'zh', 'es', 'fr', 'de', 'ko', 'it', 'pt'];
+const LOCALES = ['en', 'ja', 'zh', 'zh-TW', 'es', 'fr', 'de', 'ko', 'it', 'pt', 'ru'];
 
 function countWords(text) {
   const cjk = (text.match(/[一-鿿぀-ゟ゠-ヿ]/g) || []).length;
