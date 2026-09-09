@@ -11,6 +11,88 @@ export interface ArticleData {
 }
 
 export const ARTICLES: Record<string, Record<string, ArticleData>> = {
+  "duskbloods-12-hours-gameplay-preview": {
+    "en": {
+      "title": "The Duskbloods Gameplay Video Revealed — 12-Hour Preview Breakdown",
+      "date": "2026-09-05",
+      "modified": null,
+      "summary": "New gameplay footage from a 12-hour hands-on session reveals The Duskbloods PvPvE combat, 8-player matches, virtue system and more.",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "gameplay",
+        "preview",
+        "PvPvE",
+        "FromSoftware",
+        "Nintendo"
+      ],
+      "content": "<p>A 12-hour hands-on preview of The Duskbloods has revealed new details about FromSoftware&#39;s upcoming PvPvE title. Watch the full gameplay video below.</p>\n<h2>Gameplay Video</h2>\n<iframe width=\"100%\" height=\"400\" src=\"https://www.youtube.com/embed/rh2XRuhlHNY\" title=\"The Duskbloods 12-Hour Gameplay Preview\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><h2>What&#39;s New</h2>\n<h3>Match Structure</h3>\n<p>8 players compete across 3 rounds. After each round, the lowest-scoring players are culled. Only 3 make it to the final battle, where their health is boosted by accumulated <strong>Virtue Points</strong>.</p>\n<h3>The Virtue System</h3>\n<p>Virtue is everything. You earn it by:</p>\n<ul>\n<li>Collecting <strong>Flame Virtue</strong> from map objects</li>\n<li>Killing players at <strong>Ritual Sites</strong> (Sword Virtue)</li>\n<li>Earning <strong>Commendations</strong> for performance</li>\n<li>Completing <strong>Sigil Goals</strong></li>\n</ul>\n<h3>Maps &amp; Allies</h3>\n<p>The demo featured <strong>Luenro City</strong> — a map with 4 spawn quadrants, golden spires to summon allies, and teleport pads for instant fast travel. Bosses (Trespasses) can be tackled solo or with help from nearby players.</p>\n<h3>Character Abilities</h3>\n<p>6 playable Bloodsworn in the demo (10+ at launch), each with unique weapons, abilities, and a roar mechanic that can stagger and convert enemies.</p>\n<h3>Round 2 Events</h3>\n<p>Random world events like zeppelins, magnetic storms, and falling stars shake up the gameplay each round.</p>\n<h2>Full Game Features</h2>\n<ul>\n<li>3 maps at launch</li>\n<li>Co-op boss battles</li>\n<li>Character customization</li>\n<li>Story progression between matches</li>\n<li>Alliance system (queue with friends or ally mid-match)</li>\n</ul>\n<hr>\n<p><em>Source: <a href=\"https://www.youtube.com/watch?v=rh2XRuhlHNY\">YouTube — The Duskbloods Gameplay Preview</a></em></p>\n<h2>Explore The Duskbloods</h2>\n<ul>\n<li><a href=\"/characters\">Characters</a> — Meet every playable Bloodsworn</li>\n<li><a href=\"/gameplay\">Gameplay</a> — Core mechanics, virtue system, and match structure</li>\n</ul>\n<h2>Related Articles</h2>\n<ul>\n<li><a href=\"/latest/duskbloods-pvpve-explained\">What Is The Duskbloods PvPvE?</a></li>\n<li><a href=\"/latest/duskbloods-beginner-matchmaking\">The Duskbloods Beginner&#39;s Matchmaking Guide</a></li>\n</ul>\n",
+      "wordCount": 275
+    },
+    "ja": {
+      "title": "The Duskbloods ゲームプレイ映像公開 — 12時間プレイ体験で明らかになった核心メカニズム",
+      "date": "2026-09-05",
+      "modified": null,
+      "summary": "The Duskbloods（ザ・ダスクブラッズ）の12時間プレイ体験から、PvPvEバトル、8人対戦、美徳システムなど核心玩法が明らかに。完全ゲーム映像付き。",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "gameplay",
+        "preview",
+        "PvPvE",
+        "FromSoftware",
+        "Nintendo"
+      ],
+      "content": "<p>The Duskbloods（ザ・ダスクブラッズ）の12時間プレイ体験から、FromSoftwareの最新PvPvEタイトルの核心メカニズムが明らかになりました。完全ゲーム映像は以下をご覧ください。</p>\n<h2>ゲームプレイ映像</h2>\n<iframe width=\"100%\" height=\"400\" src=\"https://www.youtube.com/embed/rh2XRuhlHNY\" title=\"The Duskbloods 12時間プレイ映像\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><h2>新情報</h2>\n<h3>マッチ構成</h3>\n<p>8人のプレイヤーが3ラウンドで競います。各ラウンド終了後、スコアが最下位のプレイヤーが退場させられます。最終的に3人だけが決勝に進み、獲得した<strong>美徳ポイント</strong>に応じてHPが強化されます。</p>\n<h3>美徳システム</h3>\n<p>美徳は全ての基本です。獲得方法：</p>\n<ul>\n<li>マップ上のアイテムから<strong>炎の美徳</strong>を収集</li>\n<li><strong>儀式場</strong>で他プレイヤーを倒して<strong>剣の美徳</strong>を獲得</li>\n<li>高性能を評価して<strong>嘉賞</strong>を獲得</li>\n<li><strong>印の目標</strong>を達成</li>\n</ul>\n<h3>マップと味方</h3>\n<p>デモ版のマップは<strong>ルエンロシティ</strong>。4つのスポーンエリア、味方を召唤できる黄金の尖塔、素早く移動できるテレポートポイントが装備されています。ボス（侵入者）は単独攻略も、近くのプレイヤーに協力を依頼することも可能です。</p>\n<h3>キャラクター能力</h3>\n<p>デモ版では6人の血縁者（正式版では10人以上）が選択可能。それぞれ独自の武器、スキル、咆哮メカニズムを持ち、敵を気絶させて一時的に味方に変えることができます。</p>\n<h3>第2ラウンドイベント</h3>\n<p>各ラウンドで飛行船、磁気嵐、流星など、ランダムな世界イベントが発生し、戦況を変化させます。</p>\n<h2>正式版の内容</h2>\n<ul>\n<li>3枚のマップ</li>\n<li>協力ボス戦</li>\n<li>キャラカスタマイズ</li>\n<li>マッチ間のストーリー進行</li>\n<li>連盟システム（フレンドとの組み臨時同盟）</li>\n</ul>\n<hr>\n<p><em>出典：<a href=\"https://www.youtube.com/watch?v=rh2XRuhlHNY\">YouTube — The Duskbloods ゲームプレイ映像</a></em></p>\n<h2>The Duskbloods を探索</h2>\n<ul>\n<li><a href=\"/ja/characters\">キャラクター</a> — 全てのプレイアブル血縁者を紹介</li>\n<li><a href=\"/ja/gameplay\">ゲームプレイ</a> — コアメカニズム、美徳システム、マッチ構成</li>\n</ul>\n<h2>関連記事</h2>\n<ul>\n<li><a href=\"/ja/latest/duskbloods-pvpve-explained\">The Duskbloods の PvPvE とは？</a></li>\n<li><a href=\"/ja/latest/duskbloods-beginner-matchmaking\">The Duskbloods 初心者マッチングガイド</a></li>\n</ul>\n",
+      "wordCount": 725
+    },
+    "zh": {
+      "title": "The Duskbloods 黄昏血族 游戏视频曝光 — 12小时试玩详解",
+      "date": "2026-09-05",
+      "modified": null,
+      "summary": "The Duskbloods 黄昏血族 12小时试玩体验曝光PvPvE战斗、8人对战、美德系统等核心玩法。内含完整游戏视频。",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "gameplay",
+        "preview",
+        "PvPvE",
+        "FromSoftware",
+        "Nintendo"
+      ],
+      "content": "<p>The Duskbloods 黄昏血族 12小时试玩体验揭晓了FromSoftware这款PvPvE新作的核心玩法。完整游戏视频请见下方。</p>\n<h2>游戏视频</h2>\n<iframe width=\"100%\" height=\"400\" src=\"https://www.youtube.com/embed/rh2XRuhlHNY\" title=\"The Duskbloods 黄昏血族 12小时试玩\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><h2>核心玩法</h2>\n<h3>比赛结构</h3>\n<p>8名玩家进行3轮淘汰赛。每轮结束后，积分最低的玩家被淘汰。最终只有3人进入决斗，血量由累积的<strong>美德点数</strong>决定。</p>\n<h3>美德系统</h3>\n<p>美德是一切的核心。获取方式包括：</p>\n<ul>\n<li>收集地图物品获得<strong>火焰美德</strong></li>\n<li>在<strong>仪式场地</strong>击杀玩家获得<strong>剑之美德</strong></li>\n<li>表现优异获得<strong>嘉奖</strong></li>\n<li>完成<strong>印记目标</strong></li>\n</ul>\n<h3>地图与盟友</h3>\n<p>试玩地图为<strong>卢恩罗城</strong>，设有4个出生区域、金色尖塔可召唤盟友、传送点可快速移动。Boss（入侵者）可单挑或邀请附近玩家协助。</p>\n<h3>角色技能</h3>\n<p>试玩提供6位可选血誓者（正式版10+），每位拥有独特武器、技能和咆哮机制——可击晕并暂时转化敌人。</p>\n<h3>第二轮事件</h3>\n<p>每轮随机触发世界事件，如飞艇、磁暴、流星等，改变战场局势。</p>\n<h2>正式版内容</h2>\n<ul>\n<li>3张地图</li>\n<li>合作Boss战</li>\n<li>角色自定义</li>\n<li>对局间剧情推进</li>\n<li>联盟系统（组队或临时结盟）</li>\n</ul>\n<hr>\n<p><em>来源：<a href=\"https://www.youtube.com/watch?v=rh2XRuhlHNY\">YouTube — The Duskbloods Gameplay Preview</a></em></p>\n<h2>探索黄昏血族</h2>\n<ul>\n<li><a href=\"/zh/characters\">角色</a> — 了解所有可玩血誓者</li>\n<li><a href=\"/zh/gameplay\">玩法</a> — 核心机制、美德系统和比赛结构</li>\n</ul>\n<h2>相关文章</h2>\n<ul>\n<li><a href=\"/zh/latest/duskbloods-pvpve-explained\">什么是 The Duskbloods PvPvE？</a></li>\n<li><a href=\"/zh/latest/duskbloods-beginner-matchmaking\">The Duskbloods 新手匹配指南</a></li>\n</ul>\n",
+      "wordCount": 474
+    },
+    "zh-TW": {
+      "title": "The Duskbloods 黃昏血族 遊戲影片曝光 — 12小時試玩詳解",
+      "date": "2026-09-05",
+      "modified": null,
+      "summary": "The Duskbloods 黃昏血族 12小時試玩體驗曝光PvPvE戰鬥、8人對戰、美德系統等核心玩法。內含完整遊戲影片。",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "gameplay",
+        "preview",
+        "PvPvE",
+        "FromSoftware",
+        "Nintendo"
+      ],
+      "content": "<p>The Duskbloods 黃昏血族 12小時試玩體驗揭曉了FromSoftware這款PvPvE新作的核心玩法。完整遊戲影片請見下方。</p>\n<h2>遊戲影片</h2>\n<iframe width=\"100%\" height=\"400\" src=\"https://www.youtube.com/embed/rh2XRuhlHNY\" title=\"The Duskbloods 黃昏血族 12小時試玩\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><h2>核心玩法</h2>\n<h3>比賽結構</h3>\n<p>8名玩家進行3輪淘汰賽。每輪結束後，積分最低的玩家被淘汰。最終只有3人進入決鬥，血量由累積的<strong>美德點數</strong>決定。</p>\n<h3>美德系統</h3>\n<p>美德是一切的核心。獲取方式包括：</p>\n<ul>\n<li>收集地圖物品獲得<strong>火焰美德</strong></li>\n<li>在<strong>儀式場地</strong>擊殺玩家獲得<strong>劍之美德</strong></li>\n<li>表現優異獲得<strong>嘉獎</strong></li>\n<li>完成<strong>印記目標</strong></li>\n</ul>\n<h3>地圖與盟友</h3>\n<p>試玩地圖為<strong>盧恩羅城</strong>，設有4個出生區域、金色尖塔可召喚盟友、傳送點可快速移動。Boss（入侵者）可單挑或邀請附近玩家協助。</p>\n<h3>角色技能</h3>\n<p>試玩提供6位可選血誓者（正式版10+），每位擁有獨特武器、技能和咆哮機制——可擊暈並暫時轉化敵人。</p>\n<h3>第二輪事件</h3>\n<p>每輪隨機觸發世界事件，如飛艇、磁暴、流星等，改變戰場局勢。</p>\n<h2>正式版內容</h2>\n<ul>\n<li>3張地圖</li>\n<li>合作Boss戰</li>\n<li>角色自定義</li>\n<li>對局間劇情推進</li>\n<li>聯盟系統（組隊或臨時結盟）</li>\n</ul>\n<hr>\n<p><em>來源：<a href=\"https://www.youtube.com/watch?v=rh2XRuhlHNY\">YouTube — The Duskbloods 遊戲試玩</a></em></p>\n<h2>探索黃昏血族</h2>\n<ul>\n<li><a href=\"/zh-TW/characters\">角色</a> — 了解所有可玩血誓者</li>\n<li><a href=\"/zh-TW/gameplay\">玩法</a> — 核心機制、美德系統和比賽結構</li>\n</ul>\n<h2>相關文章</h2>\n<ul>\n<li><a href=\"/zh-TW/latest/duskbloods-pvpve-explained\">什麼是 The Duskbloods PvPvE？</a></li>\n<li><a href=\"/zh-TW/latest/duskbloods-beginner-matchmaking\">The Duskbloods 新手匹配指南</a></li>\n</ul>\n",
+      "wordCount": 477
+    },
+    "ru": {
+      "title": "The Duskbloods — геймплейное видео раскрыто: подробный разбор 12-часовой.demo",
+      "date": "2026-09-05",
+      "modified": null,
+      "summary": "Новое геймплейное видео The Duskbloods после 12-часовой сессии раскрывает PvPvE-бойню, матчи на 8 игроков, систему добродетели и многое другое.",
+      "image": "https://duskbloods.net/og.svg",
+      "tags": [
+        "gameplay",
+        "preview",
+        "PvPvE",
+        "FromSoftware",
+        "Nintendo"
+      ],
+      "content": "<p>Новое геймплейное видео The Duskbloods после 12-часовой сессии раскрывает ключевые механики нового PvPvE-проекта от FromSoftware. Полное видео смотрите ниже.</p>\n<h2>Геймплейное видео</h2>\n<iframe width=\"100%\" height=\"400\" src=\"https://www.youtube.com/embed/rh2XRuhlHNY\" title=\"The Duskbloods — 12-часовой геймплей\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><h2>Что нового</h2>\n<h3>Структура матчей</h3>\n<p>8 игроков сражаются в 3 раундах. После каждого раунда игроки с наименьшим количеством очков выбывают. В финал проходят только 3 игрока, чьё здоровье усиливается накопленными <strong>очками добродетели</strong>.</p>\n<h3>Система добродетели</h3>\n<p>Добродетель — это всё. Вы зарабатываете её, собирая:</p>\n<ul>\n<li><strong>Огненную добродетель</strong> с объектов на карте</li>\n<li><strong>Добродетель меча</strong>, убивая игроков на <strong>ритуальных площадках</strong></li>\n<li><strong>Похвалы</strong> за отличную игру</li>\n<li>Выполняя <strong>цели(sigil)</strong></li>\n</ul>\n<h3>Карты и союзники</h3>\n<p>Демо-версия включала <strong>Луэнро Сити</strong> — карту с 4 зонами.spawn, золотыми шпилями для призыва союзников и телепортами для быстрого перемещения. Боссов (Нарушителей) можно одолеть в одиночку или с помощью ближайших игроков.</p>\n<h3>Способности персонажей</h3>\n<p>6 доступных Кровоклятых в демо-версии (10+ в полной игре), каждый с уникальным оружием, способностями и механикой рёва, которая может оглушить и временно обратить врагов на свою сторону.</p>\n<h3>События второго раунда</h3>\n<p>В каждом раунде случайно происходят мирные события: дирижабли, магнитные бури, падающие звёзды и другие явления, меняющие ход боя.</p>\n<h2>Особенности полной версии</h2>\n<ul>\n<li>3 карты на старте</li>\n<li>Кооп-бои с боссами</li>\n<li>Кастомизация персонажей</li>\n<li>Прогресс сюжета между матчами</li>\n<li>Система союзов (группировка с друзьями или временные союзы)</li>\n</ul>\n<hr>\n<p><em>Источник: <a href=\"https://www.youtube.com/watch?v=rh2XRuhlHNY\">YouTube — The Duskbloods Gameplay Preview</a></em></p>\n<h2>Исследуйте The Duskbloods</h2>\n<ul>\n<li><a href=\"/ru/characters\">Персонажи</a> — Познакомьтесь со всеми Кровоклятыми</li>\n<li><a href=\"/ru/gameplay\">Геймплей</a> — Основные механики, система добродетели и структура матчей</li>\n</ul>\n<h2>Статьи по теме</h2>\n<ul>\n<li><a href=\"/ru/latest/duskbloods-pvpve-explained\">Что такое PvPvE в The Duskbloods?</a></li>\n<li><a href=\"/ru/latest/duskbloods-beginner-matchmaking\">Руководство для новичков: matchmaking в The Duskbloods</a></li>\n</ul>\n",
+      "wordCount": 270
+    }
+  },
   "duskbloods-beginner-matchmaking": {
     "en": {
       "title": "The Duskbloods Matchmaking: Miyazaki Confirms New Players Will Match With New Players",
