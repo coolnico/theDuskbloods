@@ -1,6 +1,6 @@
 # Dusk Bloods
 
-> Official Website: [duskfloods.net](https://duskbloods.net)
+> Official Website: [duskbloods.net](https://duskbloods.net)
 
 Open source project for the Dusk Bloods official website, built with Next.js 15 and deployed on Cloudflare Pages.
 
