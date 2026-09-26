@@ -11,6 +11,7 @@ export default {
         'surface-2': 'rgb(var(--surface-2) / <alpha-value>)',
         border: 'rgb(var(--border) / <alpha-value>)',
         text: 'rgb(var(--text) / <alpha-value>)',
+        body: 'rgb(var(--text-body) / <alpha-value>)',
         muted: 'rgb(var(--muted) / <alpha-value>)',
         blood: 'rgb(var(--blood) / <alpha-value>)',
         ember: 'rgb(var(--ember) / <alpha-value>)',

@@ -25,7 +25,7 @@ export default function NewsPage() {
         <article className="shell py-10 sm:py-16">
           <header className="mb-8 sm:mb-12">
             <span className="eyebrow">News</span>
-            <h1 className="h-title mt-3 text-2xl font-bold sm:text-4xl">Latest Articles</h1>
+            <h1 className="h-title mt-3 text-2xl font-bold sm:text-3xl lg:text-4xl">Latest Articles</h1>
             <p className="mt-3 max-w-3xl text-sm leading-relaxed text-muted sm:mt-4 sm:text-base">
               Updates, guides, and news about The Duskbloods.
             </p>

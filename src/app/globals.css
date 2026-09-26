@@ -8,7 +8,8 @@
   --surface-2: 31 26 38;
   --border: 44 37 54;
   --text: 236 230 224;
-  --muted: 154 143 163;
+  --text-body: 212 205 218;
+  --muted: 186 178 196;
   --blood: 178 34 52;
   --ember: 212 98 26;
   --twilight: 106 76 147;
@@ -60,11 +61,17 @@
   }
 
   .h-title {
-    @apply font-heading tracking-tight text-balance;
+    @apply font-heading tracking-tight;
+    /* Prefer phrase-level breaks (CJK) and avoid orphan last words;
+       text-balance forces long mixed-script titles to wrap at ~50% width. */
+    text-wrap: pretty;
+    overflow-wrap: break-word;
+    word-break: auto-phrase;
+    line-break: auto;
   }
 
   .prose-muted p {
-    @apply text-muted leading-relaxed;
+    @apply text-body leading-relaxed;
   }
 
   .prose-article h2 {
@@ -74,11 +81,11 @@
     @apply mt-6 mb-2 font-heading text-lg font-bold text-text;
   }
   .prose-article p {
-    @apply my-3 text-muted leading-relaxed;
+    @apply my-3 text-body leading-relaxed;
   }
   .prose-article ul,
   .prose-article ol {
-    @apply my-4 ml-6 space-y-2 text-muted;
+    @apply my-4 ml-6 space-y-2 text-body;
   }
   .prose-article ul {
     @apply list-disc;
@@ -90,7 +97,7 @@
     @apply text-blood underline underline-offset-2 hover:text-ember transition-colors;
   }
   .prose-article blockquote {
-    @apply my-4 border-l-2 border-gold pl-4 italic text-muted;
+    @apply my-4 border-l-2 border-gold pl-4 italic text-body;
   }
   .prose-article code {
     @apply rounded bg-surface-2 px-1.5 py-0.5 text-sm font-mono;

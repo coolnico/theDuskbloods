@@ -22,7 +22,7 @@ export default function NewsList({ articles, locale, noArticlesText }: NewsListP
           <h2 className="mt-2 font-heading text-lg font-bold text-text group-hover:text-blood transition-colors">
             {article.title}
           </h2>
-          <p className="mt-1 text-sm text-muted">{article.summary}</p>
+          <p className="mt-1 text-sm text-body">{article.summary}</p>
         </Link>
       ))}
       {articles.length === 0 && (

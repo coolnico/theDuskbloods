@@ -16,7 +16,7 @@ export default function NetworkTestView() {
     <div className="space-y-10 sm:space-y-16">
       <header>
         <span className="eyebrow">{t('intro.eyebrow')}</span>
-        <h1 className="h-title mt-3 text-2xl font-bold sm:text-4xl">{t('intro.title')}</h1>
+        <h1 className="h-title mt-3 text-2xl font-bold sm:text-3xl lg:text-4xl">{t('intro.title')}</h1>
         <p className="mt-3 max-w-3xl text-sm leading-relaxed text-muted sm:mt-4 sm:text-base">{t('intro.lead')}</p>
 
         {/* Application ended banner */}

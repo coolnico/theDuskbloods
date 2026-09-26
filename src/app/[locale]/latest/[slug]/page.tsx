@@ -147,8 +147,8 @@ export default async function ArticlePage({
                 <span>{t('readingTime', { min: readingTime })}</span>
               </span>
             </div>
-            <h1 className="h-title mt-3 text-2xl font-bold sm:text-4xl" itemProp="headline">{article.title}</h1>
-            <p className="mt-3 text-muted" itemProp="description">{article.summary}</p>
+            <h1 className="h-title mt-3 text-2xl font-bold sm:text-3xl lg:text-4xl" itemProp="headline">{article.title}</h1>
+            <p className="mt-3 text-body" itemProp="description">{article.summary}</p>
             {article.tags && article.tags.length > 0 && (
               <div className="mt-3 flex flex-wrap items-center gap-2">
                 <Tag className="h-3.5 w-3.5 text-muted" />

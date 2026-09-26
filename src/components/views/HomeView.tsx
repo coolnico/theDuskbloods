@@ -43,7 +43,7 @@ export default function HomeView() {
         </svg>
         <div className="relative px-5 py-10 sm:px-10 sm:py-24">
           <span className="eyebrow">{t('hero.badge')}</span>
-          <h1 className="h-title mt-3 text-3xl font-bold text-text sm:text-6xl sm:mt-4">
+          <h1 className="h-title mt-3 text-3xl font-bold text-text sm:text-5xl lg:text-6xl sm:mt-4">
             {t('hero.title')}
           </h1>
           <p className="mt-4 max-w-2xl text-sm leading-relaxed text-muted sm:mt-5 sm:text-lg">
