@@ -1080,20 +1080,6 @@
       "desc": "Envíanos un correo electrónico y te responderemos lo antes posible.",
       "address": "contact@duskbloods.com"
     },
-    "social": {
-      "title": "Redes sociales",
-      "desc": "También puedes conectarte con nosotros en estas plataformas.",
-      "links": [
-        {
-          "name": "Twitter / X",
-          "url": "https://x.com/duskbloods"
-        },
-        {
-          "name": "Discord",
-          "url": "https://discord.gg/duskbloods"
-        }
-      ]
-    },
     "note": {
       "title": "Aviso legal",
       "desc": "Este es un sitio fan no oficial y no está afiliado ni respaldado por FromSoftware ni Nintendo. No podemos ayudar con soporte del juego o problemas de cuenta — contacta al soporte oficial correspondiente."

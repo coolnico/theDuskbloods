@@ -1080,20 +1080,6 @@
       "desc": "以下のアドレスにメールをお送りください。できるだけ早くご返信いたします。",
       "address": "contact@duskbloods.com"
     },
-    "social": {
-      "title": "ソーシャルメディア",
-      "desc": "以下のソーシャルプラットフォームでもおつなぎいただけます。",
-      "links": [
-        {
-          "name": "Twitter / X",
-          "url": "https://x.com/duskbloods"
-        },
-        {
-          "name": "Discord",
-          "url": "https://discord.gg/duskbloods"
-        }
-      ]
-    },
     "note": {
       "title": "免責事項",
       "desc": "当サイトは非公式のファンサイトであり、FromSoftware または任天堂とは提携または承認関係にありません。ゲームのサポートやアカウントに関する問題には対応できませんので、各公式サポートにお問い合わせください。"

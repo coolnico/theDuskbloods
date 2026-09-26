@@ -1080,20 +1080,6 @@
       "desc": "아래 주소로 이메일을 보내 주시면 최대한 빨리 답변 드리겠습니다.",
       "address": "contact@duskbloods.com"
     },
-    "social": {
-      "title": "소셜 미디어",
-      "desc": "다음 소셜 플랫폼에서도 연결하실 수 있습니다.",
-      "links": [
-        {
-          "name": "Twitter / X",
-          "url": "https://x.com/duskbloods"
-        },
-        {
-          "name": "Discord",
-          "url": "https://discord.gg/duskbloods"
-        }
-      ]
-    },
     "note": {
       "title": "면책 조항",
       "desc": "본 사이트는 비공식 팬 사이트이며 FromSoftware 또는 Nintendo와 제휴하거나 승인을 받지 않았습니다. 게임 지원이나 계정 관련 문제는 처리할 수 없으며, 해당 공식 지원팀에 문의해 주세요."

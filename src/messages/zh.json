@@ -1092,20 +1092,6 @@
       "desc": "发送邮件至以下地址，我们会尽快回复。",
       "address": "contact@duskbloods.com"
     },
-    "social": {
-      "title": "社交媒体",
-      "desc": "也可以通过以下社交平台与我们互动。",
-      "links": [
-        {
-          "name": "Twitter / X",
-          "url": "https://x.com/duskbloods"
-        },
-        {
-          "name": "Discord",
-          "url": "https://discord.gg/duskbloods"
-        }
-      ]
-    },
     "note": {
       "title": "声明",
       "desc": "本站为非官方粉丝资讯站，与 FromSoftware 或任天堂无任何隶属或受其认可关系。本站无法处理游戏技术支持或账号相关问题，此类问题请联系对应官方客服。"
