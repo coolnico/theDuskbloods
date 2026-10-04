@@ -51,6 +51,14 @@
     "news": {
       "title": "Latest News & Articles — The Duskbloods Guide",
       "description": "Stay up to date with the latest news, guides, and updates about The Duskbloods, Hidetaka Miyazaki's PvPvE multiplayer action game from FromSoftware for Nintendo Switch 2."
+    },
+    "maps": {
+      "title": "The Duskbloods Lands of Dusk & Lowanro Map Guide",
+      "description": "Explore the Lands of Dusk in The Duskbloods: Lowanro City, regional features, revive rules, and map tools like warps and trespasser markers."
+    },
+    "kin": {
+      "title": "The Duskbloods Kin Guide — Compacts, Circles & Advancement",
+      "description": "How kin compacts work in The Duskbloods: summoning circles (Ring, Blade, Eye), 8 kin types, growth, and summon/dismiss rules."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods is a trademark of FromSoftware and Nintendo. This is an unofficial fan information site and is not affiliated with or endorsed by FromSoftware or Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. All game content belongs to its respective owners.",
     "gallery": "Gallery",
-    "latest": "Latest"
+    "latest": "Latest",
+    "maps": "Maps",
+    "kin": "Kin"
   },
   "news": {
     "backToList": "Back to Latest",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "Disclaimer",
       "desc": "This is an unofficial fan site and is not affiliated with or endorsed by FromSoftware or Nintendo. We cannot assist with game support or account issues — please contact the respective official support for those."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "Maps",
+      "title": "Lands of Dusk — Lowanro City Map Guide",
+      "lead": "When a Dusk Battle begins, Bloodsworn are summoned to the Lands of Dusk. The network test stages every match on one land: Lowanro City — a multilayered field of landmarks, streets, and wilderness."
+    },
+    "lands": {
+      "title": "The Lands of Dusk",
+      "desc": "One land, many layers. Explore freely to strengthen your Bloodsworn and bank the Virtue you need to survive the grail's culling.",
+      "points": [
+        {
+          "title": "Lowanro City",
+          "desc": "The network test's sole battleground — a city watched over by a towering clock tower and cathedral, with streets spreading around them."
+        },
+        {
+          "title": "Multilayered Regions",
+          "desc": "Beyond the streets, the field branches into multiple regions including a cave, a forest, and a lake."
+        },
+        {
+          "title": "Revive Until You Fall",
+          "desc": "You can revive any number of times in the Lands of Dusk — until you fail to survive the culling."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "Regional Features",
+      "desc": "Several features appear in each region during a phase, and they change as the match advances. Check the map icons and pick the upgrades that fit your play style.",
+      "features": [
+        {
+          "title": "Bloodbag Elder",
+          "desc": "Bloodsacs wander the land. Defeat them for blood crystals that enhance your Bloodsworn Skills.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "Alchemy Furnace",
+          "desc": "Imbue weapons with fire and other affinities. Enhancing again at a matching furnace raises the weapon's enhancement level.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "Kin Small Circles",
+          "desc": "Small kin summoning circles appear — strengthen your compact and grant a large amount of experience to your partnered kin.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "Exploration Items",
+          "desc": "Find items out in the field, like the Fire Flask for a raging blaze or the Memorial Stake to set a revival point.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Map Tools & Info Screen",
+      "desc": "Press [+] during a Dusk Battle to open the info screen and make the map work for you.",
+      "items": [
+        {
+          "title": "Info Screen",
+          "desc": "Review your position, the tracks of other Bloodsworn, and regional feature icons next to each area name."
+        },
+        {
+          "title": "Instant Travel",
+          "desc": "Select a warp point on the map to travel there instantly. Unavailable at phase start, shortly after warping or reviving, or mid-combat."
+        },
+        {
+          "title": "Trespasser Markers",
+          "desc": "Trespassers show up on the map as special markers — including even stronger variants."
+        },
+        {
+          "title": "Pins",
+          "desc": "Place pins on screen or on the map to mark paths and points of interest."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "Kin",
+      "title": "Kin — Compacts, Circles & Advancement",
+      "lead": "Kin are beings who struck a deal with the Order of Dusk. They enter compacts with Bloodsworn and lend their power in battle — a support layer on top of your weapons and Bloodsworn Skills."
+    },
+    "what": {
+      "title": "Compacts with Kin",
+      "desc": "Those who have entered an agreement with the Order of Dusk are known as kin. Kins enter compacts with the Bloodsworn, lending their power. Compacts are formed at summoning circles found at the base of the chains of light that stretch into the sky.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "Summoning Circles",
+      "desc": "There are three types of kin summoning circles. Each one lets you compact with a different type of kin.",
+      "items": [
+        {
+          "title": "Ring",
+          "desc": "A Ring-type summoning circle. Contracts with one family of kin."
+        },
+        {
+          "title": "Blade",
+          "desc": "A Blade-type summoning circle. Contracts with a different family of kin."
+        },
+        {
+          "title": "Eye",
+          "desc": "An Eye-type summoning circle. Contracts with yet another family of kin."
+        }
+      ],
+      "note": "Eight kin exist in the network test version.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "Kin Archetypes",
+      "desc": "Various kin offer support with unique abilities. The network test includes figures like these:",
+      "items": [
+        {
+          "title": "Young Swordswoman",
+          "desc": "A young swordswoman of a clandestine society."
+        },
+        {
+          "title": "Flame Sorcerer",
+          "desc": "A sorcerer who has mastered the flame."
+        },
+        {
+          "title": "Singing Prisoner",
+          "desc": "A prisoner who can protect allies by singing."
+        },
+        {
+          "title": "Black Wolf",
+          "desc": "A black wolf who lords over a forest."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "Kin Advancement",
+      "desc": "When you defeat enemies while accompanied by a kin, your kin also gains experience and levels up, increasing both health and attack power. Some may even gain access to new attacks based on their level.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "Summoning & Dismissing",
+      "desc": "Summon and dismiss kin from the Function menu. When kin die, they are automatically dismissed and cannot be summoned again for a period. While dismissed or out of combat, a kin's HP gradually restores. You cannot dismiss kin while they are being attacked."
     }
   }
 }

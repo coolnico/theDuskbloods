@@ -51,6 +51,14 @@
     "news": {
       "title": "最新資訊與文章 — 黃昏血族指南",
       "description": "掌握宮崎英高監製、FromSoftware PvPvE 多人動作遊戲《The Duskbloods》的最新消息、攻略與更新。"
+    },
+    "maps": {
+      "title": "The Duskbloods 黃昏之地與洛安榮街道地圖指南",
+      "description": "探索《The Duskbloods》的黃昏之地：洛安榮街道、地區特性、復活規則，以及瞬移與侵略者標記等地圖工具。"
+    },
+    "kin": {
+      "title": "The Duskbloods 眷屬指南 — 契約、魔法陣與成長",
+      "description": "《The Duskbloods》眷屬契約機制詳解：召喚魔法陣（環／刃／瞳）、8 位眷屬、成長規則與召喚召還機制。"
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods 是 FromSoftware 與任天堂的商標。本站為非官方粉絲資訊站，與上述公司無隸屬或受其認可關係。",
     "copyright": "© {year} The Duskbloods Fan Site. 遊戲內容的權益歸各自權利人所有。",
     "gallery": "遊戲截圖",
-    "latest": "最新資訊"
+    "latest": "最新資訊",
+    "maps": "地圖",
+    "kin": "眷屬"
   },
   "news": {
     "backToList": "返回最新資訊",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "聲明",
       "desc": "本站為非官方粉絲資訊站，與 FromSoftware 或任天堂無任何隸屬或受其認可關係。本站無法處理遊戲技術支援或帳號相關問題，此類問題請聯繫對應官方客服。"
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "地圖",
+      "title": "黃昏之地 — 洛安榮街道地圖指南",
+      "lead": "戰役開始之後，血族將被召喚至「黃昏之地」。網路測試版的舞台是其中之一「洛安榮街道」——由地標、街區與野外組成的立體場地。"
+    },
+    "lands": {
+      "title": "黃昏之地",
+      "desc": "一片大地，多層結構。在這片大地上任意馳騁，強化血族並增加美德，通過聖杯的篩選。",
+      "points": [
+        {
+          "title": "洛安榮街道",
+          "desc": "網路測試的唯一戰場——俯視著街道的時鐘塔與大聖堂，以及周遭展開的街區。"
+        },
+        {
+          "title": "立體的多地區結構",
+          "desc": "街區之外，還有洞窟與湖泊等數個地區組成的寬廣立體場地。"
+        },
+        {
+          "title": "倒下也能復活",
+          "desc": "血族在這片大地即使倒下也能復活，直到篩選時落敗為止。"
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "地區特性",
+      "desc": "各地區在每個階段會出現數種地區特性，並隨戰役推進而變化。確認地圖上的特性圖示，尋找適合自己遊玩風格的強化。",
+      "features": [
+        {
+          "title": "血袋翁",
+          "desc": "「血袋翁」會在大地上徘徊。打倒後獲得的「血結晶」可用來強化血族技。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "煉金爐",
+          "desc": "「煉金爐」可為武器賦予火屬性等各種屬性。在屬性與武器相同的煉金爐再次強化，即可使武器的強化級別提升一級。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "眷屬小魔法陣",
+          "desc": "會出現「眷屬小魔法陣」。可強化與眷屬的契約，使已訂定契約的眷屬獲得大量經驗值。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "探索道具",
+          "desc": "可在探索或打倒敵人時獲得道具，例如燃起大火的燃燒瓶、可作為復活點的生命墓碑。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "地圖工具與資訊畫面",
+      "desc": "在黃昏戰役中按 [+] 打開資訊畫面，善用地圖工具。",
+      "items": [
+        {
+          "title": "資訊畫面",
+          "desc": "可確認自己的位置、其他血族的行蹤，以及各地區名稱旁的地區特性圖示。"
+        },
+        {
+          "title": "瞬移",
+          "desc": "在地圖上選擇傳送點即可瞬移。階段開始時、傳送或復活後的一段時間內、以及戰鬥中無法使用。"
+        },
+        {
+          "title": "侵略者標記",
+          "desc": "侵略者會以特殊標記顯示在地圖上，還有更強的侵略者變體。"
+        },
+        {
+          "title": "放置標記",
+          "desc": "可在畫面或地圖上放置標記，用作探索指引。"
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "眷屬",
+      "title": "眷屬 — 契約、魔法陣與成長",
+      "lead": "眷屬是曾與黃昏協會達成交易的存在。他們會與血族訂定契約並借出力量，是在武器與血族技之外的支援體系。"
+    },
+    "what": {
+      "title": "與眷屬的契約",
+      "desc": "曾與黃昏協會達成交易者，被稱為「眷屬」。眷屬會與血族訂定契約，並借出自身的力量。眷屬契約需透過延伸至空中的光之鎖鏈下方的魔法陣訂定。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "召喚魔法陣",
+      "desc": "魔法陣分成「環」「刃」「瞳」三種，不同魔法陣可訂定契約的眷屬都不同。",
+      "items": [
+        {
+          "title": "環",
+          "desc": "環之魔法陣。可與一族眷屬訂定契約。"
+        },
+        {
+          "title": "刃",
+          "desc": "刃之魔法陣。可與另一族眷屬訂定契約。"
+        },
+        {
+          "title": "瞳",
+          "desc": "瞳之魔法陣。可與第三族眷屬訂定契約。"
+        }
+      ],
+      "note": "在網路測試版中共有 8 位眷屬。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "眷屬類型",
+      "desc": "各個眷屬將透過獨特的能力協助血族戰鬥，例如：",
+      "items": [
+        {
+          "title": "年輕劍士",
+          "desc": "秘密團體的年輕劍士。"
+        },
+        {
+          "title": "炎術師",
+          "desc": "操控火焰的魔術師。"
+        },
+        {
+          "title": "歌唱的囚人",
+          "desc": "以歌聲保護友方的男囚。"
+        },
+        {
+          "title": "黑狼",
+          "desc": "森林之主的黑狼。"
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "眷屬的成長",
+      "desc": "在與眷屬訂定契約的狀態下打倒敵人，眷屬也能獲得經驗值並提升等級，使 HP 上限及攻擊力提升。有些眷屬還能因此追加新的攻擊。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "召喚與召還",
+      "desc": "可透過功能選單召喚或召還眷屬。眷屬倒下後會被自動召還，一段時間內無法再次召喚。被召還或非戰鬥狀態下，眷屬的 HP 會逐漸恢復。眷屬受到攻擊時無法召還。"
     }
   }
 }

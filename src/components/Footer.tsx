@@ -31,6 +31,8 @@ export default function Footer() {
                 <li><Link href="/latest" className="nav-link">{t('latest')}</Link></li>
                 <li><Link href="/gameplay" className="nav-link">{t('gameplay')}</Link></li>
                 <li><Link href="/characters" className="nav-link">{t('characters')}</Link></li>
+                <li><Link href="/maps" className="nav-link">{t('maps')}</Link></li>
+                <li><Link href="/kin" className="nav-link">{t('kin')}</Link></li>
                 <li><Link href="/gallery" className="nav-link">{t('gallery')}</Link></li>
                 <li><Link href="/network-test" className="nav-link">{t('networkTest')}</Link></li>
                 <li><Link href="/release-date" className="nav-link">{t('releaseDate')}</Link></li>

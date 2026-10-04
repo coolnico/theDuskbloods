@@ -21,8 +21,9 @@ export default function Header() {
           <NavLink href="/latest" className="nav-link">{t('latest')}</NavLink>
           <NavLink href="/gameplay" className="nav-link">{t('gameplay')}</NavLink>
           <NavLink href="/characters" className="nav-link">{t('characters')}</NavLink>
+          <NavLink href="/maps" className="nav-link">{t('maps')}</NavLink>
+          <NavLink href="/kin" className="nav-link">{t('kin')}</NavLink>
           <NavLink href="/gallery" className="nav-link">{t('gallery')}</NavLink>
-          <NavLink href="/network-test" className="nav-link">{t('networkTest')}</NavLink>
           <NavLink href="/release-date" className="nav-link">{t('releaseDate')}</NavLink>
           <NavLink href="/faq" className="nav-link">{t('faq')}</NavLink>
         </nav>
@@ -34,8 +35,9 @@ export default function Header() {
         <NavLink href="/latest" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('latest')}</NavLink>
         <NavLink href="/gameplay" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('gameplay')}</NavLink>
         <NavLink href="/characters" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('characters')}</NavLink>
+        <NavLink href="/maps" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('maps')}</NavLink>
+        <NavLink href="/kin" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('kin')}</NavLink>
         <NavLink href="/gallery" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('gallery')}</NavLink>
-        <NavLink href="/network-test" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('networkTest')}</NavLink>
         <NavLink href="/release-date" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('releaseDate')}</NavLink>
         <NavLink href="/faq" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('faq')}</NavLink>
       </nav>

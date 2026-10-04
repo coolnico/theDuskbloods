@@ -51,6 +51,14 @@
     "news": {
       "title": "最新ニュース＆記事 — ダスクブラッド ガイド",
       "description": "宮崎英高監督、フロム・ソフトウェアのPvPvEマルチプレイアクション『The Duskbloods』の最新ニュース、ガイド、アップデートをお届けします。"
+    },
+    "maps": {
+      "title": "The Duskbloods 黄昏の地・ロアンローの街 マップガイド",
+      "description": "『The Duskbloods』の黄昏の地を解説。ロアンローの街、地域傾向、復活ルール、ワープや侵略者マーカーなどのマップツール。"
+    },
+    "kin": {
+      "title": "The Duskbloods 眷属ガイド — 契約・魔法陣・成長",
+      "description": "『The Duskbloods』の眷属との契約。召喚魔法陣（輪・刃・瞳）、8体の眷属、成長、召喚・召還ルール。"
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloodsはフロム・ソフトウェアおよび任天堂の商標です。当サイトは非公式のファン情報サイトであり、両社とは提携・推奨関係にありません。",
     "copyright": "© {year} The Duskbloods Fan Site. ゲームコンテンツの一切の権利はそれぞれの権利者に帰属します。",
     "gallery": "ギャラリー",
-    "latest": "最新情報"
+    "latest": "最新情報",
+    "maps": "マップ",
+    "kin": "眷属"
   },
   "news": {
     "backToList": "最新情報一覧に戻る",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "免責事項",
       "desc": "当サイトは非公式のファンサイトであり、FromSoftware または任天堂とは提携または承認関係にありません。ゲームのサポートやアカウントに関する問題には対応できませんので、各公式サポートにお問い合わせください。"
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "マップ",
+      "title": "黄昏の地 — ロアンローの街 マップガイド",
+      "lead": "戦いが始まると、血族は「黄昏の地」に召喚されます。ネットワークテスト版の舞台はそのひとつ「ロアンローの街」——時計塔、大聖堂、市街、洞窟や湖が広がる立体的なフィールドです。"
+    },
+    "lands": {
+      "title": "黄昏の地",
+      "desc": "ひとつの大地に複数の地域。自由に駆け巡って血族を強化し、聖杯による選別を生き抜くための美徳を集めましょう。",
+      "points": [
+        {
+          "title": "ロアンローの街",
+          "desc": "ネットワークテスト版の唯一の舞台。街を見下ろす時計塔と大聖堂、その周囲に広がる市街。"
+        },
+        {
+          "title": "立体的な複数地域",
+          "desc": "市街のほか、洞窟や湖など複数の地域に分かれた立体的なフィールドが広がっています。"
+        },
+        {
+          "title": "何度でも復活可能",
+          "desc": "この地では倒れても、選別によって敗北するまでは何度でも復活できます。"
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "地域傾向",
+      "desc": "各地域にはフェイズごとにいくつかの傾向が現れ、戦いの進展に応じて変化します。マップで傾向を確認し、自分のプレイスタイルに合った強化を見つけましょう。",
+      "features": [
+        {
+          "title": "血袋翁",
+          "desc": "「血袋翁」が大地を徘徊。倒すと血結晶を入手でき、血族技の強化に使えます。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "錬金炉",
+          "desc": "「錬金炉」で武器に炎などの属性を付与。属性が一致する錬金炉で再度強化すると、強化レベルが1段階上がります。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "眷属の小魔法陣",
+          "desc": "「眷属の小魔法陣」が出現。契約を強化し、契約中の眷属に大量の経験値を与えられます。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "探索アイテム",
+          "desc": "探索や敵撃破でアイテム入手。炎を上げる火炎瓶や、復活地点にできる記念の杭など。",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "マップツールとインフォ画面",
+      "desc": "黄昏戦いの最中は [+] でインフォ画面を開き、マップを活用しましょう。",
+      "items": [
+        {
+          "title": "インフォ画面",
+          "desc": "自分の位置、他の血族の足取り、地域名の横にある地域傾向アイコンを確認できます。"
+        },
+        {
+          "title": "ワープ",
+          "desc": "マップのワープ地点を選択して即時移動。フェイズ開始直後、ワープや復活直後、戦闘中は使用不可。"
+        },
+        {
+          "title": "侵略者のマーカー",
+          "desc": "侵略者はマップ上に専用マーカーで表示。さらに強力な侵略者も存在します。"
+        },
+        {
+          "title": "ピン設置",
+          "desc": "画面やマップにピンを設置し、探索の目印にできます。"
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "眷属",
+      "title": "眷属 — 契約・魔法陣・成長",
+      "lead": "眷属とは、黄昏協会と取引した者たちの呼び名。血族と契約し力を貸してくれる、武器や血族技に加えた支援の仕組みです。"
+    },
+    "what": {
+      "title": "眷属との契約",
+      "desc": "黄昏協会と取引した者たちを「眷属」と呼びます。眷属は血族と契約し、その力を貸してくれます。契約は空に伸びる光の鎖の下にある魔法陣で行います。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "召喚魔法陣",
+      "desc": "魔法陣には「輪」「刃」「瞳」の三種があり、それぞれ契約できる眷属の種類が異なります。",
+      "items": [
+        {
+          "title": "輪",
+          "desc": "「輪」の魔法陣。他の魔法陣とは異なる種類の眷属と契約できます。"
+        },
+        {
+          "title": "刃",
+          "desc": "「刃」の魔法陣。さらに別の種類の眷属と契約できます。"
+        },
+        {
+          "title": "瞳",
+          "desc": "「瞳」の魔法陣。第三の種類の眷属と契約できます。"
+        }
+      ],
+      "note": "ネットワークテスト版では 8 体の眷属が存在します。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "眷属のタイプ",
+      "desc": "さまざまな眷属が個性的な能力で血族の戦いをサポートします。例えば：",
+      "items": [
+        {
+          "title": "幼き剣士",
+          "desc": "秘密組織の幼き剣士。"
+        },
+        {
+          "title": "炎の魔術師",
+          "desc": "炎を操る魔術師。"
+        },
+        {
+          "title": "歌う虜囚",
+          "desc": "歌で味方を守る虜囚の男。"
+        },
+        {
+          "title": "黒狼",
+          "desc": "森の主たる黒狼。"
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "眷属の成長",
+      "desc": "眷属を従えた状態で敵を倒すと、眷属も経験値を得て Lv. が上がり、最大 HP と攻撃力が上昇します。眷属によっては新しい攻撃が増えることもあります。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "召喚と召還",
+      "desc": "ファンクションメニューから眷属を召喚・召還できます。眷属が倒れると自動的に召還され、一定時間は再召喚できません。召還中や非戦闘時は HP が徐々に回復します。攻撃を受けている間は召還できません。"
     }
   }
 }

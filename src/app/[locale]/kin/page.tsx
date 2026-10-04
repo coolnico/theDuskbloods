@@ -1,0 +1,32 @@
+import type { Metadata } from 'next';
+import { setRequestLocale } from 'next-intl/server';
+import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
+import { requireValidLocale } from '@/lib/require-locale';
+import KinView from '@/components/views/KinView';
+
+const getMetadata = makePageMetadata({ namespace: 'Metadata.kin', path: '/kin' });
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  requireValidLocale(locale);
+  return getMetadata(locale);
+}
+
+export default async function KinPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  requireValidLocale(locale);
+  setRequestLocale(locale);
+
+  const breadcrumbLd = makeBreadcrumbLd(locale, [{ name: 'Home', href: '/' }, { name: 'Kin' }]);
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <KinView />
+    </>
+  );
+}

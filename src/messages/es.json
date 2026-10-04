@@ -51,6 +51,14 @@
     "news": {
       "title": "Últimas noticias y artículos — Guía de The Duskbloods",
       "description": "Mantente al día con las últimas noticias, guías y novedades sobre The Duskbloods, el juego de acción PvPvE de Hidetaka Miyazaki y FromSoftware para Nintendo Switch 2."
+    },
+    "maps": {
+      "title": "Guía del mapa — Tierras del Crepúsculo y ciudad de Lowanro | The Duskbloods",
+      "description": "Explora las Tierras del Crepúsculo en The Duskbloods: la ciudad de Lowanro, rasgos regionales, reglas de resurrección y herramientas del mapa como portales y marcadores de intrusos."
+    },
+    "kin": {
+      "title": "Guía de vasallos — pactos, sellos y mejora | The Duskbloods",
+      "description": "Cómo funcionan los pactos con vasallos en The Duskbloods: sellos de invocación (anillo, filo e iris), 8 vasallos, crecimiento y reglas de invocación."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods es una marca comercial de FromSoftware y Nintendo. Este es un sitio de información de fans no oficial y no está afiliado ni respaldado por FromSoftware o Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. Todo el contenido del juego pertenece a sus respectivos propietarios.",
     "gallery": "Galería",
-    "latest": "Novedades"
+    "latest": "Novedades",
+    "maps": "Mapa",
+    "kin": "Vasallos"
   },
   "news": {
     "backToList": "Volver a Novedades",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "Aviso legal",
       "desc": "Este es un sitio fan no oficial y no está afiliado ni respaldado por FromSoftware ni Nintendo. No podemos ayudar con soporte del juego o problemas de cuenta — contacta al soporte oficial correspondiente."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "Mapa",
+      "title": "Tierras del Crepúsculo — Guía del mapa de Lowanro",
+      "lead": "Al inicio del combate, los Conversos de Sangre son invocados a las Tierras del Crepúsculo. En el Network Test, la acción se limita a la ciudad de Lowanro: un campo de varios niveles con monumentos, calles y naturaleza."
+    },
+    "lands": {
+      "title": "Las Tierras del Crepúsculo",
+      "desc": "Un solo lugar, muchas capas. Explóralas con total libertad para potenciar a tu Converso de Sangre y acumular la virtud necesaria para sobrevivir al sacrificio del cáliz.",
+      "points": [
+        {
+          "title": "Ciudad de Lowanro",
+          "desc": "El único escenario del Network Test: una torre del reloj y una catedral dominan la ciudad y sus alrededores."
+        },
+        {
+          "title": "Regiones multinivel",
+          "desc": "Más allá de las calles, la zona se reparte en varios niveles con una cueva, un bosque y un lago."
+        },
+        {
+          "title": "Resurrección ilimitada",
+          "desc": "Puedes resucitar un número ilimitado de veces hasta que sirvas como sacrificio al Crepúsculo."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "Rasgos regionales",
+      "desc": "Cada área posee varios rasgos que cambian con el avance de la partida. Consulta el mapa y busca las mejoras que se adapten a tu estilo.",
+      "features": [
+        {
+          "title": "Bolsa de sangre",
+          "desc": "Las bolsas de sangre vagan por la tierra. Derrótalas para obtener cristales de sangre que mejoran las técnicas de sangre.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "Horno alquímico",
+          "desc": "Imbuye las armas con fuego u otras afinidades. Mejorar de nuevo en el horno correspondiente sube un nivel su mejora.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "Círculo de vasallos",
+          "desc": "Aparecen pequeños sellos de invocación: fortalece tu pacto y concede mucha experiencia a tu vasallo.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "Objetos de exploración",
+          "desc": "Encuentra objetos por el terreno, como el frasco de fuego o la estaca conmemorativa para fijar un punto de resurrección.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Herramientas del mapa y pantalla de información",
+      "desc": "Pulsa [+] durante un combate para abrir la pantalla de información y sacar partido al mapa.",
+      "items": [
+        {
+          "title": "Pantalla de información",
+          "desc": "Consulta tu posición, la huella de otros Conversos de Sangre y los iconos de rasgos junto a cada zona."
+        },
+        {
+          "title": "Viaje instantáneo",
+          "desc": "Selecciona un portal en el mapa para viajar al instante. No disponible al inicio de fase, justo tras viajar o resucitar, ni en combate."
+        },
+        {
+          "title": "Marcadores de intrusos",
+          "desc": "Los intrusos aparecen en el mapa con marcadores especiales, incluidas variantes aún más fuertes."
+        },
+        {
+          "title": "Pines",
+          "desc": "Coloca pines en pantalla o en el mapa para marcar rutas y puntos de interés."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "Vasallos",
+      "title": "Vasallos — pactos, sellos y mejora",
+      "lead": "Los vasallos son quienes han cerrado un acuerdo con la Orden del Crepúsculo. Forman un pacto con los Conversos de Sangre y les prestan su fuerza: un apoyo añadido a armas y técnicas."
+    },
+    "what": {
+      "title": "Pactos con vasallos",
+      "desc": "Quienes han cerrado un acuerdo con la Orden del Crepúsculo se los conoce como «vasallos», y prestan sus servicios al formar un pacto en los sellos de invocación, en la base de las cadenas de luz que se erigen hacia el cielo.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "Sellos de invocación",
+      "desc": "Existen tres tipos de sellos de invocación (anillo, filo e iris). Cada uno permite formar un pacto con vasallos diferentes.",
+      "items": [
+        {
+          "title": "Anillo",
+          "desc": "Un sello de tipo anillo. Pacta con una familia de vasallos."
+        },
+        {
+          "title": "Filo",
+          "desc": "Un sello de tipo filo. Pacta con otra familia de vasallos."
+        },
+        {
+          "title": "Iris",
+          "desc": "Un sello de tipo iris. Pacta con una tercera familia de vasallos."
+        }
+      ],
+      "note": "En el Network Test, hay disponibles ocho vasallos.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "Tipos de vasallos",
+      "desc": "Cada vasallo posee habilidades únicas de apoyo en combate. Entre ellos:",
+      "items": [
+        {
+          "title": "Joven espadachina",
+          "desc": "Una joven espadachina de una sociedad clandestina."
+        },
+        {
+          "title": "Hechicero del fuego",
+          "desc": "Un hechicero que domina el fuego."
+        },
+        {
+          "title": "Prisionero cantor",
+          "desc": "Un prisionero que refuerza a sus aliados con su voz."
+        },
+        {
+          "title": "Lobo negro",
+          "desc": "Un lobo negro, señor de un bosque."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "Mejora de vasallos",
+      "desc": "Al derrotar enemigos acompañado de un vasallo, este también gana experiencia y sube de nivel, aumentando su salud y su poder de ataque. Algunos desbloquean incluso nuevos ataques según su nivel.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "Invocación y retirada",
+      "desc": "Invoca y retira vasallos desde el menú de funciones. Si un vasallo cae, se retira automáticamente y no podrá invocarse de nuevo durante un tiempo. Fuera de combate o retirado, su salud se recupera poco a poco. No puedes retirar un vasallo que esté bajo ataque."
     }
   }
 }

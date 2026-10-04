@@ -51,6 +51,14 @@
     "news": {
       "title": "Neueste Nachrichten & Artikel — The Duskbloods Guide",
       "description": "Bleiben Sie auf dem Laufenden mit den neuesten Nachrichten, Guides und Updates zu The Duskbloods, dem PvPvE-Actionspiel von Hidetaka Miyazaki und FromSoftware für Nintendo Switch 2."
+    },
+    "maps": {
+      "title": "Karte der Dämmerungslande & Stadt Lowanro | The Duskbloods",
+      "description": "Erkunde die Dämmerungslande in The Duskbloods: die Stadt Lowanro, regionale Eigenschaften, Wiederbelebung und Kartenwerkzeuge wie Warp-Punkte und Eindringlingsmarker."
+    },
+    "kin": {
+      "title": "Vasallen-Guide — Pakte, Portale & Entwicklung | The Duskbloods",
+      "description": "So funktionieren Vasallenpakete in The Duskbloods: Vasallenportale (Ring, Klinge, Auge), 8 Vasallen, Entwicklung sowie Beschwörungsregeln."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods ist eine Marke von FromSoftware und Nintendo. Dies ist eine inoffizielle Fan-Informationsseite ohne Verbindung zu oder Befürwortung durch FromSoftware oder Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. Alle Spielinhalte gehören den jeweiligen Eigentümern.",
     "gallery": "Galerie",
-    "latest": "Neuigkeiten"
+    "latest": "Neuigkeiten",
+    "maps": "Karte",
+    "kin": "Vasallen"
   },
   "news": {
     "backToList": "Zurück zu Neuigkeiten",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "Haftungsausschluss",
       "desc": "Dies ist eine inoffizielle Fan-Site und steht in keiner Verbindung zu FromSoftware oder Nintendo und wird von diesen nicht unterstützt. Wir können keine Hilfe bei Spielsupport oder Kontoproblemen leisten — wenden Sie sich bitte an den jeweiligen offiziellen Support."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "Karte",
+      "title": "Dämmerungslande — Karte der Stadt Lowanro",
+      "lead": "Sobald eine Schlacht beginnt, werden die Blutgeweihten in die Dämmerungslande gerufen. Im Netzwerktest spielen sich alle Schlachten in einem dieser Lande ab: der Stadt Lowanro – einer mehrschichtigen Landschaft aus Wahrzeichen, Gassen und Wildnis."
+    },
+    "lands": {
+      "title": "Die Dämmerungslande",
+      "desc": "Ein Land, viele Ebenen. Erkunde die Lande nach deinem eigenen Gusto, um deinen Blutgeweihten zu stärken und die nötige Tugend für die Auslese zu erlangen.",
+      "points": [
+        {
+          "title": "Stadt Lowanro",
+          "desc": "Der einzige Schauplatz des Netzwerktests: ein hoher Uhrturm und eine gewaltige Kathedrale wachen über die Stadt."
+        },
+        {
+          "title": "Mehrere Gebiete",
+          "desc": "Zur mehrschichtigen Landschaft gehören unter anderem ein Höhlensystem, ein Wald und ein See."
+        },
+        {
+          "title": "Beliebig oft wiederbeleben",
+          "desc": "Die Blutgeweihten werden beliebig oft wiederbelebt, solange sie nicht der Auslese zum Opfer fallen."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "Regionale Eigenschaften",
+      "desc": "In jedem Gebiet erscheinen je nach Phase verschiedene Eigenschaften, die sich mit dem Kampfverlauf ändern. Prüfe die Karte und suche Verstärkungen, die zu deinem Spielstil passen.",
+      "features": [
+        {
+          "title": "Blutsack",
+          "desc": "Blutsäcke wandern durch das Land. Besiege sie für Blutkristalle, mit denen sich Blutgeweihten-Fertigkeiten verbessern lassen.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "Alchemieofen",
+          "desc": "Verleihe Waffen Feuer und andere Affinitäten. Eine erneute Verbesserung am passenden Ofen erhöht die Verbesserungsstufe.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "Vasallenkreis",
+          "desc": "Kleine Vasallenportale erscheinen: Stärke deinen Pakt und gewähre deinem Vasallen massig Erfahrung.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "Erkundungsitems",
+          "desc": "Finde Items in der Wildnis, etwa die Feuerflasche oder den Gedenkpfahl als Wiederbelebungspunkt.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Kartenwerkzeuge & Infoskraft",
+      "desc": "Drücke während einer Dämmerungsschlacht [+] für die Infoskraft und nutze die Karte zu deinem Vorteil.",
+      "items": [
+        {
+          "title": "Infoskraft",
+          "desc": "Sieh deine Position, die Spuren anderer Blutgeweihter und die Icons der regionalen Eigenschaften neben jedem Gebietsnamen."
+        },
+        {
+          "title": "Sofortreise",
+          "desc": "Wähle ein Warppunkt auf der Karte für Sofortreisen. Nicht nutzbar zu Phasenbeginn, kurz nach Warpen oder Wiederbelebung sowie im Kampf."
+        },
+        {
+          "title": "Eindringlingsmarker",
+          "desc": "Eindringlinge erscheinen als besondere Marker auf der Karte – inklusive noch stärkerer Varianten."
+        },
+        {
+          "title": "Marker setzen",
+          "desc": "Setze Marker auf dem Bildschirm oder der Karte, um Wege und Ziele zu markieren."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "Vasallen",
+      "title": "Vasallen — Pakte, Portale & Entwicklung",
+      "lead": "Vasallen sind jene, die einen Pakt mit dem Dämmerungsbund geschlossen haben. Sie verbünden sich mit Blutgeweihten und leihen ihnen ihre Kraft – eine Unterstützung jenseits von Waffen und Fertigkeiten."
+    },
+    "what": {
+      "title": "Vasallen anheuern",
+      "desc": "Diejenigen, die einen Pakt mit dem Dämmerungsbund geschlossen haben, werden als „Vasallen“ bezeichnet. Du kannst ihre Stärken nutzen, indem du sie anheuerst. Dies wird an Portalen vollzogen, die weithin durch über ihnen in den Himmel ragende Ketten aus Licht sichtbar sind.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "Vasallenportale",
+      "desc": "Es gibt drei Arten von Vasallenportalen: Ring, Klinge und Auge. Bei jedem Typus kannst du jeweils unterschiedliche Vasallen anheuern.",
+      "items": [
+        {
+          "title": "Ring",
+          "desc": "Ein Portal des Typs Ring. Hier heuerst du eine Familie von Vasallen an."
+        },
+        {
+          "title": "Klinge",
+          "desc": "Ein Portal des Typs Klinge. Hier heuerst du eine andere Familie von Vasallen an."
+        },
+        {
+          "title": "Auge",
+          "desc": "Ein Portal des Typs Auge. Hier heuerst du eine dritte Familie von Vasallen an."
+        }
+      ],
+      "note": "Beim Netzwerktest sind acht Vasallen vorhanden.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "Vasallentypen",
+      "desc": "Verschiedene Vasallen unterstützen dich mit einzigartigen Fähigkeiten. Im Netzwerktest etwa:",
+      "items": [
+        {
+          "title": "Junge Schwertkämpferin",
+          "desc": "Eine junge Schwertkämpferin eines Geheimbundes."
+        },
+        {
+          "title": "Flammenzauberer",
+          "desc": "Ein Zaubermeister, der über das Feuer gebietet."
+        },
+        {
+          "title": "Singender Gefangener",
+          "desc": "Ein Gefangener, der Verbündete durch Gesang schützt."
+        },
+        {
+          "title": "Schwarzer Wolf",
+          "desc": "Ein schwarzer Wolf, der über einen Wald herrscht."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "Entwicklung der Vasallen",
+      "desc": "Besiegst du Feinde im Beisein eines Vasallen, gewinnt auch er Erfahrung und steigt auf – mit mehr Lebenspunkten und Angriffskraft. Manche erhalten je nach Stufe sogar neue Angriffe.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "Beschwörung & Entlassung",
+      "desc": "Beschwöre und entlasse Vasallen über das Funktionsmenü. Stirbt ein Vasall, wird er automatisch entlassen und kann eine Zeitlang nicht erneut beschworen werden. In Ruhe oder außerhalb des Kampfes regeneriert seine Lebenskraft. Einen angegriffenen Vasallen kannst du nicht entlassen."
     }
   }
 }

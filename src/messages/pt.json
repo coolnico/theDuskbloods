@@ -51,6 +51,14 @@
     "news": {
       "title": "Últimas notícias e artigos — Guia The Duskbloods",
       "description": "Fique por dentro das últimas notícias, guias e atualizações sobre The Duskbloods, o jogo de ação PvPvE de Hidetaka Miyazaki e FromSoftware para Nintendo Switch 2."
+    },
+    "maps": {
+      "title": "Guia do mapa — Terras do Crepúsculo e cidade de Lowanro | The Duskbloods",
+      "description": "Explore as Terras do Crepúsculo em The Duskbloods: a cidade de Lowanro, características regionais, regras de ressurreição e ferramentas como portais e marcadores de invasores."
+    },
+    "kin": {
+      "title": "Guia de vassalos — pactos, círculos e progressão | The Duskbloods",
+      "description": "Como funcionam os pactos com vassalos em The Duskbloods: círculos de invocação (Anel, Lâmina, Olho), 8 vassalos, crescimento e regras de invocação."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods é uma marca da FromSoftware e da Nintendo. Site de informações de fãs não oficial, não afiliado ou endossado pela FromSoftware ou Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. Todo o conteúdo do jogo pertence aos seus respectivos proprietários.",
     "gallery": "Galeria",
-    "latest": "Novidades"
+    "latest": "Novidades",
+    "maps": "Mapa",
+    "kin": "Vassalos"
   },
   "news": {
     "backToList": "Voltar para Novidades",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "Aviso Legal",
       "desc": "Este é um site fã não oficial e não é afiliado nem endossado pela FromSoftware ou Nintendo. Não podemos ajudar com suporte do jogo ou problemas de conta — entre em contato com o suporte oficial correspondente."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "Mapa",
+      "title": "Terras do Crepúsculo — Guia do mapa de Lowanro",
+      "lead": "Quando uma batalha começa, os Bloodsworn são invocados às Terras do Crepúsculo. No Network Test, toda partida acontece em um único lugar: a cidade de Lowanro — um campo em várias camadas com monumentos, ruas e natureza."
+    },
+    "lands": {
+      "title": "As Terras do Crepúsculo",
+      "desc": "Um lugar, muitas camadas. Explore livremente para fortalecer seu Bloodsworn e acumular a Virtude necessária para sobreviver à seleção do graal.",
+      "points": [
+        {
+          "title": "Cidade de Lowanro",
+          "desc": "O único campo do Network Test: uma torre do relógio e uma catedral vigiam a cidade ao redor."
+        },
+        {
+          "title": "Regiões multinível",
+          "desc": "Além das ruas, a área inclui várias regiões, como uma caverna, uma floresta e um lago."
+        },
+        {
+          "title": "Ressuscite à vontade",
+          "desc": "Você pode ressuscitar quantas vezes quiser, até ser eliminado na seleção."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "Características regionais",
+      "desc": "Cada região apresenta diferentes características a cada fase, mudando conforme a partida avança. Verifique o mapa e busque melhorias adequadas ao seu estilo.",
+      "features": [
+        {
+          "title": "Bolsa de sangue",
+          "desc": "Bolsas de sangue vagam pela terra. Derrote-as para obter cristais de sangue que melhoram as técnicas de Bloodsworn.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "Forno alquímico",
+          "desc": "Imbua armas com fogo e outras afinidades. Melhorar novamente no forno correspondente aumenta o nível da arma.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "Círculo de vassalos",
+          "desc": "Aparecem pequenos círculos de invocação: fortaleça seu pacto e conceda muita experiência ao vassalo parceiro.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "Itens de exploração",
+          "desc": "Encontre itens pelo mapa, como o frasco de fogo ou a estaca comemorativa para marcar um ponto de ressurreição.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Ferramentas do mapa e tela de informações",
+      "desc": "Pressione [+] durante uma batalha para abrir a tela de informações e aproveitar o mapa.",
+      "items": [
+        {
+          "title": "Tela de informações",
+          "desc": "Consulte sua posição, os rastros de outros Bloodsworn e os ícones de características ao lado de cada área."
+        },
+        {
+          "title": "Viagem instantânea",
+          "desc": "Selecione um ponto de teletransporte no mapa para viajar na hora. Indisponível no início da fase, logo após viajar ou ressuscitar, e em combate."
+        },
+        {
+          "title": "Marcadores de invasores",
+          "desc": "Invasores aparecem no mapa com marcadores especiais, incluindo variantes ainda mais fortes."
+        },
+        {
+          "title": "Pins",
+          "desc": "Coloque pins na tela ou no mapa para marcar rotas e pontos de interesse."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "Vassalos",
+      "title": "Vassalos — pactos, círculos e progressão",
+      "lead": "Vassalos são aqueles que fecharam um acordo com a Ordem do Crepúsculo. Eles firmam pactos com os Bloodsworn e emprestam sua força — um apoio além de armas e técnicas."
+    },
+    "what": {
+      "title": "Pactos com vassalos",
+      "desc": "Aqueles que fecharam um acordo com a Ordem do Crepúsculo são chamados de vassalos. Eles firmam pactos com os Bloodsworn, emprestando seu poder. Os pactos são formados nos círculos de invocação, na base das correntes de luz que se erguem até o céu.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "Círculos de invocação",
+      "desc": "Existem três tipos de círculos de invocação de vassalos. Cada um permite pactuar com um tipo diferente de vassalo.",
+      "items": [
+        {
+          "title": "Anel",
+          "desc": "Um círculo do tipo Anel. Pactua com uma família de vassalos."
+        },
+        {
+          "title": "Lâmina",
+          "desc": "Um círculo do tipo Lâmina. Pactua com outra família de vassalos."
+        },
+        {
+          "title": "Olho",
+          "desc": "Um círculo do tipo Olho. Pactua com uma terceira família de vassalos."
+        }
+      ],
+      "note": "Oito vassalos existem na versão do Network Test.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "Arquétipos de vassalos",
+      "desc": "Vários vassalos oferecem apoio com habilidades únicas. Entre eles:",
+      "items": [
+        {
+          "title": "Jovem espadachim",
+          "desc": "Uma jovem espadachim de uma sociedade clandestina."
+        },
+        {
+          "title": "Feiticeiro das chamas",
+          "desc": "Um feiticeiro que domina as chamas."
+        },
+        {
+          "title": "Prisioneiro cantor",
+          "desc": "Um prisioneiro que protege aliados com o canto."
+        },
+        {
+          "title": "Lobo negro",
+          "desc": "Um lobo negro que domina uma floresta."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "Progressão dos vassalos",
+      "desc": "Ao derrotar inimigos acompanhado de um vassalo, ele também ganha experiência e sobe de nível, aumentando vida e poder de ataque. Alguns desbloqueiam novos ataques conforme o nível.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "Invocação e dispensa",
+      "desc": "Invoque e dispense vassalos pelo menu de funções. Se um vassalo morrer, é dispensado automaticamente e não pode ser invocado por um tempo. Fora de combate ou dispensado, sua vida se regenera aos poucos. Não é possível dispensar um vassalo sob ataque."
     }
   }
 }

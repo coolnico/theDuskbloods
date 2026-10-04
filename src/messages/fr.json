@@ -51,6 +51,14 @@
     "news": {
       "title": "Dernières actualités et articles — Guide The Duskbloods",
       "description": "Suivez les dernières actualités, guides et mises à jour sur The Duskbloods, le jeu d'action PvPvE de Hidetaka Miyazaki et FromSoftware pour Nintendo Switch 2."
+    },
+    "maps": {
+      "title": "Guide de la carte — Terres du Crépuscule et ville de Lowanro | The Duskbloods",
+      "description": "Explorez les terres du Crépuscule dans The Duskbloods : la ville de Lowanro, les caractéristiques régionales, la renaissance et les outils de carte comme le téléporteur et les marqueurs d'intrus."
+    },
+    "kin": {
+      "title": "Guide des vassaux — Pactes, cercles et progression | The Duskbloods",
+      "description": "Fonctionnement des pactes avec les vassaux dans The Duskbloods : cercles d'invocation (Anneau, Lame, Œil), 8 vassaux, progression et règles d'invocation."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods est une marque de FromSoftware et Nintendo. Site d'information fan non officiel, sans affiliation ni approbation de FromSoftware ou Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. Tout le contenu du jeu appartient à ses propriétaires respectifs.",
     "gallery": "Galerie",
-    "latest": "Actualités"
+    "latest": "Actualités",
+    "maps": "Carte",
+    "kin": "Vassaux"
   },
   "news": {
     "backToList": "Retour aux actualités",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "Mentions légales",
       "desc": "Ce site est un site fan non officiel et n'est pas affilié à FromSoftware ou Nintendo ni approuvé par ces derniers. Nous ne pouvons pas vous aider pour le support du jeu ou les problèmes de compte — veuillez contacter le support officiel correspondant."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "Carte",
+      "title": "Terres du Crépuscule — Guide de la carte de Lowanro",
+      "lead": "Au début d'un combat du Crépuscule, les Hémaliges sont transportés sur les terres du Crépuscule. Dans le cadre du test réseau, l'action se limite à un lieu : la ville de Lowanro — un vaste champ sur plusieurs niveaux, entre monuments, ruelles et nature."
+    },
+    "lands": {
+      "title": "Les terres du Crépuscule",
+      "desc": "Un seul lieu, plusieurs niveaux. Explorez librement pour améliorer votre Hémalige et accumuler la vertu nécessaire pour survivre à l'Élimination du graal.",
+      "points": [
+        {
+          "title": "La ville de Lowanro",
+          "desc": "Le seul terrain du test réseau : un beffroi et une cathédrale veillent sur la ville qui s'étend alentour."
+        },
+        {
+          "title": "Régions sur plusieurs niveaux",
+          "desc": "Au-delà des rues, la zone abrite notamment une grotte, une forêt et un lac."
+        },
+        {
+          "title": "Renaître à volonté",
+          "desc": "Vous pouvez renaître autant de fois que nécessaire, jusqu'à ce que vous succombiez à l'Élimination."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "Caractéristiques régionales",
+      "desc": "Plusieurs caractéristiques apparaissent dans chaque région au cours d'une phase, et elles évoluent avec le combat. Consultez la carte et choisissez les améliorations adaptées à votre style.",
+      "features": [
+        {
+          "title": "Sanguine",
+          "desc": "Des Sanguines parcourent la terre. Vainquez-les pour obtenir des cristaux de sang qui améliorent les techniques d'Hémalige.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "Four alchimiste",
+          "desc": "Imprégnez vos armes du feu et d'autres affinités. Les renforcer à nouveau dans le four correspondant augmente leur niveau d'amélioration.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "Petits cercles de vassaux",
+          "desc": "De petits cercles d'invocation apparaissent : renforcez votre pacte et accordez beaucoup d'expérience à votre vassal.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "Objets d'exploration",
+          "desc": "Trouvez des objets sur le terrain, comme la flasque de feu ou le pieu commémoratif pour fixer un point de renaissance.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Outils de carte et écran d'infos",
+      "desc": "Appuyez sur [+] pendant un combat du Crépuscule pour ouvrir l'écran d'infos et tirer parti de la carte.",
+      "items": [
+        {
+          "title": "Écran d'infos",
+          "desc": "Consultez votre position, les traces des autres Hémaliges et les icônes de caractéristiques à côté de chaque zone."
+        },
+        {
+          "title": "Téléportation",
+          "desc": "Sélectionnez un point de téléportation sur la carte pour voyager instantanément. Indisponible en début de phase, juste après un téléport ou une renaissance, ou en plein combat."
+        },
+        {
+          "title": "Marqueurs d'intrus",
+          "desc": "Les intrus apparaissent sur la carte avec des marqueurs spéciaux — y compris des variantes encore plus puissantes."
+        },
+        {
+          "title": "Repères",
+          "desc": "Placez des repères à l'écran ou sur la carte pour baliser vos parcours et points d'intérêt."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "Vassaux",
+      "title": "Vassaux — Pactes, cercles et progression",
+      "lead": "Les vassaux sont des êtres qui ont conclu un accord avec l'Ordre du Crépuscule. Ils passent un pacte avec les Hémaliges et leur prêtent leur force — un soutien en plus des armes et des techniques."
+    },
+    "what": {
+      "title": "Pactes avec les vassaux",
+      "desc": "Ceux qui ont conclu un accord avec l'Ordre du Crépuscule sont appelés vassaux. Les vassaux passent un pacte avec les Hémaliges et leur prêtent leur pouvoir. Les pactes se forment aux cercles d'invocation, à la base des chaînes de lumière qui s'élèvent vers le ciel.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "Cercles d'invocation",
+      "desc": "Il existe trois types de cercles d'invocation de vassaux. Chacun permet de pactiser avec un type de vassal différent.",
+      "items": [
+        {
+          "title": "Anneau",
+          "desc": "Un cercle de type Anneau. Pactise avec une famille de vassaux."
+        },
+        {
+          "title": "Lame",
+          "desc": "Un cercle de type Lame. Pactise avec une autre famille de vassaux."
+        },
+        {
+          "title": "Œil",
+          "desc": "Un cercle de type Œil. Pactise avec une troisième famille de vassaux."
+        }
+      ],
+      "note": "Huit vassaux sont disponibles dans la version du test réseau.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "Archétypes de vassaux",
+      "desc": "Divers vassaux vous aident avec des capacités uniques. La version du test réseau inclut par exemple :",
+      "items": [
+        {
+          "title": "Jeune spadassin",
+          "desc": "Une jeune spadassin d'une société clandestine."
+        },
+        {
+          "title": "Sorcier des flammes",
+          "desc": "Un sorcier maîtrisant les flammes."
+        },
+        {
+          "title": "Prisonnier chanteur",
+          "desc": "Un prisonnier qui protège ses alliés par le chant."
+        },
+        {
+          "title": "Loup noir",
+          "desc": "Un loup noir qui règne sur une forêt."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "Progression des vassaux",
+      "desc": "En vainquant des ennemis accompagné d'un vassal, celui-ci gagne aussi de l'expérience et monte de niveau, augmentant sa santé et sa puissance d'attaque. Certains débloquent même de nouvelles attaques selon leur niveau.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "Invocation et renvoi",
+      "desc": "Invoquez et congédiez les vassaux depuis le menu Fonction. Quand un vassal meurt, il est automatiquement retiré du combat et ne peut plus être invoqué pendant un certain temps. Hors du combat ou après un renvoi, sa santé se restaure progressivement. Impossible de congédier un vassal qui est sous attaque."
     }
   }
 }

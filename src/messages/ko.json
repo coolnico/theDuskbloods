@@ -51,6 +51,14 @@
     "news": {
       "title": "최신 뉴스 및 기사 — 더스크블러드 가이드",
       "description": "미야자키 히데타카 감독, 프롬소프트웨어의 PvPvE 멀티플레이어 액션 게임 'The Duskbloods'의 최신 뉴스, 가이드, 업데이트를 확인하세요."
+    },
+    "maps": {
+      "title": "The Duskbloods 황혼의 땅 & 로안로 거리 지도 가이드",
+      "description": "《The Duskbloods》의 황혼의 땅을 소개합니다. 로안로 거리, 지역 특성, 부활 규칙, 워프와 침략자 마커 같은 지도 도구까지."
+    },
+    "kin": {
+      "title": "The Duskbloods 권속 가이드 — 계약, 마법진, 성장",
+      "description": "《The Duskbloods》 권속 계약 메커니즘. 소환 마법진(바퀴·칼날·눈동자), 8종류의 권속, 성장과 소환·소환 해제 규칙."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods는 FromSoftware와 닌텐도의 상표입니다. 본 사이트는 비공식 팬 정보 사이트이며 FromSoftware나 닌텐도와 제휴하거나 보증받지 않았습니다.",
     "copyright": "© {year} The Duskbloods Fan Site. 모든 게임 콘텐츠의 권리는 각 소유자에게 있습니다.",
     "gallery": "갤러리",
-    "latest": "최신 소식"
+    "latest": "최신 소식",
+    "maps": "맵",
+    "kin": "권속"
   },
   "news": {
     "backToList": "최신 소식으로 돌아가기",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "면책 조항",
       "desc": "본 사이트는 비공식 팬 사이트이며 FromSoftware 또는 Nintendo와 제휴하거나 승인을 받지 않았습니다. 게임 지원이나 계정 관련 문제는 처리할 수 없으며, 해당 공식 지원팀에 문의해 주세요."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "맵",
+      "title": "황혼의 땅 — 로안로 거리 지도 가이드",
+      "lead": "전투가 시작되면 혈족은 「황혼의 땅」에 소환됩니다. 네트워크 테스트 버전의 무대는 그중 하나인 「로안로 거리」——시계탑, 대성당, 시가지와 동굴·호수로 이루어진 입체적인 필드입니다."
+    },
+    "lands": {
+      "title": "황혼의 땅",
+      "desc": "하나의 대지에 여러 지역이 펼쳐집니다. 자유롭게 탐색하며 혈족을 강화하고, 성배의 선별을 극복하기 위한 미덕을 모으세요.",
+      "points": [
+        {
+          "title": "로안로 거리",
+          "desc": "네트워크 테스트의 유일한 전장. 도시를 내려다보는 시계탑과 대성당, 그리고 주변에 펼쳐진 시가지."
+        },
+        {
+          "title": "입체적인 다지역 구조",
+          "desc": "시가지 외에도 동굴과 호수 등 여러 지역으로 나누어진 입체적인 필드가 펼쳐져 있습니다."
+        },
+        {
+          "title": "몇 번이고 부활",
+          "desc": "이 땅에서는 쓰러져도 선별로 패배할 때까지 몇 번이고 부활할 수 있습니다."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "지역 특성",
+      "desc": "각 지역에는 페이즈마다 몇 가지 특성이 나타나며, 전투 진행에 따라 변화합니다. 맵의 특성을 확인하고 자신의 플레이 스타일에 맞는 강화를 찾아보세요.",
+      "features": [
+        {
+          "title": "혈대옹",
+          "desc": "「혈대옹」이 대지를 배회합니다. 쓰러뜨리면 얻는 「혈결정」으로 혈족 기술을 강화할 수 있습니다.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "연금로",
+          "desc": "「연금로」에서 무기에 불 속성 등의 속성을 부여. 속성이 같은 연금로에서 다시 강화하면 강화 단계가 1 올라갑니다.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "권속의 소마법진",
+          "desc": "「권속의 소마법진」이 등장. 권속과의 계약을 강화해 계약한 권속에게 대량의 경험치를 줄 수 있습니다.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "탐색 아이템",
+          "desc": "탐색이나 적 격파로 아이템 획득. 불길을 일으키는 화염병이나 부활 지점으로 삼을 수 있는 기념 말뚝 등.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "맵 도구와 인포 화면",
+      "desc": "황혼 전투 중 [+]로 인포 화면을 열고 맵 도구를 활용하세요.",
+      "items": [
+        {
+          "title": "인포 화면",
+          "desc": "자신의 위치, 다른 혈족의 동선, 지역 이름 옆의 지역 특성 아이콘을 확인할 수 있습니다."
+        },
+        {
+          "title": "워프",
+          "desc": "맵의 워프 지점을 선택해 즉시 이동. 페이즈 시작 직후, 워프나 부활 직후, 전투 중에는 사용 불가."
+        },
+        {
+          "title": "침략자 마커",
+          "desc": "침략자는 맵에 전용 마커로 표시됩니다. 더 강력한 침략자도 존재합니다."
+        },
+        {
+          "title": "핀 설치",
+          "desc": "화면이나 맵에 핀을 설치해 탐색의 표시로 사용할 수 있습니다."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "권속",
+      "title": "권속 — 계약, 마법진, 성장",
+      "lead": "권속이란 황혼 협회와 거래한 자들을 부르는 이름. 혈족과 계약해 힘을 빌려주며, 무기와 혈족 기술에 더해지는 지원 체계입니다."
+    },
+    "what": {
+      "title": "권속과의 계약",
+      "desc": "황혼 협회와 거래한 자들을 「권속」이라고 부릅니다. 권속은 혈족과 계약하여 그 힘을 빌려줍니다. 계약은 하늘로 뻗은 빛의 사슬 밑에 있는 마법진에서 진행합니다.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "소환 마법진",
+      "desc": "마법진에는 「바퀴」, 「칼날」, 「눈동자」의 3종류가 있으며 각각 계약할 수 있는 권속의 종류가 다릅니다.",
+      "items": [
+        {
+          "title": "바퀴",
+          "desc": "「바퀴」의 마법진. 한 종류의 권속과 계약할 수 있습니다."
+        },
+        {
+          "title": "칼날",
+          "desc": "「칼날」의 마법진. 다른 종류의 권속과 계약할 수 있습니다."
+        },
+        {
+          "title": "눈동자",
+          "desc": "「눈동자」의 마법진. 또 다른 종류의 권속과 계약할 수 있습니다."
+        }
+      ],
+      "note": "네트워크 테스트 버전에는 8종류의 권속이 존재합니다.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "권속의 유형",
+      "desc": "다양한 권속이 개성적인 능력으로 혈족의 전투를 지원합니다. 예를 들어:",
+      "items": [
+        {
+          "title": "어린 검사",
+          "desc": "비밀 조직의 어린 검사."
+        },
+        {
+          "title": "화염의 마술사",
+          "desc": "불을 조종하는 마술사."
+        },
+        {
+          "title": "노래하는 포로",
+          "desc": "노래로 같은 편을 지키는 포로 남성."
+        },
+        {
+          "title": "검은 늑대",
+          "desc": "숲의 주인인 검은 늑대."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "권속의 성장",
+      "desc": "권속을 거느린 상태에서 적을 쓰러뜨리면 권속도 경험치를 얻어 Lv.이 오르고 최대 HP와 공격력이 상승합니다. 권속에 따라서는 새로운 공격이 늘어나는 경우도 있습니다.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "소환과 소환 해제",
+      "desc": "기능 메뉴에서 권속을 소환·소환 해제할 수 있습니다. 권속이 쓰러지면 자동으로 소환 해제되며 일정 시간 재소환할 수 없습니다. 소환 해제 중이거나 전투 밖에서는 HP가 서서히 회복됩니다. 공격을 받고 있는 동안에는 소환 해제할 수 없습니다."
     }
   }
 }

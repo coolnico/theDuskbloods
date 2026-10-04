@@ -9,6 +9,8 @@ const PAGES = [
   { path: '', priority: 1.0 },
   { path: '/gameplay', priority: 0.9 },
   { path: '/characters', priority: 0.9 },
+  { path: '/maps', priority: 0.9 },
+  { path: '/kin', priority: 0.9 },
   { path: '/network-test', priority: 0.9 },
   { path: '/release-date', priority: 0.9 },
   { path: '/gallery', priority: 0.8 },

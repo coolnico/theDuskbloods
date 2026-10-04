@@ -51,6 +51,14 @@
     "news": {
       "title": "Ultime notizie e articoli — Guida The Duskbloods",
       "description": "Resta aggiornato sulle ultime notizie, guide e aggiornamenti su The Duskbloods, il gioco d'azione PvPvE di Hidetaka Miyazaki e FromSoftware per Nintendo Switch 2."
+    },
+    "maps": {
+      "title": "Guida alla mappa — Terre crepuscolari e città di Lowanro | The Duskbloods",
+      "description": "Esplora le terre crepuscolari di The Duskbloods: la città di Lowanro, le caratteristiche regionali, le regole di resurrezione e gli strumenti come teletrasporti e marcatori di intrusi."
+    },
+    "kin": {
+      "title": "Guida ai vassalli — patti, cerchi e crescita | The Duskbloods",
+      "description": "Come funzionano i patti con i vassalli in The Duskbloods: cerchi di evocazione (Anello, Lama, Occhio), 8 vassalli, crescita e regole di evocazione."
     }
   },
   "privacy": {
@@ -90,7 +98,9 @@
     "disclaimer": "The Duskbloods è un marchio di FromSoftware e Nintendo. Sito informativo fan non ufficiale, non affiliato o approvato da FromSoftware o Nintendo.",
     "copyright": "© {year} The Duskbloods Fan Site. Tutti i contenuti del gioco appartengono ai rispettivi proprietari.",
     "gallery": "Galleria",
-    "latest": "Novità"
+    "latest": "Novità",
+    "maps": "Mappa",
+    "kin": "Vassalli"
   },
   "news": {
     "backToList": "Torna a Novità",
@@ -1095,6 +1105,144 @@
     "note": {
       "title": "Note legali",
       "desc": "Questo è un sito fan non ufficiale e non è affiliato a FromSoftware né a Nintendo né approvato da essi. Non possiamo assistere con il supporto tecnico del gioco o problemi relativi agli account — contatta il supporto ufficiale competente."
+    }
+  },
+  "maps": {
+    "intro": {
+      "eyebrow": "Mappa",
+      "title": "Terre crepuscolari — Guida alla mappa di Lowanro",
+      "lead": "Quando la battaglia ha inizio, i sanguinatori vengono chiamati nelle terre crepuscolari. Nella versione Network Test, la battaglia si svolge in un solo luogo: la città di Lowanro — un campo su più livelli fatto di monumenti, strade e natura."
+    },
+    "lands": {
+      "title": "Le terre crepuscolari",
+      "desc": "Un unico luogo, molti livelli. Esplorala liberamente per potenziare il tuo sanguinatore e accumulare la virtù necessaria a sopravvivere all'eliminazione del calice.",
+      "points": [
+        {
+          "title": "Città di Lowanro",
+          "desc": "L'unico campo del Network Test: un'imponente torre dell'orologio e una cattedrale si affacciano sulla città circostante."
+        },
+        {
+          "title": "Regioni su più livelli",
+          "desc": "Oltre alla città, il paesaggio include numerose aree, tra cui una grotta, una foresta e un lago."
+        },
+        {
+          "title": "Resurrezione libera",
+          "desc": "Puoi resuscitare tutte le volte che vuoi, finché non vieni eliminato."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+    },
+    "regions": {
+      "title": "Caratteristiche regionali",
+      "desc": "In ogni fase compaiono diverse caratteristiche regionali che cambiano con la battaglia. Controlla la mappa e cerca le migliorie adatte al tuo stile.",
+      "features": [
+        {
+          "title": "Borsa di sangue",
+          "desc": "Le borse di sangue vagano per la terra. Sconfiggile per ottenere cristalli di sangue che potenziano le tecniche del sanguinatore.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+        },
+        {
+          "title": "Forno alchemico",
+          "desc": "Conferisci alle armi il fuoco e altre affinità. Potenziare di nuovo al forno corrispondente ne aumenta il livello.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+        },
+        {
+          "title": "Cerchio di vassalli",
+          "desc": "Compaiono piccoli cerchi di evocazione: rafforza il tuo patto e dona grande esperienza al vassalle collegato.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+        },
+        {
+          "title": "Oggetti di esplorazione",
+          "desc": "Trova oggetti sul campo, come la fiasca di fuoco o il palo commemorativo da usare come punto di resurrezione.",
+          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+        }
+      ]
+    },
+    "tools": {
+      "title": "Strumenti della mappa e schermata info",
+      "desc": "Premi [+] durante una battaglia per aprire la schermata info e sfruttare al meglio la mappa.",
+      "items": [
+        {
+          "title": "Schermata info",
+          "desc": "Consulta la tua posizione, le tracce degli altri sanguinatori e le icone delle caratteristiche accanto a ogni area."
+        },
+        {
+          "title": "Teletrasporto",
+          "desc": "Seleziona un punto di teletrasporto sulla mappa per spostarti all'istante. Non disponibile a inizio fase, subito dopo un teletrasporto o una resurrezione, o durante uno scontro."
+        },
+        {
+          "title": "Marcatori di intrusi",
+          "desc": "Gli intrusi compaiono sulla mappa con marcatori speciali, incluse varianti ancora più forti."
+        },
+        {
+          "title": "Segnaposto",
+          "desc": "Piazza segnaposto sullo schermo o sulla mappa per marcare percorsi e punti d'interesse."
+        }
+      ]
+    }
+  },
+  "kin": {
+    "intro": {
+      "eyebrow": "Vassalli",
+      "title": "Vassalli — patti, cerchi e crescita",
+      "lead": "I vassalli sono chi ha stretto un accordo con l'Ordine del Crepuscolo. stringono patti con i sanguinatori e prestano loro la propria forza: un supporto oltre ad armi e tecniche."
+    },
+    "what": {
+      "title": "Patti con i vassalli",
+      "desc": "Coloro che hanno stretto un accordo con l'Ordine del Crepuscolo sono chiamati vassalli. Puoi sfruttarne il potere stringendo un patto presso i cerchi di evocazione, che si trovano alla base delle catene di luce che si innalzano verso il cielo.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+    },
+    "circles": {
+      "title": "Cerchi di evocazione",
+      "desc": "Esistono tre tipi di cerchi di evocazione: Anello, Lama e Occhio. Ciascun tipo offre patti con diversi tipi di vassalli.",
+      "items": [
+        {
+          "title": "Anello",
+          "desc": "Un cerchio di tipo Anello. Offre patti con una famiglia di vassalli."
+        },
+        {
+          "title": "Lama",
+          "desc": "Un cerchio di tipo Lama. Offre patti con un'altra famiglia di vassalli."
+        },
+        {
+          "title": "Occhio",
+          "desc": "Un cerchio di tipo Occhio. Offre patti con una terza famiglia di vassalli."
+        }
+      ],
+      "note": "Nella versione Network Test sono disponibili otto vassalli.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+    },
+    "examples": {
+      "title": "Tipi di vassalli",
+      "desc": "Diversi vassalli offrono supporto con abilità uniche. Tra questi:",
+      "items": [
+        {
+          "title": "Giovane spadaccina",
+          "desc": "Una giovane spadaccina di una società clandestina."
+        },
+        {
+          "title": "Mago delle fiamme",
+          "desc": "Un mago in grado di dominare le fiamme."
+        },
+        {
+          "title": "Prigioniero cantore",
+          "desc": "Un prigioniero che protegge gli alleati con il canto."
+        },
+        {
+          "title": "Lupo nero",
+          "desc": "Un lupo nero che domina una foresta."
+        }
+      ],
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+    },
+    "grow": {
+      "title": "Crescita dei vassalli",
+      "desc": "Se sconfiggi nemici accompagnato da un vassallo, anche lui guadagna esperienza e sale di livello, aumentando salute e potenza d'attacco. Alcuni sbloccano persino nuovi attacchi in base al livello.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+    },
+    "summon": {
+      "title": "Evocazione e congedo",
+      "desc": "Evoca e congeda i vassalli dal menu funzioni. Se un vassallo cade, viene congedato automaticamente e per un periodo non può essere richiamato. Da congedato o fuori dal combattimento, la sua salute si ripristina gradualmente. Non puoi congedare un vassallo sotto attacco."
     }
   }
 }
