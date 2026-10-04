@@ -327,6 +327,14 @@
         {
           "title": "Compacts with Kin",
           "desc": "Those who have entered an agreement with the Order of Dusk are known as kin."
+        },
+        {
+          "title": "Powers of Blood",
+          "desc": "Acquired by defeating great foes or trespassers — choose one of two options each time. Up to 5 Powers of Blood can be manifested at once; swap them from the menu."
+        },
+        {
+          "title": "Regional Features",
+          "desc": "Regional features change each phase: Bloodbag Elders (Bloodsworn Skill enhancement), Alchemy Furnaces (weapon enhancement), Kin Small Circles (kin EXP), and exploration items such as the Fire Flask and Memorial Stake."
         }
       ]
     },
@@ -366,7 +374,7 @@
         },
         {
           "title": "Sigils",
-          "desc": "Sigils establish relationships with other Bloodsworn."
+          "desc": "Sigils establish relationships with other Bloodsworn. When a Sigil is etched, a unique objective appears, and completing it earns you Virtue. The network test version includes four Sigils: Sigil of a Sworn Enemy; Sigil of an Old Friend; Sigil of the Eye of Muralis; Sigil of Love Ephemeral. In the release version, they are planned to become freely changeable."
         }
       ]
     },
@@ -427,6 +435,10 @@
         {
           "title": "Events",
           "desc": "In Phase II and Phase III, there may be events that change the Lands of Dusk. There may be unexpected developments, such as a zeppelin appearing in the sky from which you can request supporting fire, or a powerful storm that forcefully transports players to other locations."
+        },
+        {
+          "title": "Magnetic Storm",
+          "desc": "A powerful magnetic storm appears, forcefully transporting players to other locations."
         }
       ]
     },

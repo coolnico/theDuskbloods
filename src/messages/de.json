@@ -327,6 +327,14 @@
         {
           "title": "Vasallen anheuern",
           "desc": "Diejenigen, die einen Pakt mit dem Dämmerungsbund geschlossen haben, werden als „Vasallen“ bezeichnet."
+        },
+        {
+          "title": "Blutkräfte",
+          "desc": "Erhalten durch das Besiegen von Elitegegner oder Eindringlingen – wähle eine Option aus mehreren. Bis zu 5 können gleichzeitig manifestiert und im Menü gewechselt werden."
+        },
+        {
+          "title": "Regionale Eigenschaften",
+          "desc": "Regionale Eigenschaften wechseln mit jeder Phase: Blutsäcke (Verbesserung von Blutkünsten), Alchemieöfen (Waffenverbesserung), Vasallenkreise (Vasallen-EP) und Erkundungsitems wie Feuerflasche und Gedenkpfahl."
         }
       ]
     },
@@ -366,7 +374,7 @@
         },
         {
           "title": "Brandmale",
-          "desc": "Brandmale bestimmen das Verhältnis zwischen Blutgeweihten."
+          "desc": "Brandmale bestimmen das Verhältnis zwischen Blutgeweihten. Wenn ein Brandmal gesetzt wird, erhältst du ein bestimmtes Ziel, dessen Erfüllung dir Tugend bringt. Im Netzwerktest gibt es vier Brandmale: Brandmal des Erzfeindes; Brandmal des Seelenverwandten; Brandmal des Auges von Muralis; Brandmal der flüchtigen Liebe. In der Vollversion können Brandmale frei gewählt werden."
         }
       ]
     },
@@ -427,6 +435,10 @@
         {
           "title": "Ereignisse",
           "desc": "In den Phasen II und III treten manchmal Ereignisse ein, die gewisse Veränderungen über die Dämmerungslande bringen. So könnte etwa ein Luftschiff am Himmel auftauchen, von dem ein Bombardement angefordert werden kann, oder ein heftiger magnetischer Sturm teleportiert Spieler gegen ihren Willen an andere Positionen."
+        },
+        {
+          "title": "Magnetsturm",
+          "desc": "Ein kraftvoller Magnetsturm erscheint und teleportiert Spieler zwangsweise an andere Orte."
         }
       ]
     },

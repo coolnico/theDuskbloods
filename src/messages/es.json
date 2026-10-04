@@ -327,6 +327,14 @@
         {
           "title": "Pactos de vasallaje",
           "desc": "A quienes han cerrado un acuerdo con la Orden del Crepúsculo se los conoce como «vasallos», y prestan sus servicios al formar un pacto con ellos en los sellos de invocación."
+        },
+        {
+          "title": "Poderes de sangre",
+          "desc": "Se obtienen al derrotar superenemigos o intrusos: elige una opción entre varias. Hasta 5 pueden manifestarse a la vez y cambiarse desde el menú."
+        },
+        {
+          "title": "Rasgos regionales",
+          "desc": "Los rasgos regionales cambian en cada fase: bolsas de sangre (mejora de técnicas de sangre), hornos alquímicos (mejora de armas), círculos de vasallos (EXP de vasallos) y objetos de exploración como el frasco de fuego o la estaca conmemorativa."
         }
       ]
     },
@@ -366,7 +374,7 @@
         },
         {
           "title": "Estigmas",
-          "desc": "Los estigmas determinan qué relación une entre sí a los Conversos de Sangre."
+          "desc": "Los estigmas determinan qué relación une a los Conversos de Sangre. Cuando un estigma se manifiesta, aparece un objetivo único que, al completarlo, te otorga virtud. La versión del Network Test incluye cuatro estigmas: Estigma de la némesis, Estigma del alma gemela, Estigma del ojo de Muralis y Estigma del amor efímero. En la versión de lanzamiento, los estigmas podrán modificarse libremente."
         }
       ]
     },
@@ -427,6 +435,10 @@
         {
           "title": "Eventos",
           "desc": "Durante las fases II y III, se puede producir algún evento que altere las Tierras del Crepúsculo; por ejemplo, un zepelín que sobrevuela repentinamente los cielos y al que puedes solicitar fuego de cobertura, o una intensa tormenta que teletransporta a la fuerza a los jugadores a otro lugar."
+        },
+        {
+          "title": "Tormenta magnética",
+          "desc": "Aparece una potente tormenta magnética que transporta a los jugadores a otras ubicaciones por la fuerza."
         }
       ]
     },

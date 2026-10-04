@@ -327,6 +327,14 @@
         {
           "title": "Contrats avec les vassaux",
           "desc": "Les vassaux sont des êtres ayant conclu un accord avec l'Ordre du Crépuscule."
+        },
+        {
+          "title": "Pouvoirs hématiques",
+          "desc": "Obtenus en vainquant des ennemis majeurs ou des intrus — choisissez une option parmi plusieurs. Jusqu'à 5 peuvent être manifestés à la fois et modifiés via le menu."
+        },
+        {
+          "title": "Caractéristiques régionales",
+          "desc": "Les caractéristiques régionales changent à chaque phase : Sanguines (amélioration des techniques de sang), fours alchimistes (amélioration des armes), cercles de vassaux (EXP des vassaux) et objets d'exploration comme la flasque de feu ou le pieu commémoratif."
         }
       ]
     },
@@ -366,11 +374,7 @@
         },
         {
           "title": "Influx",
-          "desc": "Les influx établissent une relation entre les Hémaliges."
-        },
-        {
-          "title": "Événements",
-          "desc": "Au cours des deuxième et troisième phases, des événements inattendus peuvent survenir et apporter des changements aux terres du Crépuscule, comme l'apparition d'un dirigeable permettant de demander l'appui d'une attaque aérienne ou une puissante tempête emportant les joueurs aux quatre coins de la carte."
+          "desc": "Les influx établissent une relation entre les Hémaliges. Lorsqu'un influx s'ancre, un objectif unique apparaît ; l'accomplir vous donne de la vertu. La version du test réseau comprend quatre influx : l'influx de la némésis, l'influx du vieil ami, l'influx de l'œil de Muralis et l'influx de l'amour perdu. Dans la version complète, ces influx pourront être modifiés à volonté."
         }
       ]
     },

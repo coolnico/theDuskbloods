@@ -327,6 +327,14 @@
         {
           "title": "Compacts with Kin",
           "desc": "Those who have entered an agreement with the Order of Dusk are known as kin."
+        },
+        {
+          "title": "Poderes de Sangue",
+          "desc": "Obtidos ao derrotar grandes inimigos ou invasores — escolha uma opção entre várias. Até 5 podem ser manifestados ao mesmo tempo e trocados pelo menu."
+        },
+        {
+          "title": "Características regionais",
+          "desc": "As características regionais mudam a cada fase: bolsas de sangue (melhoria de técnicas de sangue), fornos alquímicos (melhoria de armas), círculos de vassalos (EXP de vassalos) e itens de exploração como o frasco de fogo e a estaca comemorativa."
         }
       ]
     },
@@ -366,7 +374,7 @@
         },
         {
           "title": "Sigils",
-          "desc": "Sigils establish relationships with other Bloodsworn."
+          "desc": "Os selos estabelecem relações com outros Bloodsworn. Quando um selo é gravado, um objetivo único surge e concluí-lo concede Virtude. A versão do Network Test inclui quatro selos: Selo do Inimigo Jurado, Selo do Amigo de Longa Data, Selo do Olho de Muralis e Selo do Amor Efêmero. Na versão de lançamento, os selos poderão ser alterados livremente."
         }
       ]
     },
@@ -425,8 +433,12 @@
       "desc": "Nas fases II e III, podem ocorrer eventos que mudam as Terras do Crepúsculo.",
       "items": [
         {
-          "title": "Events",
-          "desc": "In Phase II and Phase III, there may be events that change the Lands of Dusk. There may be unexpected developments, such as a zeppelin appearing in the sky from which you can request supporting fire, or a powerful storm that forcefully transports players to other locations."
+          "title": "Eventos",
+          "desc": "Durante as fases II e III, podem ocorrer eventos que mudam as Terras do Crepúsculo. Pode haver desenvolvimentos inesperados, como o aparecimento de um dirigível no céu, do qual é possível pedir fogo de apoio, ou uma poderosa tempesta que transporta os jogadores à força para outros locais."
+        },
+        {
+          "title": "Tempestade magnética",
+          "desc": "Uma poderosa tempestade magnética aparece e transporta os jogadores à força para outros locais."
         }
       ]
     },

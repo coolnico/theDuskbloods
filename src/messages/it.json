@@ -327,6 +327,14 @@
         {
           "title": "Patti con i vassalli",
           "desc": "Coloro che hanno stretto un accordo con l'Ordine del Crepuscolo sono chiamati vassalli."
+        },
+        {
+          "title": "Poteri del sangue",
+          "desc": "Si ottengono sconfiggendo nemici potenti o intrusi: scegli una tra diverse opzioni. Fino a 5 possono essere manifestati in contemporanea e modificati dal menu."
+        },
+        {
+          "title": "Caratteristiche regionali",
+          "desc": "Le caratteristiche regionali cambiano a ogni fase: borse di sangue (miglioria delle tecniche di sangue), forni alchemici (miglioria delle armi), cerchi di vassalli (EXP dei vassalli) e oggetti di esplorazione come la fiasca di fuoco e il palo commemorativo."
         }
       ]
     },
@@ -366,7 +374,7 @@
         },
         {
           "title": "Marchi",
-          "desc": "I marchi stabiliscono rapporti con altri sanguinatori."
+          "desc": "I marchi stabiliscono rapporti con altri sanguinatori. Quando un marchio viene inciso, compare un obiettivo unico che, una volta completato, ti dona virtù. La versione Network Test include quattro marchi: marchio della nemesi, marchio della vecchia amicizia, marchio dell'occhio di Muralis, marchio dell'amore effimero. Nella versione completa i marchi potranno essere scelti liberamente."
         }
       ]
     },
@@ -427,6 +435,10 @@
         {
           "title": "Eventi",
           "desc": "Nelle fasi 2 e 3 potrebbero verificarsi eventi che cambiano le terre crepuscolari. Potresti incontrare sviluppi inattesi, come un dirigibile che appare nel cielo e al quale puoi richiedere fuoco di supporto, oppure potrebbe scatenarsi una violenta tempesta che trasporta forzatamente i giocatori in altre posizioni."
+        },
+        {
+          "title": "Tempesta magnetica",
+          "desc": "Compare una potente tempesta magnetica che trasporta con la forza i giocatori in altre aree."
         }
       ]
     },
