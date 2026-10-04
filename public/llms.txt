@@ -1,0 +1,26 @@
+# The Duskbloods Guide
+
+> Unofficial fan information hub for The Duskbloods — a multiplayer PvPvE action game by FromSoftware and Hidetaka Miyazaki for Nintendo Switch 2, targeting a 2026 release. Covers release date tracking, gameplay systems, the Bloodsworn roster, map and kin guides, and network test history.
+
+This site is not affiliated with or endorsed by FromSoftware or Nintendo. All game content belongs to its respective owners.
+
+## Core pages
+
+- [Release Date](https://duskbloods.net/release-date): Current status of The Duskbloods release date — official 2026 window, delay watch, and tracker analysis.
+- [Gameplay](https://duskbloods.net/gameplay): Full mechanics guide — Dusk Battle flow, Virtue system, combat, alliances, sigils, and tips.
+- [Characters](https://duskbloods.net/characters): The six playable Bloodsworn in the network test — weapons, Bloodsworn Skills, and Aspects.
+- [Maps](https://duskbloods.net/maps): Lands of Dusk guide — Lowanro City layout, regional features, and map tools.
+- [Kin](https://duskbloods.net/kin): Kin compacts explained — summoning circles (Ring, Blade, Eye), kin types, and growth rules.
+- [Network Test](https://duskbloods.net/network-test): Closed network test recap — schedule, registration results, and server issues.
+- [FAQ](https://duskbloods.net/faq): Frequently asked questions about the game and this site.
+- [Latest News](https://duskbloods.net/latest): Dated news and analysis articles.
+
+## Locales
+
+English is served without a path prefix. Other languages use a locale prefix: `/ja`, `/zh`, `/zh-TW`, `/es`, `/fr`, `/de`, `/ko`, `/it`, `/pt`, `/ru` (for example, `https://duskbloods.net/zh/gameplay`).
+
+## Optional
+
+- [About](https://duskbloods.net/about): About this fan site.
+- [Gallery](https://duskbloods.net/gallery): Official screenshots and artwork.
+- [Contact](https://duskbloods.net/contact): Contact channels.
