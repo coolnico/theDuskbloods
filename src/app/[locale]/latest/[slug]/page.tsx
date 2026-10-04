@@ -6,6 +6,7 @@ import { DOMAIN, SITE_NAME, DEFAULT_OG_IMAGE } from '@/lib/seo';
 import { notFound } from 'next/navigation';
 import { Calendar, ArrowLeft, Clock, Tag } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
+import { requireValidLocale } from '@/lib/require-locale';
 
 export function generateStaticParams() {
   return getAllStaticParams();
@@ -17,6 +18,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
   const { locale, slug } = await params;
+  requireValidLocale(locale);
   const article = getArticle(locale, slug);
   if (!article) return {};
 
@@ -72,6 +74,7 @@ export default async function ArticlePage({
   params: Promise<{ locale: string; slug: string }>;
 }) {
   const { locale, slug } = await params;
+  requireValidLocale(locale);
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'news' });
   const article = getArticle(locale, slug);

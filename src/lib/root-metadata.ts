@@ -1,19 +1,17 @@
-import type { Metadata, Viewport } from 'next';
+import type { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
-import GoogleAnalytics from '@/components/GoogleAnalytics';
 import { DOMAIN, LOCALES, SITE_NAME } from '@/lib/seo';
 
-import './globals.css';
-
-export const viewport: Viewport = {
+export const viewport = {
   width: 'device-width',
   initialScale: 1,
   maximumScale: 5,
   viewportFit: 'cover',
   themeColor: '#0c0a0e',
-};
+} as const;
 
-export async function generateMetadata(): Promise<Metadata> {
+/** Shared document metadata used by both root layouts. */
+export async function makeRootMetadata(): Promise<Metadata> {
   const t = await getTranslations({ locale: 'en', namespace: 'Metadata.root' });
 
   return {
@@ -54,18 +52,4 @@ export async function generateMetadata(): Promise<Metadata> {
       ]),
     },
   };
-}
-
-export default async function RootLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <html lang="en">
-      <head>
-        <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
-      </head>
-      <body>
-        <GoogleAnalytics />
-        {children}
-      </body>
-    </html>
-  );
 }

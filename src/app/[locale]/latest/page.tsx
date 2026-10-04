@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
+import { requireValidLocale } from '@/lib/require-locale';
 import { getAllArticleMetas } from '@/lib/news';
 import { LOCALES } from '@/lib/seo';
 import NewsList from '@/components/NewsList';
@@ -17,11 +18,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  requireValidLocale(locale);
   return getMetadata(locale);
 }
 
 export default async function NewsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
+  requireValidLocale(locale);
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'news' });
   const articles = getAllArticleMetas(locale);

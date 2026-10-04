@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
+import { requireValidLocale } from '@/lib/require-locale';
 import NetworkTestView from '@/components/views/NetworkTestView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.networkTest', path: '/network-test' });
@@ -11,11 +12,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  requireValidLocale(locale);
   return getMetadata(locale);
 }
 
 export default async function NetworkTestPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
+  requireValidLocale(locale);
   setRequestLocale(locale);
 
   const breadcrumbLd = makeBreadcrumbLd(locale, [

@@ -8,6 +8,7 @@ const nextConfig = {
   },
   experimental: {
     optimizeCss: true,
+    globalNotFound: true,
   },
   async redirects() {
     return [

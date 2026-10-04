@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
+import { requireValidLocale } from '@/lib/require-locale';
 import { DOMAIN, SITE_NAME } from '@/lib/seo';
 import ReleaseDateView from '@/components/views/ReleaseDateView';
 
@@ -12,11 +13,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  requireValidLocale(locale);
   return getMetadata(locale);
 }
 
 export default async function ReleaseDatePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
+  requireValidLocale(locale);
   setRequestLocale(locale);
   const tMeta = await getTranslations({ locale, namespace: 'Metadata.releaseDate' });
   const url = locale === 'en' ? `${DOMAIN}/release-date` : `${DOMAIN}/${locale}/release-date`;

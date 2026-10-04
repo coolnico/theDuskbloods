@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 3444",
+    "dev": "next dev --port 3456",
     "pregenerate": "node scripts/generate-articles.mjs",
     "generate": "node scripts/generate-articles.mjs",
     "build": "next build",
