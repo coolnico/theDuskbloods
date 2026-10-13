@@ -21,7 +21,7 @@ export default async function ReleaseDatePage() {
     headline: tMeta('title'),
     description: tMeta('description'),
     datePublished: '2026-08-20',
-    dateModified: '2026-08-20',
+    dateModified: '2026-10-11',
     author: { '@type': 'Organization', name: SITE_NAME },
     publisher: {
       '@type': 'Organization',

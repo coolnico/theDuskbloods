@@ -6,6 +6,7 @@ import { DOMAIN, SITE_NAME, DEFAULT_OG_IMAGE } from '@/lib/seo';
 import { notFound } from 'next/navigation';
 import { Calendar, ArrowLeft, Clock, Tag } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
+import RelatedHubs from '@/components/RelatedHubs';
 
 export function generateStaticParams() {
   const slugs = getRootSlugs();
@@ -134,6 +135,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             )}
           </header>
           <div className="prose-article mt-8" itemProp="articleBody" dangerouslySetInnerHTML={{ __html: article.content }} />
+          <RelatedHubs tags={article.tags} slug={slug} />
         </article>
       </main>
     </>

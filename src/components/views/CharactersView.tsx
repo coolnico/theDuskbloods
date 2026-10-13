@@ -1,15 +1,20 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 import { Swords, Droplet, Eye, History, Wrench, Compass } from 'lucide-react';
 
 const TRAIT_ICONS = [Swords, Droplet, Eye, History, Wrench, Compass];
 
 type Character = {
+  slug?: string;
   name: string;
   melee: string;
   ranged: string;
   image?: string;
+  role?: string;
+  difficulty?: number;
+  tagline?: string;
   bloodArts: { name: string; desc: string }[];
   powers: { name: string; desc: string }[];
 };
@@ -19,7 +24,7 @@ export default function CharactersView() {
   const traits = t.raw('traits.items') as { title: string; desc: string }[];
 
   // roster is optional — only zh locale has it for now
-  type Roster = { eyebrow: string; title: string; desc: string; items: Character[] };
+  type Roster = { eyebrow: string; title: string; desc: string; labels: Record<string, string>; items: Character[] };
   let roster: Roster | null = null;
   try {
     const raw = t.raw('roster');
@@ -50,17 +55,44 @@ export default function CharactersView() {
                 <div className="flex flex-col gap-5 sm:flex-row sm:gap-6">
                   {char.image && (
                     <div className="shrink-0 overflow-hidden rounded-[var(--radius)] border border-border sm:w-56">
-                      <img
-                        src={char.image}
-                        alt={char.name}
-                        className="aspect-[3/4] w-full object-cover"
-                        loading="lazy"
-                      />
+                      {char.slug ? (
+                        <Link href={`/characters/${char.slug}` as never} className="block">
+                          <img
+                            src={char.image}
+                            alt={char.name}
+                            className="aspect-[3/4] w-full object-cover transition group-hover:scale-105"
+                            loading="lazy"
+                          />
+                        </Link>
+                      ) : (
+                        <img
+                          src={char.image}
+                          alt={char.name}
+                          className="aspect-[3/4] w-full object-cover"
+                          loading="lazy"
+                        />
+                      )}
                     </div>
                   )}
                   <div className="flex-1 space-y-4">
                     <div>
-                      <h3 className="font-heading text-xl font-bold text-blood sm:text-2xl">{char.name}</h3>
+                      <div>
+                        <h3 className="font-heading text-xl font-bold text-blood sm:text-2xl">
+                          {char.slug ? (
+                            <Link
+                              href={`/characters/${char.slug}` as never}
+                              className="transition hover:text-gold hover:underline underline-offset-4"
+                            >
+                              {char.name}
+                            </Link>
+                          ) : (
+                            char.name
+                          )}
+                        </h3>
+                        {char.role && (
+                          <p className="mt-1 text-xs uppercase tracking-wider text-gold">{char.role}</p>
+                        )}
+                      </div>
                       <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted">
                         <p><span className="text-gold">{t('roster.labels.melee')}</span>{char.melee}</p>
                         <p><span className="text-gold">{t('roster.labels.ranged')}</span>{char.ranged}</p>

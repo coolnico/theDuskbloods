@@ -21,8 +21,8 @@
       "description": "FromSoftware 在 Nintendo Switch 2 上舉辦 The Duskbloods 封閉網路測試。整理測試時間、報名方式、測試內容、下載大小與玩家可期待的內容。"
     },
     "faq": {
-      "title": "The Duskbloods - 黃昏血族 常見問題 — 發售、平台、多人模式等",
-      "description": "解答關於 The Duskbloods 最常見的問題：發售時間、Nintendo Switch 2 獨佔、PvPvE 多人、單人模式、跨平台連線、網路測試等。"
+      "title": "The Duskbloods FAQ — 發售日、PvPvE、多人與購買",
+      "description": "The Duskbloods 40+ 條解答：確切發售日現狀、Switch 2 獨佔、PvPvE 與 Virtue、Bloodsworn 與 Kin、網路測試結果、Nintendo Switch Online、版本與更多。"
     },
     "about": {
       "title": "關於 The Duskbloods - 黃昏血族 — FromSoftware 的 Switch 2 獨佔之作",
@@ -37,12 +37,12 @@
       "description": "The Duskbloods 粉絲資訊站的使用條款。The Duskbloods 及相關的一切權益歸屬於 FromSoftware 與任天堂。"
     },
     "releaseDate": {
-      "title": "The Duskbloods - 黃昏血族 發售日 — 2026 年任天堂 Switch 2 獨佔",
-      "description": "The Duskbloods 發售日期：2026 年發售，任天堂 Switch 2 獨佔。FromSoftware × 任天堂，宮崎英高監製。發售相關資訊彙整。"
+      "title": "The Duskbloods 發售日 — 2026 窗口、時間線與傳聞（2026年10月）",
+      "description": "The Duskbloods 發售日追蹤：官方 2026 年 Switch 2 窗口、完整時間線、已確認 vs 傳聞日期、12 月 31 日追蹤站分析、延期風險，以及公佈後如何購買。"
     },
     "gallery": {
-      "title": "遊戲截圖 — 黃昏血族官方截圖",
-      "description": "瀏覽 FromSoftware 為 Nintendo Switch 2 打造的多人動作遊戲「黃昏血族」的官方遊戲截圖。"
+      "title": "The Duskbloods 截圖庫 — 官方截圖與戰鬥解析",
+      "description": "The Duskbloods 官方截圖與原創解析：Bloodsworn 戰鬥、洛安榮地標、血技前搖、PvPvE 壓力，以及終盤關卡判讀。"
     },
     "contact": {
       "title": "聯繫我們 — The Duskbloods - 黃昏血族",
@@ -59,6 +59,10 @@
     "kin": {
       "title": "The Duskbloods 眷屬指南 — 契約、魔法陣與成長",
       "description": "《The Duskbloods》眷屬契約機制詳解：召喚魔法陣（環／刃／瞳）、8 位眷屬、成長規則與召喚召還機制。"
+    },
+    "systemRequirements": {
+      "title": "The Duskbloods 系統需求 — Switch 2、NSO 與儲存",
+      "description": "遊玩 The Duskbloods 需要什麼：僅 Nintendo Switch 2，多人需要 Nintendo Switch Online，儲存（TBA）、網路建議、控制器與開玩準備清單。"
     }
   },
   "privacy": {
@@ -100,7 +104,8 @@
     "gallery": "遊戲截圖",
     "latest": "最新資訊",
     "maps": "地圖",
-    "kin": "眷屬"
+    "kin": "眷屬",
+    "systemRequirements": "系統需求"
   },
   "news": {
     "backToList": "返回最新資訊",
@@ -623,7 +628,10 @@
         "melee": "近戰：",
         "ranged": "遠端：",
         "bloodArts": "血技",
-        "powers": "能力"
+        "powers": "能力",
+        "viewGuide": "查看攻略",
+        "role": "定位",
+        "difficulty": "難度"
       },
       "items": [
         {
@@ -650,6 +658,32 @@
               "name": "反抗者",
               "desc": "對高美德值敵人的軀幹攻擊力提升。"
             }
+          ],
+          "slug": "albert",
+          "role": "均衡型決鬥者",
+          "tagline": "寶刀加機關槍——在乾淨俐落的近戰壓制與中距離收割之間靈活切換。",
+          "difficulty": 2,
+          "playstyle": [
+            "Albert 是陣容裡最容易上手的全能型角色。洛里克的寶刀講究距離與硬直控制，機關槍則能在不完全貼近的情況下騷擾對手或補刀收割。",
+            "他的技能隨血質成長，早期投入美德與血液強化就能立刻感到變強。血刃是可靠的遠端消耗；目標被打硬直或卡住時，哈揚之光就是爆發終結技。"
+          ],
+          "tips": [
+            {
+              "title": "盡早累積美德",
+              "desc": "洛里克的尊血會額外強化血技使用次數——多拿美德與血液補給，一場戰鬥裡就能多放幾次血刃和光束。"
+            },
+            {
+              "title": "狩獵高美德目標",
+              "desc": "反抗者對已經領先的 Bloodsworn 提升硬直攻擊力。去搶他們的氣勢，而不是欺負弱者。"
+            },
+            {
+              "title": "寶刀打硬直，機關槍收割",
+              "desc": "先用近戰積滿硬直槽，對方想脫身時立刻切機關槍補刀。"
+            }
+          ],
+          "lore": [
+            "Albert 手持洛里克家族的寶刀與現代隨身槍械——在人類黃昏裡，貴族血統與工業火力依舊同台競技。",
+            "他的能力（洛里克的尊血、反抗者）讀起來像革命者的宣言：從血技中榨取更多力量，並對那些已被美德加冕的人加倍施壓。"
           ]
         },
         {
@@ -676,6 +710,32 @@
               "name": "血之君主",
               "desc": "治癒被吸血魅惑的敵人，同時提升其攻擊力。"
             }
+          ],
+          "slug": "bloodhand-jan",
+          "role": "蠻兵 / 持續作戰",
+          "tagline": "渴血之斧、反擊回血與咒術從屬——先打得難看，再拖贏對手。",
+          "difficulty": 3,
+          "playstyle": [
+            "血手 Jan 要的是混亂的近身混戰。渴血之斧傷害兇狠，魔術之石又藏著不俗的遠端手段，但真正的引擎是反擊：受傷後立刻出手，血手的血繼就能把 HP 回上來。",
+            "瞬身既是脫身技也是再入場技。為我的血發狂是區域封鎖爆發——把斧頭砸進地面，用血斬覆蓋周圍，看誰還敢走進來。"
+          ],
+          "tips": [
+            {
+              "title": "有意識地換血",
+              "desc": "別被蹭一刀就急著回血。受傷後立刻反擊觸發血手的血繼，把自己釘在近戰距離裡。"
+            },
+            {
+              "title": "先咒術，再滾雪球",
+              "desc": "血之君主會治療被吸血蠱惑的敵人並提升你的攻擊力。成功吸血後要乘勝追擊，而不是拉開重置。"
+            },
+            {
+              "title": "瞬身就是節奏",
+              "desc": "用瞬身躲開致命爆發，或在對方耗盡體力後貼上去——增益持續時間有限，出手要快。"
+            }
+          ],
+          "lore": [
+            "Jan 的綽號絕非行銷話術。血手的血繼與血之君主描繪的是一個把血液同時當作傷口與武器的戰士——FromSoftware 最擅長把這類主題推到既浪漫又醜陋的境地。",
+            "會「渴血」的斧頭與魔術之石，把他放在屠宰與儀式之間：一個人類黃昏時代的傭兵，早已明白 First Blood 是奪來的，不是誰賞的。"
           ]
         },
         {
@@ -702,6 +762,32 @@
               "name": "暗月之女",
               "desc": "遠處敵人無法看見自身；更難被鎖定為目標。"
             }
+          ],
+          "slug": "trang-lanh",
+          "role": "奇襲 / 控場",
+          "tagline": "暗月潛行、白銀之蛇與蠱惑吸血——先消失，再決定這場架怎麼打。",
+          "difficulty": 4,
+          "playstyle": [
+            "莊瀾是打資訊差的角色。暗月能短暫隱蔽身形——足夠打斷鎖定、重新站位，或者起手投擲月輪之刃。瑪瑪納塔是大範圍召喚，能把單挑直接攪成混戰。",
+            "新娘的蠱惑讓每次成功的吸血都附帶軟控場。暗月之女使遠處敵人難以瞄準，這也是你在八人對局裡應對第三方偷襲的保命手段。"
+          ],
+          "tips": [
+            {
+              "title": "從潛行起手",
+              "desc": "不要先暴露自己。開暗月切入，擲出月輪之刃或直接起召喚，讓他們互相驚慌踩踏。"
+            },
+            {
+              "title": "在人堆裡吸血",
+              "desc": "新娘的蠱惑會在吸血時蠱惑周圍敵人——在人群中打硬直一個目標，往往能直接改寫整場混戰。"
+            },
+            {
+              "title": "待在視野邊緣",
+              "desc": "暗月之女在遠距離最強。沿著戰局外圍遊走，不要傻站在目標點上。"
+            }
+          ],
+          "lore": [
+            "月輪之刃與瑪瑪納塔——拉特納族的守護獸銀蛇——把莊瀾拉向神話，而不是哥特歐洲。人類黃昏不只是維多利亞街道；更古老的神祇與守護者仍潛伏在黑暗裡。",
+            "她的能力將她塑造成暗月的新娘與女兒：一種浪漫而危險的血之力解讀，正貼合宮崎英高所說的、對「浪漫」的血而非純粹恐怖的興趣。"
           ]
         },
         {
@@ -728,6 +814,32 @@
               "name": "夜之瞳",
               "desc": "延長鎖定和觀察距離。"
             }
+          ],
+          "slug": "sniper-layla",
+          "role": "遠程點殺 / 偵察",
+          "tagline": "蟲群位移、體內機槍與夜之瞳鎖定——把視線所及都變成你的射界。",
+          "difficulty": 3,
+          "playstyle": [
+            "狙擊手 Layla 掌控著最遠的那條線。夜之瞳延長鎖定與觀察距離，狙擊槍則懲罰任何在洛安榮地標之間草率轉移的人。",
+            "當戰鬥壓到臉上時，內卜拉消散讓你化作蟲群脫出，並留下令人困惑的殘像。維爾德的機槍是近距離的恐慌按鈕——若從高處架好，也能成為殘酷的終結手段。"
+          ],
+          "tips": [
+            {
+              "title": "打高低差，不打堂堂正正",
+              "desc": "鐘樓、屋頂和長街才是你的主場。若被逼進狹窄走廊，你就是在打別人的節奏。"
+            },
+            {
+              "title": "消散是為了重置，不是為了耍帥",
+              "desc": "內卜拉消散是脫身與換位工具。用殘像騙出對方開火，再從新角度重新探頭。"
+            },
+            {
+              "title": "尊重金血樁的經濟",
+              "desc": "內卜拉的血繼會緩慢恢復 HP 至一半，但金血樁的恢復量會降低。別把翻盤寄託在爆發恢復上。"
+            }
+          ],
+          "lore": [
+            "聖刻之卡塔爾與狙擊槍的組合是刻意的衝突——檔案館與戰場裝進同一套配置。Layla 讀起來像學者獵手，而她的血統（內卜拉）蟲形難測，極難鎖定。",
+            "夜之瞳與蟲群形態讓她成為陣容裡最好的「眼睛」：在一個講究獵殺與機會主義的遊戲裡，資訊本身就是和狙擊槍一樣真實的武器。"
           ]
         },
         {
@@ -754,6 +866,32 @@
               "name": "不動劍術",
               "desc": "完美格擋後，近戰攻擊力提升。"
             }
+          ],
+          "slug": "senator-samir-patres",
+          "role": "技巧型 / 反核心",
+          "tagline": "元老院細劍、血沼與恐龍衝鋒——先用技術耗垮他們，再直接碾過去。",
+          "difficulty": 4,
+          "playstyle": [
+            "長老 Samir Patres 是技術型戰士，獎勵乾淨的防禦。不動劍術在完美格擋後提升近戰攻擊，比起混戰，他更想要有章法的決鬥。",
+            "血液研究者降低血技所需等級——一種安靜的經濟優勢，比對手預期的更早成型。血刑柱封鎖空間；當對方以為你還在比劍時，恐龍化就是一次驚人的突進。"
+          ],
+          "tips": [
+            {
+              "title": "完美格擋就是你的增傷",
+              "desc": "練熟格擋反擊窗口。不動劍術把防禦轉化為進攻；能招架時就不要狂按閃避。"
+            },
+            {
+              "title": "花掉等級差優勢",
+              "desc": "血液研究者讓你更早解鎖血技。優先拿能滾雪球的解鎖（硬直、血之經濟），而不是花俏的那一檔。"
+            },
+            {
+              "title": "先血刑柱，再衝鋒",
+              "desc": "放出血沼把對方釘住，等他們想繞出去時再恐龍化。"
+            }
+          ],
+          "lore": [
+            "「長老」的頭銜與元老院細劍把他塑造成政治貴族——直到恐龍化提醒你，人類黃昏靠的仍是怪物之血，而不是演講。",
+            "血刑柱（從血沼中拔地而起的巨柱）是裹著法律劇場的儀式暴力。他是把握本作基調的關鍵讀法：先是秩序，然後是更古老、更飢餓的東西。"
           ]
         },
         {
@@ -780,9 +918,61 @@
               "name": "怪音波",
               "desc": "非人類的聲波咆哮；按住[L]+[ZR]持續。"
             }
+          ],
+          "slug": "zork",
+          "role": "進攻型坦克 / 擾亂",
+          "tagline": "潛水服、魚叉槍、火箭與偷來的最大 HP——成為他們無法忽視的麻煩。",
+          "difficulty": 2,
+          "playstyle": [
+            "Zork 是前排威脅。海底電纜與魚叉槍都是誠實好用的工具，但人體火箭與導彈讓他成為強行開戰、拆解陣型的最佳人選。",
+            "深海法則會在擊敗其他血族戰士時竊取最大 HP——一旦領先就會滾雪球。怪音波是可以延長的咆哮，用來打斷對手、推高硬直；拿它去毀掉別人的連招。"
+          ],
+          "tips": [
+            {
+              "title": "靠擊殺變強",
+              "desc": "深海法則要的是擊敗血族戰士，不只是刷怪。去獵殺那些已經在聖杯篩選中被打殘的玩家。"
+            },
+            {
+              "title": "別死在你偷過的人手裡",
+              "desc": "被你竊取 HP 的玩家若反過來擊敗你，偷來的最大 HP 會歸還。得手後先重置或打得更穩——貪婪會葬送優勢。"
+            },
+            {
+              "title": "攥住怪音波",
+              "desc": "怪音波（按住[L]+[ZR]）可以持續。用它取消對方的前搖攻擊，或在決勝回合把人壓到抬不起頭。"
+            }
+          ],
+          "lore": [
+            "一套會長出砲身與火箭背包的潛水服，是人類黃昏工業身體恐怖的巔峰。Zork 看起來像深海打撈，讀起來卻像掠食者。",
+            "深海法則是殘酷的規則：奪走他人的最大生命，若被對方擊敗則原樣歸還。他成為網路測試的梗王絕非偶然——也是最終三人局裡真正的雪球威脅。"
           ]
         }
       ]
+    },
+    "detail": {
+      "role": "定位",
+      "difficulty": "難度",
+      "playstyle": "玩法解析",
+      "tips": "實戰技巧",
+      "lore": "背景故事",
+      "weapons": "武器",
+      "bloodArts": "血技",
+      "powers": "能力",
+      "backToRoster": "全部 Bloodsworn",
+      "otherCharacters": "其他 Bloodsworn",
+      "relatedNews": "最新資訊",
+      "relatedGuides": "相關攻略",
+      "ctaTitle": "掌握核心系統",
+      "ctaDesc": "先讀玩法指南，弄懂美德、階段、架勢破壞與 House of Night，再回到這位 Bloodsworn 身上實戰。",
+      "level": "等級",
+      "detailLead": "來自網路測試版本的武器、血技、能力、玩法與技巧。",
+      "h1Suffix": "— Bloodsworn 角色攻略",
+      "keyFacts": "關鍵重點",
+      "faqTitle": "常見問題",
+      "faqHeading": "常見問題",
+      "faqRoleQ": "{name}在 The Duskbloods 中的定位是什麼？",
+      "faqWeaponsQ": "{name}用什麼武器？",
+      "faqArtsQ": "{name}的血技和特質是什麼？",
+      "faqHowQ": "{name}怎麼玩？"
     }
   },
   "networkTest": {
@@ -893,75 +1083,217 @@
   "faq": {
     "intro": {
       "eyebrow": "常見問題",
-      "title": "The Duskbloods - 黃昏血族 — 常見問題解答",
-      "lead": "針對發售、平台、多人模式與網路測試等常見問題，給出簡潔回答。"
+      "title": "The Duskbloods — 常見問題解答",
+      "lead": "直接回答玩家真正會搜的問題：發售日、Switch 2 獨佔、PvPvE、單人模式、線上需求，以及網路測試告訴了我們什麼。"
     },
     "groups": [
       {
-        "title": "發售與平台",
+        "title": "發售日與平台",
         "items": [
           {
             "q": "The Duskbloods 何時發售？",
-            "a": "The Duskbloods 預定 2026 年在 Nintendo Switch 2 發售，具體發售日尚未公布。"
+            "a": "The Duskbloods 官方計劃 2026 年在 Nintendo Switch 2 發售。截至 2026 年 10 月，確切日曆日期尚未公佈。追蹤站上的 2026 年 12 月 31 日只是佔位，不是確認。"
           },
           {
-            "q": "The Duskbloods 僅登陸 Nintendo Switch 2 嗎？",
-            "a": "是的。The Duskbloods 由任天堂發行，是 Nintendo Switch 2 獨佔作品。"
+            "q": "The Duskbloods 只登陸 Nintendo Switch 2 嗎？",
+            "a": "是的。The Duskbloods 由任天堂發行，發售時為 Nintendo Switch 2 獨佔。尚未公佈其他平台。"
           },
           {
             "q": "The Duskbloods 會登陸 PS5、Xbox 或 PC 嗎？",
-            "a": "目前未公布其他平台版本。作為任天堂發行的獨佔作品，預計將僅限 Nintendo Switch 2。"
+            "a": "目前沒有 PS5、Xbox 或 PC 的發行計劃。作為任天堂發行的獨佔作品，預計將僅限 Nintendo Switch 2。"
+          },
+          {
+            "q": "The Duskbloods 延期到 2027 了嗎？",
+            "a": "官方沒有。任天堂與 FromSoftware 仍寫著 2026。10 月仍無日期、假日檔又擁擠，延到 2027 被廣泛討論——但並未官宣。"
+          },
+          {
+            "q": "2026 年 12 月 31 日的發售日是真的嗎？",
+            "a": "不太可能。12 月 31 日是遊戲資料庫只知道發售年份時常用的年末佔位。任天堂未確認任何日曆日期。"
+          },
+          {
+            "q": "The Duskbloods 售價多少？",
+            "a": "尚未公佈價格。預計會在官方發售日與版本公開時一併給出。"
+          },
+          {
+            "q": "有實體版或豪華版嗎？",
+            "a": "版本陣容尚未公佈——標準實體版、豪華版、收藏版都沒有。這類細節通常隨日期與預購頁面一起放出。"
+          },
+          {
+            "q": "現在可以預購 The Duskbloods 嗎？",
+            "a": "不可以。預購尚未開啟。在任天堂 / FromSoftware 官方公告之前出現的任何預購連結，都按非官方處理。"
+          },
+          {
+            "q": "遊戲容量 / 安裝大小是多少？",
+            "a": "尚未公佈。遊戲頁面在 Nintendo eShop 上線後會顯示。"
           }
         ]
       },
       {
-        "title": "玩法與多人模式",
+        "title": "玩法與多人",
         "items": [
           {
-            "q": "The Duskbloods 的 PvPvE 是什麼意思？",
-            "a": "PvPvE（玩家對玩家對環境）指每局對局中，玩家間的競爭與對強大敵人的討伐同時進行。"
+            "q": "The Duskbloods 裡的 PvPvE 是什麼意思？",
+            "a": "PvPvE 指玩家對玩家、再對環境。每場對局中，你要與其他 Bloodsworn 競爭，同時對抗強大的 AI 敵人——一場競爭、機會與生存的三方角力。"
           },
           {
-            "q": "最多幾人同玩？",
-            "a": "每局對戰最多匯聚八名玩家。"
+            "q": "最多幾人一起玩？",
+            "a": "一場 Dusk Battle 對局最多匯聚八名 Bloodsworn。比賽跨越四個階段，直到只剩三名決賽者進入 Blood Bestowal。"
           },
           {
             "q": "The Duskbloods 可以單人遊玩嗎？",
-            "a": "可以。本作雖以 8 人多人為核心，但也包含單人模式，單人玩家同樣能體驗。"
+            "a": "可以。雖然多人是核心，The Duskbloods 也包含單人模式，讓你無需湊滿大廳也能體驗系統。"
           },
           {
-            "q": "The Duskbloods 支援跨平台連線嗎？",
-            "a": "由於是 Nintendo Switch 2 獨佔，不存在跨平台連線，多人對戰在 Switch 2 玩家之間進行。"
+            "q": "The Duskbloods 有跨平台連線嗎？",
+            "a": "不適用跨平台連線——本作是 Nintendo Switch 2 獨佔。多人對戰在 Switch 2 玩家之間進行。"
+          },
+          {
+            "q": "The Duskbloods 像《艾爾登法環：黑夜君臨》嗎？",
+            "a": "兩者共享 FromSoftware 的基因和以多人為主的結構，但 The Duskbloods 是自己的 PvPvE 設計：8 人對局、按階段進行的 Virtue 淘汰、Bloodsworn 建構，以及宮崎英高執導的 Switch 2 獨佔型態。"
+          },
+          {
+            "q": "Virtue 是什麼？",
+            "a": "Virtue 是你在 Dusk Battle 中累積的力量。透過戰鬥、探索和完成目標來存取。每個階段結束時，Grail 會淘汰 Virtue 不足的 Bloodsworn——只有前三名能進入最終的 Blood Bestowal。"
+          },
+          {
+            "q": "Blood Powers 是什麼？",
+            "a": "特殊之血賦予超越人類極限的能力。最多可同時顯現五種 Powers of Blood，並可從選單切換。它們很大程度上決定了每個 Bloodsworn 的玩法。"
+          },
+          {
+            "q": "有基於技能的配對嗎？",
+            "a": "有。在 IGN 訪談中，總監宮崎英高確認採用分級、類似排位的配對方式——新手會與其他新手配對，而不是老手。"
+          },
+          {
+            "q": "可以和其他玩家結盟嗎？",
+            "a": "可以。你可以向敵對 Bloodsworn 請求結盟，Sigils 會創造特殊的關係目標。網路測試還提供了 Bloodbound Alliances 模式，二人組會保持綁定直到最終階段。"
           }
         ]
       },
       {
-        "title": "開發",
+        "title": "Bloodsworn、Kin 與世界",
         "items": [
           {
-            "q": "The Duskbloods 的監督是誰？",
-            "a": "由 FromSoftware 社長宮崎英高擔任監督，他曾監督《艾爾登法環》與《黑暗之魂》系列。"
+            "q": "Bloodsworn 是誰？",
+            "a": "就是可玩角色。他們是透過特殊之血獲得超凡之力的人類——有意識的戰士，各自擁有身份、武器、能力，以及可自訂的血之歷史。"
           },
           {
-            "q": "The Duskbloods 由誰開發與發行？",
-            "a": "The Duskbloods 由 FromSoftware 開發、任天堂發行。"
+            "q": "有多少可玩角色？",
+            "a": "官方資料稱 Bloodsworn 超過十餘名。完整名冊尚未公佈；預計臨近發售會有更多公開。"
           },
           {
-            "q": "Bloodsworn是什麼？",
-            "a": "Bloodsworn是本作的可玩角色——憑藉特殊之血獲得超凡之力的戰士。共有十餘位可選，各有獨特武器、能力與可自訂的血之歷史。"
+            "q": "血之歷史是什麼？",
+            "a": "可自訂的敘事元素，塑造你的 Bloodsworn 在一場比賽中的路徑與命運。它讓每次開局都有個人建構與故事表達的空間。"
+          },
+          {
+            "q": "Kin 與 Compact 是什麼？",
+            "a": "與黃昏教團（Order of Dusk）締結契約者稱為 kin。與 Kin 簽訂 Compact 會授予力量與成長（包括 Kin EXP），在戰鬥中強化你的 Bloodsworn。"
+          },
+          {
+            "q": "First Blood 是什麼？",
+            "a": "Bloodsworn 在人類黃昏之際爭奪的神祕力量。追逐它是每場比賽的引擎，也是遊戲更大衝突的核心。"
+          },
+          {
+            "q": "遊戲發生在哪？",
+            "a": "人類黃昏時期的黃昏之地（Lands of Dusk）——一個從哥特維多利亞街道走向工業近代的黑暗浪漫世界。網路測試的比賽舞台設在 Lowanro City。"
+          },
+          {
+            "q": "The Duskbloods 的總監是誰？",
+            "a": "宮崎英高——FromSoftware 社長、《艾爾登法環》與《黑暗之魂》系列總監。遊戲由 FromSoftware 開發、任天堂發行。"
           }
         ]
       },
       {
-        "title": "網路測試",
+        "title": "網路測試與線上",
         "items": [
           {
-            "q": "如何參加 The Duskbloods 網路測試？",
-            "a": "透過官網報名，中選玩家獲結果通知。測試在 Nintendo Switch 2 上於預定時段進行。"
+            "q": "有過網路測試嗎？",
+            "a": "有。2026 年 8 月 21 日至 24 日舉行了多場次封閉網路測試。報名在 7 月 22 日至 28 日進行，中選玩家於 8 月 7 日收到通知。"
           },
           {
-            "q": "網路測試免費嗎？",
-            "a": "擁有 Nintendo Switch 2 主機的中選玩家可免費參與封閉網路測試。"
+            "q": "遊玩需要 Nintendo Switch Online 嗎？",
+            "a": "封閉網路測試需要 Nintendo Switch Online 會員。完整版的線上多人預計同樣需要，最終要求將在發售時確認。"
+          },
+          {
+            "q": "還會有下一次 beta 或網路測試嗎？",
+            "a": "8 月測試之後沒有新消息。如果計劃第二次測試或開放 beta，會先出現在任天堂 / FromSoftware 官方頻道。"
+          },
+          {
+            "q": "網路測試表現如何？",
+            "a": "核心玩法令人印象深刻：PvPvE 戰鬥、Virtue 淘汰、Bloodsworn 能力都表現出色。早期場次因壓力崩潰、PvP 有延遲，但 FromSoftware 在測試中打了修補程式，後續場次更穩定。"
+          },
+          {
+            "q": "進度會繼承到正式版嗎？",
+            "a": "別抱期望。網路測試進度幾乎不會帶入正式發售版本。官方繼承規則尚未公佈。"
+          },
+          {
+            "q": "House of Night 是什麼？",
+            "a": "Bloodsworn 的基地。在那裡選擇角色、進行教學與課程、查看紀錄（武器、Kin、道具、Powers of Blood、事件）、在 Graveyard Scarecrow 上練習，並配置配對。"
+          }
+        ]
+      },
+      {
+        "title": "購買與硬體",
+        "items": [
+          {
+            "q": "遊玩 The Duskbloods 需要什麼？",
+            "a": "一台 Nintendo Switch 2 主機。根據網路測試要求，多人遊玩還應準備 Nintendo Switch Online 會員。"
+          },
+          {
+            "q": "The Duskbloods 適合新手嗎？",
+            "a": "對新手友善，宮崎英高也表示配對會把新玩家與老玩家分開。House of Night 包含教學與練習。但入門之後的精通曲線相當陡。"
+          },
+          {
+            "q": "會有 demo 嗎？",
+            "a": "尚未公佈公開 demo。到目前為止，封閉網路測試是唯一上手機會。"
+          },
+          {
+            "q": "The Duskbloods 和《血源詛咒》有關嗎？",
+            "a": "沒有。這是原創 IP。黑暗哥特氛圍容易讓人聯想，但 The Duskbloods 不是《血源詛咒》的續作或衍生作。"
+          },
+          {
+            "q": "這是 FromSoftware 或任天堂的官方網站嗎？",
+            "a": "不是。這是非官方粉絲資訊站，與 FromSoftware 或任天堂無關，也未獲其背書。發售細節請以官方頻道為準。"
+          },
+          {
+            "q": "The Duskbloods 有跨平台存檔嗎？",
+            "a": "尚未公佈。發售時是 Switch 2 獨佔，因此除非任天堂公佈雲端存檔支援細節，否則不適用與其他生態系統的跨平台存檔。"
+          },
+          {
+            "q": "The Duskbloods 是服務型遊戲嗎？",
+            "a": "沒有公佈賽季制通行證計劃。這是 FromSoftware 與任天堂的買斷制多人動作遊戲。發售後的更新與平衡修補程式有可能，但尚無細節。"
+          },
+          {
+            "q": "一局大概多久？",
+            "a": "網路測試的戰鬥結構是四個階段，逐步淘汰到三名決賽者。確切分鐘數未公佈——預期是場次制對局，而不是動輒數小時的 raid。"
+          },
+          {
+            "q": "在哪裡能看 The Duskbloods 實機？",
+            "a": "官方預告片與網路測試影像在任天堂和 FromSoftware 頻道。我們的圖庫與新聞室會拆解畫面裡展示了什麼。"
+          }
+        ]
+      },
+      {
+        "title": "硬體與需求",
+        "items": [
+          {
+            "q": "遊玩 The Duskbloods 需要什麼？",
+            "a": "一台 Nintendo Switch 2 主機。根據網路測試要求，多人遊玩還應準備 Nintendo Switch Online 會員。eShop 購買與線上遊玩都需要 Nintendo Account。"
+          },
+          {
+            "q": "The Duskbloods 會登陸 PC、PS5 或 Xbox 嗎？",
+            "a": "不會。本作是 Nintendo Switch 2 獨佔。沒有 PC 版本，因此也沒有 PC 最低或推薦配置表。"
+          },
+          {
+            "q": "沒有 Nintendo Switch Online 能玩嗎？",
+            "a": "可以遊玩單人模式。線上多人——核心的八人 Dusk Battle——預計需要 Nintendo Switch Online，與封閉網路測試一致。"
+          },
+          {
+            "q": "需要多少儲存空間？",
+            "a": "安裝容量尚未公佈。Nintendo eShop 頁面上線後會顯示。除本體外，請為首日修補程式預留餘量。"
+          },
+          {
+            "q": "支援掌機模式嗎？",
+            "a": "支援。與其他 Switch 2 作品相同，支援 TV、桌上與掌機遊玩。競技多人在大螢幕上更容易看清。"
           }
         ]
       }
@@ -1020,16 +1352,21 @@
   "releaseDate": {
     "intro": {
       "eyebrow": "發售日",
-      "title": "The Duskbloods - 黃昏血族",
-      "lead": "The Duskbloods 預計於 2026 年作為任天堂 Switch 2 獨佔作品發售。以下是我們目前所知的發售資訊。"
+      "title": "The Duskbloods 發售日 — 目前已知的一切（2026年10月）",
+      "lead": "The Duskbloods 官方仍定檔 2026 年、Nintendo Switch 2 獨佔——但具體日曆日期依舊沒有公佈。本頁彙整所有已確認細節、可信傳聞，以及截至 2026 年 10 月剩餘發售窗口的真實面貌。",
+      "updatedAt": "最後更新：2026年10月11日"
     },
     "facts": {
       "eyebrow": "概覽",
       "title": "關鍵資訊",
       "items": [
         {
+          "label": "確切發售日",
+          "value": "尚未公佈"
+        },
+        {
           "label": "發售窗口",
-          "value": "2026"
+          "value": "2026（複核中）"
         },
         {
           "label": "平台",
@@ -1057,18 +1394,213 @@
         }
       ]
     },
+    "status": {
+      "eyebrow": "已確認 vs 傳聞",
+      "title": "真正算數的官方資訊",
+      "lead": "把行銷噪音和事實分開看。確認項來自任天堂、FromSoftware 或角川。右欄則是追蹤站、媒體預測或社群推測——有參考價值，但不是發售日。",
+      "confirmedLabel": "已確認",
+      "unconfirmedLabel": "未確認",
+      "confirmed": [
+        {
+          "title": "2026 年發售窗口",
+          "desc": "任天堂與角川已多次將 The Duskbloods 列為 2026 年作品。該窗口尚未官方變更——不過時間已經越來越緊。"
+        },
+        {
+          "title": "Nintendo Switch 2 獨佔",
+          "desc": "The Duskbloods 由任天堂發行，是 Nintendo Switch 2 獨佔作品。尚未公佈 PS5、Xbox 或 PC 版本。"
+        },
+        {
+          "title": "FromSoftware × 任天堂",
+          "desc": "由 FromSoftware 開發，宮崎英高擔任總監。任天堂發行——這是該工作室二十多年來首款大型主機獨佔作品。"
+        },
+        {
+          "title": "封閉網路測試已完成",
+          "desc": "2026 年 8 月 21 日至 24 日舉行了多場次封閉網路測試。早期伺服器承壓，後續場次趨於穩定，核心玩法廣受好評。"
+        },
+        {
+          "title": "十餘名 Bloodsworn",
+          "desc": "官方資料承諾可玩 Bloodsworn 超過十餘名，每位都有獨特武器、能力，以及可自訂的血之歷史。"
+        }
+      ],
+      "unconfirmed": [
+        {
+          "title": "追蹤站上的 2026 年 12 月 31 日",
+          "desc": "IGN 遊戲頁面與多個資料庫現已標註 2026 年 12 月 31 日。這幾乎可以肯定是年末佔位日期——任天堂並未確認。"
+        },
+        {
+          "title": "2026 年 12 月 3 日預測",
+          "desc": "IGN 的 Logan Plant 根據任天堂第一方每月一款的發行節奏，預測 12 月 3 日發售。這仍是分析，不是公告。"
+        },
+        {
+          "title": "延期至 2027",
+          "desc": "10 月仍無日期、GTA 6 又佔據 11 月，延到 2027 已是社群常見判斷。任天堂與 FromSoftware 都未宣佈延期。"
+        },
+        {
+          "title": "實體版、豪華版與收藏版",
+          "desc": "尚未公佈版本陣容、定價或預購特典。預計會在公佈日期的同一波資訊裡一併揭曉。"
+        },
+        {
+          "title": "價格與容量",
+          "desc": "仍未公佈。Switch 2 第一方作品通常落在熟悉的溢價區間，但目前沒有任何官方紀錄。"
+        }
+      ]
+    },
+    "timeline": {
+      "eyebrow": "時間線",
+      "title": "我們是怎麼走到今天的",
+      "items": [
+        {
+          "date": "2026年4月",
+          "title": "The Duskbloods 公佈",
+          "desc": "作為 FromSoftware 的 Nintendo Switch 2 獨佔作品公佈，由宮崎英高擔任總監。首支預告片介紹了 Bloodsworn、First Blood 與人類黃昏的世界觀。"
+        },
+        {
+          "date": "2026年7月22日–28日",
+          "title": "網路測試報名開啟",
+          "desc": "封閉網路測試透過官網報名，需要 Nintendo Switch Online。報名於 7 月底截止。"
+        },
+        {
+          "date": "2026年8月7日",
+          "title": "測試玩家公佈",
+          "desc": "中選玩家收到通知。需求據說超出預期——與《艾爾登法環：黑夜君臨》測試流量的早期對比對 The Duskbloods 有利。"
+        },
+        {
+          "date": "2026年8月21日–24日",
+          "title": "封閉網路測試",
+          "desc": "四天五場。第一場在壓力下崩潰，PvP 出現延遲問題，FromSoftware 在測試中途打修補程式。後續場次穩定下來。Virtue 系統與 PvPvE 迴圈給多數玩家留下深刻印象。"
+        },
+        {
+          "date": "2026年8月25日",
+          "title": "否認 9 月 24 日",
+          "desc": "一篇前瞻文章傳出了 2026 年 9 月 24 日的發售日。任天堂予以否認。唯一站得住的結論仍是：2026 年，具體日期待定。"
+        },
+        {
+          "date": "2026年9月9日–10日",
+          "title": "Nintendo Direct 缺席",
+          "desc": "The Duskbloods 完全跳過了 9 月 Direct：沒有預告片，也沒有日期。Switch 2 玩家在其他作品上收穫滿滿；本作卻一直沉默。"
+        },
+        {
+          "date": "2026年9月下旬",
+          "title": "追蹤站填入 12 月 31 日",
+          "desc": "IGN 與其他資料庫開始標註 2026 年 12 月 31 日。紙上出現的第一個具體日期——仍然不是官方日期。"
+        },
+        {
+          "date": "2026年10月",
+          "title": "仍無日期，延期討論升溫",
+          "desc": "年內只剩不到三個月，GTA 6 統治 11 月，從公佈到發售的行銷窗口也幾乎耗盡。官方口徑仍是 2026；2027 已不再是暴論。"
+        }
+      ]
+    },
     "expect": {
       "eyebrow": "已知資訊",
       "title": "關於發售",
       "paragraphs": [
-        "The Duskbloods 在任天堂 Switch 2 發布會上首次公布，並計劃於 2026 年發售。FromSoftware 與任天堂尚未公布具體發售日期。",
-        "作為 Switch 2 獨佔作品，本作在發售時僅在任天堂新一代主機上推出，不會登陸 PS5、Xbox 或 PC 平台。",
-        "由宮崎英高（《艾爾登法環》和《黑暗之魂》系列締造者）擔任總監，The Duskbloods 是一款 PvPvE 多人動作遊戲，玩家將扮演Bloodsworn——在人類黃昏之際為爭奪First Blood而戰的戰士。"
+        "The Duskbloods 在 Nintendo Switch 2 發表會上首次公佈，計劃 2026 年發售。截至 2026 年 10 月 11 日，FromSoftware 與任天堂仍未公佈確切日曆日期。這是本頁最重要的一條事實——其餘內容都是圍繞它的背景。",
+        "作為 Switch 2 獨佔作品，本作只會在任天堂當前世代主機上推出。不會登陸 PS5、Xbox 或 PC。多人玩法圍繞 Switch 2 玩家建構，網路測試要求持有 Nintendo Switch Online 會員。",
+        "由宮崎英高（《艾爾登法環》與《黑暗之魂》系列締造者）擔任總監，The Duskbloods 是一款 PvPvE 多人動作遊戲。玩家扮演 Bloodsworn——從特殊之血中汲取力量、在人類黃昏之際爭奪 First Blood 的戰士。對局最多支援八名玩家，同時也提供單人模式。",
+        "8 月的網路測試證明了核心迴圈成立：八名 Bloodsworn 進入黃昏之地（Lands of Dusk），累積 Virtue，在四個階段中承受 Grail 的淘汰，最終戰至三人決賽。它也暴露了發售前仍需完成的伺服器與網路程式碼工作——這正是網路測試的意義所在。",
+        "對買家來說，這意味著兩件實際的事。第一，日期公佈後，線上多人預計需要 Nintendo Switch Online 會員——測試階段已經要求了。第二，不要相信任何未出現在任天堂或 FromSoftware 官方頻道的預購頁面、價籤或日曆日期。在這個遊戲短暫的公開生命裡，佔位日期和假發售日已經流傳過兩輪。"
+      ]
+    },
+    "window": {
+      "eyebrow": "發售窗口",
+      "title": "還能趕上 2026 嗎？",
+      "paragraphs": [
+        "技術上可以——官方口徑上，2026 仍是既定窗口。如果今年發售，現實的剩餘窗口是 11 月下旬（正面對 GTA 6，勝算不大）或 12 月。12 月 3 日週中突襲，或 12 月中下旬，是粉絲和媒體反覆指認的節奏。",
+        "實際上日程非常殘酷。全球多人發售需要一整套行銷節奏：公佈日期、開預購、也許再一支預告片、預載，然後上線。把這一整套壓縮進幾週並非不可能，但非常緊。如果 10 月和 11 月過去仍無日期，宣佈 2027 就會從悲觀判斷變成理性預期。",
+        "什麼能快速定局：一場出現 The Duskbloods、當場鎖定發售日與預購日期的 Nintendo Direct / Direct 合作夥伴展示會。盯住任天堂官方頻道和本頁——一旦確認，我們立刻更新。"
+      ]
+    },
+    "editions": {
+      "eyebrow": "版本與購買",
+      "title": "去哪裡、怎麼買",
+      "lead": "下面的條目目前都還沒有開賣。這是清單，任天堂一公佈日期、價格與版本，我們就會填上。",
+      "items": [
+        {
+          "label": "平台",
+          "value": "僅 Nintendo Switch 2"
+        },
+        {
+          "label": "數位版",
+          "value": "Nintendo eShop —— 預計發售日同步上線"
+        },
+        {
+          "label": "實體版",
+          "value": "待定 —— 尚未公佈"
+        },
+        {
+          "label": "價格",
+          "value": "尚未公佈"
+        },
+        {
+          "label": "預購",
+          "value": "尚未開啟"
+        },
+        {
+          "label": "Nintendo Switch Online",
+          "value": "多人需要（據網路測試）"
+        },
+        {
+          "label": "容量",
+          "value": "待定"
+        },
+        {
+          "label": "語言",
+          "value": "多種 —— 完整清單待定"
+        }
+      ]
+    },
+    "watch": {
+      "eyebrow": "關注管道",
+      "title": "確切日期會在哪裡公佈",
+      "items": [
+        {
+          "title": "Nintendo Direct / 合作夥伴展示會",
+          "desc": "最有可能公佈日期的舞台。如果 The Duskbloods 登上 Direct，預計同一環節就會給出發售日與預購。"
+        },
+        {
+          "title": "FromSoftware 與任天堂社群頻道",
+          "desc": "Twitter/X 與官方新聞會在當天同步確認。凡未出現在官方頻道的日期，都按非官方處理。"
+        },
+        {
+          "title": "角川財報",
+          "desc": "FromSoftware 母公司曾在投資者材料中重申 2026 年窗口。下一份報告是有用、雖然枯燥的檢查點。"
+        },
+        {
+          "title": "本頁",
+          "desc": "事實一變，我們就更新時間線與已確認 / 未確認表格。收藏本頁，別再刷新追蹤站。"
+        }
+      ]
+    },
+    "related": {
+      "eyebrow": "來自新聞室",
+      "title": "本頁背後的深度報導",
+      "items": [
+        {
+          "href": "/latest/duskbloods-october-2026-delay-risk",
+          "title": "2026 年 10 月延期風險解析",
+          "desc": "為什麼 2026 年每週都在變難——以及網路測試數據為何是雙面刃。"
+        },
+        {
+          "href": "/latest/duskbloods-release-date-december-31-2026-trackers",
+          "title": "追蹤站如今指向 12 月 31 日",
+          "desc": "IGN 與其他資料庫上到底改了什麼，以及為什麼 12 月 31 日很可能只是佔位。"
+        },
+        {
+          "href": "/latest/duskbloods-september-direct-no-show",
+          "title": "9 月 Direct 回顧",
+          "desc": "The Duskbloods 完全跳過了這場發表會。仍是 2026。仍無日期。"
+        },
+        {
+          "href": "/latest/duskbloods-release-date-september24-denied",
+          "title": "9 月 24 日？任天堂說不",
+          "desc": "一篇前瞻文章如何製造出假發售日——以及官方的否認。"
+        }
       ]
     },
     "cta": {
-      "title": "收藏本頁，掌握發售日動態",
-      "desc": "FromSoftware 與任天堂公布具體發售日、預載時間和上線詳情後，我們會立即更新本頁。"
+      "title": "收藏本頁，第一時間拿到確切發售日",
+      "desc": "FromSoftware 與任天堂公佈發售日、預載安排與上線詳情的那一刻，我們會更新時間線與已確認表格。"
     }
   },
   "gallery": {
@@ -1089,6 +1621,101 @@
     },
     "lightbox": {
       "alt": "黃昏血族 截圖 {n}"
+    },
+    "featured": {
+      "eyebrow": "精選解讀",
+      "title": "截圖解讀——這些畫面究竟在展示什麼",
+      "lead": "十二張官方靜幀，按三條互不重疊的線索分類：Bloodsworn 是誰、戰鬥真實長什麼樣、世界如何暗示危險。每條註解從畫面出發，再拉回對局。",
+      "sourceNote": "圖片為官方截圖 © FromSoftware / Nintendo。解讀為本站獨立、非官方內容。",
+      "h2A": "Bloodsworn 與血術",
+      "h2B": "戰鬥、怪物與 Blood Arts",
+      "h2C": "世界、路線與徵兆",
+      "items": [
+        {
+          "group": "a",
+          "n": 1,
+          "title": "檔案大廳——出獵之前的獵手",
+          "desc": "銀髮戰士身著華麗外套穿過拱頂哥特圖書館：鐵藝隔斷、閱覽桌、整面書牆。安靜室內、貴族剪裁——夜之館既是書房也是舞台。你先透過剪影認識 Bloodsworn，很久之後才認識他們的血技。",
+          "keyword": "Bloodsworn 檔案館 夜之館 服飾"
+        },
+        {
+          "group": "a",
+          "n": 4,
+          "title": "火槍與軍刀——雙人配置",
+          "desc": "一人在山脊架起長槍，另一人持雙刀壓低身姿，背後是群山與瘀紅的落日。重點在搭配：遠程壓制加近身威脅，才是兩人控場的方式。大廳一滿，剪影就會把分工切開。",
+          "keyword": "Bloodsworn 搭檔 火槍 軍刀 分工"
+        },
+        {
+          "group": "a",
+          "n": 14,
+          "title": "肖像特寫——服飾即構築線索",
+          "desc": "銀髮 Bloodsworn 的蹲姿特寫：鑲嵌背帶、寬袖口、髮絲遮眼。在這作裡服裝就是數據——家系、血統，以及你該尊重的血術類型。剪影進屏的瞬間，你已經在讀對方的構築。",
+          "keyword": "Bloodsworn 肖像 服飾 設計"
+        },
+        {
+          "group": "a",
+          "n": 22,
+          "title": "Zork 與水畔神像",
+          "desc": "潛水服戰士坐在黑水裡，旁邊是覆苔的蒼白女子雕像——沼澤光、枯樹、門拱。這類角色小品不用彈窗教程，就在暗示 Compact 與 Kin。快遊戲裡的慢鏡頭，排位前值得看一眼。",
+          "keyword": "Zork 沼澤 雕像 Kin Compact 神龕"
+        },
+        {
+          "group": "b",
+          "n": 2,
+          "title": "鐘樓廣場大亂鬥",
+          "desc": "披風戰士開槍，女子牽引藍色光束，持長桿的巨人穩住架勢——左側尖樁上還掛著屍體。一幀裝下 PvPvE：玩家、環境，城市是見證。沒人禮貌單挑，站位就是整場戰鬥。",
+          "keyword": "PvPvE 鐘樓 混戰 洛安榮"
+        },
+        {
+          "group": "b",
+          "n": 5,
+          "title": "樓梯巨蛙——路線上的 PvE 壓力",
+          "desc": "長刀使與斗笠獵人在大樓梯上夾住一隻臃腫紅眼巨蛙。可讀的大口、狹窄通道、兩個夾角：典型的 FromSoftware PvE 幾何。這類野怪也是資源點——美德、血，還有你沒請來的第三方。",
+          "keyword": "PvE 巨蛙 怪物 樓梯 合作"
+        },
+        {
+          "group": "b",
+          "n": 20,
+          "title": "教堂決鬥中的火焰斧技",
+          "desc": "巨斧拖行，火浪在立柱教堂裡咬住正在閃避的另一名 Bloodsworn。血技故意吵鬧——特效裡還能看清身體嗎？八人局的可讀性從這裡開始：信剪影，別信煙花。",
+          "keyword": "Blood Arts 火焰 斧頭 PvP 教堂"
+        },
+        {
+          "group": "b",
+          "n": 28,
+          "title": "火把教眾與獵犬",
+          "desc": "戴兜帽的身影舉著火把和棍棒，在教堂與血紅天空下帶著狼犬推進。這是每場 Dusk Battle 背後的 PvE 合唱——不是 Boss，而是地圖的免疫系統。先把牠們的前搖看明白，再怪隊友換血太虧。",
+          "keyword": "PvE 教眾 怪物 獵犬 教堂"
+        },
+        {
+          "group": "c",
+          "n": 3,
+          "title": "越過尖塔的屋頂機動",
+          "desc": "扛巨斧的 Bloodsworn 飛躍天際線：月光尖塔、煙囪、山霧。聖杯開始淘汰後，屋頂和橋是斷開視線、拒絕不利交戰的手段。立體城市裡，路線就是構築的一部分。",
+          "keyword": "屋頂 機動 路線 洛安榮"
+        },
+        {
+          "group": "c",
+          "n": 6,
+          "title": "崖邊小徑通往山頂教堂",
+          "desc": "持長刀的戰士走在崖路，滿月當空，前方是山頂教堂。這是 Dusk Battle 的偵察拍——先接近地標，再爭奪地標。霧、松、石劃出獨狼還能喘息的荒野邊緣。",
+          "keyword": "夜間 偵察 教堂 荒野 路線"
+        },
+        {
+          "group": "c",
+          "n": 10,
+          "title": "手背上的血薔薇烙印",
+          "desc": "蒼白的手搭在桌沿，手背是帶刺的血薔薇烙印。純粹的徵兆意象：Compact、血統，或已付出的代價。FromSoftware 用道具講故事——把它當劇情物品，別當壁紙。",
+          "keyword": "血薔薇 烙印 Compact 劇情 徵兆"
+        },
+        {
+          "group": "c",
+          "n": 16,
+          "title": "血月懸在廢墟步道上",
+          "desc": "戴寬簷帽的孤影面向猩紅月亮，血光灑在斷磚與遠處的鐘樓上。人類黃昏的命題圖——浪漫、宏大、又殘破。把 First Blood 當成懸在每場對局上空的天氣，而不是 UI 進度條。",
+          "keyword": "血月 人類黃昏 First Blood"
+        }
+      ]
     }
   },
   "contact": {
@@ -1243,6 +1870,182 @@
     "summon": {
       "title": "召喚與召還",
       "desc": "可透過功能選單召喚或召還眷屬。眷屬倒下後會被自動召還，一段時間內無法再次召喚。被召還或非戰鬥狀態下，眷屬的 HP 會逐漸恢復。眷屬受到攻擊時無法召還。"
+    }
+  },
+  "relatedHubs": {
+    "eyebrow": "繼續閱讀",
+    "title": "相關專題指南",
+    "lead": "跳轉到比本篇新聞更完整的常青指南。",
+    "charactersTitle": "相關 Bloodsworn"
+  },
+  "systemRequirements": {
+    "intro": {
+      "eyebrow": "系統需求",
+      "title": "The Duskbloods 系統需求 — 遊玩前需要準備什麼",
+      "lead": "The Duskbloods 是 Nintendo Switch 2 獨佔作品，因此沒有 PC 配置表可以對照。真正需要準備的是：主機、多人遊玩所需的線上會員、儲存空間預期、網路與配件——已確認與尚未公佈的資訊都在這裡。",
+      "updatedAt": "最後更新：2026年10月11日"
+    },
+    "facts": {
+      "eyebrow": "概覽",
+      "title": "硬體清單",
+      "items": [
+        {
+          "label": "平台",
+          "value": "僅 Nintendo Switch 2"
+        },
+        {
+          "label": "PC / PS5 / Xbox",
+          "value": "不提供"
+        },
+        {
+          "label": "顯示模式",
+          "value": "TV、桌上、掌機"
+        },
+        {
+          "label": "多人",
+          "value": "線上最多 8 人"
+        },
+        {
+          "label": "Nintendo Switch Online",
+          "value": "線上多人需要"
+        },
+        {
+          "label": "儲存",
+          "value": "TBA —— 尚未公佈"
+        },
+        {
+          "label": "網路",
+          "value": "線上遊玩建議寬頻"
+        },
+        {
+          "label": "離線玩家",
+          "value": "包含單人模式"
+        }
+      ]
+    },
+    "platform": {
+      "eyebrow": "平台",
+      "title": "你需要一台 Nintendo Switch 2",
+      "paragraphs": [
+        "The Duskbloods 由 FromSoftware 開發、任天堂發行，是 Nintendo Switch 2 獨佔作品。它無法在初代 Switch 上運行；由於沒有 PC 版本，也就沒有 PC 最低配置表——PS5 與 Xbox 版本同樣沒有公佈。",
+        "這意味著唯一真正的「需求」就是任天堂當前世代硬體：一台 Nintendo Switch 2 主機，在 eShop 頁面上線後留出足夠儲存空間，以及你順手的顯示方式——TV、桌上或掌機模式。網路測試僅在 Switch 2 上進行，發售目標平台也相同。",
+        "如果你已經入手 Switch 2，硬體方面已經就緒。若還在觀望，發售日公佈後留意官方同捆——任天堂常把重點獨佔與硬體 SKU 搭配推出。"
+      ]
+    },
+    "online": {
+      "eyebrow": "線上與帳號",
+      "title": "多人需要 Nintendo Switch Online",
+      "paragraphs": [
+        "封閉網路測試需要 Nintendo Switch Online 會員才能參與。完整版的線上多人——八人 Dusk Battle——預計同樣需要。eShop 購買與線上遊玩都需要 Nintendo Account。",
+        "無需湊滿大廳即可遊玩單人模式，可以離線熟悉系統。跨平台連線不適用：本作僅登陸 Switch 2，多人對局都是 Switch 2 玩家之間進行。",
+        "強烈建議使用穩定的寬頻連線。8 月測試出現了開局階段的伺服器壓力與 PvP 延遲問題；有線轉接器或穩定的 5 GHz Wi-Fi 會比壅擠的 2.4 GHz 網路順暢得多。"
+      ]
+    },
+    "storage": {
+      "eyebrow": "儲存與下載",
+      "title": "檔案大小仍為 TBA",
+      "paragraphs": [
+        "任天堂尚未公佈安裝容量。發售日與預購開啟、Nintendo eShop 商品頁上線時會顯示。",
+        "實際一點的底線：在主機內建儲存（或為 Switch 2 準備高速 microSD Express 卡）預留兩位數 GB 空間，讓預載與首日修補程式更從容。大型多人遊戲通常需要本體加更新檔的空間。"
+      ]
+    },
+    "controllers": {
+      "eyebrow": "控制器與顯示",
+      "title": "怎麼玩更順手",
+      "items": [
+        {
+          "title": "Joy-Con 2 / 握把",
+          "desc": "開箱即支援完整操作。掌機模式與休閒 TV 遊玩沒問題；戰鬥時機判定用全尺寸手把會更穩。"
+        },
+        {
+          "title": "Nintendo Switch 2 Pro Controller",
+          "desc": "打算刷 PvP 的話推薦入手。搖桿、扳機與握感在長時間 Dusk Battle 中更舒適。"
+        },
+        {
+          "title": "TV 模式",
+          "desc": "最適合看清多人戰鬥的前搖提示與 UI。1080p/4K 輸出取決於電視與 Switch 2 的顯示設定。"
+        },
+        {
+          "title": "掌機模式",
+          "desc": "支援，與其他 Switch 2 作品相同。八人混戰時偏小的 UI 更費眼——適合練習與 House of Night 時光。"
+        }
+      ]
+    },
+    "checklist": {
+      "eyebrow": "購買前",
+      "title": "開玩準備清單",
+      "lead": "預購開啟後按這份清單核對。綠色項是已確認內容；標註 TBA 的仍在等任天堂消息。",
+      "items": [
+        {
+          "title": "Nintendo Switch 2 主機",
+          "desc": "必需。初代 Switch 無法運行本作。",
+          "required": true
+        },
+        {
+          "title": "Nintendo Account",
+          "desc": "eShop 購買與線上遊玩都需要。",
+          "required": true
+        },
+        {
+          "title": "Nintendo Switch Online 會員",
+          "desc": "線上多人需要（據網路測試）。單人模式無需湊滿大廳。",
+          "required": true
+        },
+        {
+          "title": "可用儲存空間",
+          "desc": "確切容量 TBA。為預載與修補程式預留充足餘量。",
+          "required": false
+        },
+        {
+          "title": "穩定的網路",
+          "desc": "八人 PvPvE 建議使用寬頻。",
+          "required": false
+        },
+        {
+          "title": "Pro Controller（可選）",
+          "desc": "長時間遊玩與競技對局的舒適度升級。",
+          "required": false
+        },
+        {
+          "title": "發售日 + 預購",
+          "desc": "截至 2026 年 10 月仍未公佈。關注我們的發售日專頁。",
+          "required": false
+        }
+      ]
+    },
+    "related": {
+      "eyebrow": "繼續閱讀",
+      "title": "相關指南與資訊",
+      "items": [
+        {
+          "href": "/release-date",
+          "title": "發售日專頁",
+          "desc": "時間線、已確認 vs 傳聞日期，以及發售窗口的最新狀態。"
+        },
+        {
+          "href": "/faq",
+          "title": "完整 FAQ",
+          "desc": "平台、多人、NSO、版本與硬體問題解答。"
+        },
+        {
+          "href": "/network-test",
+          "title": "網路測試回顧",
+          "desc": "8 月測試對線上遊玩的要求，以及伺服器表現說明了什麼。"
+        },
+        {
+          "href": "/latest/duskbloods-network-test-review",
+          "title": "網路測試評測",
+          "desc": "實測結果：伺服器、延遲、Virtue，以及對發售的意義。"
+        }
+      ]
+    },
+    "note": {
+      "title": "非官方粉絲站",
+      "desc": "本頁需求彙整自任天堂/FromSoftware 的公開資訊與封閉網路測試。最終規格、檔案大小與線上需求將在發售時由官方管道確認。"
+    },
+    "cta": {
+      "title": "收藏本頁，等待最終規格",
+      "desc": "任天堂一公佈 eShop 頁面，我們會立刻更新儲存、線上需求與同捆資訊。"
     }
   }
 }

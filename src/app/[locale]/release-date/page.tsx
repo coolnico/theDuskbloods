@@ -30,7 +30,7 @@ export default async function ReleaseDatePage({ params }: { params: Promise<{ lo
     headline: tMeta('title'),
     description: tMeta('description'),
     datePublished: '2026-08-20',
-    dateModified: '2026-08-20',
+    dateModified: '2026-10-11',
     inLanguage: locale,
     author: { '@type': 'Organization', name: SITE_NAME },
     publisher: {

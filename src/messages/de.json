@@ -21,8 +21,8 @@
       "description": "Der geschlossene Netzwerktest von The Duskbloods läuft 2026 auf Nintendo Switch 2. Termine, Anmeldung, Testinhalt, Download-Größe und was Spieler erwarten können."
     },
     "faq": {
-      "title": "The Duskbloods FAQ — Release, Plattformen, Mehrspieler und mehr",
-      "description": "Antworten auf die häufigsten Fragen zu The Duskbloods: Release, Nintendo Switch 2-Exklusivität, PvPvE-Mehrspieler, Einzelspieler, Crossplay und Netzwerktest."
+      "title": "The Duskbloods FAQ — Release-Datum, PvPvE, Multiplayer & Kauf",
+      "description": "40+ Antworten zu The Duskbloods: Status des genauen Release-Datums, Switch-2-Exklusivität, PvPvE und Virtue, Bloodsworn & Kin, Netzwerktest-Ergebnisse, Nintendo Switch Online, Editions und mehr."
     },
     "about": {
       "title": "Über The Duskbloods — FromSoftwares Switch 2 Exklusivtitel",
@@ -37,12 +37,12 @@
       "description": "Nutzungsbedingungen der The Duskbloods Fan-Informationsseite. The Duskbloods und alle verwandten Marken gehören FromSoftware und Nintendo."
     },
     "releaseDate": {
-      "title": "Veröffentlichungsdatum von The Duskbloods — 2026 auf Nintendo Switch 2",
-      "description": "Veröffentlichungsdatum von The Duskbloods: erscheint 2026 als Nintendo Switch 2 Exclusive. FromSoftware × Nintendo, Regie: Hidetaka Miyazaki."
+      "title": "The Duskbloods Release-Datum — 2026-Fenster, Zeitachse & Gerüchte (Okt. 2026)",
+      "description": "The-Duskbloods-Release-Tracker: offizielles Switch-2-Fenster 2026, vollständige Zeitachse, bestätigte vs. gerüchtete Daten, Analyse des 31. Dezember in Trackern, Delay-Risiko und wie du nach der Ankündigung kaufst."
     },
     "gallery": {
-      "title": "Galerie — The Duskbloods Bildschirmfotos",
-      "description": "Durchstöbern Sie offizielle Bildschirmfotos von The Duskbloods, dem Multiplayer-Action-Spiel von FromSoftware für Nintendo Switch 2."
+      "title": "The Duskbloods Galerie — Bildschirmfotos & Kampf-Analysen",
+      "description": "Offizielle The-Duskbloods-Bildschirmfotos mit eigener Analyse: Bloodsworn-Kampf, Lowanro-Wahrzeichen, Blutkunst-Telegraphs, PvPvE-Druck und späte Phasen-Lesarten der Arenen."
     },
     "contact": {
       "title": "Kontakt — The Duskbloods Fan-Site",
@@ -59,6 +59,10 @@
     "kin": {
       "title": "Vasallen-Guide — Pakte, Portale & Entwicklung | The Duskbloods",
       "description": "So funktionieren Vasallenpakete in The Duskbloods: Vasallenportale (Ring, Klinge, Auge), 8 Vasallen, Entwicklung sowie Beschwörungsregeln."
+    },
+    "systemRequirements": {
+      "title": "The Duskbloods Systemanforderungen — Switch 2, NSO & Speicher",
+      "description": "Was du zum Spielen von The Duskbloods brauchst: nur Nintendo Switch 2, Nintendo Switch Online für Multiplayer, Speicher (TBA), Netzwerk-Tipps, Controller und eine Spielfertig-Checkliste."
     }
   },
   "privacy": {
@@ -100,7 +104,8 @@
     "gallery": "Galerie",
     "latest": "Neuigkeiten",
     "maps": "Karte",
-    "kin": "Vasallen"
+    "kin": "Vasallen",
+    "systemRequirements": "Systemanforderungen"
   },
   "news": {
     "backToList": "Zurück zu Neuigkeiten",
@@ -623,7 +628,10 @@
         "melee": "Nahkampf: ",
         "ranged": "Fernkampf: ",
         "bloodArts": "BLUTKÜNSTE",
-        "powers": "ASPEKTE"
+        "powers": "ASPEKTE",
+        "viewGuide": "Guide ansehen",
+        "role": "Rolle",
+        "difficulty": "Schwierigkeit"
       },
       "items": [
         {
@@ -650,6 +658,32 @@
               "name": "Rebell",
               "desc": "Erhöht den Haltungsschaden gegen Blutsbrüder mit hoher Tugend."
             }
+          ],
+          "slug": "albert",
+          "role": "Ausgewogener Duellant",
+          "tagline": "Juwelensäbel und MP — wechsle zwischen sauberem Nahkampfdruck und Kills auf mittlerer Distanz.",
+          "difficulty": 2,
+          "playstyle": [
+            "Albert ist der zugänglichste Allrounder im Roster. Lorriks Juwelensäbel belohnt sauberes Spacing und Haltungsdruck, während die MP es dir erlaubt, zu harassen oder Kills zu bestätigen, ohne dich komplett in den Nahkampf zu stürzen.",
+            "Sein Kit skaliert mit der Blutqualität — frühe Tugend- und Blut-Upgrades wirken sofort stärker. Blutklinge ist ein verlässlicher Poke; Licht von Hayern ist das Burst-Tool, wenn ein Ziel die Haltung verloren hat oder eingeklemmt ist."
+          ],
+          "tips": [
+            {
+              "title": "Sammle früh Tugend",
+              "desc": "Das edle Blut der Lorriks gewährt zusätzliche Einsätze blutbasierter Künste — mehr Tugend und Blut bedeuten mehr Klingen und Strahlen pro Kampf."
+            },
+            {
+              "title": "Jage Ziele mit hoher Tugend",
+              "desc": "Rebell erhöht den Haltungsschaden gegen Blutsbrüder, die ohnehin schon vorn liegen. Stiehl ihre Momentum, statt schwache Spieler zu farmen."
+            },
+            {
+              "title": "Säbel für Haltung, MP für Kills",
+              "desc": "Starte im Nahkampf, um die Haltung aufzufüllen, und wechsle zur MP, sobald sie versuchen, sich zurückzuziehen."
+            }
+          ],
+          "lore": [
+            "Albert trägt den Juwelensäbel des Hauses Lorrik und eine moderne Seitenwaffe — ein lebendiger Beweis, dass die Dämmerung der Menschheit aristokratische Blutlinie und industrielle Feuerkraft noch immer vermischt.",
+            "Seine Aspekte (Das edle Blut der Lorriks, Rebell) lesen sich wie ein revolutionäres Manifest: mehr Macht aus der Blutnutzung und zusätzlicher Druck gegen jene, die bereits von der Tugend gekrönt sind."
           ]
         },
         {
@@ -676,6 +710,32 @@
               "name": "Blutmonarchie",
               "desc": "Heilt Feinde in deinem Bann und stärkt gleichzeitig ihren Angriff."
             }
+          ],
+          "slug": "bloodhand-jan",
+          "role": "Schläger / Ausdauerkämpfer",
+          "tagline": "Eine blutrünstige Axt, Heilung durch Konter und Diener im Bann — gewinne hässlich, gewinne lang.",
+          "difficulty": 3,
+          "playstyle": [
+            "Bluthand Jan will chaotische, enge Kämpfe. Die blutrünstige Axt schlägt hart zu und der Zauberstein gibt dir eine täuschende Fernkampfoption, doch der eigentliche Motor ist der Konter: Die Linie der Bluthände heilt TP, wenn du nach erlittenem Schaden zurückschlägst.",
+            "Schattenschritt ist dein Ausweg und dein Re-Engage. Gib dich meinem Blut hin ist ein Burst zur Flächenkontrolle — ramme die Axt in den Boden, flute den Untergrund mit Blutwellen und fordere jeden heraus, hineinzutreten."
+          ],
+          "tips": [
+            {
+              "title": "Tausche bewusst Schaden",
+              "desc": "Heile nicht bei jedem Treffer panisch. Kontere nach Treffern, um Die Linie der Bluthände auszulösen, und bleib am Gegner."
+            },
+            {
+              "title": "Banne, dann snowball",
+              "desc": "Blutmonarchie heilt Feinde in deinem Bann und stärkt deinen Angriff. Nach erfolgreichem Blutsaugen drücke deinen Vorteil aus, statt zurückzustecken."
+            },
+            {
+              "title": "Schattenschritt ist Tempo",
+              "desc": "Nutze Schattenschritt, um einem Culling-Burst auszuweichen oder nach verschwendeter Ausdauer auf Distanz zu kommen — der Buff ist temporär, also handle schnell."
+            }
+          ],
+          "lore": [
+            "Jans Beiname ist kein Marketing. Die Linie der Bluthände und Blutmonarchie beschreiben einen Kämpfer, der Blut zugleich als Wunde und als Waffe behandelt — ein Thema, das FromSoftware so weit treibt, bis es zugleich romantisch und hässlich wird.",
+            "Die Axt, die „durstig“ ist, und der Zauberstein verorten ihn zwischen Metzelei und Ritual: ein Söldner der Dämmerung, der bereits weiß, dass das Erste Blut genommen wird — nicht gegeben."
           ]
         },
         {
@@ -702,6 +762,32 @@
               "name": "Tochter des Dunkelmonds",
               "desc": "Entfernte Feinde können dich nicht sehen und du wirst seltener ins Visier genommen."
             }
+          ],
+          "slug": "trang-lanh",
+          "role": "Hinterhalt / Kontrolle",
+          "tagline": "Dunkelmond-Tarnung, Silberschlangen und betörendes Blutsaugen — verschwinde, dann entscheide den Kampf.",
+          "difficulty": 4,
+          "playstyle": [
+            "Trang Lanh ist eine Informationskämpferin. Dunkelmond verbirgt dich für ein kurzes Fenster — genug, um Zielerfassung zu brechen, dich umzupositionieren oder mit einer geworfenen Vollmondklinge zu eröffnen. Mama Nātha ist eine Flächenbeschwörung, die ein Duell in Chaos verwandelt.",
+            "Die Betörung der Braut verwandelt jedes erfolgreiche Blutsaugen in weiche Crowd-Control. Tochter des Dunkelmonds macht dich auf Distanz schwer anvisierbar — so überlebst du Dritte in Acht-Spieler-Lobbies."
+          ],
+          "tips": [
+            {
+              "title": "Starte aus der Tarnung",
+              "desc": "Zeig dich nicht zuerst. Geh mit Dunkelmond rein, wirf die Klinge oder starte die Beschwörung und lass sie panisch aufeinander losgehen."
+            },
+            {
+              "title": "Blutsaugen in der Menge",
+              "desc": "Die Betörung der Braut bringt nahe Feinde beim Blutsaugen in deinen Bann — setze ein Ziel in einer Gruppe außer Gefecht und wende das ganze Gefecht."
+            },
+            {
+              "title": "Bleib am Rand der Sichtweite",
+              "desc": "Tochter des Dunkelmonds ist am stärksten, wenn du weit weg bist. Streife den Rand der Kämpfe, statt auf dem Ziel zu stehen."
+            }
+          ],
+          "lore": [
+            "Die Vollmondklinge und Mama Nātha — eine Silberschlange, Beschützerin der Ratnam — ziehen Trang Lanh eher ins Mythische als ins gotische Europa. Die Dämmerung der Menschheit besteht nicht nur aus viktorianischen Straßen; sie bewahrt noch ältere Götter und Wächter im Dunkeln.",
+            "Ihre Aspekte rahmen sie als Braut und Tochter des Dunkelmonds: eine romantische, gefährliche Lesart der Blutmacht, die zu Miyazakis erklärtem Interesse an „romantischem“ Blut statt purem Horror passt."
           ]
         },
         {
@@ -728,6 +814,32 @@
               "name": "Nachtauge",
               "desc": "Zielerfassung und Fokus sind aus größerer Entfernung möglich."
             }
+          ],
+          "slug": "sniper-layla",
+          "role": "Distanz-Pick / Späherin",
+          "tagline": "Insekten-Umpositionierungen, körperintegrierte Trommelwaffe und Nachtauge-Zielerfassung — kontrolliere die Sichtlinien.",
+          "difficulty": 3,
+          "playstyle": [
+            "Scharfschützin Layla beherrscht den langen Winkel. Nachtauge verlängert Zielerfassung und Beobachtungsbereich, und das Scharfschützengewehr bestraft jeden, der sich zwischen den Lowanro-Wahrzeichen gedankenlos bewegt.",
+            "Wenn der Kampf auf dich einbricht, verwandelt dich die Neb-ra-Flucht in einen Schwarm und hinterlässt ein verwirrendes Abbild. Das Verd-Trommelfeuer ist deine Panikoption auf kurze Distanz — oder ein brutaler Finisher, wenn du es aus erhöhter Position aufbaust."
+          ],
+          "tips": [
+            {
+              "title": "Spiel Höhe, nicht Ehre",
+              "desc": "Uhrtürme, Dächer und lange Straßen sind dein Kit. In einem engen Korridor spielst du das Spiel von jemand anderem."
+            },
+            {
+              "title": "Verschwinde zum Reset, nicht für den Stil",
+              "desc": "Die Neb-ra-Flucht ist Flucht- und Umpositionierungswerkzeug. Nutze das Abbild, um Schüsse zu provozieren, und peek erneut aus einem neuen Winkel."
+            },
+            {
+              "title": "Beachte die Pfahl-Ökonomie",
+              "desc": "Die Linie von Neb-ra regeneriert TP bis zur Hälfte, aber Goldblut-Pfahl heilt dich weniger. Plane nicht mit Burst-Heilung."
+            }
+          ],
+          "lore": [
+            "Sakrale Katare und ein Scharfschützengewehr sind ein bewusster Kontrast — Archiv und Schlachtfeld in einem Kit. Layla wirkt wie eine Gelehrten-Jägerin, deren Blutlinie (Neb-ra) insektenhaft und schwer zu fassen ist.",
+            "Nachtauge und die Schwarmform machen sie zu den besten „Augen“ des Rosters: In einem Spiel um Culling und Opportunismus ist Information eine Waffe, die so real ist wie das Gewehr."
           ]
         },
         {
@@ -754,6 +866,32 @@
               "name": "Unerschütterliches Schwert",
               "desc": "Nach einem perfekten Block erhöht sich deine Nahkampfangriffskraft."
             }
+          ],
+          "slug": "senator-samir-patres",
+          "role": "Technik / Anti-Carry",
+          "tagline": "Senatsrapier, Blutsümpfe und Dinosaurier-Stürme — outbuilde sie, dann rolle sie platt.",
+          "difficulty": 4,
+          "playstyle": [
+            "Senator Samir Patres ist ein technischer Kämpfer, der saubere Verteidigung belohnt. Unerschütterliches Schwert erhöht die Nahkampfangriffskraft nach einem perfekten Block — er bevorzugt strukturierte Duelle statt wilde Schlägereien.",
+            "Blutkultivierung senkt die benötigte Blutsbruder-Stufe — ein stiller Wirtschaftsvorteil, der früher online ist, als Gegner erwarten. Richtpfahl sperrt Raum; Saurifikation ist ein schockierender Engage, wenn sie denken, du fechterst weiter."
+          ],
+          "tips": [
+            {
+              "title": "Perfekter Block ist dein Schadens-Buff",
+              "desc": "Trainiere das Konterfenster nach dem Block. Unerschütterliches Schwert verwandelt Verteidigung in Angriff; spame kein Ausweichen, wenn du parieren kannst."
+            },
+            {
+              "title": "Nutze den Stufen-Vorteil",
+              "desc": "Blutkultivierung erlaubt dir, Blutsbruder-Künste früher freizuschalten. Priorisiere Freischaltungen, die sich verstärken (Haltung, Blutökonomie), statt bloßem Flair."
+            },
+            {
+              "title": "Richtpfahl, dann Sturm",
+              "desc": "Lege die Blutlache, um sie festzuhalten, und setze dann Saurifikation, wenn sie versuchen, drumherum zu kreisen."
+            }
+          ],
+          "lore": [
+            "Der Titel „Senator“ und das Rapier des Senats inszenieren ihn als politische Aristokratie — bis Saurifikation daran erinnert, dass die Dämmerung noch immer von monströsem Blut lebt, nicht von Reden.",
+            "Der Richtpfahl (ein wörtlicher Pfahl, der aus einer Blutlache aufsteigt) ist rituelle Gewalt mit rechtlichem Theater darum herum. Er ist eine starke Leseart des Spieltons: Ordnung, dann etwas Älteres und Hungrigeres."
           ]
         },
         {
@@ -780,9 +918,61 @@
               "name": "Schauerlicher Schall",
               "desc": "Ein Brüllen, das nicht mehr menschlich klingt. Halte [L]+[ZR] gedrückt, um das Brüllen zu verlängern."
             }
+          ],
+          "slug": "zork",
+          "role": "Aggressiver Tank / Störer",
+          "tagline": "Taucheranzug, Harpune, Raketen und gestohlene max. TP — sei das Problem, das sie nicht ignorieren können.",
+          "difficulty": 2,
+          "playstyle": [
+            "Zork ist eine Bedrohung in der vordersten Linie. Unterseekabel und Harpune sind ehrliche Werkzeuge, doch Raketenflug und Schwarmfeuer machen ihn zum besten Charakter, um Kämpfe zu erzwingen und Setups zu brechen.",
+            "Gesetz der Tiefsee stiehlt bei Blutsbruder-Kills max. TP — holst du dir einen Vorsprung, snowballst du. Schauerlicher Schall ist ein Brüllen, das du verlängern kannst, um zu unterbrechen und Haltung aufzubauen; nutze es, um die Combos anderer zu ruinieren."
+          ],
+          "tips": [
+            {
+              "title": "Töte, um zu wachsen",
+              "desc": "Gesetz der Tiefsee will Blutsbruder-Eliminierungen, nicht nur PvE. Jage Spieler, die durch das Culling des Grals bereits geschwächt sind."
+            },
+            {
+              "title": "Stirb nicht an deinem Opfer",
+              "desc": "Gestohlene TP gehen verloren, wenn der ausgeraubte Spieler dich erledigt. Nach einem Raub: reset oder sicherer spielen — Gier verspielt den Vorsprung."
+            },
+            {
+              "title": "Halte das Brüllen",
+              "desc": "Schauerlicher Schall ([L] + [ZR]) verlängert sich beim Halten. Nutze es, um angesagte Angriffe abzubrechen oder ein Duell in der Endphase zu überrollen."
+            }
+          ],
+          "lore": [
+            "Ein Taucheranzug, der Kanonen und Raketenpacks wachsen lässt, ist industrieller Körperror der Dämmerung in Reinform. Zork sieht aus wie Tiefsee-Bergung und liest sich wie ein Raubtier.",
+            "Gesetz der Tiefsee ist ein grausames Regelwerk: nimm ihre maximale Lebenskraft und verliere sie, wenn sie dir deine nehmen. Er ist aus gutem Grund der Meme-Favorit des Netzwerktests — und eine echte Snowball-Bedrohung unter den letzten Drei."
           ]
         }
       ]
+    },
+    "detail": {
+      "role": "Rolle",
+      "difficulty": "Schwierigkeit",
+      "playstyle": "Spielweise",
+      "tips": "Tipps",
+      "lore": "Hintergrund",
+      "weapons": "Waffen",
+      "bloodArts": "Blutkünste",
+      "powers": "Aspekte",
+      "backToRoster": "Alle Blutsbrüder",
+      "otherCharacters": "Andere Blutsbrüder",
+      "relatedNews": "Aus dem Newsroom",
+      "relatedGuides": "Verwandte Guides",
+      "ctaTitle": "Meistere die Kernsysteme",
+      "ctaDesc": "Lies den Gameplay-Guide zu Tugend, Phasen, Haltung und dem Haus der Nacht — und bring das Wissen dann auf diesen Blutsbruder zurück.",
+      "level": "Level",
+      "detailLead": "Waffen, Blutkünste, Aspekte, Spielweise und Tipps aus dem Build des Netzwerktests.",
+      "h1Suffix": "— Bloodsworn-Guide",
+      "keyFacts": "Auf einen Blick",
+      "faqTitle": "FAQ",
+      "faqHeading": "Häufige Fragen",
+      "faqRoleQ": "Welche Rolle hat {name} in The Duskbloods?",
+      "faqWeaponsQ": "Welche Waffen nutzt {name}?",
+      "faqArtsQ": "Welche Blood Arts und Aspekte hat {name}?",
+      "faqHowQ": "Wie spielt man {name}?"
     }
   },
   "networkTest": {
@@ -894,74 +1084,216 @@
     "intro": {
       "eyebrow": "FAQ",
       "title": "The Duskbloods — häufig gestellte Fragen",
-      "lead": "Kurze Antworten auf die häufigsten Fragen rund um Release, Plattformen, Mehrspieler-Modus und Netzwerktest."
+      "lead": "Gerade Antworten auf die Fragen, nach denen Spieler wirklich suchen: Release-Datum, Switch-2-Exklusivität, PvPvE, Einzelspieler, Online-Anforderungen und was der Netzwerktest uns gezeigt hat."
     },
     "groups": [
       {
-        "title": "Release und Plattformen",
+        "title": "Release-Datum & Plattformen",
         "items": [
           {
             "q": "Wann erscheint The Duskbloods?",
-            "a": "The Duskbloods soll 2026 für Nintendo Switch 2 erscheinen. Ein genaues Veröffentlichungsdatum wurde bislang nicht genannt."
+            "a": "The Duskbloods ist offiziell für 2026 auf Nintendo Switch 2 geplant. Stand Oktober 2026 wurde kein genaues Kalenderdatum angekündigt. Tracker, die den 31. Dezember 2026 listen, zeigen Placeholders, keine Bestätigungen."
           },
           {
-            "q": "Ist The Duskbloods nur auf der Switch 2 erhältlich?",
-            "a": "Ja. The Duskbloods wird von Nintendo veröffentlicht und ist ein Exklusivtitel für Nintendo Switch 2."
+            "q": "Gibt es The Duskbloods nur auf Nintendo Switch 2?",
+            "a": "Ja. The Duskbloods wird von Nintendo veröffentlicht und ist zum Launch exklusiv für Nintendo Switch 2. Andere Plattformen wurden nicht angekündigt."
           },
           {
-            "q": "Kommt The Duskbloods auch für PS5, Xbox oder PC?",
-            "a": "Es wurden keine Versionen für andere Plattformen angekündigt. Als Nintendo-exklusiver Titel dürfte The Duskbloods auf der Switch 2 bleiben."
+            "q": "Kommt The Duskbloods auf PS5, Xbox oder PC?",
+            "a": "Es gibt keine angekündigten Pläne für PS5, Xbox oder PC. Als Nintendo-published Exklusivtitel wird erwartet, dass das Spiel auf Nintendo Switch 2 bleibt."
+          },
+          {
+            "q": "Wird The Duskbloods auf 2027 verschoben?",
+            "a": "Offiziell nicht. Nintendo und FromSoftware listen weiterhin 2026. Ohne Datum im Oktober und einem vollen Feiertagskalender wird ein Rutsch auf 2027 breit diskutiert — angekündigt wurde er aber nicht."
+          },
+          {
+            "q": "Ist das Release-Datum 31. Dezember 2026 real?",
+            "a": "Unwahrscheinlich. Der 31. Dezember ist ein verbreiteter Jahresend-Placeholder in Spiele-Datenbanken, wenn nur das Release-Jahr bekannt ist. Nintendo hat kein Kalenderdatum bestätigt."
+          },
+          {
+            "q": "Wie viel wird The Duskbloods kosten?",
+            "a": "Ein Preis wurde nicht angekündigt. Details erwartet zusammen mit dem offiziellen Release-Datum und der Editions-Enthüllung."
+          },
+          {
+            "q": "Gibt es eine physische Version oder Deluxe-Edition?",
+            "a": "Bisher wurde keine Editions-Linie angekündigt — weder Standard-Physisch, noch Deluxe, noch Collector's. Diese Details fallen üblicherweise mit Datum und Vorbesteller-Seite."
+          },
+          {
+            "q": "Kann ich The Duskbloods schon vorbestellen?",
+            "a": "Nein. Vorbestellungen sind nicht offen. Behandelt jeden Vorbesteller-Link, der vor einer offiziellen Nintendo-/FromSoftware-Ankündigung auftaucht, als inoffiziell."
+          },
+          {
+            "q": "Wie groß ist die Datei- / Installationsgröße?",
+            "a": "Nicht angekündigt. Sie erscheint im Nintendo-eShop-Eintrag, sobald die Spiel-Seite live geht."
           }
         ]
       },
       {
-        "title": "Gameplay und Mehrspieler",
+        "title": "Gameplay & Multiplayer",
         "items": [
           {
-            "q": "Was bedeutet PvPvE bei The Duskbloods?",
-            "a": "PvPvE — also Spieler gegen Spieler gegen Umgebung — bedeutet, dass jede Partie direkten Wettbewerb unter Spielern und Kämpfe gegen mächtige Feinde gleichzeitig verbindet."
+            "q": "Was bedeutet PvPvE in The Duskbloods?",
+            "a": "PvPvE steht für Spieler gegen Spieler gegen Umgebung. In jedem Match trittst du gegen andere Bloodsworn an und kämpfst zugleich gegen starke KI-Gegner — ein Dreikampf aus Rivalität, Opportunismus und Überleben."
           },
           {
-            "q": "Wie viele Spieler können gleichzeitig spielen?",
-            "a": "In einer Partie treten bis zu acht Spieler gegeneinander an."
+            "q": "Wie viele Spieler können zusammen spielen?",
+            "a": "Bis zu acht Bloodsworn treten in einem einzelnen Dusk-Battle-Match an. Das Match läuft über vier Phasen, bis nur noch drei Finalisten für das Blood Bestowal übrig sind."
           },
           {
-            "q": "Kann ich The Duskbloods alleine spielen?",
-            "a": "Ja. Auch wenn der Fokus auf dem 8-Spieler-Mehrspieler-Modus liegt, verfügt The Duskbloods über einen Einzelspieler-Modus für Solo-Spieler."
+            "q": "Kann ich The Duskbloods im Einzelspieler spielen?",
+            "a": "Ja. Auch wenn Multiplayer der Kern ist, enthält The Duskbloods einen Einzelspieler-Modus, in dem du die Systeme ohne volle Lobby erleben kannst."
           },
           {
-            "q": "Gibt es Crossplay?",
-            "a": "Da The Duskbloods exklusiv für Nintendo Switch 2 ist, fällt Crossplay mit anderen Plattformen weg. Der Mehrspieler-Modus läuft ausschließlich zwischen Switch-2-Spielern."
+            "q": "Hat The Duskbloods Crossplay?",
+            "a": "Crossplay mit anderen Plattformen greift nicht — das Spiel ist exklusiv für Nintendo Switch 2. Multiplayer läuft unter Switch-2-Spielern."
+          },
+          {
+            "q": "Ist The Duskbloods wie Elden Ring Nightreign?",
+            "a": "Sie teilen FromSoftware-DNA und eine multiplayer-orientierte Struktur, aber The Duskbloods ist ein eigenes PvPvE-Design: 8-Spieler-Matches, Virtue-Culling über Phasen, Bloodsworn-Builds und ein Switch-2-Exklusivformat unter Miyazakis Regie."
+          },
+          {
+            "q": "Was ist Virtue?",
+            "a": "Virtue ist die Macht, die du während eines Dusk Battle ansammelt. Du bunkerst sie durch Kämpfen, Erkunden und Abschließen von Zielen. Der Grail cullt Bloodsworn mit zu wenig Virtue in jeder Phase — nur die Top-Drei erreichen das finale Blood Bestowal."
+          },
+          {
+            "q": "Was sind Powers of Blood?",
+            "a": "Besonderes Blut verleiht Fähigkeiten jenseits menschlicher Grenzen. Bis zu fünf Powers of Blood können gleichzeitig manifestiert und im Menü getauscht werden. Sie definieren einen Großteil des Spielstils jedes Bloodsworn."
+          },
+          {
+            "q": "Gibt es skillbasiertes Matchmaking?",
+            "a": "Ja. In einem IGN-Interview bestätigte Regisseur Hidetaka Miyazaki einen gestuften, rankartigen Matchmaking-Ansatz — neue Spieler sollten auf andere Newcomer treffen statt auf Veteranen."
+          },
+          {
+            "q": "Kann ich Bündnisse mit anderen Spielern eingehen?",
+            "a": "Ja. Du kannst rivalisierende Bloodsworn um ein Bündnis bitten, und Sigils schaffen besondere Beziehungsziele. Der Netzwerktest bot zudem einen Bloodbound-Alliances-Modus, in dem Paare bis in die finale Phase verbunden bleiben."
           }
         ]
       },
       {
-        "title": "Entwicklung",
+        "title": "Bloodsworn, Kin & Welt",
         "items": [
           {
-            "q": "Wer führt bei The Duskbloods Regie?",
-            "a": "Bei The Duskbloods führt Hidetaka Miyazaki Regie — Präsident von FromSoftware und Director von Elden Ring sowie der Dark-Souls-Reihe."
+            "q": "Wer sind die Bloodsworn?",
+            "a": "Die spielbaren Charaktere. Es sind Menschen, die durch besonderes Blut übermenschliche Macht gewonnen haben — bewusste Kämpfer mit eigener Identität, Waffen, Fähigkeiten und einer anpassbaren Blutgeschichte."
           },
           {
-            "q": "Wer entwickelt und veröffentlicht The Duskbloods?",
-            "a": "The Duskbloods wird von FromSoftware entwickelt und von Nintendo veröffentlicht."
+            "q": "Wie viele spielbare Charaktere gibt es?",
+            "a": "Offizielles Material spricht von mehr als einem Dutzend Bloodsworn. Ein vollständiges Roster wurde noch nicht veröffentlicht; weitere Enthüllungen werden näher am Launch erwartet."
           },
           {
-            "q": "Was sind die Bloodsworn?",
-            "a": "Die Bloodsworn sind die spielbaren Charaktere — Menschen, die durch besonderes Blut übermenschliche Kräfte erlangt haben. Mehr als ein Dutzend steht zur Verfügung, jeder mit eigenen Waffen, Fähigkeiten und einer individuell gestaltbaren Blutgeschichte."
+            "q": "Was ist eine Blutgeschichte?",
+            "a": "Ein anpassbares narrative Element, das den Weg und das Schicksal deines Bloodsworn über ein Match prägt. Es lässt jedem Run Raum für persönlichen Build und Story-Ausdruck."
+          },
+          {
+            "q": "Was sind Kin und Compacts?",
+            "a": "Wer eine Vereinbarung mit dem Order of Dusk eingeht, gilt als kin. Compacts mit Kin gewähren Kräfte und Fortschritt (inklusive Kin EXP), die deinen Bloodsworn im Kampf stärken."
+          },
+          {
+            "q": "Was ist das First Blood?",
+            "a": "Eine mysteriöse Macht, um die die Bloodsworn im Twilight of Humanity konkurrieren. Ihre Verfolgung ist der Motor jedes Matches und des größeren Konflikts des Spiels."
+          },
+          {
+            "q": "Wo spielt das Spiel?",
+            "a": "In den Lands of Dusk während des Twilight of Humanity — eine dunkle, romantische Welt von gotischen viktorianischen Straßen hin zu einem industriellen modernen Zeitalter. Der Netzwerktest spielte Matches in Lowanro City."
+          },
+          {
+            "q": "Wer führt Regie bei The Duskbloods?",
+            "a": "Hidetaka Miyazaki, Präsident von FromSoftware und Regisseur von Elden Ring und der Dark-Souls-Reihe. Das Spiel wird von FromSoftware entwickelt und von Nintendo veröffentlicht."
           }
         ]
       },
       {
-        "title": "Netzwerktest",
+        "title": "Netzwerktest & Online",
         "items": [
           {
-            "q": "Wie nehme ich am Netzwerktest teil?",
-            "a": "Die Anmeldung lief über die offizielle Website; die Ergebnisse wurden den ausgewählten Spielern mitgeteilt. Der Test findet auf Nintendo Switch 2 in geplanten Zeitfenstern statt."
+            "q": "Gab es einen Netzwerktest?",
+            "a": "Ja. Ein geschlossener Netzwerktest lief vom 21. bis 24. August 2026 über mehrere Sessions. Bewerbungen liefen vom 22. bis 28. Juli, ausgewählte Spieler wurden am 7. August benachrichtigt."
           },
           {
-            "q": "Ist der Netzwerktest kostenlos?",
-            "a": "Die Teilnahme am geschlossenen Netzwerktest ist für ausgewählte Spieler mit einer Nintendo-Switch-2-Konsole kostenlos."
+            "q": "Brauche ich Nintendo Switch Online zum Spielen?",
+            "a": "Der geschlossene Netzwerktest verlangte eine Nintendo-Switch-Online-Mitgliedschaft. Erwarte, dass Online-Multiplayer im Vollspiel sie ebenfalls braucht; finale Anforderungen werden zum Launch bestätigt."
+          },
+          {
+            "q": "Wird es einen weiteren Beta- oder Netzwerktest geben?",
+            "a": "Nach dem August-Test wurde nichts angekündigt. Wenn ein zweiter Test oder eine Open Beta geplant ist, erscheint sie zuerst auf offiziellen Nintendo-/FromSoftware-Kanälen."
+          },
+          {
+            "q": "Wie lief der Netzwerktest?",
+            "a": "Das Kern-Gameplay überzeugte: PvPvE-Kämpfe, Virtue-Culling und Bloodsworn-Fähigkeiten kamen gut an. Frühe Sessions stürzten unter Ansturm ab und PvP hatte Lag, aber FromSoftware patchte mitten im Test, und spätere Sessions waren stabiler."
+          },
+          {
+            "q": "Wird der Fortschritt ins Vollspiel übernommen?",
+            "a": "Zähle nicht darauf. Netzwerktest-Fortschritt wird fast nie in Release-Builds übernommen. Offizielle Übernahme-Regeln wurden nicht veröffentlicht."
+          },
+          {
+            "q": "Was ist die House of Night?",
+            "a": "Die Basis der Bloodsworn. Dort wählst du Charaktere, absolvierst Tutorials und Lektionen, siehst Records (Waffen, Kin, Items, Powers of Blood, Events), übst am Graveyard Scarecrow und konfigurierst das Matchmaking."
+          }
+        ]
+      },
+      {
+        "title": "Kauf & Hardware",
+        "items": [
+          {
+            "q": "Was brauche ich, um The Duskbloods zu spielen?",
+            "a": "Eine Nintendo-Switch-2-Konsole. Für Multiplayer solltest du zusätzlich eine Nintendo-Switch-Online-Mitgliedschaft einplanen — basierend auf den Anforderungen des Netzwerktests."
+          },
+          {
+            "q": "Ist The Duskbloods etwas für Anfänger?",
+            "a": "Es ist einsteigerfreundlich, und Miyazaki sagte, das Matchmaking trenne neue Spieler von Veteranen. Die House of Night bietet Tutorials und Übung. Hinter den Grundlagen erwartet eine steile Meisterungs-Kurve."
+          },
+          {
+            "q": "Wird es eine Demo geben?",
+            "a": "Eine öffentliche Demo wurde nicht angekündigt. Der geschlossene Netzwerktest war bisher die einzige Hands-on-Gelegenheit."
+          },
+          {
+            "q": "Steht The Duskbloods in Verbindung zu Bloodborne?",
+            "a": "Nein. Es ist eine Original-IP. Der dunkle gotische Ton lädt zu Vergleichen ein, aber The Duskbloods ist weder eine Bloodborne-Fortsetzung noch ein Spin-off."
+          },
+          {
+            "q": "Ist das eine offizielle FromSoftware- oder Nintendo-Seite?",
+            "a": "Nein. Dies ist eine inoffizielle Fan-Informationsseite und weder mit FromSoftware oder Nintendo verbunden noch von ihnen unterstützt. Bestätige Release-Details immer auf offiziellen Kanälen."
+          },
+          {
+            "q": "Hat The Duskbloods Cross-Save?",
+            "a": "Nichts wurde angekündigt. Das Spiel ist zum Launch Switch-2-exklusiv, Cross-Save mit anderen Ökosystemen greift also nicht — es sei denn, Nintendo kündigt Details zu Cloud-Saves an."
+          },
+          {
+            "q": "Ist The Duskbloods ein Live-Service-Spiel?",
+            "a": "Es gibt keine angekündigten saisonalen Battle-Pass-Pläne. Es ist ein Premium-Multiplayer-Actionspiel von FromSoftware und Nintendo. Post-Launch-Updates und Balance-Patches sind möglich, aber noch nicht detailliert."
+          },
+          {
+            "q": "Wie lange dauert ein typisches Match?",
+            "a": "Der Netzwerktest strukturierte Kämpfe über vier Phasen des Culling bis zu drei Finalisten. Exakte Minutenangaben wurden nicht veröffentlicht — erwartet sessionbasierte Matches statt stundenlanger Raids."
+          },
+          {
+            "q": "Wo kann ich The Duskbloods-Gameplay ansehen?",
+            "a": "Offizielle Trailer und Netzwerktest-Material laufen auf den Nintendo- und FromSoftware-Kanälen. Unsere Galerie und Redaktion analysieren, was das Material zeigt."
+          }
+        ]
+      },
+      {
+        "title": "Hardware & Anforderungen",
+        "items": [
+          {
+            "q": "Was brauche ich, um The Duskbloods zu spielen?",
+            "a": "Eine Nintendo-Switch-2-Konsole. Für Online-Multiplayer solltest du zusätzlich eine Nintendo-Switch-Online-Mitgliedschaft einplanen, basierend auf den Anforderungen des Netzwerktests. Ein Nintendo-Konto ist für den eShop und Online-Spiel erforderlich."
+          },
+          {
+            "q": "Gibt es The Duskbloods für PC, PS5 oder Xbox?",
+            "a": "Nein. Es ist ein Nintendo-Switch-2-Exklusivtitel. Es gibt keine PC-Version und damit auch keine PC-Minimum- oder Empfehlungs-Specs."
+          },
+          {
+            "q": "Kann ich ohne Nintendo Switch Online spielen?",
+            "a": "Singleplayer ist verfügbar. Online-Multiplayer — die Dusk Battle mit acht Spielern im Kern — soll Nintendo Switch Online erfordern, wie der geschlossene Netzwerktest."
+          },
+          {
+            "q": "Wie viel Speicherplatz brauche ich?",
+            "a": "Die Installationsgröße ist noch nicht angekündigt. Sie erscheint in der Nintendo-eShop-Listung. Plane Puffer über die Basis-Installation hinaus für Day-One-Patches ein."
+          },
+          {
+            "q": "Funktioniert es im Handheld-Modus?",
+            "a": "Ja. Wie andere Switch-2-Titel unterstützt es TV-, Tisch- und Handheld-Spiel. Kompetitiver Multiplayer ist auf einem größeren Bildschirm möglicherweise leichter zu lesen."
           }
         ]
       }
@@ -1020,16 +1352,21 @@
   "releaseDate": {
     "intro": {
       "eyebrow": "Veröffentlichungsdatum",
-      "title": "Veröffentlichungsdatum von The Duskbloods",
-      "lead": "The Duskbloods soll 2026 als Exklusivtitel für Nintendo Switch 2 erscheinen. Hier ist alles, was wir zum Launch wissen."
+      "title": "The Duskbloods Release-Datum — Alles, was wir wissen (Oktober 2026)",
+      "lead": "The Duskbloods ist offiziell nach wie vor ein Nintendo-Switch-2-Exklusivtitel für 2026 — aber ein Kalenderdatum gibt es weiterhin nicht. Diese Seite trackt jedes bestätigte Detail, jedes glaubwürdige Gerücht und wie das verbleibende Launch-Fenster Stand Oktober 2026 tatsächlich aussieht.",
+      "updatedAt": "Zuletzt aktualisiert: 11. Oktober 2026"
     },
     "facts": {
       "eyebrow": "Auf einen Blick",
-      "title": "Kerndaten",
+      "title": "Die wichtigsten Fakten",
       "items": [
         {
+          "label": "Genaues Release-Datum",
+          "value": "Nicht angekündigt"
+        },
+        {
           "label": "Release-Zeitraum",
-          "value": "2026"
+          "value": "2026 (in Überprüfung)"
         },
         {
           "label": "Plattform",
@@ -1040,11 +1377,11 @@
           "value": "FromSoftware"
         },
         {
-          "label": "Verlag",
+          "label": "Publisher",
           "value": "Nintendo"
         },
         {
-          "label": "Regisseur",
+          "label": "Regie",
           "value": "Hidetaka Miyazaki"
         },
         {
@@ -1057,18 +1394,213 @@
         }
       ]
     },
+    "status": {
+      "eyebrow": "Bestätigt vs. Gerüchte",
+      "title": "Was wirklich offiziell ist",
+      "lead": "Trennen wir Marketing-Lärm von Fakten. Bestätigte Punkte stammen von Nintendo, FromSoftware oder Kadokawa. Die rechte Spalte sind Tracker, Presse-Prognosen oder Community-Spekulation — nützliches Signal, aber kein Release-Datum.",
+      "confirmedLabel": "Bestätigt",
+      "unconfirmedLabel": "Nicht bestätigt",
+      "confirmed": [
+        {
+          "title": "Release-Fenster 2026",
+          "desc": "Nintendo und Kadokawa haben The Duskbloods wiederholt als 2026er Titel gelistet. Dieses Fenster wurde offiziell nicht geändert — auch wenn es langsam eng wird."
+        },
+        {
+          "title": "Nintendo-Switch-2-Exklusivtitel",
+          "desc": "The Duskbloods wird von Nintendo veröffentlicht und ist exklusiv für Nintendo Switch 2. Eine PS5-, Xbox- oder PC-Version wurde nicht angekündigt."
+        },
+        {
+          "title": "FromSoftware × Nintendo",
+          "desc": "Entwickelt von FromSoftware, Regie: Hidetaka Miyazaki. Veröffentlicht von Nintendo — das erste große Konsolen-Exklusivspiel des Studios seit über zwanzig Jahren."
+        },
+        {
+          "title": "Geschlossener Netzwerktest abgeschlossen",
+          "desc": "Ein geschlossener Netzwerktest mit mehreren Sessions lief vom 21. bis 24. August 2026. Die Server kämpften anfangs, spätere Sessions stabilisierten sich, und das Kern-Gameplay kam gut an."
+        },
+        {
+          "title": "Mehr als ein Dutzend Bloodsworn",
+          "desc": "Offizielles Material verspricht ein Roster von mehr als einem Dutzend spielbaren Bloodsworn, jeweils mit eigenen Waffen, Fähigkeiten und einer anpassbaren Blutgeschichte."
+        }
+      ],
+      "unconfirmed": [
+        {
+          "title": "31. Dezember 2026 in Trackern",
+          "desc": "Die IGN-Spielseite und mehrere Datenbanken listen inzwischen den 31. Dezember 2026. Das ist mit ziemlicher Sicherheit ein Jahresend-Placeholder — Nintendo hat ihn nicht bestätigt."
+        },
+        {
+          "title": "Prognose auf den 3. Dezember 2026",
+          "desc": "IGNs Logan Plant sagte einen Launch am 3. Dezember voraus, gestützt auf Nintendos monatliches First-Party-Release-Muster. Es bleibt Analyse, keine Ankündigung."
+        },
+        {
+          "title": "Ein Rutsch auf 2027",
+          "desc": "Ohne Datum im Oktober und mit GTA 6 im November ist ein Rutsch auf 2027 ein verbreitetes Community-Szenario. Weder Nintendo noch FromSoftware haben eine Verzögerung angekündigt."
+        },
+        {
+          "title": "Physische, Deluxe- oder Collector's Editions",
+          "desc": "Keine Editions-Linie, keine Preise und keine Vorbesteller-Boni wurden angekündigt. Details erwartet im selben Beat, der das Datum verrät."
+        },
+        {
+          "title": "Preis und Dateigröße",
+          "desc": "Weiterhin nicht angekündigt. Switch-2-First-Party-Titel landen typisch in einem vertrauten Premium-Band, aber offiziell ist noch nichts aktenkundig."
+        }
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Zeitachse",
+      "title": "Wie wir hierher gekommen sind",
+      "items": [
+        {
+          "date": "April 2025",
+          "title": "The Duskbloods wird enthüllt",
+          "desc": "Angekündigt als Nintendo-Switch-2-Exklusivtitel von FromSoftware, Regie: Hidetaka Miyazaki. Der Reveal-Trailer stellte die Bloodsworn, das First Blood und das Twilight of Humanity-Setting vor."
+        },
+        {
+          "date": "22.–28. Juli 2026",
+          "title": "Bewerbungen für den Netzwerktest öffnen",
+          "desc": "Die Registrierung für den geschlossenen Netzwerktest lief über die offizielle Website und erforderte Nintendo Switch Online. Bewerbungen endeten Ende Juli."
+        },
+        {
+          "date": "7. August 2026",
+          "title": "Tester ausgewählt",
+          "desc": "Ausgewählte Spieler wurden benachrichtigt. Die Nachfrage soll die Erwartungen übertroffen haben — frühe Vergleiche zum Test-Traffic von Elden Ring Nightreign fielen zugunsten von The Duskbloods aus."
+        },
+        {
+          "date": "21.–24. August 2026",
+          "title": "Geschlossener Netzwerktest",
+          "desc": "Fünf Sessions an vier Tagen. Session eins stürzte unter Last ab, PvP zeigte Latenzprobleme, und FromSoftware patchte mitten im Test. Spätere Sessions stabilisierten sich. Das Virtue-System und die PvPvE-Schleife überzeugten die meisten Spieler."
+        },
+        {
+          "date": "25. August 2026",
+          "title": "24.-September-Datum dementiert",
+          "desc": "Ein Preview-Artikel verbreitete ein Launch-Datum am 24. September 2026. Nintendo dementierte. Die einzige solide Linie blieb: 2026, genaues Datum TBA."
+        },
+        {
+          "date": "9.–10. September 2026",
+          "title": "Nintendo Direct — Fehlanzeige",
+          "desc": "The Duskbloods blieb dem September-Direct komplett fern: kein Trailer, kein Datum. Switch-2-Besitzer wurden mit anderen Titeln versorgt; dieses Spiel blieb stumm."
+        },
+        {
+          "date": "Ende September 2026",
+          "title": "Tracker füllen den 31. Dezember ein",
+          "desc": "IGN und andere Datenbanken begannen, den 31. Dezember 2026 zu listen. Erstes konkretes Datum auf dem Papier — weiterhin nicht offiziell."
+        },
+        {
+          "date": "Oktober 2026",
+          "title": "Kein Datum. Delay-Gerede wächst",
+          "desc": "Unter drei Monate im Jahr, GTA 6 dominiert den November, und das Marketing-Fenster von Ankündigung bis Launch ist fast aufgebraucht. 2026 ist weiterhin die offizielle Linie; 2027 ist kein Hot Take mehr."
+        }
+      ]
+    },
     "expect": {
       "eyebrow": "Was wir wissen",
-      "title": "Zum Launch",
+      "title": "Über den Launch",
       "paragraphs": [
-        "The Duskbloods wurde während einer Nintendo-Switch-2-Präsentation enthüllt und ist für 2026 geplant. FromSoftware und Nintendo haben noch kein genaues Datum genannt.",
-        "Als Switch-2-Exklusivtitel wird das Spiel nur auf Nintendos neuer Konsolengeneration erscheinen — nicht für PS5, Xbox oder PC zum Launch.",
-        "Unter der Regie von Hidetaka Miyazaki (Schöpfer von Elden Ring und der Dark-Souls-Reihe) ist The Duskbloods ein PvPvE-Mehrspieler-Actionspiel, in dem Spieler die Rolle der Bloodsworn übernehmen — Krieger, die in der Dämmerung der Menschheit um das Erste Blut kämpfen."
+        "The Duskbloods wurde während einer Nintendo-Switch-2-Präsentation enthüllt und ist für eine Veröffentlichung 2026 geplant. Stand 11. Oktober 2026 haben FromSoftware und Nintendo weiterhin kein genaues Kalenderdatum angekündigt. Das ist die wichtigste Erkenntnis dieser Seite — alles andere ist Kontext drumherum.",
+        "Als Switch-2-Exklusivtitel ist das Spiel nur auf Nintendos aktueller Konsole erhältlich. Kein Launch auf PS5, Xbox oder PC. Multiplayer ist auf Switch-2-Spieler ausgelegt, und der Netzwerktest verlangte eine Nintendo-Switch-Online-Mitgliedschaft.",
+        "Unter der Regie von Hidetaka Miyazaki (Schöpfer von Elden Ring und der Dark-Souls-Reihe) ist The Duskbloods ein PvPvE-Multiplayer-Actionspiel. Spieler übernehmen die Rolle der Bloodsworn — Krieger, die Kraft aus besonderem Blut ziehen und sich im Twilight of Humanity um das First Blood bekämpfen. Matches unterstützen bis zu acht Spieler; außerdem gibt es einen Einzelspieler-Modus.",
+        "Der August-Netzwerktest bewies, dass die Kernschleife funktioniert: Acht Bloodsworn betreten die Lands of Dusk, bunkern Virtue, überstehen das Culling des Grail über vier Phasen und kämpfen bis zu einem Final-Dreier. Er zeigte auch realen Server- und Netcode-Arbeitsaufwand vor dem Launch — genau dafür ist ein Netzwerktest da.",
+        "Für Käufer bedeutet das zwei praktische Dinge. Erstens: Wenn das Datum fällt, erwarte für Online-Multiplayer eine Nintendo-Switch-Online-Mitgliedschaft — der Test verlangte bereits eine. Zweitens: Vertraue keiner Vorbesteller-Seite, keinem Preisschild und keinem Kalenderdatum, das nicht auf einem offiziellen Nintendo- oder FromSoftware-Kanal erscheint. Placeholders und Fake-Launch-Tage kursierten im kurzen öffentlichen Leben dieses Spiels bereits zweimal."
+      ]
+    },
+    "window": {
+      "eyebrow": "Launch-Fenster",
+      "title": "Kann es 2026 noch schaffen?",
+      "paragraphs": [
+        "Technisch ja — und offiziell ist 2026 weiterhin die Linie. Wenn das Spiel dieses Jahr erscheint, sind die realistischen Restfenster Ende November (unwahrscheinlich gegen GTA 6) oder Dezember. Ein Mid-Week-Drop um den 3. Dezember oder ein Datum Mitte bis Ende Dezember sind die Muster, auf die Fans und Presse immer wieder zeigen.",
+        "In der Praxis ist der Kalender gnadenlos. Ein globaler Multiplayer-Launch braucht einen Marketing-Beat: Datums-Ankündigung, Vorbestellungen, vielleicht noch ein Trailer, Preload, dann Launch. Das in wenige Wochen zu quetschen ist möglich, aber eng. Wenn Oktober und November ohne Datum verstreichen, wird eine 2027-Ankündigung zur rationalen Erwartung statt zu Pessimismus.",
+        "Was es schnell klären würde: ein Nintendo Direct / Direct Partner Showcase mit The Duskbloods, fixiertem Datum und Vorbestell-Termin. Beobachte Nintendos offizielle Kanäle und diese Seite — wir aktualisieren, sobald etwas bestätigt ist."
+      ]
+    },
+    "editions": {
+      "eyebrow": "Editions & Kauf",
+      "title": "Wo und wie kaufen",
+      "lead": "Nichts davon ist bisher im Handel. Dieser Abschnitt ist die Checkliste, die wir füllen, sobald Nintendo Datum, Preis und Editions ankündigt.",
+      "items": [
+        {
+          "label": "Plattform",
+          "value": "Nur Nintendo Switch 2"
+        },
+        {
+          "label": "Digital",
+          "value": "Nintendo eShop — zum Launch erwartet"
+        },
+        {
+          "label": "Physisch",
+          "value": "TBA — nicht angekündigt"
+        },
+        {
+          "label": "Preis",
+          "value": "Nicht angekündigt"
+        },
+        {
+          "label": "Vorbestellung",
+          "value": "Nicht offen"
+        },
+        {
+          "label": "Nintendo Switch Online",
+          "value": "Für Multiplayer erforderlich (laut Netzwerktest)"
+        },
+        {
+          "label": "Dateigröße",
+          "value": "TBA"
+        },
+        {
+          "label": "Sprachen",
+          "value": "Mehrere — vollständige Liste TBA"
+        }
+      ]
+    },
+    "watch": {
+      "eyebrow": "Worauf achten",
+      "title": "Wo das genaue Datum fällt",
+      "items": [
+        {
+          "title": "Nintendo Direct / Partner Showcase",
+          "desc": "Die wahrscheinlichste Bühne für eine Datums-Enthüllung. Wenn The Duskbloods in einem Direct auftaucht, erwartet Release-Datum und Vorbestellungen im selben Segment."
+        },
+        {
+          "title": "FromSoftware- & Nintendo-Social-Kanäle",
+          "desc": "Twitter/X und offizielle News-Posts tragen die Bestätigung am selben Tag. Behandelt jedes Datum, das nicht auf einem offiziellen Kanal erscheint, als inoffiziell."
+        },
+        {
+          "title": "Kadokawa-Finanzberichte",
+          "desc": "FromSoftwares Mutterkonzern hat das 2026er Fenster in Investorenmaterialien bereits bestätigt. Der nächste Bericht ist ein nützlicher, wenn auch trockener Checkpoint."
+        },
+        {
+          "title": "Diese Seite",
+          "desc": "Wir überarbeiten Zeitachse und die Tabellen bestätigt / nicht bestätigt, sobald sich Fakten ändern. Lesezeichen setzen statt Tracker zu refreshen."
+        }
+      ]
+    },
+    "related": {
+      "eyebrow": "Aus der Redaktion",
+      "title": "Deep Dives hinter dieser Seite",
+      "items": [
+        {
+          "href": "/latest/duskbloods-october-2026-delay-risk",
+          "title": "Oktober-2026-Delay-Risiko, erklärt",
+          "desc": "Warum 2026 jede Woche schwieriger wird — und warum die Netzwerktest-Zahlen in beide Richtungen schneiden."
+        },
+        {
+          "href": "/latest/duskbloods-release-date-december-31-2026-trackers",
+          "title": "Tracker zeigen inzwischen auf den 31. Dezember",
+          "desc": "Was sich bei IGN und anderen Datenbanken tatsächlich geändert hat und warum der 31. Dez. vermutlich ein Placeholder ist."
+        },
+        {
+          "href": "/latest/duskbloods-september-direct-no-show",
+          "title": "September-Direct-Rückblick",
+          "desc": "The Duskbloods blieb der Show komplett fern. Weiterhin 2026. Weiterhin kein Datum."
+        },
+        {
+          "href": "/latest/duskbloods-release-date-september24-denied",
+          "title": "24. September? Nintendo sagt nein",
+          "desc": "Wie ein einzelner Preview-Artikel einen Fake-Launch-Tag erzeugte — und das offizielle Dementi."
+        }
       ]
     },
     "cta": {
       "title": "Lesezeichen setzen für das genaue Datum",
-      "desc": "Wir aktualisieren diese Seite, sobald FromSoftware und Nintendo das genaue Release-Datum, den Preload-Zeitplan und weitere Launch-Details bekanntgeben."
+      "desc": "Wir aktualisieren Zeitachse und die bestätigte Tabelle, sobald FromSoftware und Nintendo das Release-Datum, den Preload-Zeitplan und die Launch-Details ankündigen."
     }
   },
   "gallery": {
@@ -1089,6 +1621,101 @@
     },
     "lightbox": {
       "alt": "The Duskbloods Bildschirmfoto {n}"
+    },
+    "featured": {
+      "eyebrow": "AUSGEWÄHLTE ANALYSE",
+      "title": "Screenshot-Analysen — was diese Bilder wirklich zeigen",
+      "lead": "Zwölf offizielle Stills, sortiert in drei nicht überlappende Lesarten: Wer die Blutgeweihten sind, wie Kämpfe wirklich aussehen und wie die Welt Gefahr signalisiert. Jede Notiz startet am Bild und führt zurück ins Match.",
+      "sourceNote": "Die Bilder sind offizielle Screenshots © FromSoftware / Nintendo. Die Analyse ist unabhängig und inoffiziell.",
+      "h2A": "Blutgeweihte & Blutkünste",
+      "h2B": "Kampf, Kreaturen & Blutkünste",
+      "h2C": "Welt, Routen & Omen",
+      "items": [
+        {
+          "group": "a",
+          "n": 1,
+          "title": "Der Archivsaal — der Jäger vor der Jagd",
+          "desc": "Ein silberhaariger Kämpfer geht durch eine gewölbte gotische Bibliothek: Eisengitter, Lesepulte, Bücherwand. Ruhiges Interieur, aristokratische Schneiderei — das Haus der Nacht als Studie und Lager. Man liest Blutgeweihte an der Silhouette, lange vor ihren Blutkünsten.",
+          "keyword": "Blutgeweihter Archiv Haus der Nacht Kostüm"
+        },
+        {
+          "group": "a",
+          "n": 4,
+          "title": "Gewehr und Sabel — ein Zwei-Mann-Setup",
+          "desc": "Einer stützt eine lange Waffe am Grat; die andere hockt mit Säbeln, Berge und ein blauer Fleckhimmel dahinter. Es geht ums Paar: Druck aus der Distanz plus Nahbedrohung. Wenn das Lobby voll ist, haben Silhouetten die Rollen schon geteilt.",
+          "keyword": "Blutgeweihte Duo Gewehr Säbel Rollen"
+        },
+        {
+          "group": "a",
+          "n": 14,
+          "title": "Porträtstudie — Kostüm als Build-Hinweis",
+          "desc": "Nahaufnahme desselben Silberhaarigen: Juwelen-Harness, weite Manschetten, Haar über dem Auge. Hier ist Kostüm Information — Haus, Linie, die Blutkunst, die man respektiert. Sobald eine Silhouette im Bild ist, liest du ihr Kit.",
+          "keyword": "Blutgeweihter Porträt Kostümdesign"
+        },
+        {
+          "group": "a",
+          "n": 22,
+          "title": "Zork am überfluteten Schrein",
+          "desc": "Der Taucheranzug-Kämpfer sitzt in schwarzem Wasser neben einer blassen Moos-Statue — Sumpflicht, tote Bäume, Torbogen. Vignetten, die Compact und Kin flüstern, ohne Tutorial. Langsames Bild in einem schnellen Spiel.",
+          "keyword": "Zork Sumpf Statue Compact Schrein"
+        },
+        {
+          "group": "b",
+          "n": 2,
+          "title": "Chaos auf dem Uhrturmplatz",
+          "desc": "Ein Umhang feuert, eine Frau leitet einen blauen Strahl, ein Riese stemmt sich — links hängen Körper an Spitzen. PvPvE in einem Bild: Spieler, Umwelt, Stadt als Zeuge. Kein höfliches Duell: Distanz ist der Kampf.",
+          "keyword": "PvPvE Uhrturm Chaos Lowanro"
+        },
+        {
+          "group": "b",
+          "n": 5,
+          "title": "Treppenhaus-Kröte — PvE-Druck auf der Route",
+          "desc": "Ein Katana und ein Jäger im Kegelhut klemmen eine aufgeblähte rotäugige Kröte. Lesbares Maul, Nadelöhr, zwei Winkel — FromSoftware-PvP-Geometrie. Und Ressourcen-Knoten: Tugend, Blut, ungebetener Dritter.",
+          "keyword": "PvE Kröte Monster Treppe Koop"
+        },
+        {
+          "group": "b",
+          "n": 20,
+          "title": "Feueraxt-Kunst im Kirchenduell",
+          "desc": "Eine massive Axt wird geschleppt, während eine Flamme einen anderen Blutgeweihten mitten in der Ausweichung trifft. Blutkünste sind absichtlich laut — sieht man den Körper durch die VFX? Lesbarkeit für acht startet hier.",
+          "keyword": "Blutkünste Feuer Duell PvP Kirche"
+        },
+        {
+          "group": "b",
+          "n": 28,
+          "title": "Fackel-Kultisten und Hunde",
+          "desc": "Kapuzenfiguren mit Fackeln und Knüppeln, Wolfs­hunde, Kathedrale und blutroter Himmel. Das PvE-Chor jeder Dämmerungsschlacht — kein Boss, das Immunsystem der Map. Erst ihre Tells lernen.",
+          "keyword": "PvE Kultisten Hunde Kathedrale"
+        },
+        {
+          "group": "c",
+          "n": 3,
+          "title": "Dachquerung über den Spitzen",
+          "desc": "Ein Blutgeweihter mit schwerer Axt überspringt die Skyline: Mondlicht-Türme, Schornsteine, Nebel. Wenn die Auslese beginnt, brechen Dächer und Brücken Sichtlinien. In einer gestapelten Stadt ist die Route Teil des Builds.",
+          "keyword": "Dächer Mobilität Route Lowanro"
+        },
+        {
+          "group": "c",
+          "n": 6,
+          "title": "Klippenpfad zur Hügelkirche",
+          "desc": "Langkatana-Kämpfer auf dem Gratpfad, Vollmond, Kirche voraus. Der Späh-Takt einer Dämmerungsschlacht: erst nähern, dann beanspruchen. Nebel, Kiefern, Stein — die wilde Kante.",
+          "keyword": "Nacht Aufklärung Kirche Natur Route"
+        },
+        {
+          "group": "c",
+          "n": 10,
+          "title": "Blutrosen-Markierung auf der Hand",
+          "desc": "Eine blasse Hand liegt auf der Tischkante, eine dornige Blutrose im Handrücken. Reines Omen: Pakt, Linie, oder ein bereits gezahlter Preis. FromSoftware erzählt mit Requisiten.",
+          "keyword": "Blutrose Marke Pakt Omen"
+        },
+        {
+          "group": "c",
+          "n": 16,
+          "title": "Blutmond über der Ruinenpromenade",
+          "desc": "Eine einsame Gestalt starrt auf einen karmesinroten Mond über zerbrochenem Mauerwerk und fernen Uhrturm. Dämmerung der Menschheit als These: romantisch, kosmisch, ruiniert. First Blood wie Wetter, nicht wie UI-Balken.",
+          "keyword": "Blutmond Dämmerung First Blood"
+        }
+      ]
     }
   },
   "contact": {
@@ -1243,6 +1870,182 @@
     "summon": {
       "title": "Beschwörung & Entlassung",
       "desc": "Beschwöre und entlasse Vasallen über das Funktionsmenü. Stirbt ein Vasall, wird er automatisch entlassen und kann eine Zeitlang nicht erneut beschworen werden. In Ruhe oder außerhalb des Kampfes regeneriert seine Lebenskraft. Einen angegriffenen Vasallen kannst du nicht entlassen."
+    }
+  },
+  "relatedHubs": {
+    "eyebrow": "Weiterlesen",
+    "title": "Leitfäden zu diesem Thema",
+    "lead": "Springe zu den dauerhaften Guides, die tiefer gehen als dieser News-Beitrag.",
+    "charactersTitle": "Empfohlene Bloodsworn"
+  },
+  "systemRequirements": {
+    "intro": {
+      "eyebrow": "Systemanforderungen",
+      "title": "The Duskbloods Systemanforderungen — Was du zum Spielen brauchst",
+      "lead": "The Duskbloods ist ein Nintendo-Switch-2-Exklusivtitel, es gibt also keine PC-Specs, die du nachschlagen müsstest. Hier ist, was du wirklich brauchst: die Konsole, eine Online-Mitgliedschaft für Multiplayer, Speichererwartungen, Netzwerk und Zubehör — bestätigt vs. noch unangekündigt.",
+      "updatedAt": "Zuletzt aktualisiert: 11. Oktober 2026"
+    },
+    "facts": {
+      "eyebrow": "Auf einen Blick",
+      "title": "Hardware-Checkliste",
+      "items": [
+        {
+          "label": "Plattform",
+          "value": "Nur Nintendo Switch 2"
+        },
+        {
+          "label": "PC / PS5 / Xbox",
+          "value": "Nicht verfügbar"
+        },
+        {
+          "label": "Anzeigemodi",
+          "value": "TV, Tischmodus, Handheld"
+        },
+        {
+          "label": "Multiplayer",
+          "value": "Bis zu 8 Spieler online"
+        },
+        {
+          "label": "Nintendo Switch Online",
+          "value": "Für Online-Multiplayer erforderlich"
+        },
+        {
+          "label": "Speicher",
+          "value": "TBA — nicht angekündigt"
+        },
+        {
+          "label": "Internet",
+          "value": "Breitband für Online empfohlen"
+        },
+        {
+          "label": "Spieler offline",
+          "value": "Singleplayer-Modus enthalten"
+        }
+      ]
+    },
+    "platform": {
+      "eyebrow": "Plattform",
+      "title": "Du brauchst eine Nintendo Switch 2",
+      "paragraphs": [
+        "The Duskbloods wird von FromSoftware entwickelt und von Nintendo als Nintendo-Switch-2-Exklusivtitel veröffentlicht. Das Spiel läuft nicht auf der originalen Switch, und es gibt keine PC-Minimum-Spec-Tabelle, weil es keine PC-Version gibt — für PS5 oder Xbox wurde ebenfalls nichts angekündigt.",
+        "Das bedeutet: Die einzige echte „Anforderung“ ist Nintendos aktuelle Hardware — eine Nintendo Switch 2 mit genug freiem Speicher, sobald die eShop-Listung live geht, und ein Display, mit dem du im TV-, Tisch- oder Handheld-Modus zurechtkommst. Der Netzwerktest lief exklusiv auf der Switch 2, also dasselbe Ziel wie zum Launch.",
+        "Falls du bereits eine Switch 2 besitzt, ist die Hardware abgedeckt. Wenn du noch überlegst, halte nach offiziellen Bundles Ausschau, sobald das Release-Datum feststeht — Nintendo kombiniert große Exklusivtitel oft mit Hardware-Angeboten."
+      ]
+    },
+    "online": {
+      "eyebrow": "Online & Konten",
+      "title": "Nintendo Switch Online für Multiplayer",
+      "paragraphs": [
+        "Für den geschlossenen Netzwerktest war eine Nintendo-Switch-Online-Mitgliedschaft nötig. Rechne damit, dass auch der Online-Multiplayer des Vollspiels — die Dusk Battle mit acht Spielern — dasselbe braucht. Ein Nintendo-Konto ist für den eShop und für Online-Spiel erforderlich.",
+        "Singleplayer ist ohne volle Lobby spielbar, du kannst Systeme also offline lernen. Crossplay greift nicht: Das Spiel ist Switch-2-exklusiv, Multiplayer läuft also unter Switch-2-Spielern.",
+        "Eine stabile Breitbandverbindung wird dringend empfohlen. Der August-Test zeigte Serverlast zu Session-Beginn und PvP-Latenz-Probleme; ein LAN-Adapter oder solides 5-GHz-WLAN fühlt sich besser an als ein überlastetes 2,4-GHz-Netz."
+      ]
+    },
+    "storage": {
+      "eyebrow": "Speicher & Downloads",
+      "title": "Dateigröße ist weiterhin TBA",
+      "paragraphs": [
+        "Nintendo hat noch keine Installationsgröße veröffentlicht. Sie erscheint auf der Nintendo-eShop-Produktseite, sobald die Listung mit Release-Datum und Vorbestellungen live geht.",
+        "Praktischer Anhalt: Halte zweistellige GB freien internen Speicher (oder eine schnelle microSD-Express-Karte für Switch 2) frei, damit Preload und Day-One-Patch schmerzlos laufen. Große Multiplayer-Games brauchen oft Platz für Basis-Installation plus Patches."
+      ]
+    },
+    "controllers": {
+      "eyebrow": "Controller & Anzeige",
+      "title": "Was sich gut spielt",
+      "items": [
+        {
+          "title": "Joy-Con 2 / Grip",
+          "desc": "Volle Steuerungsunterstützung out of the box. Reicht für Handheld und entspannte TV-Sessions; Kampf-Timing fühlt sich mit einem vollwertigen Pad besser an."
+        },
+        {
+          "title": "Nintendo Switch 2 Pro Controller",
+          "desc": "Empfohlen, wenn du PvP grinden willst. Sticks, Trigger und Griff sind für längere Dusk-Battle-Sessions bequemer."
+        },
+        {
+          "title": "TV-Modus",
+          "desc": "Am besten, um Kampf-Telegraphs und UI im Multiplayer zu lesen. 1080p/4K-Ausgabe hängt von deinem TV und den Switch-2-Anzeigeeinstellungen ab."
+        },
+        {
+          "title": "Handheld-Modus",
+          "desc": "Wird unterstützt, wie andere Switch-2-Titel. Kleinere UI kann in chaotischen Kämpfen mit acht Spielern schwerer lesbar sein — nutze ihn zum Üben und für House of Night."
+        }
+      ]
+    },
+    "checklist": {
+      "eyebrow": "Vor dem Kauf",
+      "title": "Spielfertig-Checkliste",
+      "lead": "Arbeite diese Liste ab, wenn Vorbestellungen öffnen. Grüne Punkte sind bekannt; alles mit TBA wartet auf Nintendo.",
+      "items": [
+        {
+          "title": "Nintendo-Switch-2-Konsole",
+          "desc": "Erforderlich. Die originale Switch wird das Spiel nicht ausführen.",
+          "required": true
+        },
+        {
+          "title": "Nintendo-Konto",
+          "desc": "Nötig für eShop-Käufe und Online-Spiel.",
+          "required": true
+        },
+        {
+          "title": "Nintendo-Switch-Online-Mitgliedschaft",
+          "desc": "Erforderlich für Online-Multiplayer (laut Netzwerktest). Singleplayer läuft ohne volle Lobby.",
+          "required": true
+        },
+        {
+          "title": "Freier Speicherplatz",
+          "desc": "Exakte Größe TBA. Halte großzügigen Puffer für Preload und Patches frei.",
+          "required": false
+        },
+        {
+          "title": "Stabiles Internet",
+          "desc": "Breitband für PvPvE mit acht Spielern empfohlen.",
+          "required": false
+        },
+        {
+          "title": "Pro Controller (optional)",
+          "desc": "Komfort-Upgrade für lange Sessions und kompetitives Spielen.",
+          "required": false
+        },
+        {
+          "title": "Release-Datum + Vorbestellung",
+          "desc": "Stand Oktober 2026 weiterhin unangekündigt. Folge unserem Release-Datum-Hub.",
+          "required": false
+        }
+      ]
+    },
+    "related": {
+      "eyebrow": "Weiterlesen",
+      "title": "Verwandte Guides & News",
+      "items": [
+        {
+          "href": "/release-date",
+          "title": "Release-Datum-Hub",
+          "desc": "Zeitachse, bestätigte vs. Gerüchte-Daten und wo das Launch-Fenster steht."
+        },
+        {
+          "href": "/faq",
+          "title": "Komplette FAQ",
+          "desc": "Plattformen, Multiplayer, NSO, Editions und Hardware-Fragen beantwortet."
+        },
+        {
+          "href": "/network-test",
+          "title": "Netzwerktest-Rückblick",
+          "desc": "Was der August-Test für Online-Spiel brauchte und was er über Server verriet."
+        },
+        {
+          "href": "/latest/duskbloods-network-test-review",
+          "title": "Netzwerktest-Review",
+          "desc": "Hands-on-Ergebnisse: Server, Lag, Virtue und was das für den Launch bedeutet."
+        }
+      ]
+    },
+    "note": {
+      "title": "Inoffizielle Fan-Site",
+      "desc": "Anforderungen hier fassen öffentliche Nintendo-/FromSoftware-Infos und den geschlossenen Netzwerktest zusammen. Finale Specs, Dateigröße und Online-Anforderungen werden zum Launch über offizielle Kanäle bestätigt."
+    },
+    "cta": {
+      "title": "Seite für finale Specs speichern",
+      "desc": "Wir aktualisieren Speicher, Online-Anforderungen und Bundle-Hinweise, sobald Nintendo die eShop-Listung veröffentlicht."
     }
   }
 }

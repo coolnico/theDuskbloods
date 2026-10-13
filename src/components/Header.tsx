@@ -25,6 +25,7 @@ export default function Header() {
           <NavLink href="/kin" className="nav-link">{t('kin')}</NavLink>
           <NavLink href="/gallery" className="nav-link">{t('gallery')}</NavLink>
           <NavLink href="/release-date" className="nav-link">{t('releaseDate')}</NavLink>
+          <NavLink href="/system-requirements" className="nav-link">{t('systemRequirements')}</NavLink>
           <NavLink href="/faq" className="nav-link">{t('faq')}</NavLink>
         </nav>
         <div className="flex items-center gap-2">
@@ -39,6 +40,7 @@ export default function Header() {
         <NavLink href="/kin" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('kin')}</NavLink>
         <NavLink href="/gallery" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('gallery')}</NavLink>
         <NavLink href="/release-date" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('releaseDate')}</NavLink>
+        <NavLink href="/system-requirements" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('systemRequirements')}</NavLink>
         <NavLink href="/faq" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('faq')}</NavLink>
       </nav>
     </header>

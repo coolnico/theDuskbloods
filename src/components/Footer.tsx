@@ -36,6 +36,7 @@ export default function Footer() {
                 <li><Link href="/gallery" className="nav-link">{t('gallery')}</Link></li>
                 <li><Link href="/network-test" className="nav-link">{t('networkTest')}</Link></li>
                 <li><Link href="/release-date" className="nav-link">{t('releaseDate')}</Link></li>
+                <li><Link href="/system-requirements" className="nav-link">{t('systemRequirements')}</Link></li>
               </ul>
             </div>
             <div>

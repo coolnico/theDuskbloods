@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { DOMAIN, LOCALES } from '@/lib/seo';
 import { getAllSlugs, getTranslatedLocales } from '@/lib/news';
+import { CHARACTER_SLUGS } from '@/lib/characters';
 
 // English served at root (no prefix) + each non-en locale prefixed
 const NON_EN = LOCALES.filter((l) => l !== 'en');
@@ -13,6 +14,7 @@ const PAGES = [
   { path: '/kin', priority: 0.9 },
   { path: '/network-test', priority: 0.9 },
   { path: '/release-date', priority: 0.9 },
+  { path: '/system-requirements', priority: 0.85 },
   { path: '/gallery', priority: 0.8 },
   { path: '/faq', priority: 0.8 },
   { path: '/latest', priority: 0.8 },
@@ -28,6 +30,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     urls.push({ url: `${DOMAIN}${path}`, priority, changeFrequency: 'weekly' });
     for (const locale of NON_EN) {
       urls.push({ url: `${DOMAIN}/${locale}${path}`, priority, changeFrequency: 'weekly' });
+    }
+  }
+
+  // Character detail pages
+  for (const slug of CHARACTER_SLUGS) {
+    urls.push({ url: `${DOMAIN}/characters/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
+    for (const locale of NON_EN) {
+      urls.push({ url: `${DOMAIN}/${locale}/characters/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
     }
   }
 

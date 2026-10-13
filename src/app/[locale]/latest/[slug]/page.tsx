@@ -7,6 +7,7 @@ import { notFound } from 'next/navigation';
 import { Calendar, ArrowLeft, Clock, Tag } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
 import { requireValidLocale } from '@/lib/require-locale';
+import RelatedHubs from '@/components/RelatedHubs';
 
 export function generateStaticParams() {
   return getAllStaticParams();
@@ -162,6 +163,7 @@ export default async function ArticlePage({
             )}
           </header>
           <div className="prose-article mt-8" itemProp="articleBody" dangerouslySetInnerHTML={{ __html: article.content }} />
+          <RelatedHubs tags={article.tags} slug={slug} locale={locale} />
         </article>
       </main>
     </>
