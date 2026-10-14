@@ -972,7 +972,15 @@
       "faqRoleQ": "¿Cuál es el rol de {name} en The Duskbloods?",
       "faqWeaponsQ": "¿Qué armas usa {name}?",
       "faqArtsQ": "¿Cuáles son las Blood Arts y Aspectos de {name}?",
-      "faqHowQ": "¿Cómo se juega con {name}?"
+      "faqHowQ": "¿Cómo se juega con {name}?",
+      "seoMetaTitle": "Guía de build de {name} — {role}",
+      "seoMetaDesc": "{name} es un Converso de Sangre {role} en The Duskbloods, con {melee} cuerpo a cuerpo y {ranged} a distancia.",
+      "seoHowTo": "Cómo jugar con {name} en The Duskbloods",
+      "faqRoleA": "{name} es un Converso de Sangre {role} en The Duskbloods. {tagline}",
+      "faqWeaponsA": "{name} usa {melee} en el cuerpo a cuerpo y {ranged} a distancia.",
+      "faqArtsA": "Las Blood Arts de {name} son {arts}. Aspectos: {powers}.",
+      "gameplayCardTitle": "Guía de jugabilidad",
+      "gameplayCardDesc": "Virtud, fases, desequilibrio y La Morada de la Noche."
     }
   },
   "networkTest": {

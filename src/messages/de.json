@@ -972,7 +972,15 @@
       "faqRoleQ": "Welche Rolle hat {name} in The Duskbloods?",
       "faqWeaponsQ": "Welche Waffen nutzt {name}?",
       "faqArtsQ": "Welche Blood Arts und Aspekte hat {name}?",
-      "faqHowQ": "Wie spielt man {name}?"
+      "faqHowQ": "Wie spielt man {name}?",
+      "seoMetaTitle": "{name} Build-Guide — {role}",
+      "seoMetaDesc": "{name} ist ein Blutsbruder ({role}) in The Duskbloods, mit {melee} im Nahkampf und {ranged} auf Distanz.",
+      "seoHowTo": "So spielt man {name} in The Duskbloods",
+      "faqRoleA": "{name} ist ein Blutsbruder ({role}) in The Duskbloods. {tagline}",
+      "faqWeaponsA": "{name} nutzt {melee} im Nahkampf und {ranged} auf Distanz.",
+      "faqArtsA": "Die Blood Arts von {name} sind {arts}. Aspekte: {powers}.",
+      "gameplayCardTitle": "Gameplay-Guide",
+      "gameplayCardDesc": "Tugend, Phasen, Haltung und das Haus der Nacht."
     }
   },
   "networkTest": {

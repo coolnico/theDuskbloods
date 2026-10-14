@@ -972,7 +972,15 @@
       "faqRoleQ": "Qual é a função de {name} em The Duskbloods?",
       "faqWeaponsQ": "Quais armas {name} usa?",
       "faqArtsQ": "Quais são as Blood Arts e Aspectos de {name}?",
-      "faqHowQ": "Como jogar com {name}?"
+      "faqHowQ": "Como jogar com {name}?",
+      "seoMetaTitle": "Guia de build de {name} — {role}",
+      "seoMetaDesc": "{name} é um Sangrento {role} em The Duskbloods, usando {melee} corpo a corpo e {ranged} à distância.",
+      "seoHowTo": "Como jogar com {name} em The Duskbloods",
+      "faqRoleA": "{name} é um Sangrento {role} em The Duskbloods. {tagline}",
+      "faqWeaponsA": "{name} usa {melee} no corpo a corpo e {ranged} à distância.",
+      "faqArtsA": "As Blood Arts de {name} são {arts}. Aspectos: {powers}.",
+      "gameplayCardTitle": "Guia de gameplay",
+      "gameplayCardDesc": "Virtude, fases, atordoamento e Casa da Noite."
     }
   },
   "networkTest": {

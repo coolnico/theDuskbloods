@@ -972,7 +972,15 @@
       "faqRoleQ": "Какая роль у {name} в The Duskbloods?",
       "faqWeaponsQ": "Какое оружие использует {name}?",
       "faqArtsQ": "Какие Blood Arts и Аспекты у {name}?",
-      "faqHowQ": "Как играть за {name}?"
+      "faqHowQ": "Как играть за {name}?",
+      "seoMetaTitle": "{name} — гайд по билду, {role}",
+      "seoMetaDesc": "{name} — кровоклятый в The Duskbloods, роль: {role}. Ближний бой — {melee}, дистанция — {ranged}.",
+      "seoHowTo": "Как играть за {name} в The Duskbloods",
+      "faqRoleA": "{name} — кровоклятый в The Duskbloods с ролью {role}. {tagline}",
+      "faqWeaponsA": "{name} использует {melee} в ближнем бою и {ranged} на дистанции.",
+      "faqArtsA": "{name} применяет Blood Arts: {arts}. Аспекты: {powers}.",
+      "gameplayCardTitle": "Гайд по геймплею",
+      "gameplayCardDesc": "Добродетель, фазы, ошеломление и Дом ночи."
     }
   },
   "networkTest": {

@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { CHARACTER_SLUGS, isCharacterSlug } from '@/lib/characters';
-import { characterJsonLd, characterMetadata, type CharacterSeo } from '@/lib/character-seo';
+import { characterJsonLd, characterMetadata, type CharacterSeo, type CharacterSeoTemplates } from '@/lib/character-seo';
+import { buildCharacterFaq } from '@/lib/character-faq';
 import { notFound } from 'next/navigation';
 import CharacterDetailView from '@/components/views/CharacterDetailView';
 
@@ -22,6 +23,12 @@ async function getCharacter(slug: string): Promise<FullChar | null> {
   return roster.items.find((c) => c.slug === slug) ?? null;
 }
 
+async function getTemplates(): Promise<CharacterSeoTemplates> {
+  const t = await getTranslations({ locale: 'en', namespace: 'characters' });
+  const detail = t.raw('detail') as Record<string, string>;
+  return { metaTitle: detail.seoMetaTitle, metaDesc: detail.seoMetaDesc, howToName: detail.seoHowTo };
+}
+
 export async function generateMetadata({
   params,
 }: {
@@ -31,7 +38,8 @@ export async function generateMetadata({
   if (!isCharacterSlug(slug)) return {};
   const char = await getCharacter(slug);
   if (!char) return {};
-  return characterMetadata({ char, locale: 'en', path: `/characters/${slug}` });
+  const templates = await getTemplates();
+  return characterMetadata({ char, locale: 'en', path: `/characters/${slug}`, templates });
 }
 
 export default async function CharacterPage({
@@ -49,26 +57,10 @@ export default async function CharacterPage({
   const t = await getTranslations({ locale: 'en', namespace: 'characters' });
   const detail = t.raw('detail') as Record<string, string>;
 
-  const faq = [
-    {
-      q: (detail.faqRoleQ || 'What is {name}’s role in The Duskbloods?').replace('{name}', char.name),
-      a: `${char.name} is a ${char.role.toLowerCase()} Bloodsworn in The Duskbloods. ${char.tagline}`,
-    },
-    {
-      q: (detail.faqWeaponsQ || 'What weapons does {name} use?').replace('{name}', char.name),
-      a: `${char.name} uses ${char.melee} in melee and ${char.ranged} at range.`,
-    },
-    {
-      q: (detail.faqArtsQ || 'What are {name}’s Blood Arts?').replace('{name}', char.name),
-      a: `${char.name}’s Blood Arts are ${char.bloodArts.map((b) => b.name).join(' and ')}. Aspects: ${char.powers.map((p) => p.name).join(' and ')}.`,
-    },
-    {
-      q: (detail.faqHowQ || 'How do you play {name}?').replace('{name}', char.name),
-      a: char.playstyle[0] || char.tagline,
-    },
-  ];
+  const faq = buildCharacterFaq(char, detail, 'en');
+  const templates = { metaTitle: detail.seoMetaTitle, metaDesc: detail.seoMetaDesc, howToName: detail.seoHowTo };
 
-  const ldNodes = characterJsonLd({ char, locale: 'en', path, faq });
+  const ldNodes = characterJsonLd({ char, locale: 'en', path, faq, templates });
 
   return (
     <>

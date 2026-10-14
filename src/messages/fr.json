@@ -972,7 +972,15 @@
       "faqRoleQ": "Quel est le rôle de {name} dans The Duskbloods ?",
       "faqWeaponsQ": "Quelles armes utilise {name} ?",
       "faqArtsQ": "Quelles sont les Blood Arts et les Aspects de {name} ?",
-      "faqHowQ": "Comment jouer {name} ?"
+      "faqHowQ": "Comment jouer {name} ?",
+      "seoMetaTitle": "Guide de build de {name} — {role}",
+      "seoMetaDesc": "{name} est un Hémalige {role} dans The Duskbloods, avec {melee} au corps à corps et {ranged} à distance.",
+      "seoHowTo": "Comment jouer {name} dans The Duskbloods",
+      "faqRoleA": "{name} est un Hémalige {role} dans The Duskbloods. {tagline}",
+      "faqWeaponsA": "{name} utilise {melee} au corps à corps et {ranged} à distance.",
+      "faqArtsA": "Les Blood Arts de {name} sont {arts}. Aspects : {powers}.",
+      "gameplayCardTitle": "Guide de jeu",
+      "gameplayCardDesc": "Vertu, phases, vulnérabilité et Maison de la Nuit."
     }
   },
   "networkTest": {

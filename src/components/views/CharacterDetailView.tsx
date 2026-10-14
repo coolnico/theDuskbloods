@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
+import { buildCharacterFaq } from '@/lib/character-faq';
 import {
   Swords,
   Target,
@@ -52,24 +53,7 @@ export default function CharacterDetailView({
 
   const others = roster.items.filter((c) => c.slug !== slug).slice(0, 4);
 
-  const faqItems = [
-    {
-      q: (detail.faqRoleQ || 'What is {name}’s role in The Duskbloods?').replace('{name}', char.name),
-      a: `${char.name} is a ${char.role.toLowerCase()} Bloodsworn in The Duskbloods. ${char.tagline}`,
-    },
-    {
-      q: (detail.faqWeaponsQ || 'What weapons does {name} use?').replace('{name}', char.name),
-      a: `${char.name} uses ${char.melee} in melee and ${char.ranged} at range.`,
-    },
-    {
-      q: (detail.faqArtsQ || 'What are {name}’s Blood Arts?').replace('{name}', char.name),
-      a: `${char.name}’s Blood Arts are ${char.bloodArts.map((b) => b.name).join(' and ')}. Aspects: ${char.powers.map((p) => p.name).join(' and ')}.`,
-    },
-    {
-      q: (detail.faqHowQ || 'How do you play {name}?').replace('{name}', char.name),
-      a: char.playstyle[0] || char.tagline,
-    },
-  ];
+  const faqItems = buildCharacterFaq(char, detail, locale || 'en');
 
   return (
     <div className="space-y-10 sm:space-y-16">
@@ -254,8 +238,8 @@ export default function CharacterDetailView({
         </div>
         <div className="mt-4 grid gap-3 sm:grid-cols-2">
           <Link href="/gameplay" locale={locale} className="group rounded-[var(--radius)] border border-border bg-surface/60 p-4 transition hover:border-blood">
-            <div className="text-sm font-semibold text-text group-hover:text-blood">Gameplay guide</div>
-            <p className="mt-1 text-xs text-muted">Virtue, phases, stagger, and House of Night.</p>
+            <div className="text-sm font-semibold text-text group-hover:text-blood">{detail.gameplayCardTitle || 'Gameplay guide'}</div>
+            <p className="mt-1 text-xs text-muted">{detail.gameplayCardDesc || 'Virtue, phases, stagger, and House of Night.'}</p>
           </Link>
           <Link href="/characters" locale={locale} className="group rounded-[var(--radius)] border border-border bg-surface/60 p-4 transition hover:border-blood">
             <div className="text-sm font-semibold text-text group-hover:text-blood">{detail.backToRoster}</div>

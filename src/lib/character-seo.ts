@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { alternates, DOMAIN, DEFAULT_OG_IMAGE, SITE_NAME } from '@/lib/seo';
+import { fillTemplate } from '@/lib/character-faq';
 
 export type CharacterSeo = {
   slug: string;
@@ -12,13 +13,25 @@ export type CharacterSeo = {
   difficulty?: number;
 };
 
+/**
+ * Localized sentence templates from messages (characters.detail.seoMetaTitle etc.).
+ * Absent keys fall back to the English compositions below.
+ */
+export type CharacterSeoTemplates = {
+  metaTitle?: string;
+  metaDesc?: string;
+  howToName?: string;
+};
+
 /** Primary role (before slash) keeps titles within SERP length. */
 function primaryRole(role: string): string {
   return role.split('/')[0].trim();
 }
 
 /** Keyword-rich title; site name is appended by the layout title template. */
-export function characterTitle(char: CharacterSeo): string {
+export function characterTitle(char: CharacterSeo, metaTitle?: string): string {
+  // {role} gets the primary role only, to keep SERP titles short
+  if (metaTitle) return fillTemplate(metaTitle, { name: char.name, role: primaryRole(char.role) });
   let title = `${char.name} Build Guide — ${primaryRole(char.role)}`;
   // Keep under ~60 chars before the site-name template suffix
   if (title.length > 58) {
@@ -32,8 +45,10 @@ function articleFor(role: string): string {
 }
 
 /** Description with weapons, role, and game name for SERP + AI answers. */
-export function characterDescription(char: CharacterSeo): string {
-  const base = `${char.name} is ${articleFor(char.role)} ${char.role.toLowerCase()} Bloodsworn in The Duskbloods, wielding ${char.melee} and ${char.ranged}.`;
+export function characterDescription(char: CharacterSeo, metaDesc?: string): string {
+  const base = metaDesc
+    ? fillTemplate(metaDesc, { name: char.name, role: char.role, melee: char.melee, ranged: char.ranged })
+    : `${char.name} is ${articleFor(char.role)} ${char.role.toLowerCase()} Bloodsworn in The Duskbloods, wielding ${char.melee} and ${char.ranged}.`;
   const tag = char.tagline.trim();
   const full = `${base} ${tag}`;
   if (full.length <= 165) return full;
@@ -59,13 +74,15 @@ export function characterMetadata({
   char,
   locale,
   path,
+  templates,
 }: {
   char: CharacterSeo;
   locale: string;
   path: string;
+  templates?: CharacterSeoTemplates;
 }): Metadata {
-  const title = characterTitle(char);
-  const description = characterDescription(char);
+  const title = characterTitle(char, templates?.metaTitle);
+  const description = characterDescription(char, templates?.metaDesc);
   const images = char.image ? [char.image] : [DEFAULT_OG_IMAGE];
   const alt = alternates(path, locale);
 
@@ -101,6 +118,7 @@ export function characterJsonLd({
   locale,
   path,
   faq,
+  templates,
 }: {
   char: CharacterSeo & {
     bloodArts?: { name: string; desc: string }[];
@@ -110,6 +128,7 @@ export function characterJsonLd({
   locale: string;
   path: string;
   faq?: { q: string; a: string }[];
+  templates?: CharacterSeoTemplates;
 }) {
   const url = alternates(path, locale).canonical;
   const gameId = `${DOMAIN}/#videogame`;
@@ -131,7 +150,7 @@ export function characterJsonLd({
     '@id': personId,
     name: char.name,
     alternateName: [char.name, `${char.name} Bloodsworn`, `${char.name} The Duskbloods`],
-    description: characterDescription(char),
+    description: characterDescription(char, templates?.metaDesc),
     jobTitle: char.role,
     image: char.image || undefined,
     url,
@@ -160,8 +179,8 @@ export function characterJsonLd({
   const article = {
     '@type': 'Article',
     '@id': articleId,
-    headline: characterTitle(char),
-    description: characterDescription(char),
+    headline: characterTitle(char, templates?.metaTitle),
+    description: characterDescription(char, templates?.metaDesc),
     image: char.image || undefined,
     datePublished: '2026-10-11',
     dateModified: '2026-10-11',
@@ -180,7 +199,9 @@ export function characterJsonLd({
     nodes.push({
       '@type': 'HowTo',
       '@id': `${url}#howto`,
-      name: `How to play ${char.name} in The Duskbloods`,
+      name: templates?.howToName
+        ? fillTemplate(templates.howToName, { name: char.name })
+        : `How to play ${char.name} in The Duskbloods`,
       description: char.tagline,
       image: char.image || undefined,
       supply: [

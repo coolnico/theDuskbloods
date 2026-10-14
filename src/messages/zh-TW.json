@@ -972,7 +972,15 @@
       "faqRoleQ": "{name}在 The Duskbloods 中的定位是什麼？",
       "faqWeaponsQ": "{name}用什麼武器？",
       "faqArtsQ": "{name}的血技和特質是什麼？",
-      "faqHowQ": "{name}怎麼玩？"
+      "faqHowQ": "{name}怎麼玩？",
+      "seoMetaTitle": "{name}配裝攻略 — {role}",
+      "seoMetaDesc": "{name}是《The Duskbloods》中的{role} Bloodsworn，手持{melee}，輔以{ranged}。",
+      "seoHowTo": "《The Duskbloods》{name}玩法攻略",
+      "faqRoleA": "{name}是《The Duskbloods》中的{role} Bloodsworn。{tagline}",
+      "faqWeaponsA": "{name}近戰使用{melee}，遠程使用{ranged}。",
+      "faqArtsA": "{name}的血技是{arts}，特質為{powers}。",
+      "gameplayCardTitle": "玩法攻略",
+      "gameplayCardDesc": "涵蓋美德、階段、架勢破壞與 House of Night。"
     }
   },
   "networkTest": {

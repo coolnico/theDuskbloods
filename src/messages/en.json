@@ -972,7 +972,15 @@
       "faqRoleQ": "What is {name}’s role in The Duskbloods?",
       "faqWeaponsQ": "What weapons does {name} use?",
       "faqArtsQ": "What are {name}’s Blood Arts and Aspects?",
-      "faqHowQ": "How do you play {name}?"
+      "faqHowQ": "How do you play {name}?",
+      "seoMetaTitle": "{name} Build Guide — {role}",
+      "seoMetaDesc": "{name} is a {role} Bloodsworn in The Duskbloods, wielding {melee} and {ranged}.",
+      "seoHowTo": "How to play {name} in The Duskbloods",
+      "faqRoleA": "{name} is a {role} Bloodsworn in The Duskbloods. {tagline}",
+      "faqWeaponsA": "{name} uses {melee} in melee and {ranged} at range.",
+      "faqArtsA": "{name}’s Blood Arts are {arts}. Aspects: {powers}.",
+      "gameplayCardTitle": "Gameplay guide",
+      "gameplayCardDesc": "Virtue, phases, stagger, and House of Night."
     }
   },
   "networkTest": {

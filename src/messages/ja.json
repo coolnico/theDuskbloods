@@ -972,7 +972,15 @@
       "faqRoleQ": "The Duskbloodsにおける{name}の役割は？",
       "faqWeaponsQ": "{name}の武器は何ですか？",
       "faqArtsQ": "{name}のブラッドアートとアスペクトは？",
-      "faqHowQ": "{name}の遊び方は？"
+      "faqHowQ": "{name}の遊び方は？",
+      "seoMetaTitle": "{name}のビルド攻略 — {role}",
+      "seoMetaDesc": "{name}は『The Duskbloods』に登場する{role}のBloodsworn。{melee}と{ranged}を扱う。",
+      "seoHowTo": "『The Duskbloods』における{name}の遊び方",
+      "faqRoleA": "{name}は『The Duskbloods』に登場する{role}のBloodswornです。{tagline}",
+      "faqWeaponsA": "{name}は近距離で{melee}を、遠距離で{ranged}を使用します。",
+      "faqArtsA": "{name}のブラッドアートは{arts}。アスペクトは{powers}です。",
+      "gameplayCardTitle": "ゲームプレイガイド",
+      "gameplayCardDesc": "ヴァーチュー、フェイズ、崩し、夜の館を解説。"
     }
   },
   "networkTest": {

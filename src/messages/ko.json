@@ -972,7 +972,15 @@
       "faqRoleQ": "The Duskbloods에서 {name}의 역할은?",
       "faqWeaponsQ": "{name}의 무기는 무엇인가요?",
       "faqArtsQ": "{name}의 블러드 아트와 측면은?",
-      "faqHowQ": "{name}는 어떻게 플레이하나요?"
+      "faqHowQ": "{name}는 어떻게 플레이하나요?",
+      "seoMetaTitle": "{name} 빌드 가이드 — {role}",
+      "seoMetaDesc": "{name}은(는) The Duskbloods의 {role} 혈족. 근접 무기 {melee}, 원거리 무기 {ranged}.",
+      "seoHowTo": "The Duskbloods에서 {name} 플레이하는 법",
+      "faqRoleA": "{name}은(는) The Duskbloods의 {role} 혈족입니다. {tagline}",
+      "faqWeaponsA": "{name}의 무기: 근접 {melee}, 원거리 {ranged}.",
+      "faqArtsA": "{name}의 블러드 아트: {arts}. 측면: {powers}.",
+      "gameplayCardTitle": "게임플레이 가이드",
+      "gameplayCardDesc": "미덕, 페이즈, 무너뜨리기, 밤의 저택을 다룹니다."
     }
   },
   "networkTest": {
