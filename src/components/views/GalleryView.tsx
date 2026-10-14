@@ -6,28 +6,26 @@ import { X, ChevronLeft, ChevronRight, ImageIcon, BookOpen } from 'lucide-react'
 
 const BASE = 'https://media.fromsoftware.jp/theduskbloods/resources/images/images/pc';
 
-// Main screenshots (001-030, skipping 011)
+// Official screenshots (001-030, skipping 011)
 const MAIN = [1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30];
-// Expansion screenshots
-const EXP = [1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30];
 
 function pad(n: number) {
   return String(n).padStart(3, '0');
 }
 
-function imageSrc(group: 'main' | 'expansion', n: number) {
-  return group === 'main' ? `${BASE}/${pad(n)}.png` : `${BASE}/expansion/${pad(n)}.png`;
-}
-
-/** Featured stills use unique frames from the official main set. */
-function featuredSrc(n: number) {
+/** Grid thumbnail (800x450). */
+function imageSrc(n: number) {
   return `${BASE}/${pad(n)}.png`;
 }
 
-const ALL_IMAGES = [
-  ...MAIN.map((n) => ({ src: imageSrc('main', n), group: 'main' as const })),
-  ...EXP.map((n) => ({ src: imageSrc('expansion', n), group: 'expansion' as const })),
-];
+/**
+ * Lightbox source (1600x900). The official "expansion" set is the same
+ * screenshots at 2x resolution, so it backs the viewer instead of a
+ * duplicate grid section.
+ */
+function hiResSrc(n: number) {
+  return `${BASE}/expansion/${pad(n)}.png`;
+}
 
 type FeaturedItem = {
   group: string;
@@ -56,24 +54,26 @@ const GROUP_KEYS = [
 
 export default function GalleryView() {
   const t = useTranslations('gallery');
-  const [open, setOpen] = useState(false);
-  const [idx, setIdx] = useState(0);
-
   const featured = t.raw('featured') as Featured | undefined;
   const featuredItems = featured?.items ?? [];
+  // Numbers already shown with commentary above — keep the grid below duplicate-free
+  const featuredNs = new Set(featuredItems.map((i) => i.n));
+  const gridImages = MAIN.filter((n) => !featuredNs.has(n));
   const groups = GROUP_KEYS.map((g) => ({
     ...g,
     headingText: featured ? featured[g.heading] : '',
     items: featuredItems.filter((i) => i.group === g.key),
   }));
 
+  const [open, setOpen] = useState(false);
+  const [idx, setIdx] = useState(0);
+
   function go(i: number) {
-    setIdx((i + ALL_IMAGES.length) % ALL_IMAGES.length);
+    setIdx((i + MAIN.length) % MAIN.length);
   }
 
-  function openFeatured(item: FeaturedItem) {
-    const src = featuredSrc(item.n);
-    const i = ALL_IMAGES.findIndex((img) => img.src === src);
+  function openAt(n: number) {
+    const i = MAIN.indexOf(n);
     if (i >= 0) {
       setIdx(i);
       setOpen(true);
@@ -85,11 +85,11 @@ export default function GalleryView() {
       <article id={`shot-${item.group}-${item.n}`} className="group overflow-hidden rounded-[var(--radius)] border border-border bg-surface/60">
         <button
           type="button"
-          onClick={() => openFeatured(item)}
+          onClick={() => openAt(item.n)}
           className="relative block w-full aspect-video overflow-hidden bg-surface-2"
         >
           <img
-            src={featuredSrc(item.n)}
+            src={imageSrc(item.n)}
             alt={`${item.keyword} — ${item.title}`}
             title={item.title}
             className="h-full w-full object-cover transition group-hover:scale-105"
@@ -144,39 +144,15 @@ export default function GalleryView() {
         <span className="eyebrow">{t('main.eyebrow')}</span>
         <h2 className="h-title mt-3 text-xl font-bold sm:text-2xl">{t('main.title')}</h2>
         <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4">
-          {MAIN.map((n, i) => (
+          {gridImages.map((n) => (
             <button
               key={n}
-              onClick={() => { setIdx(i); setOpen(true); }}
+              onClick={() => openAt(n)}
               className="group relative aspect-video overflow-hidden rounded-[var(--radius)] border border-border bg-surface-2 transition hover:border-blood"
             >
               <img
-                src={`${BASE}/${pad(n)}.png`}
-                alt={`${t('main.alt', { n: i + 1 })} — Lowanro combat screenshot ${pad(n)}`}
-                className="h-full w-full object-cover transition group-hover:scale-105"
-                loading="lazy"
-              />
-              <div className="absolute inset-0 flex items-center justify-center bg-black/0 transition group-hover:bg-black/30">
-                <ImageIcon className="h-6 w-6 text-white opacity-0 transition group-hover:opacity-100" />
-              </div>
-            </button>
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <span className="eyebrow">{t('expansion.eyebrow')}</span>
-        <h2 className="h-title mt-3 text-xl font-bold sm:text-2xl">{t('expansion.title')}</h2>
-        <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-4">
-          {EXP.map((n, i) => (
-            <button
-              key={n}
-              onClick={() => { setIdx(MAIN.length + i); setOpen(true); }}
-              className="group relative aspect-video overflow-hidden rounded-[var(--radius)] border border-border bg-surface-2 transition hover:border-blood"
-            >
-              <img
-                src={`${BASE}/expansion/${pad(n)}.png`}
-                alt={`${t('expansion.alt', { n: i + 1 })} — Lands of Dusk stage screenshot ${pad(n)}`}
+                src={imageSrc(n)}
+                alt={`${t('main.alt', { n })} — The Duskbloods screenshot ${pad(n)}`}
                 className="h-full w-full object-cover transition group-hover:scale-105"
                 loading="lazy"
               />
@@ -209,7 +185,7 @@ export default function GalleryView() {
           </button>
 
           <img
-            src={ALL_IMAGES[idx].src}
+            src={hiResSrc(MAIN[idx])}
             alt={t('lightbox.alt', { n: idx + 1 })}
             className="max-h-[90vh] max-w-[90vw] object-contain"
             onClick={(e) => e.stopPropagation()}
@@ -223,7 +199,7 @@ export default function GalleryView() {
           </button>
 
           <div className="absolute bottom-4 text-sm text-white/60">
-            {idx + 1} / {ALL_IMAGES.length}
+            {idx + 1} / {MAIN.length}
           </div>
         </div>
       )}
