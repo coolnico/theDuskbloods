@@ -63,6 +63,10 @@
     "systemRequirements": {
       "title": "Configuration requise The Duskbloods — Switch 2, NSO & stockage",
       "description": "Ce qu'il faut pour jouer à The Duskbloods : Nintendo Switch 2 uniquement, Nintendo Switch Online pour le multijoueur, stockage (TBA), conseils réseau, manettes et une checklist prêt à jouer."
+    },
+    "guides": {
+      "title": "Guides The Duskbloods — Tier list, armes, cartes et mécaniques",
+      "description": "Guides The Duskbloods : tier list des Bloodsworn, meilleures armes, cartes, Virtue et conseils pour débutants dans le jeu PvPvE de FromSoftware sur Switch 2."
     }
   },
   "privacy": {
@@ -105,7 +109,8 @@
     "latest": "Actualités",
     "maps": "Carte",
     "kin": "Vassaux",
-    "systemRequirements": "Configuration requise"
+    "systemRequirements": "Configuration requise",
+    "guides": "Guides"
   },
   "news": {
     "backToList": "Retour aux actualités",
@@ -981,6 +986,11 @@
       "faqArtsA": "Les Blood Arts de {name} sont {arts}. Aspects : {powers}.",
       "gameplayCardTitle": "Guide de jeu",
       "gameplayCardDesc": "Vertu, phases, vulnérabilité et Maison de la Nuit."
+    },
+    "guidesLink": {
+      "title": "Tier list et qui choisir",
+      "desc": "Classements et recommandations pour débutants sont dans les Guides.",
+      "cta": "Voir les guides de personnages"
     }
   },
   "networkTest": {
@@ -1809,6 +1819,11 @@
           "desc": "Placez des repères à l'écran ou sur la carte pour baliser vos parcours et points d'intérêt."
         }
       ]
+    },
+    "guidesLink": {
+      "title": "Itinéraires et points de farm",
+      "desc": "Les guides de stratégie de carte sont dans les Guides.",
+      "cta": "Voir les guides de cartes"
     }
   },
   "kin": {
@@ -2049,6 +2064,60 @@
     "cta": {
       "title": "Ajoutez cette page aux favoris pour les specs finales",
       "desc": "Nous mettrons à jour le stockage, les exigences en ligne et les notes sur les packs dès que Nintendo publiera la fiche eShop."
+    }
+  },
+  "guides": {
+    "eyebrow": "Guides",
+    "title": "Guides The Duskbloods",
+    "lead": "Guides The Duskbloods — tier lists, armes, cartes, mécaniques et plus. Explorez par catégorie ou commencez par les derniers guides.",
+    "latestTitle": "Derniers guides",
+    "noArticles": "Aucun guide pour le moment. Revenez bientôt.",
+    "noCategoryArticles": "Aucun guide dans cette catégorie.",
+    "backToHub": "Tous les guides",
+    "categories": {
+      "weapons": {
+        "title": "Armes et builds",
+        "desc": "Meilleures armes, builds de Blood Arts et recommandations."
+      },
+      "maps": {
+        "title": "Cartes et itinéraires",
+        "desc": "Itinéraires, points de farm et guides de stratégie de carte."
+      },
+      "mechanics": {
+        "title": "Mécaniques de jeu",
+        "desc": "Virtue, combat, matchmaking et systèmes clés expliqués."
+      },
+      "comparisons": {
+        "title": "Comparatifs et achat",
+        "desc": "Comment se situe The Duskbloods et s’il vaut l’achat."
+      },
+      "progression": {
+        "title": "Progression et endgame",
+        "desc": "Finaux, trophées, builds et mises à jour post-lancement."
+      },
+      "tier-lists": {
+        "title": "Tier list et qui choisir",
+        "desc": "Tier list des Bloodsworn, choix pour débutants et mises à jour du roster."
+      }
+    },
+    "hubPromo": {
+      "maps": {
+        "title": "Vous cherchez les données de la carte ?",
+        "desc": "Points de repère de Lowanro City, caractéristiques régionales et outils se trouvent dans Cartes.",
+        "cta": "Ouvrir Cartes"
+      }
+    },
+    "hubLinks": {
+      "characters": {
+        "title": "Personnages",
+        "desc": "Roster complet des Bloodsworn — armes, Blood Arts, Aspects et lore.",
+        "cta": "Ouvrir Personnages"
+      },
+      "maps": {
+        "title": "Cartes",
+        "desc": "Points de repère de Lowanro City, caractéristiques régionales et outils.",
+        "cta": "Ouvrir Cartes"
+      }
     }
   }
 }

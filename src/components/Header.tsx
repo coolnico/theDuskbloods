@@ -18,6 +18,7 @@ export default function Header() {
           </span>
         </Link>
         <nav className="hidden items-center gap-6 md:flex">
+          <NavLink href="/guides" className="nav-link">{t('guides')}</NavLink>
           <NavLink href="/latest" className="nav-link">{t('latest')}</NavLink>
           <NavLink href="/gameplay" className="nav-link">{t('gameplay')}</NavLink>
           <NavLink href="/characters" className="nav-link">{t('characters')}</NavLink>
@@ -33,6 +34,7 @@ export default function Header() {
         </div>
       </div>
       <nav className="flex items-center gap-1 overflow-x-auto border-t border-border px-4 py-2 md:hidden [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
+        <NavLink href="/guides" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('guides')}</NavLink>
         <NavLink href="/latest" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('latest')}</NavLink>
         <NavLink href="/gameplay" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('gameplay')}</NavLink>
         <NavLink href="/characters" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('characters')}</NavLink>

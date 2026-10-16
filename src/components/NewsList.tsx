@@ -1,6 +1,6 @@
 import { Link } from '@/i18n/navigation';
 import { Calendar } from 'lucide-react';
-import type { ArticleMeta } from '@/lib/news';
+import { getArticleHref, type ArticleMeta } from '@/lib/news';
 
 interface NewsListProps {
   articles: ArticleMeta[];
@@ -12,7 +12,7 @@ export default function NewsList({ articles, locale, noArticlesText }: NewsListP
   return (
     <div className="space-y-4">
       {articles.map((article) => (
-        <Link key={article.slug} href={`/latest/${article.slug}`} locale={locale} className="card block group">
+        <Link key={article.slug} href={getArticleHref(article.slug, article.section)} locale={locale} className="card block group">
           <div className="flex items-center gap-2 text-xs text-muted">
             <Calendar className="h-3.5 w-3.5" />
             <time dateTime={article.date}>

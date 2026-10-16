@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { Map, Compass, Wrench } from 'lucide-react';
+import { Link } from '@/i18n/navigation';
 
 export default function MapsView() {
   const t = useTranslations('maps');
@@ -81,6 +82,17 @@ export default function MapsView() {
           ))}
         </div>
       </section>
+
+      <Link
+        href="/guides/maps"
+        className="card block transition hover:border-gold"
+      >
+        <p className="text-xs uppercase tracking-wider text-gold">{t('guidesLink.title')}</p>
+        <p className="mt-2 text-sm leading-relaxed text-muted">{t('guidesLink.desc')}</p>
+        <span className="mt-3 inline-block text-sm font-semibold text-blood hover:underline underline-offset-4">
+          {t('guidesLink.cta')} →
+        </span>
+      </Link>
     </div>
   );
 }

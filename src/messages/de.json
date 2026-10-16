@@ -63,6 +63,10 @@
     "systemRequirements": {
       "title": "The Duskbloods Systemanforderungen — Switch 2, NSO & Speicher",
       "description": "Was du zum Spielen von The Duskbloods brauchst: nur Nintendo Switch 2, Nintendo Switch Online für Multiplayer, Speicher (TBA), Netzwerk-Tipps, Controller und eine Spielfertig-Checkliste."
+    },
+    "guides": {
+      "title": "The Duskbloods Guides — Tier-Liste, Waffen, Karten & Mechaniken",
+      "description": "The Duskbloods Guides: Bloodsworn-Tier-Liste, beste Waffen, Karten, Virtue-Farming und Tipps für Einsteiger im PvPvE-Game von FromSoftware für Switch 2."
     }
   },
   "privacy": {
@@ -105,7 +109,8 @@
     "latest": "Neuigkeiten",
     "maps": "Karte",
     "kin": "Vasallen",
-    "systemRequirements": "Systemanforderungen"
+    "systemRequirements": "Systemanforderungen",
+    "guides": "Guides"
   },
   "news": {
     "backToList": "Zurück zu Neuigkeiten",
@@ -981,6 +986,11 @@
       "faqArtsA": "Die Blood Arts von {name} sind {arts}. Aspekte: {powers}.",
       "gameplayCardTitle": "Gameplay-Guide",
       "gameplayCardDesc": "Tugend, Phasen, Haltung und das Haus der Nacht."
+    },
+    "guidesLink": {
+      "title": "Tier-Liste & Auswahl",
+      "desc": "Rankings und Einsteiger-Empfehlungen findest du in den Guides.",
+      "cta": "Charakter-Guides ansehen"
     }
   },
   "networkTest": {
@@ -1809,6 +1819,11 @@
           "desc": "Setze Marker auf dem Bildschirm oder der Karte, um Wege und Ziele zu markieren."
         }
       ]
+    },
+    "guidesLink": {
+      "title": "Routen & Farm-Spots",
+      "desc": "Karten-Strategie-Guides findest du in den Guides.",
+      "cta": "Karten-Guides ansehen"
     }
   },
   "kin": {
@@ -2049,6 +2064,60 @@
     "cta": {
       "title": "Seite für finale Specs speichern",
       "desc": "Wir aktualisieren Speicher, Online-Anforderungen und Bundle-Hinweise, sobald Nintendo die eShop-Listung veröffentlicht."
+    }
+  },
+  "guides": {
+    "eyebrow": "Guides",
+    "title": "The Duskbloods Guides",
+    "lead": "The Duskbloods Guides — Tier-Liste, Waffen, Karten, Mechaniken und mehr. Nach Kategorie stöbern oder direkt in die neuesten Guides.",
+    "latestTitle": "Neueste Guides",
+    "noArticles": "Noch keine Guides. Schau bald wieder vorbei.",
+    "noCategoryArticles": "Noch keine Guides in dieser Kategorie.",
+    "backToHub": "Alle Guides",
+    "categories": {
+      "weapons": {
+        "title": "Waffen & Loadouts",
+        "desc": "Beste Waffen, Blood-Arts-Loadouts und Build-Empfehlungen."
+      },
+      "maps": {
+        "title": "Karten & Routen",
+        "desc": "Routen, Farm-Spots und Karten-Strategie-Guides."
+      },
+      "mechanics": {
+        "title": "Spielmechaniken",
+        "desc": "Virtue, Kampf, Matchmaking und Kernsysteme verständlich erklärt."
+      },
+      "comparisons": {
+        "title": "Vergleiche & Kauf",
+        "desc": "Wie The Duskbloods abschneidet und ob sich der Kauf lohnt."
+      },
+      "progression": {
+        "title": "Progression & Endgame",
+        "desc": "Endings, Trophäen, Builds und Updates nach dem Launch."
+      },
+      "tier-lists": {
+        "title": "Tier-Liste & Auswahl",
+        "desc": "Bloodsworn-Tier-Liste, Einsteiger-Empfehlungen und Roster-Updates."
+      }
+    },
+    "hubPromo": {
+      "maps": {
+        "title": "Suchst du Kartendaten?",
+        "desc": "Lowanro-City-Wahrzeichen, regionale Merkmale und Kartenwerkzeuge findest du im Bereich Karten.",
+        "cta": "Karten öffnen"
+      }
+    },
+    "hubLinks": {
+      "characters": {
+        "title": "Charaktere",
+        "desc": "Komplettes Bloodsworn-Roster — Waffen, Blood Arts, Aspects und Lore.",
+        "cta": "Charaktere öffnen"
+      },
+      "maps": {
+        "title": "Karten",
+        "desc": "Lowanro-City-Wahrzeichen, regionale Merkmale und Kartenwerkzeuge.",
+        "cta": "Karten öffnen"
+      }
     }
   }
 }

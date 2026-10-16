@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { DOMAIN, LOCALES } from '@/lib/seo';
-import { getAllSlugs, getTranslatedLocales } from '@/lib/news';
-import { CHARACTER_SLUGS } from '@/lib/characters';
+import { getAllSlugs, getArticleHref, getSlugSection, getTranslatedLocales } from '@/lib/news';
+import { getCategorySlugs } from '@/lib/guides-categories';
 
 // English served at root (no prefix) + each non-en locale prefixed
 const NON_EN = LOCALES.filter((l) => l !== 'en');
@@ -10,11 +10,9 @@ const PAGES = [
   { path: '', priority: 1.0 },
   { path: '/gameplay', priority: 0.9 },
   { path: '/characters', priority: 0.9 },
-  { path: '/maps', priority: 0.9 },
-  { path: '/kin', priority: 0.9 },
   { path: '/network-test', priority: 0.9 },
   { path: '/release-date', priority: 0.9 },
-  { path: '/system-requirements', priority: 0.85 },
+  { path: '/guides', priority: 0.9 },
   { path: '/gallery', priority: 0.8 },
   { path: '/faq', priority: 0.8 },
   { path: '/latest', priority: 0.8 },
@@ -33,20 +31,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Character detail pages
-  for (const slug of CHARACTER_SLUGS) {
-    urls.push({ url: `${DOMAIN}/characters/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
+  // Guides category pages
+  for (const slug of getCategorySlugs()) {
+    urls.push({ url: `${DOMAIN}/guides/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
     for (const locale of NON_EN) {
-      urls.push({ url: `${DOMAIN}/${locale}/characters/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
+      urls.push({ url: `${DOMAIN}/${locale}/guides/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
     }
   }
 
-  // News articles — only include locales with actual translations
+  // Articles — only include locales with actual translations.
+  // Detail URL is /latest/{slug} for news and /guides/{slug} for guides.
   const slugs = getAllSlugs();
   for (const slug of slugs) {
-    urls.push({ url: `${DOMAIN}/latest/${slug}`, priority: 0.7, changeFrequency: 'monthly' });
+    const href = getArticleHref(slug, getSlugSection(slug));
+    urls.push({ url: `${DOMAIN}${href}`, priority: 0.7, changeFrequency: 'monthly' });
     for (const locale of getTranslatedLocales(slug)) {
-      urls.push({ url: `${DOMAIN}/${locale}/latest/${slug}`, priority: 0.7, changeFrequency: 'monthly' });
+      urls.push({ url: `${DOMAIN}/${locale}${href}`, priority: 0.7, changeFrequency: 'monthly' });
     }
   }
 

@@ -63,6 +63,10 @@
     "systemRequirements": {
       "title": "The Duskbloods 시스템 요구 사항 — Switch 2, NSO 및 저장 공간",
       "description": "The Duskbloods 플레이에 필요한 것: Nintendo Switch 2 전용, 멀티플레이용 Nintendo Switch Online, 저장 공간(TBA), 네트워크 팁, 컨트롤러, 플레이 준비 체크리스트."
+    },
+    "guides": {
+      "title": "The Duskbloods 공략 — 티어 리스트, 무기, 맵, 시스템",
+      "description": "The Duskbloods 공략 모음: 블러드스워른 티어 리스트, 최고의 무기, 맵, 미덕 파밍, 초보자 팁. 프롬소프트웨어의 Switch 2 PvPvE 액션 게임."
     }
   },
   "privacy": {
@@ -105,7 +109,8 @@
     "latest": "최신 소식",
     "maps": "맵",
     "kin": "권속",
-    "systemRequirements": "시스템 요구 사항"
+    "systemRequirements": "시스템 요구 사항",
+    "guides": "공략"
   },
   "news": {
     "backToList": "최신 소식으로 돌아가기",
@@ -981,6 +986,11 @@
       "faqArtsA": "{name}의 블러드 아트: {arts}. 측면: {powers}.",
       "gameplayCardTitle": "게임플레이 가이드",
       "gameplayCardDesc": "미덕, 페이즈, 무너뜨리기, 밤의 저택을 다룹니다."
+    },
+    "guidesLink": {
+      "title": "티어 리스트 & 선택 가이드",
+      "desc": "랭킹과 초보 추천은 공략에 있습니다.",
+      "cta": "캐릭터 공략 보기"
     }
   },
   "networkTest": {
@@ -1809,6 +1819,11 @@
           "desc": "화면이나 맵에 핀을 설치해 탐색의 표시로 사용할 수 있습니다."
         }
       ]
+    },
+    "guidesLink": {
+      "title": "루트 & 파밍 스팟",
+      "desc": "맵 전략 공략은 공략에 있습니다.",
+      "cta": "맵 공략 보기"
     }
   },
   "kin": {
@@ -2050,5 +2065,59 @@
     "title": "주제별 허브 가이드",
     "lead": "이 뉴스보다 깊이 있는 상시 가이드로 이동하세요.",
     "charactersTitle": "추천 Bloodsworn"
+  },
+  "guides": {
+    "eyebrow": "공략",
+    "title": "The Duskbloods 공략",
+    "lead": "The Duskbloods 상시 공략 — 티어 리스트, 무기, 맵, 시스템 등. 카테고리별로 살펴보거나 아래 최신 공략부터 확인하세요.",
+    "latestTitle": "최신 공략",
+    "noArticles": "아직 공략이 없습니다. 곧 다시 확인해 주세요.",
+    "noCategoryArticles": "이 카테고리에는 아직 공략이 없습니다.",
+    "backToHub": "전체 공략",
+    "categories": {
+      "weapons": {
+        "title": "무기 & 빌드",
+        "desc": "최고의 무기, 블러드 아츠 빌드, 장비 추천."
+      },
+      "maps": {
+        "title": "맵 & 루트",
+        "desc": "루트, 파밍 스팟, 맵 전략 공략."
+      },
+      "mechanics": {
+        "title": "게임 시스템",
+        "desc": "미덕, 전투, 매치메이킹 등 핵심 시스템 해설."
+      },
+      "comparisons": {
+        "title": "비교 & 구매",
+        "desc": "다른 게임과 비교, 구매 가치 분석."
+      },
+      "progression": {
+        "title": "성장 & 엔드게임",
+        "desc": "엔딩, 트로피, 빌드, 출시 후 업데이트."
+      },
+      "tier-lists": {
+        "title": "티어 리스트 & 선택 가이드",
+        "desc": "블러드스워른 티어 리스트, 초보 추천, 로스터 소식."
+      }
+    },
+    "hubPromo": {
+      "maps": {
+        "title": "맵 정보를 찾으시나요?",
+        "desc": "로안로 시티 랜드마크, 지역 기믹, 맵 도구는 맵 페이지에 있습니다.",
+        "cta": "맵 열기"
+      }
+    },
+    "hubLinks": {
+      "characters": {
+        "title": "캐릭터",
+        "desc": "블러드스워른 전체 로스터 — 무기, 블러드 아츠, 어스펙트, 설정.",
+        "cta": "캐릭터 열기"
+      },
+      "maps": {
+        "title": "맵",
+        "desc": "로안로 시티 랜드마크, 지역 기믹, 맵 도구.",
+        "cta": "맵 열기"
+      }
+    }
   }
 }

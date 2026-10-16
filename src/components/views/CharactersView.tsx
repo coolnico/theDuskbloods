@@ -151,6 +151,17 @@ export default function CharactersView() {
         <h2 className="h-title text-xl font-bold text-text">{t('note.title')}</h2>
         <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-muted">{t('note.desc')}</p>
       </section>
+
+      <Link
+        href="/guides/tier-lists"
+        className="card block transition hover:border-gold"
+      >
+        <p className="text-xs uppercase tracking-wider text-gold">{t('guidesLink.title')}</p>
+        <p className="mt-2 text-sm leading-relaxed text-muted">{t('guidesLink.desc')}</p>
+        <span className="mt-3 inline-block text-sm font-semibold text-blood hover:underline underline-offset-4">
+          {t('guidesLink.cta')} →
+        </span>
+      </Link>
     </div>
   );
 }

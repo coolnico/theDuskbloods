@@ -63,6 +63,10 @@
     "systemRequirements": {
       "title": "The Duskbloods 動作環境——Switch 2・NSO・ストレージ",
       "description": "The Duskbloodsを遊ぶために必要なもの。Nintendo Switch 2のみ、マルチプレイにはNintendo Switch Online、ストレージ（TBA）、ネットワークのコツ、コントローラー、プレイ準備チェックリスト。"
+    },
+    "guides": {
+      "title": "The Duskbloods 攻略 — Tierリスト、武器、マップ、システム解説",
+      "description": "The Duskbloods の攻略まとめ：ブラッドスウォーンのTierリスト、おすすめ武器、マップ、バーチャー効率化、初心者向けTips。FromSoftwareのSwitch 2用PvPvEアクション。"
     }
   },
   "privacy": {
@@ -105,7 +109,8 @@
     "latest": "最新情報",
     "maps": "マップ",
     "kin": "眷属",
-    "systemRequirements": "動作環境"
+    "systemRequirements": "動作環境",
+    "guides": "攻略"
   },
   "news": {
     "backToList": "最新情報一覧に戻る",
@@ -981,6 +986,11 @@
       "faqArtsA": "{name}のブラッドアートは{arts}。アスペクトは{powers}です。",
       "gameplayCardTitle": "ゲームプレイガイド",
       "gameplayCardDesc": "ヴァーチュー、フェイズ、崩し、夜の館を解説。"
+    },
+    "guidesLink": {
+      "title": "Tierリストとおすすめキャラ",
+      "desc": "ランキングと初心者向けおすすめは攻略にあります。",
+      "cta": "キャラ攻略を見る"
     }
   },
   "networkTest": {
@@ -1809,6 +1819,11 @@
           "desc": "画面やマップにピンを設置し、探索の目印にできます。"
         }
       ]
+    },
+    "guidesLink": {
+      "title": "ルートと周回ガイド",
+      "desc": "マップ戦略の攻略は攻略にあります。",
+      "cta": "マップ攻略を見る"
     }
   },
   "kin": {
@@ -2049,6 +2064,60 @@
     "cta": {
       "title": "最終スペックに備えてブックマーク",
       "desc": "任天堂がeShopのページを公開した瞬間に、ストレージ、オンライン要件、同梱情報を更新します。"
+    }
+  },
+  "guides": {
+    "eyebrow": "攻略",
+    "title": "The Duskbloods 攻略",
+    "lead": "The Duskbloods の常設攻略 — Tierリスト、武器、マップ、システムなど。カテゴリーから探すか、最新攻略を下からどうぞ。",
+    "latestTitle": "最新攻略",
+    "noArticles": "まだ攻略記事がありません。またチェックしてください。",
+    "noCategoryArticles": "このカテゴリーの攻略はまだありません。",
+    "backToHub": "攻略一覧",
+    "categories": {
+      "weapons": {
+        "title": "武器 & ビルド",
+        "desc": "最強武器、ブラッドアーツのビルド、装備おすすめ。"
+      },
+      "maps": {
+        "title": "マップ & ルート",
+        "desc": "ルート、周回ポイント、マップ攻略ガイド。"
+      },
+      "mechanics": {
+        "title": "ゲームシステム",
+        "desc": "バーチャー、戦闘、マッチメイキングなどの中核システム解説。"
+      },
+      "comparisons": {
+        "title": "比較 & 購入",
+        "desc": "他作品との比較、買うべきかの判断材料。"
+      },
+      "progression": {
+        "title": "成長 & エンドゲーム",
+        "desc": "エンディング、トロフィー、ビルド、アップデート情報。"
+      },
+      "tier-lists": {
+        "title": "Tierリストとおすすめキャラ",
+        "desc": "ブラッドスウォーンのTierリスト、初心者向けおすすめ、ロスター情報。"
+      }
+    },
+    "hubPromo": {
+      "maps": {
+        "title": "マップデータをお探しですか？",
+        "desc": "ロワーンロ市のランドマーク、地域ギミック、マップツールはマップページにあります。",
+        "cta": "マップを見る"
+      }
+    },
+    "hubLinks": {
+      "characters": {
+        "title": "キャラクター",
+        "desc": "ブラッドスウォーンのフルロスター — 武器、ブラッドアーツ、アスペクト、設定。",
+        "cta": "キャラクターを見る"
+      },
+      "maps": {
+        "title": "マップ",
+        "desc": "ロワーンロ市のランドマーク、地域ギミック、マップツール。",
+        "cta": "マップを見る"
+      }
     }
   }
 }

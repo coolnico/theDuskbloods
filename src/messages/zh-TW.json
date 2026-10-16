@@ -63,6 +63,10 @@
     "systemRequirements": {
       "title": "The Duskbloods 系統需求 — Switch 2、NSO 與儲存",
       "description": "遊玩 The Duskbloods 需要什麼：僅 Nintendo Switch 2，多人需要 Nintendo Switch Online，儲存（TBA）、網路建議、控制器與開玩準備清單。"
+    },
+    "guides": {
+      "title": "The Duskbloods 攻略 — 強度榜、武器、地圖與機制指南",
+      "description": "The Duskbloods 常青攻略：血誓者強度榜、最佳武器、地圖路線、美德刷取與新手技巧。FromSoftware 的 Switch 2 PvPvE 動作遊戲。"
     }
   },
   "privacy": {
@@ -105,7 +109,8 @@
     "latest": "最新資訊",
     "maps": "地圖",
     "kin": "眷屬",
-    "systemRequirements": "系統需求"
+    "systemRequirements": "系統需求",
+    "guides": "攻略"
   },
   "news": {
     "backToList": "返回最新資訊",
@@ -981,6 +986,11 @@
       "faqArtsA": "{name}的血技是{arts}，特質為{powers}。",
       "gameplayCardTitle": "玩法攻略",
       "gameplayCardDesc": "涵蓋美德、階段、架勢破壞與 House of Night。"
+    },
+    "guidesLink": {
+      "title": "強度榜與選角推薦",
+      "desc": "排名與新手推薦看攻略區。",
+      "cta": "瀏覽角色攻略"
     }
   },
   "networkTest": {
@@ -1809,6 +1819,11 @@
           "desc": "可在畫面或地圖上放置標記，用作探索指引。"
         }
       ]
+    },
+    "guidesLink": {
+      "title": "路線與刷點攻略",
+      "desc": "地圖策略類文章在攻略區。",
+      "cta": "瀏覽地圖攻略"
     }
   },
   "kin": {
@@ -2049,6 +2064,60 @@
     "cta": {
       "title": "收藏本頁，等待最終規格",
       "desc": "任天堂一公佈 eShop 頁面，我們會立刻更新儲存、線上需求與同捆資訊。"
+    }
+  },
+  "guides": {
+    "eyebrow": "攻略",
+    "title": "The Duskbloods 攻略",
+    "lead": "The Duskbloods 常青攻略庫 — 強度榜、武器、地圖、機制應有盡有。按分類瀏覽，或從下方最新攻略開始。",
+    "latestTitle": "最新攻略",
+    "noArticles": "暫無攻略，敬請期待。",
+    "noCategoryArticles": "該分類暫無攻略。",
+    "backToHub": "全部攻略",
+    "categories": {
+      "weapons": {
+        "title": "武器與配裝",
+        "desc": "最佳武器、血藝配裝與流派推薦。"
+      },
+      "maps": {
+        "title": "地圖與路線",
+        "desc": "路線、刷點與地圖策略攻略。"
+      },
+      "mechanics": {
+        "title": "遊戲機制",
+        "desc": "美德、戰鬥、匹配等核心機制解析。"
+      },
+      "comparisons": {
+        "title": "對比與購買",
+        "desc": "與其他作品對比，值不值得買。"
+      },
+      "progression": {
+        "title": "成長與終局",
+        "desc": "結局、成就、構築與發售後更新。"
+      },
+      "tier-lists": {
+        "title": "強度榜與選角",
+        "desc": "血誓者強度榜、新手推薦與陣容更新。"
+      }
+    },
+    "hubPromo": {
+      "maps": {
+        "title": "在找地圖資料？",
+        "desc": "洛安羅城的地標、區域機制與地圖工具都在地圖頁。",
+        "cta": "打開地圖"
+      }
+    },
+    "hubLinks": {
+      "characters": {
+        "title": "人物圖鑑",
+        "desc": "血誓者完整名單——武器、血藝、特質與背景故事。",
+        "cta": "打開人物圖鑑"
+      },
+      "maps": {
+        "title": "地圖",
+        "desc": "洛安羅城地標、區域機制與地圖工具。",
+        "cta": "打開地圖"
+      }
     }
   }
 }

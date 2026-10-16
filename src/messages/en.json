@@ -63,6 +63,10 @@
     "systemRequirements": {
       "title": "The Duskbloods System Requirements — Switch 2, NSO & Storage",
       "description": "What you need to play The Duskbloods: Nintendo Switch 2 only, Nintendo Switch Online for multiplayer, storage (TBA), network tips, controllers, and a ready-to-play checklist."
+    },
+    "guides": {
+      "title": "The Duskbloods Guides — Tier Lists, Weapons, Maps & Mechanics",
+      "description": "Evergreen The Duskbloods guides: Bloodsworn tier lists, best weapons, maps, virtue farming, and beginner tips for FromSoftware’s Switch 2 PvPvE game."
     }
   },
   "privacy": {
@@ -105,7 +109,8 @@
     "latest": "Latest",
     "maps": "Maps",
     "kin": "Kin",
-    "systemRequirements": "System Requirements"
+    "systemRequirements": "System Requirements",
+    "guides": "Guides"
   },
   "news": {
     "backToList": "Back to Latest",
@@ -981,6 +986,11 @@
       "faqArtsA": "{name}’s Blood Arts are {arts}. Aspects: {powers}.",
       "gameplayCardTitle": "Gameplay guide",
       "gameplayCardDesc": "Virtue, phases, stagger, and House of Night."
+    },
+    "guidesLink": {
+      "title": "Tier lists & who to pick",
+      "desc": "Rankings and beginner recommendations live in the Guides.",
+      "cta": "Browse character guides"
     }
   },
   "networkTest": {
@@ -1812,6 +1822,11 @@
           "desc": "Place pins on screen or on the map to mark paths and points of interest."
         }
       ]
+    },
+    "guidesLink": {
+      "title": "Routes & farming spots",
+      "desc": "Map strategy guides live in the Guides.",
+      "cta": "Browse map guides"
     }
   },
   "kin": {
@@ -2053,5 +2068,59 @@
     "title": "Hub guides on this topic",
     "lead": "Jump to the evergreen guides that go deeper than this news post.",
     "charactersTitle": "Featured Bloodsworn"
+  },
+  "guides": {
+    "eyebrow": "Guides",
+    "title": "The Duskbloods Guides",
+    "lead": "Evergreen guides for The Duskbloods — tier lists, weapons, maps, mechanics, and more. Browse by category or jump into the latest guides below.",
+    "latestTitle": "Latest Guides",
+    "noArticles": "No guides yet. Check back soon.",
+    "noCategoryArticles": "No guides in this category yet.",
+    "backToHub": "All Guides",
+    "categories": {
+      "weapons": {
+        "title": "Weapons & Loadouts",
+        "desc": "Best weapons, Blood Arts loadouts, and build recommendations."
+      },
+      "maps": {
+        "title": "Maps & Routes",
+        "desc": "Routes, farming spots, and map strategy guides."
+      },
+      "mechanics": {
+        "title": "Gameplay Mechanics",
+        "desc": "Virtue, combat, matchmaking, and core systems explained."
+      },
+      "comparisons": {
+        "title": "Comparisons & Buying",
+        "desc": "How The Duskbloods stacks up, and whether to buy."
+      },
+      "progression": {
+        "title": "Progression & Endgame",
+        "desc": "Endings, trophies, builds, and post-launch updates."
+      },
+      "tier-lists": {
+        "title": "Tier Lists & Who to Pick",
+        "desc": "Bloodsworn tier lists, beginner picks, and roster updates."
+      }
+    },
+    "hubPromo": {
+      "maps": {
+        "title": "Looking for map data?",
+        "desc": "Lowanro City landmarks, regional features, and map tools live in the Maps section.",
+        "cta": "Open Maps"
+      }
+    },
+    "hubLinks": {
+      "characters": {
+        "title": "Characters",
+        "desc": "Full Bloodsworn roster — weapons, Blood Arts, Aspects, and lore.",
+        "cta": "Open Characters"
+      },
+      "maps": {
+        "title": "Maps",
+        "desc": "Lowanro City landmarks, regional features, and map tools.",
+        "cta": "Open Maps"
+      }
+    }
   }
 }
