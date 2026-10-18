@@ -25,7 +25,11 @@ Two outlets quickly set the record straight:
 - **Nintendo Wire** ran with: Nintendo confirms *The Duskbloods* is not releasing on September 24.
 - **NintendoLife** followed up: Nintendo has denied the rumoured release date.
 
-To be clear — **this isn't a delay. You can't delay something that was never officially dated.** It was an error in a preview piece that got picked up and repeated before anyone fact-checked it.
+Eurogamer went to Nintendo directly. The company's reply, in full:
+
+> "The release date is inaccurate because there is no information regarding [the] release date of the Duskbloods."
+
+That is the whole official position — no date, and specifically not September 24. To be clear — **this isn't a delay. You can't delay something that was never officially dated.** It was an error in a preview piece that got picked up and repeated before anyone fact-checked it.
 
 ---
 

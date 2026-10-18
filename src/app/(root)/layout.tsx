@@ -48,7 +48,6 @@ export default async function RootGroupLayout({ children }: { children: React.Re
               genre: ['PvPvE', 'Action', 'RPG'],
               publisher: { '@type': 'Organization', name: 'Nintendo' },
               developer: { '@type': 'Organization', name: 'FromSoftware' },
-              datePublished: '2026',
               inLanguage: LOCALES,
               dateModified: '2026-08-20',
             }),

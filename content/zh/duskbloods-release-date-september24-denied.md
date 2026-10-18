@@ -25,7 +25,13 @@ tags: ["release-date", "nintendo", "switch2", "news"]
 - **Nintendo Wire** 的标题写得很明确：任天堂确认 *The Duskbloods* 不会在9月24日发售。
 - **NintendoLife** 也跟进报道：任天堂方面已经否认了这个日期。
 
-换句话说，**这是一次媒体端的信息错误，不是跳票，不是延期，因为这个日期从来就不是正式公布过的。**
+Eurogamer 直接向任天堂求证，官方回复原文如下：
+
+> "The release date is inaccurate because there is no information regarding [the] release date of the Duskbloods."
+>
+> 「这个发售日不准确，因为目前没有关于 The Duskbloods 发售日的信息。」
+
+官方立场就这些——没有日期，而且明确不是 9 月 24 日。换句话说，**这是一次媒体端的信息错误，不是跳票，不是延期，因为这个日期从来就不是正式公布过的。**
 
 ---
 

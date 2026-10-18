@@ -143,7 +143,7 @@ In post-test interviews, Miyazaki reiterated that The Duskbloods is designed to 
 
 ## What's Next for The Duskbloods
 
-The Duskbloods is still targeting a **2026 release** on Nintendo Switch 2. Nintendo has denied a rumored September 24, 2026 release date, stating there is "no information on a launch date" at this time.
+The Duskbloods is still targeting a **2026 release** on Nintendo Switch 2. Nintendo has denied a rumored September 24, 2026 release date, telling Eurogamer the date "is inaccurate because there is no information regarding [the] release date of the Duskbloods."
 
 Based on the network test feedback, expect FromSoftware to focus on:
 

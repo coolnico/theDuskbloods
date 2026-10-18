@@ -46,7 +46,6 @@ export default async function GameplayPage({ params }: { params: Promise<{ local
       gamePlatform: 'Nintendo Switch 2',
       publisher: { '@type': 'Organization', name: 'Nintendo' },
       developer: { '@type': 'Organization', name: 'FromSoftware' },
-      datePublished: '2026',
     },
     speakable: {
       '@type': 'SpeakableSpecification',

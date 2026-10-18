@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { makeBreadcrumbLd } from '@/lib/page-helpers';
+import { makeBreadcrumbLd, makeFaqPageLd, makeItemListLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
 import {
   getArticle,
@@ -199,16 +199,32 @@ export default async function GuidesSlugPage({
   };
 
   const readingTime = Math.max(1, Math.ceil(article.wordCount / 200));
+  const pageUrl = locale === 'en' ? `${DOMAIN}/guides/${slug}` : `${DOMAIN}/${locale}/guides/${slug}`;
+
+  const extraLd = [
+    ...(article.faq?.length ? [makeFaqPageLd(article.faq)] : []),
+    ...(article.listItems?.length
+      ? [makeItemListLd({ name: article.title, url: pageUrl, items: article.listItems })]
+      : []),
+  ];
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      {extraLd.map((ld, i) => (
+        <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
+      ))}
       <main className="relative z-10">
         <article className="shell py-10 sm:py-16" itemScope itemType="https://schema.org/Article">
           <Link href="/guides" className="mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-text transition-colors">
-            <ArrowLeft className="h-4 w-4" /> {tn('backToList')}
+            <ArrowLeft className="h-4 w-4" /> {t('backToHub')}
           </Link>
+          {article.isFallback && (
+            <div className="mb-6 rounded-lg border border-gold/30 bg-gold/5 px-4 py-3 text-sm text-gold">
+              {tn('fallbackNotice')}
+            </div>
+          )}
           <header>
             <div className="flex flex-wrap items-center gap-3 text-xs text-muted">
               <span className="flex items-center gap-1.5">

@@ -1,11 +1,10 @@
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
-import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
-import { getArticleMetasBySection, getGuidesCategoryCounts } from '@/lib/news';
-import { GUIDES_CATEGORIES } from '@/lib/guides-categories';
+import { makePageMetadata, makeBreadcrumbLd, makeCollectionPageLd } from '@/lib/page-helpers';
+import { getArticleMetasBySection } from '@/lib/news';
+import { DOMAIN } from '@/lib/seo';
 import { Link } from '@/i18n/navigation';
 import NewsList from '@/components/NewsList';
-import GuidesCategoryGrid from '@/components/GuidesCategoryGrid';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.guides', path: '/guides' });
 
@@ -15,6 +14,12 @@ export function generateMetadata(): Promise<Metadata> {
 
 // Direct links to the evergreen data pages (not article categories)
 const LINK_CARDS = [
+  {
+    href: '/gameplay',
+    title: 'Gameplay',
+    desc: 'Combat, Virtue, matchmaking, and core systems.',
+    cta: 'Open Gameplay',
+  },
   {
     href: '/characters',
     title: 'Characters',
@@ -27,49 +32,38 @@ const LINK_CARDS = [
     desc: 'Lowanro City landmarks, regional features, and map tools.',
     cta: 'Open Maps',
   },
+  {
+    href: '/kin',
+    title: 'Kin',
+    desc: 'Kin compacts, summoning circles, and advancement rules.',
+    cta: 'Open Kin',
+  },
 ];
-
-const CATEGORY_TITLES: Record<string, string> = {
-  'tier-lists': 'Tier Lists & Who to Pick',
-  weapons: 'Weapons & Loadouts',
-  maps: 'Maps & Routes',
-  mechanics: 'Gameplay Mechanics',
-  comparisons: 'Comparisons & Buying',
-  progression: 'Progression & Endgame',
-};
-
-const CATEGORY_DESCS: Record<string, string> = {
-  'tier-lists': 'Bloodsworn tier lists, beginner picks, and roster updates.',
-  weapons: 'Best weapons, Blood Arts loadouts, and build recommendations.',
-  maps: 'Routes, farming spots, and map strategy guides.',
-  mechanics: 'Virtue, combat, matchmaking, and core systems explained.',
-  comparisons: 'How The Duskbloods stacks up, and whether to buy.',
-  progression: 'Endings, trophies, builds, and post-launch updates.',
-};
 
 export default function GuidesHubPage() {
   setRequestLocale('en');
   const articles = getArticleMetasBySection('en', 'guides');
-  const counts = getGuidesCategoryCounts('en');
-  const categories = GUIDES_CATEGORIES.map((c) => {
-    const stat = counts.find((s) => s.slug === c.slug);
-    return {
-      slug: c.slug,
-      title: CATEGORY_TITLES[c.slug],
-      desc: CATEGORY_DESCS[c.slug],
-      count: stat?.count ?? 0,
-      latestTitle: stat?.latest?.title,
-    };
-  });
 
   const breadcrumbLd = makeBreadcrumbLd('en', [
     { name: 'Home', href: '/' },
     { name: 'Guides' },
   ]);
 
+  const collectionLd = makeCollectionPageLd({
+    name: 'The Duskbloods Guides',
+    description: 'Evergreen guides for The Duskbloods — tier lists, weapons, maps, mechanics, and more.',
+    url: `${DOMAIN}/guides`,
+    items: articles.map((a) => ({
+      name: a.title,
+      url: `${DOMAIN}/guides/${a.slug}`,
+      date: a.date,
+    })),
+  });
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionLd) }} />
       <main className="relative z-10">
         <article className="shell py-10 sm:py-16">
           <header className="mb-8 sm:mb-12">
@@ -79,7 +73,7 @@ export default function GuidesHubPage() {
             </h1>
             <p className="mt-3 max-w-3xl text-sm leading-relaxed text-muted sm:mt-4 sm:text-base">
               Evergreen guides for The Duskbloods — tier lists, weapons, maps, mechanics, and more.
-              Browse by category or jump into the latest guides below.
+              Jump into a section below or start from the latest guides.
             </p>
           </header>
 
@@ -101,10 +95,6 @@ export default function GuidesHubPage() {
                 </Link>
               ))}
             </div>
-          </section>
-
-          <section aria-label="Guide categories">
-            <GuidesCategoryGrid categories={categories} locale="en" />
           </section>
 
           <section className="mt-10 sm:mt-14">

@@ -1,8 +1,8 @@
-import { ARTICLES, type ArticleData, type ArticleSection } from './articles-generated';
+import { ARTICLES, type ArticleData, type ArticleSection, type ArticleFaqItem, type ArticleListItem } from './articles-generated';
 import { categoryMatchesTags, GUIDES_CATEGORIES } from './guides-categories';
 import { LOCALES } from './seo';
 
-export type { ArticleSection };
+export type { ArticleSection, ArticleFaqItem, ArticleListItem };
 
 export interface Article {
   slug: string;
@@ -15,6 +15,8 @@ export interface Article {
   section: ArticleSection;
   content: string;
   wordCount: number;
+  faq: ArticleFaqItem[];
+  listItems: ArticleListItem[];
   locale: string;
   isFallback: boolean;
 }
@@ -136,6 +138,8 @@ export function getArticle(locale: string, slug: string): Article | null {
     section: data.section,
     content: data.content,
     wordCount: data.wordCount,
+    faq: data.faq ?? [],
+    listItems: data.listItems ?? [],
     locale: usedLocale,
     isFallback: usedLocale !== locale,
   };

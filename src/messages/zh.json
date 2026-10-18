@@ -49,7 +49,7 @@
       "description": "联系 The Duskbloods 粉丝资讯站。反馈、建议或合作洽谈，请通过以下方式联系我们。"
     },
     "news": {
-      "title": "最新资讯与文章 — 黄昏血族指南",
+      "title": "最新资讯与文章",
       "description": "掌握宫崎英高监制、FromSoftware PvPvE 多人动作游戏《The Duskbloods》的最新消息、攻略与更新。"
     },
     "maps": {
@@ -65,7 +65,7 @@
       "description": "游玩 The Duskbloods 需要什么：仅 Nintendo Switch 2，多人需要 Nintendo Switch Online，存储（TBA）、网络建议、控制器与开玩准备清单。"
     },
     "guides": {
-      "title": "The Duskbloods 攻略 — 强度榜、武器、地图与机制指南",
+      "title": "黄昏血族攻略 — 强度榜、武器、地图与机制指南",
       "description": "The Duskbloods 常青攻略：血誓者强度榜、最佳武器、地图路线、美德刷取与新手技巧。FromSoftware 的 Switch 2 PvPvE 动作游戏。"
     }
   },
@@ -2068,8 +2068,8 @@
   },
   "guides": {
     "eyebrow": "攻略",
-    "title": "The Duskbloods 攻略",
-    "lead": "The Duskbloods 常青攻略库 — 强度榜、武器、地图、机制应有尽有。按分类浏览，或从下方最新攻略开始。",
+    "title": "黄昏血族攻略",
+    "lead": "黄昏血族常青攻略库 — 玩法、人物、地图、眷属应有尽有。从下方入口跳转，或直接看最新攻略。",
     "latestTitle": "最新攻略",
     "noArticles": "暂无攻略，敬请期待。",
     "noCategoryArticles": "该分类暂无攻略。",
@@ -2117,6 +2117,16 @@
         "title": "地图",
         "desc": "洛安罗城地标、区域机制与地图工具。",
         "cta": "打开地图"
+      },
+      "gameplay": {
+        "title": "玩法",
+        "desc": "战斗、美德、匹配等核心机制解析。",
+        "cta": "打开玩法"
+      },
+      "kin": {
+        "title": "眷属",
+        "desc": "眷属契约、召唤环与成长规则。",
+        "cta": "打开眷属"
       }
     }
   }

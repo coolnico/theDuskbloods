@@ -45,7 +45,6 @@ export default async function ReleaseDatePage({ params }: { params: Promise<{ lo
       gamePlatform: 'Nintendo Switch 2',
       publisher: { '@type': 'Organization', name: 'Nintendo' },
       developer: { '@type': 'Organization', name: 'FromSoftware' },
-      datePublished: '2026',
     },
   };
 

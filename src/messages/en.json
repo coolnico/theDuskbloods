@@ -49,7 +49,7 @@
       "description": "Get in touch with The Duskbloods fan site. Reach out for feedback, suggestions, or partnership inquiries."
     },
     "news": {
-      "title": "Latest News & Articles — The Duskbloods Guide",
+      "title": "Latest News & Articles",
       "description": "Stay up to date with the latest news, guides, and updates about The Duskbloods, Hidetaka Miyazaki's PvPvE multiplayer action game from FromSoftware for Nintendo Switch 2."
     },
     "maps": {
@@ -2120,6 +2120,16 @@
         "title": "Maps",
         "desc": "Lowanro City landmarks, regional features, and map tools.",
         "cta": "Open Maps"
+      },
+      "gameplay": {
+        "title": "Gameplay",
+        "desc": "Combat, Virtue, matchmaking, and core systems.",
+        "cta": "Open Gameplay"
+      },
+      "kin": {
+        "title": "Kin",
+        "desc": "Kin compacts, summoning circles, and advancement rules.",
+        "cta": "Open Kin"
       }
     }
   }

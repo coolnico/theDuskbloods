@@ -105,6 +105,24 @@
   .prose-article strong {
     @apply font-semibold text-text;
   }
+  .prose-article img {
+    @apply my-2 w-full max-w-[135px] rounded-md border border-border object-cover;
+  }
+  .prose-article table {
+    @apply my-5 w-full border-collapse overflow-hidden rounded-lg border border-border text-sm;
+  }
+  .prose-article th {
+    @apply border-b border-border bg-surface-2 px-3 py-2 text-left font-heading font-semibold text-text;
+  }
+  .prose-article td {
+    @apply border-b border-border/70 px-3 py-2 align-top text-body;
+  }
+  .prose-article tbody tr:last-child td {
+    @apply border-b-0;
+  }
+  .prose-article tbody tr:nth-child(even) td {
+    @apply bg-surface-2/40;
+  }
 }
 
 .nav-link {

@@ -59,3 +59,65 @@ export function makeBreadcrumbLd(locale: string, items: { name: string; href?: s
     })),
   };
 }
+
+export function makeFaqPageLd(
+  faq: { question: string; answer: string }[]
+) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  };
+}
+
+export function makeItemListLd(opts: {
+  name: string;
+  url: string;
+  items: { position: number; name: string }[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: opts.name,
+    url: opts.url,
+    numberOfItems: opts.items.length,
+    itemListElement: opts.items.map((item) => ({
+      '@type': 'ListItem',
+      position: item.position,
+      name: item.name,
+    })),
+  };
+}
+
+export function makeCollectionPageLd(opts: {
+  name: string;
+  description: string;
+  url: string;
+  items: { name: string; url: string; date?: string }[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: opts.name,
+    description: opts.description,
+    url: opts.url,
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: opts.items.length,
+      itemListElement: opts.items.map((item, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: item.name,
+        url: item.url,
+        ...(item.date ? { datePublished: item.date } : {}),
+      })),
+    },
+  };
+}

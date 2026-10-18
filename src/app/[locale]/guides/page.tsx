@@ -1,13 +1,11 @@
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
+import { makePageMetadata, makeBreadcrumbLd, makeCollectionPageLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
-import { getArticleMetasBySection, getGuidesCategoryCounts } from '@/lib/news';
-import { GUIDES_CATEGORIES } from '@/lib/guides-categories';
-import { LOCALES } from '@/lib/seo';
+import { getArticleMetasBySection } from '@/lib/news';
+import { LOCALES, DOMAIN } from '@/lib/seo';
 import { Link } from '@/i18n/navigation';
 import NewsList from '@/components/NewsList';
-import GuidesCategoryGrid from '@/components/GuidesCategoryGrid';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -27,8 +25,10 @@ export async function generateMetadata({
 
 // Direct links to the evergreen data pages (not article categories)
 const LINK_CARDS = [
+  { href: '/gameplay', key: 'gameplay' as const },
   { href: '/characters', key: 'characters' as const },
   { href: '/maps', key: 'maps' as const },
+  { href: '/kin', key: 'kin' as const },
 ];
 
 export default async function GuidesHubPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -37,26 +37,28 @@ export default async function GuidesHubPage({ params }: { params: Promise<{ loca
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'guides' });
   const articles = getArticleMetasBySection(locale, 'guides');
-  const counts = getGuidesCategoryCounts(locale);
-  const categories = GUIDES_CATEGORIES.map((c) => {
-    const stat = counts.find((s) => s.slug === c.slug);
-    return {
-      slug: c.slug,
-      title: t(`categories.${c.slug}.title`),
-      desc: t(`categories.${c.slug}.desc`),
-      count: stat?.count ?? 0,
-      latestTitle: stat?.latest?.title,
-    };
-  });
 
   const breadcrumbLd = makeBreadcrumbLd(locale, [
     { name: 'Home', href: '/' },
     { name: t('title') },
   ]);
 
+  const pageUrl = locale === 'en' ? `${DOMAIN}/guides` : `${DOMAIN}/${locale}/guides`;
+  const collectionLd = makeCollectionPageLd({
+    name: t('title'),
+    description: t('lead'),
+    url: pageUrl,
+    items: articles.map((a) => ({
+      name: a.title,
+      url: locale === 'en' ? `${DOMAIN}/guides/${a.slug}` : `${DOMAIN}/${locale}/guides/${a.slug}`,
+      date: a.date,
+    })),
+  });
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionLd) }} />
       <main className="relative z-10">
         <article className="shell py-10 sm:py-16">
           <header className="mb-8 sm:mb-12">
@@ -85,10 +87,6 @@ export default async function GuidesHubPage({ params }: { params: Promise<{ loca
                 </Link>
               ))}
             </div>
-          </section>
-
-          <section aria-label="Guide categories">
-            <GuidesCategoryGrid categories={categories} locale={locale} />
           </section>
 
           <section className="mt-10 sm:mt-14">

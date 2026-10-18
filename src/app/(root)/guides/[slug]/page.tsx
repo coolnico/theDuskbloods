@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
-import { makeBreadcrumbLd } from '@/lib/page-helpers';
+import { makeBreadcrumbLd, makeFaqPageLd, makeItemListLd } from '@/lib/page-helpers';
 import {
   getArticle,
   getArticleMetasByCategory,
@@ -198,11 +198,21 @@ export default async function GuidesSlugPage({ params }: { params: Promise<{ slu
   };
 
   const readingTime = Math.max(1, Math.ceil(article.wordCount / 200));
+  const pageUrl = `${DOMAIN}/guides/${slug}`;
+  const extraLd = [
+    ...(article.faq?.length ? [makeFaqPageLd(article.faq)] : []),
+    ...(article.listItems?.length
+      ? [makeItemListLd({ name: article.title, url: pageUrl, items: article.listItems })]
+      : []),
+  ];
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      {extraLd.map((ld, i) => (
+        <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
+      ))}
       <main className="relative z-10">
         <article className="shell py-10 sm:py-16" itemScope itemType="https://schema.org/Article">
           <Link href="/guides" className="mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-text transition-colors">

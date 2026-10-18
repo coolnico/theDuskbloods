@@ -49,7 +49,7 @@
       "description": "Contactez le site fan The Duskbloods. Pour vos retours, suggestions ou demandes de partenariat, contactez-nous ici."
     },
     "news": {
-      "title": "Dernières actualités et articles — Guide The Duskbloods",
+      "title": "Dernières actualités et articles",
       "description": "Suivez les dernières actualités, guides et mises à jour sur The Duskbloods, le jeu d'action PvPvE de Hidetaka Miyazaki et FromSoftware pour Nintendo Switch 2."
     },
     "maps": {
@@ -2117,6 +2117,16 @@
         "title": "Cartes",
         "desc": "Points de repère de Lowanro City, caractéristiques régionales et outils.",
         "cta": "Ouvrir Cartes"
+      },
+      "gameplay": {
+        "title": "Gameplay",
+        "desc": "Combat, vertu, matchmaking et systèmes clés.",
+        "cta": "Ouvrir le gameplay"
+      },
+      "kin": {
+        "title": "Kin",
+        "desc": "Pactes Kin, cercles d’invocation et règles de progression.",
+        "cta": "Ouvrir Kin"
       }
     }
   }

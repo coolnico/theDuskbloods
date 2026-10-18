@@ -133,7 +133,7 @@ PvEでは、スタン→飲血でHP回復、咆哮で攻撃を中断——コア
 
 ## 今後の展望
 
-The Duskbloodsは**2026年**のSwitch 2発売を予定。Nintendoは2026年9月24日の発売日噂を否定し「現時点で発売日情報はない」と声明。
+The Duskbloodsは**2026年**のSwitch 2発売を予定。Nintendoは2026年9月24日の発売日噂を否定し、Eurogamerの取材に「その発売日は正確ではありません。The Duskbloods の発売日に関する情報は現時点でありません」と回答。
 
 FromSoftwareの注力点は：
 
