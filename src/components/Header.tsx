@@ -24,9 +24,7 @@ export default function Header() {
           <NavLink href="/characters" className="nav-link">{t('characters')}</NavLink>
           <NavLink href="/maps" className="nav-link">{t('maps')}</NavLink>
           <NavLink href="/kin" className="nav-link">{t('kin')}</NavLink>
-          <NavLink href="/gallery" className="nav-link hidden lg:inline-flex">{t('gallery')}</NavLink>
           <NavLink href="/release-date" className="nav-link">{t('releaseDate')}</NavLink>
-          <NavLink href="/system-requirements" className="nav-link hidden xl:inline-flex">{t('systemRequirements')}</NavLink>
           <NavLink href="/faq" className="nav-link">{t('faq')}</NavLink>
         </nav>
         <div className="flex shrink-0 items-center gap-2">
@@ -40,9 +38,7 @@ export default function Header() {
         <NavLink href="/characters" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('characters')}</NavLink>
         <NavLink href="/maps" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('maps')}</NavLink>
         <NavLink href="/kin" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('kin')}</NavLink>
-        <NavLink href="/gallery" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('gallery')}</NavLink>
         <NavLink href="/release-date" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('releaseDate')}</NavLink>
-        <NavLink href="/system-requirements" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('systemRequirements')}</NavLink>
         <NavLink href="/faq" className="nav-link shrink-0 whitespace-nowrap px-2 py-1 text-xs">{t('faq')}</NavLink>
       </nav>
     </header>
