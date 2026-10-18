@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
-import { DOMAIN, SITE_NAME, DEFAULT_OG_IMAGE } from '@/lib/seo';
+import { DOMAIN, SITE_NAME, DEFAULT_OG_IMAGE, LOCALES } from '@/lib/seo';
 import GalleryView from '@/components/views/GalleryView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.gallery', path: '/gallery' });
@@ -21,6 +21,10 @@ function imageSrc(_group: string, n: number) {
   // Featured stills use unique frames from the official main set
   const pad = String(n).padStart(3, '0');
   return `${BASE}/${pad}.png`;
+}
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({

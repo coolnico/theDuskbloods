@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { LOCALES } from '@/lib/seo';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
@@ -8,6 +9,10 @@ const getMetadata = makePageMetadata({
   namespace: 'Metadata.home',
   path: '/',
 });
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
 export async function generateMetadata({
   params,

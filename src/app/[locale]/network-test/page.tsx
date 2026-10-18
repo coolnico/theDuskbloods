@@ -1,10 +1,15 @@
 import type { Metadata } from 'next';
+import { LOCALES } from '@/lib/seo';
 import { setRequestLocale } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
 import NetworkTestView from '@/components/views/NetworkTestView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.networkTest', path: '/network-test' });
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
 export async function generateMetadata({
   params,

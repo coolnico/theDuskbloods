@@ -1,10 +1,15 @@
 import type { Metadata } from 'next';
+import { LOCALES } from '@/lib/seo';
 import { setRequestLocale } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
 import CharactersView from '@/components/views/CharactersView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.characters', path: '/characters' });
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
 export async function generateMetadata({
   params,

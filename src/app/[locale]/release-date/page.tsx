@@ -2,10 +2,14 @@ import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
-import { DOMAIN, SITE_NAME } from '@/lib/seo';
+import { DOMAIN, SITE_NAME, LOCALES } from '@/lib/seo';
 import ReleaseDateView from '@/components/views/ReleaseDateView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.releaseDate', path: '/release-date' });
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
 export async function generateMetadata({
   params,

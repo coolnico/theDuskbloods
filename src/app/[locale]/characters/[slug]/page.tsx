@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
+import { LOCALES } from '@/lib/seo';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { requireValidLocale } from '@/lib/require-locale';
-import { isCharacterSlug } from '@/lib/characters';
+import { isCharacterSlug, CHARACTER_SLUGS } from '@/lib/characters';
 import { characterJsonLd, characterMetadata, type CharacterSeo, type CharacterSeoTemplates } from '@/lib/character-seo';
 import { buildCharacterFaq } from '@/lib/character-faq';
 import { notFound } from 'next/navigation';
@@ -24,6 +25,10 @@ async function getTemplates(locale: string): Promise<CharacterSeoTemplates> {
   const t = await getTranslations({ locale, namespace: 'characters' });
   const detail = t.raw('detail') as Record<string, string>;
   return { metaTitle: detail.seoMetaTitle, metaDesc: detail.seoMetaDesc, howToName: detail.seoHowTo };
+}
+
+export function generateStaticParams() {
+  return LOCALES.flatMap((locale) => CHARACTER_SLUGS.map((slug) => ({ locale, slug })));
 }
 
 export async function generateMetadata({

@@ -1,10 +1,15 @@
 import type { Metadata } from 'next';
+import { LOCALES } from '@/lib/seo';
 import { setRequestLocale } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
 import ContactView from '@/components/views/ContactView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.contact', path: '/contact' });
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
 export async function generateMetadata({
   params,
