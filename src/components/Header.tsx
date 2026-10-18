@@ -10,26 +10,26 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-border bg-bg/80 backdrop-blur">
-      <div className="shell flex h-16 items-center justify-between">
-        <Link href="/" className="flex items-center gap-2 no-underline">
+      <div className="shell flex h-16 items-center justify-between gap-3 lg:gap-6">
+        <Link href="/" className="flex shrink-0 items-center gap-2 no-underline">
           <img src="/favicon.svg" width="32" height="32" alt="" aria-hidden className="h-8 w-8" />
           <span className="font-heading text-lg font-bold tracking-tight text-text">
             Duskbloods <span className="text-muted">Guide</span>
           </span>
         </Link>
-        <nav className="hidden items-center gap-6 md:flex">
+        <nav className="hidden min-w-0 flex-1 items-center justify-center gap-x-3 whitespace-nowrap md:flex lg:gap-x-4 xl:gap-x-5">
           <NavLink href="/guides" className="nav-link">{t('guides')}</NavLink>
           <NavLink href="/latest" className="nav-link">{t('latest')}</NavLink>
           <NavLink href="/gameplay" className="nav-link">{t('gameplay')}</NavLink>
           <NavLink href="/characters" className="nav-link">{t('characters')}</NavLink>
           <NavLink href="/maps" className="nav-link">{t('maps')}</NavLink>
           <NavLink href="/kin" className="nav-link">{t('kin')}</NavLink>
-          <NavLink href="/gallery" className="nav-link">{t('gallery')}</NavLink>
+          <NavLink href="/gallery" className="nav-link hidden lg:inline-flex">{t('gallery')}</NavLink>
           <NavLink href="/release-date" className="nav-link">{t('releaseDate')}</NavLink>
-          <NavLink href="/system-requirements" className="nav-link">{t('systemRequirements')}</NavLink>
+          <NavLink href="/system-requirements" className="nav-link hidden xl:inline-flex">{t('systemRequirements')}</NavLink>
           <NavLink href="/faq" className="nav-link">{t('faq')}</NavLink>
         </nav>
-        <div className="flex items-center gap-2">
+        <div className="flex shrink-0 items-center gap-2">
           <LanguageSwitcher />
         </div>
       </div>
