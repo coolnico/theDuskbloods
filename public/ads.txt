@@ -1,0 +1,3 @@
+# ads.txt for duskbloods.net
+# Authorized digital sellers — Google AdSense
+google.com, pub-8183721371181494, DIRECT, f08c47fec0942fa0
