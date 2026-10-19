@@ -29,8 +29,8 @@
       "description": "An overview of The Duskbloods, the Nintendo Switch 2 exclusive from FromSoftware and director Hidetaka Miyazaki — its origins, themes, and why it matters."
     },
     "privacy": {
-      "title": "Privacy Policy — The Duskbloods",
-      "description": "Privacy policy for The Duskbloods fan information site. How we handle data, cookies, and analytics."
+      "title": "Privacy Policy — Duskbloods Guide",
+      "description": "How Duskbloods Guide handles data, cookies, Google Analytics, and advertising technologies. Unofficial The Duskbloods fan site."
     },
     "terms": {
       "title": "Terms of Service — The Duskbloods",
@@ -71,22 +71,31 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "description": "How The Duskbloods fan site handles data, cookies, and analytics.",
+    "description": "How Duskbloods Guide collects, uses, and shares data — including Google Analytics and advertising cookies.",
     "paragraphs": [
-      "This privacy policy explains how The Duskbloods fan information site (\"we\", \"us\") handles your data when you visit.",
-      "We do not require you to create an account or submit personal information to read our content. We may use privacy-friendly analytics to understand aggregate traffic and improve the site.",
-      "If present, cookies are used to remember your language preference and to support advertising or analytics partners. You can disable cookies in your browser settings at any time without affecting access to content.",
-      "This site is an unofficial fan resource and is not affiliated with or endorsed by FromSoftware or Nintendo. For questions about this policy, please contact us through the site's contact channels."
+      "This Privacy Policy explains how Duskbloods Guide (“we”, “us”) collects, uses, and shares information when you visit https://duskbloods.net (the “Site”). This is an unofficial fan information site about the game The Duskbloods.",
+      "We do not require an account and do not intentionally collect personal information such as your name, address, or payment details to read our content. Standard technical data may be processed automatically as described below.",
+      "Analytics. We use Google Analytics to understand aggregate traffic and improve the Site. Google Analytics may set cookies and similar technologies (such as identifiers) and may process your IP address, device and browser information, pages viewed, referral URL, and approximate location derived from IP. Google uses this data on our behalf to produce usage reports. Learn how Google uses data at https://policies.google.com/technologies/partner-sites and review Google’s Privacy Policy at https://policies.google.com/privacy.",
+      "Advertising cookies and web beacons. If we display ads, third-party vendors — including Google — may use cookies, web beacons, or similar identifiers to serve and measure ads, to limit how often you see an ad, and, where enabled, to personalize ads based on your visits to this and other sites. Google’s use of advertising cookies enables it and its partners to serve ads based on your visit to our Site and/or other sites on the Internet.",
+      "Other cookies. We may use a cookie to remember your language preference. Disabling cookies in your browser settings does not block access to our content.",
+      "Your choices. You can manage or opt out of personalized advertising in Google Ads Settings (https://adssettings.google.com/). You can opt out of Google Analytics advertising features via Google Analytics Opt-out Browser Add-on (https://tools.google.com/dlpage/gaoptout), or of some third-party cookies via www.aboutads.info/choices. You can also block or delete cookies in your browser. Where the EU/UK GDPR or ePrivacy rules apply, we will request consent before setting non-essential cookies or using identifiers for personalized ads.",
+      "Children. The Site is intended for a general audience and is not directed at children under 13 (or the applicable age in your country). We do not knowingly collect personal information from children.",
+      "Data retention and security. Analytics and server logs are retained only as long as needed for reporting, security, and abuse prevention. We use reasonable safeguards, but no method of transmission over the Internet is completely secure.",
+      "Your rights. Depending on your location, you may have rights to access, correct, delete, or restrict certain processing of your data, and to object to or withdraw consent where processing is based on consent. To make a request, contact us using the contact channels on the Site.",
+      "Changes. We may update this Privacy Policy from time to time. The latest version will always be published on this page with an updated date.",
+      "This Site is an unofficial fan resource and is not affiliated with or endorsed by FromSoftware or Nintendo. The Duskbloods and related marks belong to their respective owners.",
+      "Contact. For privacy questions, use the contact page on the Site (contact@duskbloods.net)."
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "description": "Terms of use for The Duskbloods fan information site.",
+    "description": "Terms of use for Duskbloods Guide. Includes a reference to our Privacy Policy.",
     "paragraphs": [
-      "By accessing this site you agree to these terms. The Duskbloods fan site provides free, unofficial information about the game The Duskbloods for informational and educational purposes.",
+      "By accessing this site you agree to these terms. Duskbloods Guide provides free, unofficial information about the game The Duskbloods for informational and educational purposes.",
       "The Duskbloods, all related names, marks, and assets are trademarks of their respective owners, including FromSoftware and Nintendo. This site claims no affiliation with, sponsorship from, or endorsement by those parties.",
-      "Content on this site is written independently and may be updated or corrected at any time. We make no warranties about the completeness or accuracy of information, which may change as the game develops before its 2026 release.",
-      "If you have concerns about content, please reach out through the site's contact channels."
+      "Content on this site is written independently and may be updated or corrected at any time. We make no warranties about the completeness or accuracy of information, which may change as the game develops. Official details should always be confirmed on Nintendo and FromSoftware channels.",
+      "Use of this site is also subject to our Privacy Policy, which explains how we handle data, cookies, analytics, and advertising technologies. Please review that page before using the site.",
+      "If you have concerns about content, copyright, or these terms, please reach out through the site's contact channels (contact@duskbloods.net)."
     ]
   },
   "nav": {
@@ -120,7 +129,8 @@
     "lead": "Updates, guides, and news about The Duskbloods.",
     "updatedOn": "Updated",
     "fallbackNotice": "This article is not yet available in your language. Showing English version.",
-    "readingTime": "{min} min read"
+    "readingTime": "{min} min read",
+    "imageCredit": "Images in this article are official materials © FromSoftware / Nintendo. Rankings, commentary, and recommendations are our own."
   },
   "home": {
     "hero": {
@@ -225,7 +235,8 @@
       "eyebrow": "SCREENSHOTS",
       "title": "From the Game",
       "cta": "Get More →",
-      "alt": "The Duskbloods screenshot {n}"
+      "alt": "The Duskbloods screenshot {n}",
+      "credit": "Screenshots are official materials © FromSoftware / Nintendo. Site copy and analysis are independent and unofficial."
     },
     "videos": {
       "eyebrow": "TRAILERS",
@@ -238,7 +249,8 @@
     "intro": {
       "eyebrow": "Gameplay",
       "title": "How to Play The Duskbloods",
-      "lead": "The Duskbloods is an action RPG built around 8-player PvPvE multiplayer matches. Here's how combat, characters, and match flow come together."
+      "lead": "The Duskbloods is an action RPG built around 8-player PvPvE multiplayer matches. Here's how combat, characters, and match flow come together.",
+      "updatedAt": "Last updated: October 19, 2026"
     },
     "sections": [
       {
@@ -579,13 +591,15 @@
           "a": "Register through the Nintendo eShop on your Switch 2. The closed network test runs in 2026. Check our Network Test page for exact dates and registration details."
         }
       ]
-    }
+    },
+    "sourceNote": "Official screenshots and system facts reference materials published by FromSoftware / Nintendo (network test gameplay guide). Layout, analysis, and recommendations on this page are independent and unofficial."
   },
   "characters": {
     "intro": {
       "eyebrow": "Characters",
       "title": "The Bloodsworn",
-      "lead": "The playable characters of The Duskbloods are the Bloodsworn — warriors who have gained superhuman power through special blood. Not mindless monsters, but conscious, dominant fighters with their own identity, history, and destiny."
+      "lead": "The playable characters of The Duskbloods are the Bloodsworn — warriors who have gained superhuman power through special blood. Not mindless monsters, but conscious, dominant fighters with their own identity, history, and destiny.",
+      "updatedAt": "Last updated: October 19, 2026"
     },
     "about": {
       "title": "More than a dozen fighters",
@@ -991,7 +1005,8 @@
       "title": "Tier lists & who to pick",
       "desc": "Rankings and beginner recommendations live in the Guides.",
       "cta": "Browse character guides"
-    }
+    },
+    "imageCredit": "Character art and screenshots are official materials © FromSoftware / Nintendo. Roster notes, playstyle tips, and rankings on this page are independent fan analysis, not official guidance."
   },
   "networkTest": {
     "intro": {
@@ -1363,6 +1378,28 @@
         {
           "label": "Playable characters",
           "value": "12+ Bloodsworn"
+        }
+      ]
+    },
+    "site": {
+      "title": "About this site",
+      "lead": "Duskbloods Guide is an independent fan information hub. We are not FromSoftware or Nintendo.",
+      "items": [
+        {
+          "title": "Who runs this site",
+          "desc": "Duskbloods Guide is run by an independent editorial team as a fan project. We are not affiliated with, sponsored by, or endorsed by FromSoftware, Nintendo, or Kadokawa."
+        },
+        {
+          "title": "What we publish",
+          "desc": "News explainers, system guides, character breakdowns, release-date tracking, and network-test notes — written for players who want clear, sourced answers."
+        },
+        {
+          "title": "Sources & independence",
+          "desc": "Facts come from official Nintendo/FromSoftware materials and public reporting. Analysis and rankings are our own. Official screenshots are credited to their owners; our commentary is independent."
+        },
+        {
+          "title": "Corrections & updates",
+          "desc": "We correct errors when found and update pages as the game develops. Spot something wrong? Use the contact page — we read every message."
         }
       ]
     }
@@ -1743,7 +1780,7 @@
     "email": {
       "title": "Email",
       "desc": "Send us an email and we'll get back to you as soon as possible.",
-      "address": "contact@duskbloods.com"
+      "address": "contact@duskbloods.net"
     },
     "note": {
       "title": "Disclaimer",
@@ -1754,7 +1791,8 @@
     "intro": {
       "eyebrow": "Maps",
       "title": "Lands of Dusk — Lowanro City Map Guide",
-      "lead": "When a Dusk Battle begins, Bloodsworn are summoned to the Lands of Dusk. The network test stages every match on one land: Lowanro City — a multilayered field of landmarks, streets, and wilderness."
+      "lead": "When a Dusk Battle begins, Bloodsworn are summoned to the Lands of Dusk. The network test stages every match on one land: Lowanro City — a multilayered field of landmarks, streets, and wilderness.",
+      "updatedAt": "Last updated: October 19, 2026"
     },
     "lands": {
       "title": "The Lands of Dusk",
@@ -1827,13 +1865,15 @@
       "title": "Routes & farming spots",
       "desc": "Map strategy guides live in the Guides.",
       "cta": "Browse map guides"
-    }
+    },
+    "sourceNote": "Official screenshots and system facts reference materials published by FromSoftware / Nintendo (network test gameplay guide). Layout, analysis, and recommendations on this page are independent and unofficial."
   },
   "kin": {
     "intro": {
       "eyebrow": "Kin",
       "title": "Kin — Compacts, Circles & Advancement",
-      "lead": "Kin are beings who struck a deal with the Order of Dusk. They enter compacts with Bloodsworn and lend their power in battle — a support layer on top of your weapons and Bloodsworn Skills."
+      "lead": "Kin are beings who struck a deal with the Order of Dusk. They enter compacts with Bloodsworn and lend their power in battle — a support layer on top of your weapons and Bloodsworn Skills.",
+      "updatedAt": "Last updated: October 19, 2026"
     },
     "what": {
       "title": "Compacts with Kin",
@@ -1891,7 +1931,8 @@
     "summon": {
       "title": "Summoning & Dismissing",
       "desc": "Summon and dismiss kin from the Function menu. When kin die, they are automatically dismissed and cannot be summoned again for a period. While dismissed or out of combat, a kin's HP gradually restores. You cannot dismiss kin while they are being attacked."
-    }
+    },
+    "sourceNote": "Official screenshots and system facts reference materials published by FromSoftware / Nintendo (network test gameplay guide). Layout, analysis, and recommendations on this page are independent and unofficial."
   },
   "systemRequirements": {
     "intro": {

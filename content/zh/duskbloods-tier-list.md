@@ -150,3 +150,8 @@ tags: ["tier-list", "characters"]
 - 站内资料：[人物图鉴](/zh/characters) · [玩法系统](/zh/gameplay) · [地图](/zh/maps)
 
 <p><em>相关阅读：<a href="/zh/latest/duskbloods-pvpve-explained">什么是 The Duskbloods PvPvE？</a> · <a href="/zh/latest/duskbloods-beginner-matchmaking">新手匹配机制解析</a></em></p>
+
+
+---
+
+*配图来源：FromSoftware / Nintendo 官方素材。排名与评论为粉丝独立分析。*

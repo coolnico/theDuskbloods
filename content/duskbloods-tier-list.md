@@ -150,3 +150,8 @@ See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and
 - Site data: [Bloodsworn roster](/characters) · [Gameplay systems](/gameplay) · [Maps](/maps)
 
 <p><em>Related: <a href="/latest/duskbloods-pvpve-explained">What Is The Duskbloods PvPvE?</a> · <a href="/latest/duskbloods-beginner-matchmaking">Beginner Matchmaking Explained</a></em></p>
+
+
+---
+
+*Image credit: official materials © FromSoftware / Nintendo. Rankings and commentary are independent fan analysis.*

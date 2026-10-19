@@ -71,22 +71,31 @@
   },
   "privacy": {
     "title": "隐私政策",
-    "description": "The Duskbloods 粉丝站如何处理数据、Cookie 与分析。",
+    "description": "Duskbloods Guide 如何收集、使用与共享数据——包括 Google Analytics 与广告 Cookie。",
     "paragraphs": [
-      "本隐私政策说明您访问 The Duskbloods 粉丝资讯站（以下简称「本站」）时，我们如何处理您的数据。",
-      "本站阅读内容无需注册账号或提交个人信息。我们可能使用注重隐私的分析工具，了解整体流量以改进站点。",
-      "如使用 Cookie，主要用于记住您的语言偏好，以及支持广告或分析合作伙伴。您可随时在浏览器设置中关闭 Cookie，且不影响内容访问。",
-      "本站为非官方粉丝资讯站，与 FromSoftware 或任天堂无任何隶属或受其认可关系。如对本政策有疑问，请通过站点的联系方式与我们沟通。"
+      "本隐私政策说明 Duskbloods Guide（“我们”）在您访问 https://duskbloods.net（“本站”）时如何收集、使用与共享信息。本站是关于游戏《The Duskbloods》的非官方粉丝资讯站。",
+      "阅读内容无需注册账号，我们也不会刻意收集姓名、地址或支付信息等个人身份信息。下列场景中可能自动处理必要的技术数据。",
+      "分析。我们使用 Google Analytics 了解汇总流量并改进本站。Google Analytics 可能使用 Cookie 及类似技术（如标识符），并可能处理 IP 地址、设备与浏览器信息、浏览页面、来源网址，以及由 IP 推断的大致位置。Google 代表我们处理这些数据以生成使用报告。了解 Google 如何使用数据：https://policies.google.com/technologies/partner-sites；Google 隐私政策：https://policies.google.com/privacy。",
+      "广告 Cookie 与网络信标。若我们展示广告，包括 Google 在内的第三方供应商可能使用 Cookie、网络信标或类似标识符来投放与衡量广告、限制广告展示频次；在启用个性化时，还可能根据您访问本站及其他网站的情况进行个性化广告投放。Google 使用广告 Cookie 后，可使其与合作伙伴根据您访问本站和/或互联网其他网站的情况向您展示广告。",
+      "其他 Cookie。我们可能使用 Cookie 记住您的语言偏好。您可在浏览器中禁用 Cookie，不影响正文阅读。",
+      "您的选择。您可在 Google 广告设置（https://adssettings.google.com/）管理或退出个性化广告；可通过 Google Analytics 浏览器插件（https://tools.google.com/dlpage/gaoptout）退出 Google Analytics 广告功能；也可通过 www.aboutads.info/choices 管理部分第三方 Cookie，或在浏览器中屏蔽/删除 Cookie。若适用欧盟/英国 GDPR 或电子隐私规则，我们会在设置非必要 Cookie 或将标识符用于个性化广告前征求同意。",
+      "儿童。本站面向一般受众，不针对 13 岁以下（或您所在国家/地区的适用年龄）儿童。我们不会故意收集儿童个人信息。",
+      "保留与安全。分析数据与服务器日志仅在报告、安全与防滥用所需期限内保留。我们采取合理安全措施，但互联网传输无法保证绝对安全。",
+      "您的权利。视您所在地区而定，您可能享有访问、更正、删除或限制特定数据处理的权利，以及在基于同意的处理中撤回同意或提出异议的权利。如需行使，请通过本站联系页面与我们联系。",
+      "变更。我们可能不时更新本隐私政策，最新版本将始终发布在本页并更新日期。",
+      "本站是非官方粉丝资源，与 FromSoftware、Nintendo 无隶属关系，亦未获其背书。The Duskbloods 及相关商标归各自权利人所有。",
+      "联系。隐私相关问题请通过本站联系页面联系（contact@duskbloods.net）。"
     ]
   },
   "terms": {
     "title": "服务条款",
     "description": "The Duskbloods 粉丝资讯站的使用条款。",
     "paragraphs": [
-      "访问本站即表示您同意以下条款。The Duskbloods 粉丝站免费提供关于游戏《The Duskbloods》的非官方资讯，仅供信息与教育目的。",
-      "The Duskbloods 及相关的一切名称、商标与素材均归各自权利人所有，包括 FromSoftware 与任天堂。本站不主张与上述方有任何合作、赞助或受其认可关系。",
-      "本站内容由团队独立撰写，可能随时更新或更正。游戏 2026 年发售前仍处于开发阶段，信息可能变动，我们不保证内容的完整或准确。",
-      "如对内容有任何顾虑，请通过站点的联系方式与我们联系。"
+      "访问本站即表示您同意本条款。Duskbloods Guide 提供关于游戏《The Duskbloods》的免费非官方信息，仅供信息与教育用途。",
+      "The Duskbloods 及所有相关名称、商标与素材归各自权利人所有，包括 FromSoftware 与 Nintendo。本站不主张与上述方存在隶属、赞助或背书关系。",
+      "站内内容为独立撰写，可能随时更新或更正。我们不对信息的完整性或准确性作保证，内容可能随游戏开发而变化。官方细节请以 Nintendo 与 FromSoftware 渠道为准。",
+      "使用本站亦受《隐私政策》约束，其中说明我们如何处理数据、Cookie、分析与广告技术。使用前请查阅该页。",
+      "如对内容、版权或本条款有疑问，请通过站内联系渠道联系（contact@duskbloods.net）。"
     ]
   },
   "nav": {
@@ -120,7 +129,8 @@
     "lead": "The Duskbloods 的最新消息、攻略与更新。",
     "updatedOn": "更新于",
     "fallbackNotice": "该文章暂无您的语言版本，正在显示英文版。",
-    "readingTime": "{min} 分钟阅读"
+    "readingTime": "{min} 分钟阅读",
+    "imageCredit": "本文配图为 FromSoftware / Nintendo 官方素材。排名、评论与建议为本站独立观点。"
   },
   "home": {
     "hero": {
@@ -225,7 +235,8 @@
       "eyebrow": "游戏截图",
       "title": "游戏场景",
       "cta": "查看更多 →",
-      "alt": "黄昏血族 截图 {n}"
+      "alt": "黄昏血族 截图 {n}",
+      "credit": "截图来自 FromSoftware / Nintendo 官方素材。站内文案与分析为独立非官方内容。"
     },
     "videos": {
       "eyebrow": "预告片",
@@ -238,7 +249,8 @@
     "intro": {
       "eyebrow": "玩法介绍",
       "title": "游戏机制",
-      "lead": "深入了黄昏征讨的核心机制。8位血族战士在人类黄昏中争夺始源之血，每场征讨都是一场生存、战斗与策略的较量。"
+      "lead": "深入了黄昏征讨的核心机制。8位血族战士在人类黄昏中争夺始源之血，每场征讨都是一场生存、战斗与策略的较量。",
+      "updatedAt": "最后更新：2026年10月19日"
     },
     "sections": [
       {
@@ -579,13 +591,15 @@
           "a": "通过 Switch 2 上的 Nintendo eShop 注册。封闭网络测试于 2026 年举行。请查看我们的网络测试页面了解确切日期和注册详情。"
         }
       ]
-    }
+    },
+    "sourceNote": "官方截图与系统事实参考 FromSoftware / Nintendo 公布的资料（网络测试玩法指南）。本页的版式、分析与建议为独立非官方内容。"
   },
   "characters": {
     "intro": {
       "eyebrow": "角色",
       "title": "Bloodsworn",
-      "lead": "The Duskbloods 的可玩角色是「Bloodsworn」——凭借特殊之血获得超凡之力的战士。他们并非失控的怪物，而是拥有自我意志与命运、自觉而强大的战士。"
+      "lead": "The Duskbloods 的可玩角色是「Bloodsworn」——凭借特殊之血获得超凡之力的战士。他们并非失控的怪物，而是拥有自我意志与命运、自觉而强大的战士。",
+      "updatedAt": "最后更新：2026年10月19日"
     },
     "about": {
       "title": "十余位战士",
@@ -991,7 +1005,8 @@
       "title": "强度榜与选角推荐",
       "desc": "排名与新手推荐看攻略区。",
       "cta": "浏览角色攻略"
-    }
+    },
+    "imageCredit": "角色立绘与截图为 FromSoftware / Nintendo 官方素材。本页的角色说明、打法要点与评价为粉丝独立分析，非官方指引。"
   },
   "networkTest": {
     "intro": {
@@ -1363,6 +1378,28 @@
         {
           "label": "可玩角色",
           "value": "12+ 位Bloodsworn"
+        }
+      ]
+    },
+    "site": {
+      "title": "关于本站",
+      "lead": "Duskbloods Guide 是独立的粉丝资讯站，并非 FromSoftware 或 Nintendo。",
+      "items": [
+        {
+          "title": "谁在运营",
+          "desc": "Duskbloods Guide 由独立编辑团队以粉丝项目形式运营，与 FromSoftware、Nintendo、Kadokawa 无隶属、赞助或背书关系。"
+        },
+        {
+          "title": "我们发布什么",
+          "desc": "新闻解读、系统指南、角色解析、发售日追踪与网络测试记录——面向需要清晰、可溯源答案的玩家。"
+        },
+        {
+          "title": "来源与独立性",
+          "desc": "事实来自 Nintendo/FromSoftware 官方资料与公开报道；分析与排名为本站独立观点。官方截图已标注归属，评论为独立撰写。"
+        },
+        {
+          "title": "更正与更新",
+          "desc": "发现错误会及时更正，并随游戏开发更新页面。有问题请通过联系页告诉我们，我们都会阅读。"
         }
       ]
     }
@@ -1740,7 +1777,7 @@
     "email": {
       "title": "电子邮件",
       "desc": "发送邮件至以下地址，我们会尽快回复。",
-      "address": "contact@duskbloods.com"
+      "address": "contact@duskbloods.net"
     },
     "note": {
       "title": "声明",
@@ -1751,7 +1788,8 @@
     "intro": {
       "eyebrow": "地图",
       "title": "黄昏之地 — 洛安荣街道地图指南",
-      "lead": "战役开始后，血族将被召唤至「黄昏之地」。网络测试版的舞台是其中之一「洛安荣街道」——由地标、街区与野外组成的立体场地。"
+      "lead": "战役开始后，血族将被召唤至「黄昏之地」。网络测试版的舞台是其中之一「洛安荣街道」——由地标、街区与野外组成的立体场地。",
+      "updatedAt": "最后更新：2026年10月19日"
     },
     "lands": {
       "title": "黄昏之地",
@@ -1824,13 +1862,15 @@
       "title": "路线与刷点攻略",
       "desc": "地图策略类文章在攻略区。",
       "cta": "浏览地图攻略"
-    }
+    },
+    "sourceNote": "官方截图与系统事实参考 FromSoftware / Nintendo 公布的资料（网络测试玩法指南）。本页的版式、分析与建议为独立非官方内容。"
   },
   "kin": {
     "intro": {
       "eyebrow": "眷属",
       "title": "眷属 — 契约、魔法阵与成长",
-      "lead": "眷属是曾与黄昏协会达成交易的存在。他们会与血族订定契约并借出力量，是在武器与血族技之外的支援体系。"
+      "lead": "眷属是曾与黄昏协会达成交易的存在。他们会与血族订定契约并借出力量，是在武器与血族技之外的支援体系。",
+      "updatedAt": "最后更新：2026年10月19日"
     },
     "what": {
       "title": "与眷属的契约",
@@ -1888,7 +1928,8 @@
     "summon": {
       "title": "召唤与召还",
       "desc": "可通过功能选单召唤或召还眷属。眷属倒下后会被自动召还，一段时间内无法再次召唤。被召还或非战斗状态下，眷属的 HP 会逐渐恢复。眷属受到攻击时无法召还。"
-    }
+    },
+    "sourceNote": "官方截图与系统事实参考 FromSoftware / Nintendo 公布的资料（网络测试玩法指南）。本页的版式、分析与建议为独立非官方内容。"
   },
   "relatedHubs": {
     "eyebrow": "继续阅读",

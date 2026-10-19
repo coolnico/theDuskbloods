@@ -3,50 +3,19 @@ import { setRequestLocale } from 'next-intl/server';
 import { makeBreadcrumbLd, makeFaqPageLd, makeItemListLd } from '@/lib/page-helpers';
 import {
   getArticle,
-  getArticleMetasByCategory,
   getSlugsBySection,
   getSlugSection,
   getTranslatedLocales,
 } from '@/lib/news';
-import { isCategorySlug, getCategorySlugs, GUIDES_CATEGORIES } from '@/lib/guides-categories';
 import { DOMAIN, SITE_NAME, DEFAULT_OG_IMAGE } from '@/lib/seo';
 import { notFound } from 'next/navigation';
-import { Calendar, ArrowLeft, Clock, Tag } from 'lucide-react';
+import { Calendar, ArrowLeft, Clock, Tag, User } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
-import NewsList from '@/components/NewsList';
 import RelatedHubs from '@/components/RelatedHubs';
 
-// Shared /guides/[slug] route: category pages (tier-lists, weapons, ...) + guide articles
-const CATEGORY_TITLES: Record<string, string> = {
-  'tier-lists': 'Tier Lists & Who to Pick',
-  weapons: 'Weapons & Loadouts',
-  maps: 'Maps & Routes',
-  mechanics: 'Gameplay Mechanics',
-  comparisons: 'Comparisons & Buying',
-  progression: 'Progression & Endgame',
-};
-
-const CATEGORY_DESCS: Record<string, string> = {
-  'tier-lists': 'Bloodsworn tier lists, beginner picks, and roster updates. Full character data lives in Characters.',
-  weapons: 'Best weapons, Blood Arts loadouts, and build recommendations.',
-  maps: 'Routes, farming spots, and map strategy. Landmark data lives in Maps.',
-  mechanics: 'Virtue, combat, matchmaking, and core systems explained.',
-  comparisons: 'How The Duskbloods stacks up, and whether to buy.',
-  progression: 'Endings, trophies, builds, and post-launch updates.',
-};
-
-// Cross-link to the evergreen data pages (maps only — Characters is linked from the hub)
-const HUB_PROMO: Record<string, { title: string; desc: string; cta: string; href: string }> = {
-  maps: {
-    title: 'Looking for map data?',
-    desc: 'Lowanro City landmarks, regional features, and map tools live in the Maps section.',
-    cta: 'Open Maps',
-    href: '/maps',
-  },
-};
-
+// /guides/[slug] route: guide articles only (category pages removed until product-ready)
 export function generateStaticParams() {
-  return [...getCategorySlugs(), ...getSlugsBySection('guides')].map((slug) => ({ slug }));
+  return getSlugsBySection('guides').map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({
@@ -55,29 +24,6 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-
-  if (isCategorySlug(slug)) {
-    const title = CATEGORY_TITLES[slug];
-    const url = `${DOMAIN}/guides/${slug}`;
-    return {
-      title: `The Duskbloods ${title} Guides`,
-      description: CATEGORY_DESCS[slug],
-      alternates: {
-        canonical: url,
-        languages: Object.fromEntries([
-          ['en', url],
-          ['x-default', url],
-        ]),
-      },
-      openGraph: {
-        type: 'website',
-        title: `The Duskbloods ${title} Guides`,
-        description: CATEGORY_DESCS[slug],
-        url,
-        siteName: SITE_NAME,
-      },
-    };
-  }
 
   if (getSlugSection(slug) !== 'guides') return {};
   const article = getArticle('en', slug);
@@ -118,49 +64,6 @@ export default async function GuidesSlugPage({ params }: { params: Promise<{ slu
   setRequestLocale('en');
   const { slug } = await params;
 
-  // --- Category page ---
-  if (isCategorySlug(slug)) {
-    const title = CATEGORY_TITLES[slug];
-    const articles = getArticleMetasByCategory('en', slug);
-    const breadcrumbLd = makeBreadcrumbLd('en', [
-      { name: 'Home', href: '/' },
-      { name: 'Guides', href: '/guides' },
-      { name: title },
-    ]);
-    const promo = HUB_PROMO[slug];
-
-    return (
-      <>
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
-        <main className="relative z-10">
-          <article className="shell py-10 sm:py-16">
-            <Link href="/guides" className="mb-6 inline-flex items-center gap-1 text-sm text-muted hover:text-text transition-colors">
-              <ArrowLeft className="h-4 w-4" /> All Guides
-            </Link>
-            <header className="mb-8 sm:mb-12">
-              <span className="eyebrow">Guides</span>
-              <h1 className="h-title mt-3 text-2xl font-bold sm:text-3xl lg:text-4xl">{title}</h1>
-              <p className="mt-3 max-w-3xl text-sm leading-relaxed text-muted sm:mt-4 sm:text-base">
-                {CATEGORY_DESCS[slug]}
-              </p>
-            </header>
-            {promo && (
-              <Link href={promo.href as never} className="card mb-8 block transition hover:border-gold sm:mb-10">
-                <p className="text-xs uppercase tracking-wider text-gold">{promo.title}</p>
-                <p className="mt-2 text-sm leading-relaxed text-muted">{promo.desc}</p>
-                <span className="mt-3 inline-block text-sm font-semibold text-blood hover:underline underline-offset-4">
-                  {promo.cta} →
-                </span>
-              </Link>
-            )}
-            <NewsList articles={articles} locale="en" noArticlesText="No guides in this category yet." />
-          </article>
-        </main>
-      </>
-    );
-  }
-
-  // --- Article page ---
   if (getSlugSection(slug) !== 'guides') notFound();
   const article = getArticle('en', slug);
   if (!article) notFound();
@@ -181,7 +84,7 @@ export default async function GuidesSlugPage({ params }: { params: Promise<{ slu
     dateModified: article.modified || article.date,
     inLanguage: 'en',
     wordCount: article.wordCount,
-    author: { '@type': 'Organization', name: SITE_NAME },
+    author: { '@type': 'Organization', name: article.author || SITE_NAME, url: DOMAIN },
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
@@ -220,6 +123,10 @@ export default async function GuidesSlugPage({ params }: { params: Promise<{ slu
           </Link>
           <header>
             <div className="flex flex-wrap items-center gap-3 text-xs text-muted">
+              <span className="flex items-center gap-1.5">
+                <User className="h-3.5 w-3.5" />
+                <span itemProp="author">{article.author || SITE_NAME}</span>
+              </span>
               <span className="flex items-center gap-1.5">
                 <Calendar className="h-3.5 w-3.5" />
                 <time dateTime={article.date} itemProp="datePublished">

@@ -4,7 +4,7 @@ import { makeBreadcrumbLd } from '@/lib/page-helpers';
 import { getArticle, getRootSlugs, getTranslatedLocales } from '@/lib/news';
 import { DOMAIN, SITE_NAME, DEFAULT_OG_IMAGE } from '@/lib/seo';
 import { notFound } from 'next/navigation';
-import { Calendar, ArrowLeft, Clock, Tag } from 'lucide-react';
+import { Calendar, ArrowLeft, Clock, Tag, User } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
 import RelatedHubs from '@/components/RelatedHubs';
 
@@ -75,7 +75,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     dateModified: article.modified || article.date,
     inLanguage: 'en',
     wordCount: article.wordCount,
-    author: { '@type': 'Organization', name: SITE_NAME },
+    author: { '@type': 'Organization', name: article.author || SITE_NAME, url: DOMAIN },
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
@@ -104,6 +104,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           </Link>
           <header>
             <div className="flex flex-wrap items-center gap-3 text-xs text-muted">
+              <span className="flex items-center gap-1.5">
+                <User className="h-3.5 w-3.5" />
+                <span itemProp="author">{article.author || SITE_NAME}</span>
+              </span>
               <span className="flex items-center gap-1.5">
                 <Calendar className="h-3.5 w-3.5" />
                 <time dateTime={article.date} itemProp="datePublished">

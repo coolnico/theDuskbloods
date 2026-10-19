@@ -15,6 +15,7 @@ export interface ArticleData {
   title: string;
   date: string;
   modified: string | null;
+  author: string;
   summary: string;
   image: string | null;
   tags: string[];
@@ -31,6 +32,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Gameplay Video Revealed — 12-Hour Preview Breakdown",
       "date": "2026-09-05",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "New gameplay footage from a 12-hour hands-on session reveals The Duskbloods PvPvE combat, 8-player matches, virtue system and more.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -50,6 +52,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods ゲームプレイ映像公開 — 12時間プレイ体験で明らかになった核心メカニズム",
       "date": "2026-09-05",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods（ザ・ダスクブラッズ）の12時間プレイ体験から、PvPvEバトル、8人対戦、美徳システムなど核心玩法が明らかに。完全ゲーム映像付き。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -69,6 +72,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 黄昏血族 游戏视频曝光 — 12小时试玩详解",
       "date": "2026-09-05",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods 黄昏血族 12小时试玩体验曝光PvPvE战斗、8人对战、美德系统等核心玩法。内含完整游戏视频。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -88,6 +92,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 黃昏血族 遊戲影片曝光 — 12小時試玩詳解",
       "date": "2026-09-05",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods 黃昏血族 12小時試玩體驗曝光PvPvE戰鬥、8人對戰、美德系統等核心玩法。內含完整遊戲影片。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -107,6 +112,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods — геймплейное видео раскрыто: подробный разбор 12-часовой.demo",
       "date": "2026-09-05",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Новое геймплейное видео The Duskbloods после 12-часовой сессии раскрывает PvPvE-бойню, матчи на 8 игроков, систему добродетели и многое другое.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -128,6 +134,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Matchmaking: Miyazaki Confirms New Players Will Match With New Players",
       "date": "2026-08-24",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "In an IGN interview, Hidetaka Miyazaki confirmed The Duskbloods will use skill-based matchmaking — new players will be matched with other beginners, reducing the 'smurf' problem.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -146,6 +153,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloodsのマッチメイキング：宮崎英高が『初心者は初心者とマッチする』と明言",
       "date": "2026-08-24",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "IGNのインタビューで、宮崎英高はThe Duskbloodsがスキルベースのマッチメイキングを採用することを明言。初心者は他の初心者とマッチし、いわゆる「いじめ」問題が軽減されます。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -164,6 +172,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 新手不用怕：宫崎英高已明确「新手会匹配新手」",
       "date": "2026-08-24",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "根据 IGN 采访，宫崎英高确认 The Duskbloods 将采用按水平分层匹配机制——新手优先匹配新手，降低「炸鱼」体验。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -184,6 +193,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Network Test Results: Servers Crashed, PvP Lag, and What We Learned",
       "date": "2026-08-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods network test ran August 21-24, 2026 across five sessions. Servers crashed under record demand, PvP had noticeable lag, but the core gameplay impressed. Here's a full breakdown of what happened and what it means for launch.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -206,6 +216,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "ザ・ダスクブラッズ ネットワークテスト結果まとめ：サーバー落ち、PvPラグ、そしてプレイヤーの声",
       "date": "2026-08-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods（ザ・ダスクブラッズ）のネットワークテストが2026年8月21〜24日に全5セッションで実施。初回はサーバーオーバーロードでクラッシュ、PvPに明確なラグがあったが、コアゲームプレイは高評価。テスト結果、プレイヤーのフィードバック、今後の展望を総括する。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -229,6 +240,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "黄昏血族 网络测试结果回顾：服务器崩溃、PvP卡顿、玩家反馈全汇总",
       "date": "2026-08-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods（黄昏血族）网络测试于2026年8月21日至24日举行，共五场。首场测试服务器崩溃，PvP存在明显延迟，但核心玩法获好评。本文全面回顾测试结果、玩家反馈及对正式发售的影响。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -252,6 +264,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "《黃昏血族》網路測試回顧：伺服器炸裂、PvP 延遲災情與玩家評價總整理",
       "date": "2026-08-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "《The Duskbloods》（黃昏血族）網路測試於 2026 年 8 月 21 日至 24 日舉行，共五場。首場伺服器過載崩潰，PvP 存在明顯延遲，但核心玩法獲得好評。本文完整整理測試結果、玩家反饋與後續展望。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -275,6 +288,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "Итоги сетевого теста The Duskbloods: упавшие сервера, лаги в PvP и чего ждать дальше",
       "date": "2026-08-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Сетевой тест The Duskbloods прошёл с 21 по 24 августа 2026 года — пять сессий. Первая сессия рухнула из-за перегрузки серверов, PvP страдал от лагов, но геймплей в целом получил положительные отзывы. Полный разбор результатов, отзывов игроков и перспектив на релиз.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -300,6 +314,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "Will The Duskbloods Still Release in 2026? October Delay Risk, Explained",
       "date": "2026-10-11",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "It's October 2026 and The Duskbloods still has no release date. With under three months left in the year — and GTA 6 owning November — talk of a slip into 2027 is getting louder. Here's what's confirmed, what's just fear, and why the network test numbers cut both ways.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -333,7 +348,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Was the network test a success?",
-          "answer": "Mixed, with heat. Gameplay sentiment was strong and applications beat Nightreign. Servers and PvP latency were the weak spot — and the most likely reason nobody will print a date yet.\n\n---"
+          "answer": "Mixed, with heat. Gameplay sentiment was strong and applications beat Nightreign. Servers and PvP latency were the weak spot — and the most likely reason nobody will print a date yet.\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -342,6 +357,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "『The Duskbloods』は2026年に間に合うのか？ 10月時点の延期リスクと発売日を整理",
       "date": "2026-10-11",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "2026年10月に入っても『The Duskbloods』の発売日は空白のまま。年内は残り3ヶ月を切り、11月はGTA 6が塞ぐ。2027年への延期観測が急速に強まるなか、何が事実で何が憶測なのか、ネットテストの数字が何を示すのかをまとめる。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -377,7 +393,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "ネットワークテストは成功だったか？",
-          "answer": "熱量はあるが毀誉褒貶あり。ゲームプレイ評価と応募数は好調。サーバーとPvP遅延が弱点で、日付が出ない最大の理由でもある。\n\n---"
+          "answer": "熱量はあるが毀誉褒貶あり。ゲームプレイ評価と応募数は好調。サーバーとPvP遅延が弱点で、日付が出ない最大の理由でもある。\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -386,6 +402,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 2026年还能出吗？10月跳票风险分析与发售日最新消息",
       "date": "2026-10-11",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "进入 2026 年 10 月，《The Duskbloods》仍无具体发售日。距离年底只剩不到三个月，GTA 6 又要抢走 11 月档期，跳票到 2027 的声音越来越大。本文梳理 10 月最新动态：为什么大家觉得它「几乎确定会延期」，网络测试数据又说明了什么，以及现在该怎么看待 12 月 31 日等传闻日期。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -407,6 +424,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "《The Duskbloods》（黃昏血族）2026年還出得了嗎？10月跳票風險與發售日最新整理",
       "date": "2026-10-11",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "都 2026 年 10 月了，《The Duskbloods》（黃昏血族）還是沒有發售日。年內只剩不到三個月，11 月又有 GTA 6 正面搶檔，「延期到 2027」的聲音越來越大。本文整理 10 月最新狀態：哪些是官方事實、哪些只是恐慌，以及網路測試數據其實說明了什麼。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -431,6 +449,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods выйдет в 2026-м? Разбор рисков переноса на октябрь",
       "date": "2026-10-11",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Уже октябрь 2026-го, а у The Duskbloods по-прежнему нет даты релиза. До конца года осталось меньше трёх месяцев, ноябрь забирает GTA 6 — и разговоры о переносе на 2027-й звучат всё громче. Что подтверждено, чему не стоит верить и почему цифры сетевого теста режут в обе стороны.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -464,7 +483,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Сетевой тест можно считать успехом?",
-          "answer": "Скорее «шумный и спорный». Игровой цикл хвалили, заявок было больше, чем у Nightreign. Серверы и лаги PvP — слабое место и главная причина, почему дату до сих пор не ставят.\n\n---"
+          "answer": "Скорее «шумный и спорный». Игровой цикл хвалили, заявок было больше, чем у Nightreign. Серверы и лаги PvP — слабое место и главная причина, почему дату до сих пор не ставят.\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -475,6 +494,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "What Is The Duskbloods PvPvE? A Complete Guide to Miyazaki's Core Gameplay",
       "date": "2026-08-27",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "A deep dive into The Duskbloods PvPvE mechanics — the hybrid player-vs-player-vs-environment mode where you fight both human rivals and AI enemies simultaneously.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -514,6 +534,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods の PvPvE とは？宮崎英高最新作のコアゲームプレイ完全ガイド",
       "date": "2026-08-27",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods（ザ・ダスクブラッズ）の PvPvE メカニズムを徹底解説——プレイヤー対プレイヤー対環境のハイブリッド対戦モードで、他のプレイヤーと AI 敵を同時に相手にする新感覚ゲームプレイ。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -532,6 +553,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "黄昏血族(The Duskbloods)中的 PvPvE 是什么？宫崎英高新作核心玩法全面解析",
       "date": "2026-08-27",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "详细解读 The Duskbloods（黄昏血族）的 PvPvE 机制——玩家同时对抗其他玩家和 AI 敌人的混合对战模式，宫崎英高 Switch 2 独占新作核心玩法指南。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -550,6 +572,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 的 PvPvE 是什麼？宮崎英高新作核心玩法完整解析",
       "date": "2026-08-27",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "深入解析 The Duskbloods（黃昏血族）的 PvPvE 機制——玩家同時對抗其他玩家與 AI 敵人的混合對戰模式，宮崎英高 Switch 2 獨佔新作核心玩法指南。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -568,6 +591,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "PvPvE в The Duskbloods — что это и как устроен главный геймплей от Миядзаки",
       "date": "2026-08-27",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Подробный разбор PvPvE-механик The Duskbloods — гибридный режим, где вы сражаетесь и с другими игроками, и с AI-врагами одновременно. Гайд по основному геймплею нового эксклюзива Switch 2 от Миядзаки.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -609,6 +633,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Release Date: December 3, 2026 Prediction & Nintendo Direct Analysis",
       "date": "2026-09-06",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Based on Nintendo's release patterns and the upcoming Nintendo Direct, we predict The Duskbloods will launch on December 3, 2026. Here's our analysis of the release window and what to expect from the September 9 showcase.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -628,6 +653,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 発売日予測：2026年12月3日 & Nintendo Direct 分析",
       "date": "2026-09-06",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "任天堂のリリース戦略と今後のNintendo Directに基づき、The Duskbloodsは2026年12月3日に発売されると予測。発売ウィンドウと9月9日のショーケースについて分析する。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -647,6 +673,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 发售日预测：2026年12月3日 & Nintendo Direct 分析",
       "date": "2026-09-06",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "基于任天堂的发布策略和即将到来的 Nintendo Direct，我们预测 The Duskbloods 将于2026年12月3日发售。以下是关于发售窗口和9月9日发布会的分析。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -668,6 +695,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Release Date: Trackers Now Point to December 31, 2026 — But Is It Official?",
       "date": "2026-10-01",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Since our September Direct recap, major game databases — including IGN's own listing — have begun populating a concrete release date for The Duskbloods: December 31, 2026. Here's what's actually confirmed, what's still a placeholder, and how it lines up with our December 3 prediction.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -688,6 +716,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "『The Duskbloods』発売日を追う：各データベースが12月31日を指し示す——だが公式なのか？",
       "date": "2026-10-01",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "9月Directの振り返りで「発売日は依然未定」と伝えた矢先、IGNの公式ゲームページを含む主要データベースが『The Duskbloods』の発売日として2026年12月31日を記載し始めた。何が確認済みで、何がまだプレースホルダーなのか、そして以前の12月3日予測との関係を整理する。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -708,6 +737,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "《The Duskbloods》发售日追踪：多家数据库指向 12 月 31 日——但这是官方日期吗？",
       "date": "2026-10-01",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "继我们的九月 Direct 复盘称《The Duskbloods》「仍无发售日」之后，包括 IGN 官方游戏页在内的多家主流游戏数据库开始填入具体日期：2026 年 12 月 31 日。本文梳理什么是已确认的、什么仍是占位符，以及它与我们此前的 12 月 3 日预测如何对应。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -728,6 +758,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "《The Duskbloods》（黃昏血族）發售日追蹤：多家資料庫指向 12 月 31 日——這是官方日期嗎？",
       "date": "2026-10-01",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "繼九月 Direct 回顧指出「發售日仍未公佈」之後，包括 IGN 官方遊戲頁在內的多家主流資料庫，開始把《The Duskbloods》（黃昏血族）的發售日填為 2026 年 12 月 31 日。本文整理哪些資訊已獲確認、哪些仍是佔位符，以及它與我們先前 12 月 3 日預測之間的關係。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -750,6 +781,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "Дата релиза The Duskbloods: трекеры указывают на 31 декабря 2026 — но это официально?",
       "date": "2026-10-01",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "После нашего разбора сентябрьского Direct крупные игровые базы — включая страницу IGN — начали подставлять конкретную дату выхода The Duskbloods: 31 декабря 2026 года. Разбираем, что подтверждено, что остаётся заглушкой и как это соотносится с нашим прогнозом на 3 декабря.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -772,6 +804,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Release Date: September 24? Nintendo Says No",
       "date": "2026-08-25",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "A preview article claimed The Duskbloods would launch on September 24, 2026. Nintendo has since denied the date. Here's what we actually know.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -790,6 +823,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 発売日は9月24日？任天堂が正式に否定",
       "date": "2026-08-25",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "一部のプレビュー記事で『The Duskbloods』の発売日が9月24日と報じられたが、任天堂がこの日付を否定。現在確定しているのは2026年発売、Switch 2専売のみ。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -808,6 +842,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods 发售日是9月24？任天堂已否认",
       "date": "2026-08-25",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "此前有媒体声称 The Duskbloods 将于9月24日发售，随后 Nintendo Wire 和 NintendoLife 相继报道任天堂已否认这一日期。目前确认的只有：2026年发售，Switch 2 独占。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -828,6 +863,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "September Direct Recap: Still No Release Date for The Duskbloods",
       "date": "2026-09-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods was a no-show at Nintendo's September 2026 Direct. The game still lists a 2026 window, but there's still no date — and fans are starting to worry about a slip into 2027.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -848,6 +884,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "9月Direct振り返り：『The Duskbloods』発売日は依然未定、延期不安が加速",
       "date": "2026-09-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "2026年9月のNintendo Directで『The Duskbloods』は登場せず。公式には依然「2026年発売」のままだが、具体的な日付は未発表のまま。プレイヤーの間では2027年への延期を危惧する声が強まっている。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -868,6 +905,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "九月 Direct 回顾：The Duskbloods 发售日仍未公布，跳票疑虑升温",
       "date": "2026-09-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "2026年9月 Nintendo Direct 上，The Duskbloods 再度缺席。游戏仍标注 2026 年发售，但具体日期迟迟未定，玩家开始担心跳票到 2027。我们梳理了这场发布会带来了什么，以及这对发售窗口意味着什么。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -888,6 +926,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "九月 Direct 回顧：《The Duskbloods》發售日仍未公佈，跳票疑慮升溫",
       "date": "2026-09-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "2026 年 9 月 Nintendo Direct 上，《The Duskbloods》（黃昏血族）再度缺席。遊戲仍標註 2026 年發售，但具體日期遲遲未定，玩家開始擔心跳票到 2027。本文整理這場發表會帶來什麼，以及對發售窗口的影響。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -910,6 +949,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "Сентябрьский Nintendo Direct: у The Duskbloods так и нет даты релиза",
       "date": "2026-09-26",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods полностью пропал с сентябрьского Nintendo Direct 2026. Игра всё ещё заявлена на 2026 год, но конкретной даты нет — и фанаты всё серьёзнее думают о переносе на 2027-й.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -932,6 +972,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods Tier List: Best Bloodsworn Ranked (2026)",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Network-test preview tier list for The Duskbloods: all 6 playable Bloodsworn ranked from S to B, with who to pick first, kit strengths, and how Virtue culling shapes the meta.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -939,8 +980,8 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         "characters"
       ],
       "section": "guides",
-      "content": "<blockquote>\n<p><strong>TL;DR</strong>: In the August 2026 network test, <strong>Albert</strong> and <strong>Zork</strong> are the safest picks for most players — easy kits, strong Phase I farming, and useful tools at every culling. <strong>Sniper Layla</strong> and <strong>Bloodhand Jan</strong> are A-tier specialists. <strong>Trang Lanh</strong> and <strong>Senator Samir Patres</strong> are high-skill, high-reward picks that punish bad positioning but demand clean execution. This is a <strong>preview ranking</strong> based on the closed network test, not the final retail build.</p>\n</blockquote>\n<hr>\n<h2>The Duskbloods Tier List (Network Test · Oct 2026)</h2>\n<table>\n<thead>\n<tr>\n<th>Tier</th>\n<th>Bloodsworn</th>\n<th>Role</th>\n<th>Difficulty</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>S</strong></td>\n<td><a href=\"#albert\">Albert</a></td>\n<td>Balanced duelist</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>S</strong></td>\n<td><a href=\"#zork\">Zork</a></td>\n<td>Tank / disruptor</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#sniper-layla\">Sniper Layla</a></td>\n<td>Long-range pick</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#bloodhand-jan\">Bloodhand Jan</a></td>\n<td>Bruiser / sustain</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#trang-lanh\">Trang Lanh</a></td>\n<td>Ambush / control</td>\n<td>★★★★☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#senator-samir-patres\">Senator Samir Patres</a></td>\n<td>Technique / anti-carry</td>\n<td>★★★★☆</td>\n</tr>\n</tbody></table>\n<p><strong>How to read this list</strong>: tiers measure <em>consistency across a full Dusk Battle</em>, not highlight-reel ceiling. In The Duskbloods, the Grail culls low-Virtue Bloodsworn in Phases II–III — so farming speed and survival matter as much as duel power. A flashy kit that dies in Phase II is not S-tier.</p>\n<p>Full kits and lore live on the <a href=\"/characters\">Bloodsworn roster page</a>. Core loop and Virtue rules are on the <a href=\"/gameplay\">gameplay page</a>.</p>\n<hr>\n<h2>S Tier — Pick These First</h2>\n<p><a id=\"albert\"></a></p>\n<h3>Albert — S | The Default Answer</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg\" alt=\"Albert — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Lorrik&#39;s Jeweled Saber · Submachine Gun · Blood Blade · Light of Hayern</p>\n<p>Albert is the most approachable all-rounder in the network test. Clean melee stagger into SMG confirms covers almost every range, and <strong>High Lorrik Blood</strong> gives extra uses of blood-based skills — which means more uptime whenever you bank Virtue early.</p>\n<ul>\n<li><strong>Why S</strong>: never a bad pick; strong in solos and in temporary alliances</li>\n<li><strong>Virtue game</strong>: <strong>Upriser</strong> raises stagger against high-Virtue leaders — steal momentum instead of bullying weak players</li>\n<li><strong>Play it if</strong>: you want one character to learn the whole game on</li>\n</ul>\n<p><a id=\"zork\"></a></p>\n<h3>Zork — S | Be the Problem</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg\" alt=\"Zork — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Undersea Cable · Speargun / Rockets · Missile · Human Rocket</p>\n<p>Zork is a diving-suit wrecking ball. He grows max HP off kills (<strong>Law of the Deep Sea</strong>), disrupts sightlines, and forces everyone nearby to deal with him. Difficulty 2, but the floor is high: a Zork who survives culling is a final-three threat.</p>\n<ul>\n<li><strong>Why S</strong>: tankiness + kill-to-grow snowballs through culling phases</li>\n<li><strong>Virtue game</strong>: contest ritual sites early; stolen HP compounds with raw Virtue bonuses in the final phase</li>\n<li><strong>Play it if</strong>: you like being the raid boss other teams must answer</li>\n</ul>\n<hr>\n<h2>A Tier — Strong, With a Job</h2>\n<p><a id=\"sniper-layla\"></a></p>\n<h3>Sniper Layla — A | Own the Sightline</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg\" alt=\"Sniper Layla — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Hieroglyph Katars · Verd Gatling Gun · Neb-ra Vanishing · Nighteye</p>\n<p>Layla controls elevation and long sightlines, then vanishes to reset. On Lowanro City&#39;s multi-layered routes (streets, cave, forest, lake) she picks fights on her terms.</p>\n<ul>\n<li><strong>Why A</strong>: elite when terrain favors her; weaker in forced close-range culling brawls</li>\n<li><strong>Play it if</strong>: you already know the <a href=\"/maps\">map routes</a> and want free picks</li>\n</ul>\n<p><a id=\"bloodhand-jan\"></a></p>\n<h3>Bloodhand Jan — A | Win Ugly, Win Long</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg\" alt=\"Bloodhand Jan — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Bloodthirsty Axe · Blink · Surrender to My Blood · Bloodhand Lineage</p>\n<p>Jan trades HP on purpose, counter-heals, and spellbinds minions to snowball. He is the best long-fight character in the test build.</p>\n<ul>\n<li><strong>Why A</strong>: sustain beats burst in later phases; weaker if he gets chain-ambushed before healing online</li>\n<li><strong>Play it if</strong>: you like attrition more than one-shot duels</li>\n</ul>\n<hr>\n<h2>B Tier — Ceiling Is Real, Floor Is Painful</h2>\n<p><a id=\"trang-lanh\"></a></p>\n<h3>Trang Lanh — B | Decide the Fight From Stealth</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg\" alt=\"Trang Lanh — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Full Moon Blade · Darkmoon · Mama Nātha · Alluring Bride</p>\n<p>Trang Lanh opens from stealth, drinks blood in crowds, and controls tempo. In the right hands she deletes a carry before Phase III. In the wrong hands she dies with zero Virtue to a culling.</p>\n<ul>\n<li><strong>Why B</strong>: massive variance; punished hard by AI trespassers and random events</li>\n<li><strong>Play it if</strong>: you already have match rhythm and want outplay tools</li>\n</ul>\n<p><a id=\"senator-samir-patres\"></a></p>\n<h3>Senator Samir Patres — B | Outbuild, Then Run Them Over</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg\" alt=\"Senator Samir Patres — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Senate Rapier · Bloodstake · Saurian Form · Unshakable Sword</p>\n<p>Samir wants perfect guards, skill-level investment, and a Saurian Form finish. He is the anti-carry duelist — excellent into snowballing leaders, mediocre if you fall behind on Virtue.</p>\n<ul>\n<li><strong>Why B</strong>: rewards lab time; loses too much tempo when parries miss</li>\n<li><strong>Play it if</strong>: you like technical 1v1s and hate being stat-checked</li>\n</ul>\n<hr>\n<h2>How This List Should Change</h2>\n<p>This ranking is locked to the <strong>August 2026 closed network test</strong>. Expect it to move when:</p>\n<ol>\n<li><strong>Launch roster</strong> ships (12+ Bloodsworn promised — six names here are not the full game)</li>\n<li><strong>Server / PvP latency</strong> fixes land (delayed fights favor grinders like Jan)</li>\n<li><strong>Virtue and ritual-site tuning</strong> from the test feedback</li>\n<li><strong>Blood History</strong> customization is fully documented</li>\n</ol>\n<p>We will rewrite this page with the retail meta after launch. Until then, treat S-tier as &quot;queue these and learn the game,&quot; not a competitive gospel.</p>\n<hr>\n<h2>FAQ</h2>\n<h3>Is this the final The Duskbloods tier list?</h3>\n<p><strong>No.</strong> It is a network-test preview. The full roster and launch balance are still unannounced.</p>\n<h3>Who is the best Bloodsworn for beginners?</h3>\n<p><strong>Albert</strong>, with <strong>Zork</strong> as a tankier alternative. Both are difficulty 2 and survive culling more reliably than stealth or tech picks.</p>\n<h3>Do tier lists even matter in a PvPvE game?</h3>\n<p>They matter less than in a pure fighter. Virtue farming, Kin compacts, alliances, and trespassers can overturn a &quot;worse&quot; kit. Tiers here measure how often a character survives to Phase IV when players are of equal skill.</p>\n<h3>Where do I see full skill descriptions?</h3>\n<p>See the <a href=\"/characters\">Characters</a> page for weapons, Blood Arts, and Aspects, and <a href=\"/gameplay\">Gameplay</a> for the Dusk Battle phase flow.</p>\n<hr>\n<h2>Sources</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods network test gameplay guide (character kits, Virtue system, match phases), August 2026</li>\n<li>IGN — Hidetaka Miyazaki interview (Bloodsworn design, matchmaking philosophy)</li>\n<li>Site data: <a href=\"/characters\">Bloodsworn roster</a> · <a href=\"/gameplay\">Gameplay systems</a> · <a href=\"/maps\">Maps</a></li>\n</ul>\n<p><em>Related: <a href=\"/latest/duskbloods-pvpve-explained\">What Is The Duskbloods PvPvE?</a> · <a href=\"/latest/duskbloods-beginner-matchmaking\">Beginner Matchmaking Explained</a></em></p>\n",
-      "wordCount": 1097,
+      "content": "<blockquote>\n<p><strong>TL;DR</strong>: In the August 2026 network test, <strong>Albert</strong> and <strong>Zork</strong> are the safest picks for most players — easy kits, strong Phase I farming, and useful tools at every culling. <strong>Sniper Layla</strong> and <strong>Bloodhand Jan</strong> are A-tier specialists. <strong>Trang Lanh</strong> and <strong>Senator Samir Patres</strong> are high-skill, high-reward picks that punish bad positioning but demand clean execution. This is a <strong>preview ranking</strong> based on the closed network test, not the final retail build.</p>\n</blockquote>\n<hr>\n<h2>The Duskbloods Tier List (Network Test · Oct 2026)</h2>\n<table>\n<thead>\n<tr>\n<th>Tier</th>\n<th>Bloodsworn</th>\n<th>Role</th>\n<th>Difficulty</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>S</strong></td>\n<td><a href=\"#albert\">Albert</a></td>\n<td>Balanced duelist</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>S</strong></td>\n<td><a href=\"#zork\">Zork</a></td>\n<td>Tank / disruptor</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#sniper-layla\">Sniper Layla</a></td>\n<td>Long-range pick</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#bloodhand-jan\">Bloodhand Jan</a></td>\n<td>Bruiser / sustain</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#trang-lanh\">Trang Lanh</a></td>\n<td>Ambush / control</td>\n<td>★★★★☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#senator-samir-patres\">Senator Samir Patres</a></td>\n<td>Technique / anti-carry</td>\n<td>★★★★☆</td>\n</tr>\n</tbody></table>\n<p><strong>How to read this list</strong>: tiers measure <em>consistency across a full Dusk Battle</em>, not highlight-reel ceiling. In The Duskbloods, the Grail culls low-Virtue Bloodsworn in Phases II–III — so farming speed and survival matter as much as duel power. A flashy kit that dies in Phase II is not S-tier.</p>\n<p>Full kits and lore live on the <a href=\"/characters\">Bloodsworn roster page</a>. Core loop and Virtue rules are on the <a href=\"/gameplay\">gameplay page</a>.</p>\n<hr>\n<h2>S Tier — Pick These First</h2>\n<p><a id=\"albert\"></a></p>\n<h3>Albert — S | The Default Answer</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg\" alt=\"Albert — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Lorrik&#39;s Jeweled Saber · Submachine Gun · Blood Blade · Light of Hayern</p>\n<p>Albert is the most approachable all-rounder in the network test. Clean melee stagger into SMG confirms covers almost every range, and <strong>High Lorrik Blood</strong> gives extra uses of blood-based skills — which means more uptime whenever you bank Virtue early.</p>\n<ul>\n<li><strong>Why S</strong>: never a bad pick; strong in solos and in temporary alliances</li>\n<li><strong>Virtue game</strong>: <strong>Upriser</strong> raises stagger against high-Virtue leaders — steal momentum instead of bullying weak players</li>\n<li><strong>Play it if</strong>: you want one character to learn the whole game on</li>\n</ul>\n<p><a id=\"zork\"></a></p>\n<h3>Zork — S | Be the Problem</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg\" alt=\"Zork — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Undersea Cable · Speargun / Rockets · Missile · Human Rocket</p>\n<p>Zork is a diving-suit wrecking ball. He grows max HP off kills (<strong>Law of the Deep Sea</strong>), disrupts sightlines, and forces everyone nearby to deal with him. Difficulty 2, but the floor is high: a Zork who survives culling is a final-three threat.</p>\n<ul>\n<li><strong>Why S</strong>: tankiness + kill-to-grow snowballs through culling phases</li>\n<li><strong>Virtue game</strong>: contest ritual sites early; stolen HP compounds with raw Virtue bonuses in the final phase</li>\n<li><strong>Play it if</strong>: you like being the raid boss other teams must answer</li>\n</ul>\n<hr>\n<h2>A Tier — Strong, With a Job</h2>\n<p><a id=\"sniper-layla\"></a></p>\n<h3>Sniper Layla — A | Own the Sightline</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg\" alt=\"Sniper Layla — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Hieroglyph Katars · Verd Gatling Gun · Neb-ra Vanishing · Nighteye</p>\n<p>Layla controls elevation and long sightlines, then vanishes to reset. On Lowanro City&#39;s multi-layered routes (streets, cave, forest, lake) she picks fights on her terms.</p>\n<ul>\n<li><strong>Why A</strong>: elite when terrain favors her; weaker in forced close-range culling brawls</li>\n<li><strong>Play it if</strong>: you already know the <a href=\"/maps\">map routes</a> and want free picks</li>\n</ul>\n<p><a id=\"bloodhand-jan\"></a></p>\n<h3>Bloodhand Jan — A | Win Ugly, Win Long</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg\" alt=\"Bloodhand Jan — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Bloodthirsty Axe · Blink · Surrender to My Blood · Bloodhand Lineage</p>\n<p>Jan trades HP on purpose, counter-heals, and spellbinds minions to snowball. He is the best long-fight character in the test build.</p>\n<ul>\n<li><strong>Why A</strong>: sustain beats burst in later phases; weaker if he gets chain-ambushed before healing online</li>\n<li><strong>Play it if</strong>: you like attrition more than one-shot duels</li>\n</ul>\n<hr>\n<h2>B Tier — Ceiling Is Real, Floor Is Painful</h2>\n<p><a id=\"trang-lanh\"></a></p>\n<h3>Trang Lanh — B | Decide the Fight From Stealth</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg\" alt=\"Trang Lanh — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Full Moon Blade · Darkmoon · Mama Nātha · Alluring Bride</p>\n<p>Trang Lanh opens from stealth, drinks blood in crowds, and controls tempo. In the right hands she deletes a carry before Phase III. In the wrong hands she dies with zero Virtue to a culling.</p>\n<ul>\n<li><strong>Why B</strong>: massive variance; punished hard by AI trespassers and random events</li>\n<li><strong>Play it if</strong>: you already have match rhythm and want outplay tools</li>\n</ul>\n<p><a id=\"senator-samir-patres\"></a></p>\n<h3>Senator Samir Patres — B | Outbuild, Then Run Them Over</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg\" alt=\"Senator Samir Patres — Bloodsworn portrait\"></p>\n<p><strong>Kit</strong>: Senate Rapier · Bloodstake · Saurian Form · Unshakable Sword</p>\n<p>Samir wants perfect guards, skill-level investment, and a Saurian Form finish. He is the anti-carry duelist — excellent into snowballing leaders, mediocre if you fall behind on Virtue.</p>\n<ul>\n<li><strong>Why B</strong>: rewards lab time; loses too much tempo when parries miss</li>\n<li><strong>Play it if</strong>: you like technical 1v1s and hate being stat-checked</li>\n</ul>\n<hr>\n<h2>How This List Should Change</h2>\n<p>This ranking is locked to the <strong>August 2026 closed network test</strong>. Expect it to move when:</p>\n<ol>\n<li><strong>Launch roster</strong> ships (12+ Bloodsworn promised — six names here are not the full game)</li>\n<li><strong>Server / PvP latency</strong> fixes land (delayed fights favor grinders like Jan)</li>\n<li><strong>Virtue and ritual-site tuning</strong> from the test feedback</li>\n<li><strong>Blood History</strong> customization is fully documented</li>\n</ol>\n<p>We will rewrite this page with the retail meta after launch. Until then, treat S-tier as &quot;queue these and learn the game,&quot; not a competitive gospel.</p>\n<hr>\n<h2>FAQ</h2>\n<h3>Is this the final The Duskbloods tier list?</h3>\n<p><strong>No.</strong> It is a network-test preview. The full roster and launch balance are still unannounced.</p>\n<h3>Who is the best Bloodsworn for beginners?</h3>\n<p><strong>Albert</strong>, with <strong>Zork</strong> as a tankier alternative. Both are difficulty 2 and survive culling more reliably than stealth or tech picks.</p>\n<h3>Do tier lists even matter in a PvPvE game?</h3>\n<p>They matter less than in a pure fighter. Virtue farming, Kin compacts, alliances, and trespassers can overturn a &quot;worse&quot; kit. Tiers here measure how often a character survives to Phase IV when players are of equal skill.</p>\n<h3>Where do I see full skill descriptions?</h3>\n<p>See the <a href=\"/characters\">Characters</a> page for weapons, Blood Arts, and Aspects, and <a href=\"/gameplay\">Gameplay</a> for the Dusk Battle phase flow.</p>\n<hr>\n<h2>Sources</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods network test gameplay guide (character kits, Virtue system, match phases), August 2026</li>\n<li>IGN — Hidetaka Miyazaki interview (Bloodsworn design, matchmaking philosophy)</li>\n<li>Site data: <a href=\"/characters\">Bloodsworn roster</a> · <a href=\"/gameplay\">Gameplay systems</a> · <a href=\"/maps\">Maps</a></li>\n</ul>\n<p><em>Related: <a href=\"/latest/duskbloods-pvpve-explained\">What Is The Duskbloods PvPvE?</a> · <a href=\"/latest/duskbloods-beginner-matchmaking\">Beginner Matchmaking Explained</a></em></p><hr>\n<p><em>Image credit: official materials © FromSoftware / Nintendo. Rankings and commentary are independent fan analysis.</em></p>\n",
+      "wordCount": 1113,
       "faq": [
         {
           "question": "Is this the final The Duskbloods tier list?",
@@ -956,7 +997,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Where do I see full skill descriptions?",
-          "answer": "See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and [Gameplay](/gameplay) for the Dusk Battle phase flow.\n\n---"
+          "answer": "See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and [Gameplay](/gameplay) for the Dusk Battle phase flow.\r\n\r\n---"
         }
       ],
       "listItems": [
@@ -990,6 +1031,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods ティアリスト：使用可能キャラランキング（2026）",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "ネットワークテスト版の The Duskbloods ティアリスト：使用可能なブラッドスウォーン6体をS〜Bで格付け。初心者向けおすすめキャラ、キットの強み、美徳の淘汰がメタに与える影響を解説。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1014,7 +1056,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "スキルの詳細はどこに？",
-          "answer": "[キャラクター](/ja/characters)（武器・ブラッドアート・アスペクト）と[ゲームプレイ](/ja/gameplay)（Dusk Battle フェーズ）を参照。\n\n---"
+          "answer": "[キャラクター](/ja/characters)（武器・ブラッドアート・アスペクト）と[ゲームプレイ](/ja/gameplay)（Dusk Battle フェーズ）を参照。\r\n\r\n---"
         }
       ],
       "listItems": [
@@ -1048,6 +1090,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "黄昏血族强度榜：6 名血誓者排名（2026 网测版）",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "《黄昏血族》（The Duskbloods）网络测试预览强度榜：6 名可玩血誓者从 S 到 B 全排名，新手选谁、技能优劣，以及美德淘汰机制如何影响环境。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1055,8 +1098,8 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         "characters"
       ],
       "section": "guides",
-      "content": "<blockquote>\n<p><strong>一句话总结</strong>：2026 年 8 月网络测试中，<strong>阿尔伯特（Albert）</strong> 和 <strong>佐克（Zork）</strong> 是多数玩家最稳的选择——上手简单、前期刷美德快、淘汰阶段也有用。<strong>狙击手蕾拉</strong> 与 <strong>血手扬</strong> 为 A 级专精；<strong>陈兰</strong> 与 <strong>参议员萨米尔</strong> 上限高但吃操作，属于「会玩很强、不会玩白给」。本榜基于<strong>封闭网络测试</strong>，并非正式版结论。</p>\n</blockquote>\n<hr>\n<h2>黄昏血族强度榜（网测 · 2026-10）</h2>\n<table>\n<thead>\n<tr>\n<th>档位</th>\n<th>血誓者</th>\n<th>定位</th>\n<th>难度</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>S</strong></td>\n<td><a href=\"#albert\">阿尔伯特</a></td>\n<td>均衡决斗</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>S</strong></td>\n<td><a href=\"#zork\">佐克</a></td>\n<td>坦克 / 搅局</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#layla\">狙击手蕾拉</a></td>\n<td>远程点名</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#jan\">血手扬</a></td>\n<td>狂战 / 续航</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#trang\">陈兰</a></td>\n<td>潜伏 / 控场</td>\n<td>★★★★☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#samir\">参议员萨米尔</a></td>\n<td>技巧 / 反核心</td>\n<td>★★★★☆</td>\n</tr>\n</tbody></table>\n<p><strong>怎么看这张表</strong>：档位衡量的是「一整局 Dusk Battle 的稳定性」，不是集锦上限。《黄昏血族》里圣杯会在第二、三阶段淘汰美德不足的血誓者——<strong>刷美德速度和生存能力，和单挑强度一样重要</strong>。一套华丽却活不过第二阶段的技能，算不上 S。</p>\n<p>完整技能与背景见 <a href=\"/zh/characters\">人物图鉴</a>，核心循环与美德规则见 <a href=\"/zh/gameplay\">玩法</a>。</p>\n<hr>\n<h2>S 档 —— 优先选这两个</h2>\n<p><a id=\"albert\"></a></p>\n<h3>阿尔伯特 Albert —— S ｜ 答案就在默认位</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg\" alt=\"阿尔伯特 Albert 血誓者立绘\"></p>\n<p><strong>技能</strong>：洛瑞克宝石军刀 · 冲锋枪 · 血刃（Blood Blade） · 海恩之光（Light of Hayern）</p>\n<p>网测里最省心的全能角色。近战打崩解、冲锋枪补刀，距离覆盖几乎无死角；<strong>高等洛瑞克之血</strong>还能增加血系技能次数——前期美德攒得越早，技能越轮转得开。</p>\n<ul>\n<li><strong>为什么 S</strong>：几乎没有坑点，单排和临时结盟都好用</li>\n<li><strong>美德思路</strong>：<strong>起义者（Upriser）</strong> 对高美德领先者增加崩解——去抢领先的人，别只欺负残血</li>\n<li><strong>适合谁</strong>：想用一个角色学完整款游戏的人</li>\n</ul>\n<p><a id=\"zork\"></a></p>\n<h3>佐克 Zork —— S ｜ 成为全场要处理的麻烦</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg\" alt=\"佐克 Zork 血誓者立绘\"></p>\n<p><strong>技能</strong>：海底电缆 · 鱼叉枪 / 火箭 · 导弹 · 人肉火箭</p>\n<p>潜水服重装，击杀偷最大生命（<strong>深海法则</strong>），搅乱视线，强迫周围所有人先处理你。难度只有 2，但下限很高：只要活过淘汰，决赛圈就是威胁。</p>\n<ul>\n<li><strong>为什么 S</strong>：坦克度 + 击杀成长，在淘汰阶段会滚雪球</li>\n<li><strong>美德思路</strong>：早点去仪式场抢点；偷来的生命还能和决赛阶段的美德加成叠加</li>\n<li><strong>适合谁</strong>：喜欢当「必须被针对」的 Boss</li>\n</ul>\n<hr>\n<h2>A 档 —— 强，但有明确分工</h2>\n<p><a id=\"layla\"></a></p>\n<h3>狙击手蕾拉 Sniper Layla —— A ｜ 控住视线</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg\" alt=\"狙击手蕾拉 血誓者立绘\"></p>\n<p><strong>技能</strong>：圣书拳刃 · 绿玉加特林 · 内布拉消失 · 夜视锁定</p>\n<p>蕾拉控高低差和长视线，打完就消失重置。洛安罗城多层地形（街道、洞穴、森林、湖）正适合她挑架。</p>\n<ul>\n<li><strong>为什么 A</strong>：地形合适时极强；被迫近身肉搏的淘汰局偏弱</li>\n<li><strong>适合谁</strong>：熟悉 <a href=\"/zh/maps\">地图路线</a>、想白嫖点名的人</li>\n</ul>\n<p><a id=\"jan\"></a></p>\n<h3>血手扬 Bloodhand Jan —— A ｜ 难看地赢，然后赢很久</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg\" alt=\"血手扬 血誓者立绘\"></p>\n<p><strong>技能</strong>：嗜血斧 · 闪步 · 向吾血臣服 · 血手血脉</p>\n<p>扬故意换血、反击回血、法术奴仆滚雪球，是网测里最长线作战的角色。</p>\n<ul>\n<li><strong>为什么 A</strong>：后期消耗强于爆发；被连续偷袭、治疗没转起来会很惨</li>\n<li><strong>适合谁</strong>：喜欢打持久战而不是一招秒</li>\n</ul>\n<hr>\n<h2>B 档 —— 上限真实，下限痛苦</h2>\n<p><a id=\"trang\"></a></p>\n<h3>陈兰 Trang Lanh —— B ｜ 潜行决定胜负</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg\" alt=\"陈兰 血誓者立绘\"></p>\n<p><strong>技能</strong>：满月刃 · 暗月 · 玛玛娜莎 · 诱血新娘</p>\n<p>陈兰从潜行开团、在人群中吸血、控节奏。手顺的话，第三阶段前就能带走对方核心；手不顺的话，美德不够直接被圣杯淘汰。</p>\n<ul>\n<li><strong>为什么 B</strong>：方差极大，容易被 AI 入侵者和随机事件惩罚</li>\n<li><strong>适合谁</strong>：已经懂对局节奏、想要反制工具的人</li>\n</ul>\n<p><a id=\"samir\"></a></p>\n<h3>参议员萨米尔 Senator Samir Patres —— B ｜ 发育碾过他们</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg\" alt=\"参议员萨米尔 血誓者立绘\"></p>\n<p><strong>技能</strong>：元老院刺剑 · 血桩 · 蜥形 · 不动之剑</p>\n<p>萨米尔吃完美格挡和技能等级，最后用蜥形收割。定位是「反核心决斗」——打雪球领先的人很好用，自己美德落后就很平庸。</p>\n<ul>\n<li><strong>为什么 B</strong>：吃练习；振刀空了会亏太多节奏</li>\n<li><strong>适合谁</strong>：喜欢技术向 1v1、讨厌被数值碾压的人</li>\n</ul>\n<hr>\n<h2>这张榜以后会怎么变</h2>\n<p>排名锁定在 <strong>2026 年 8 月封闭网络测试</strong>。下列情况发生时我们会上调：</p>\n<ol>\n<li><strong>正式版角色池</strong>落地（承诺 12+ 名，这里只有 6 个）</li>\n<li><strong>服务器 / PvP 延迟</strong>修复（延迟局更利好扬这类发育角色）</li>\n<li><strong>美德与仪式场数值</strong>根据测试反馈调整</li>\n<li><strong>血统史</strong>自定义完全公开</li>\n</ol>\n<p>发售后再用正式环境重写本页。在那之前，S 档的意思是「先用这两个学游戏」，不是竞技圣经。</p>\n<hr>\n<h2>常见问题</h2>\n<h3>这是最终强度榜吗？</h3>\n<p><strong>不是。</strong> 这是网络测试预览。完整角色池和正式版平衡都还没公布。</p>\n<h3>新手最好用哪个血誓者？</h3>\n<p><strong>阿尔伯特</strong>，想更肉一点选 <strong>佐克</strong>。两者都是难度 2，比潜伏或技巧型更容易活过淘汰。</p>\n<h3>PvPvE 游戏里强度榜有意义吗？</h3>\n<p>意义比纯格斗游戏小。美德刷取、眷属契约、临时结盟和入侵者都可能掀翻「更弱」的技能组。本榜衡量的是：同等水平下，谁更常活进第四阶段。</p>\n<h3>完整技能说明在哪？</h3>\n<p>见 <a href=\"/zh/characters\">人物图鉴</a>（武器、血艺、特质），以及 <a href=\"/zh/gameplay\">玩法</a>（Dusk Battle 阶段流程）。</p>\n<hr>\n<h2>信息来源</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods 网络测试玩法指南（角色技能、美德系统、对战阶段），2026 年 8 月</li>\n<li>IGN — 宫崎英高专访（血誓者设计理念、匹配思路）</li>\n<li>站内资料：<a href=\"/zh/characters\">人物图鉴</a> · <a href=\"/zh/gameplay\">玩法系统</a> · <a href=\"/zh/maps\">地图</a></li>\n</ul>\n<p><em>相关阅读：<a href=\"/zh/latest/duskbloods-pvpve-explained\">什么是 The Duskbloods PvPvE？</a> · <a href=\"/zh/latest/duskbloods-beginner-matchmaking\">新手匹配机制解析</a></em></p>\n",
-      "wordCount": 1891,
+      "content": "<blockquote>\n<p><strong>一句话总结</strong>：2026 年 8 月网络测试中，<strong>阿尔伯特（Albert）</strong> 和 <strong>佐克（Zork）</strong> 是多数玩家最稳的选择——上手简单、前期刷美德快、淘汰阶段也有用。<strong>狙击手蕾拉</strong> 与 <strong>血手扬</strong> 为 A 级专精；<strong>陈兰</strong> 与 <strong>参议员萨米尔</strong> 上限高但吃操作，属于「会玩很强、不会玩白给」。本榜基于<strong>封闭网络测试</strong>，并非正式版结论。</p>\n</blockquote>\n<hr>\n<h2>黄昏血族强度榜（网测 · 2026-10）</h2>\n<table>\n<thead>\n<tr>\n<th>档位</th>\n<th>血誓者</th>\n<th>定位</th>\n<th>难度</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>S</strong></td>\n<td><a href=\"#albert\">阿尔伯特</a></td>\n<td>均衡决斗</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>S</strong></td>\n<td><a href=\"#zork\">佐克</a></td>\n<td>坦克 / 搅局</td>\n<td>★★☆☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#layla\">狙击手蕾拉</a></td>\n<td>远程点名</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td><a href=\"#jan\">血手扬</a></td>\n<td>狂战 / 续航</td>\n<td>★★★☆☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#trang\">陈兰</a></td>\n<td>潜伏 / 控场</td>\n<td>★★★★☆</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td><a href=\"#samir\">参议员萨米尔</a></td>\n<td>技巧 / 反核心</td>\n<td>★★★★☆</td>\n</tr>\n</tbody></table>\n<p><strong>怎么看这张表</strong>：档位衡量的是「一整局 Dusk Battle 的稳定性」，不是集锦上限。《黄昏血族》里圣杯会在第二、三阶段淘汰美德不足的血誓者——<strong>刷美德速度和生存能力，和单挑强度一样重要</strong>。一套华丽却活不过第二阶段的技能，算不上 S。</p>\n<p>完整技能与背景见 <a href=\"/zh/characters\">人物图鉴</a>，核心循环与美德规则见 <a href=\"/zh/gameplay\">玩法</a>。</p>\n<hr>\n<h2>S 档 —— 优先选这两个</h2>\n<p><a id=\"albert\"></a></p>\n<h3>阿尔伯特 Albert —— S ｜ 答案就在默认位</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg\" alt=\"阿尔伯特 Albert 血誓者立绘\"></p>\n<p><strong>技能</strong>：洛瑞克宝石军刀 · 冲锋枪 · 血刃（Blood Blade） · 海恩之光（Light of Hayern）</p>\n<p>网测里最省心的全能角色。近战打崩解、冲锋枪补刀，距离覆盖几乎无死角；<strong>高等洛瑞克之血</strong>还能增加血系技能次数——前期美德攒得越早，技能越轮转得开。</p>\n<ul>\n<li><strong>为什么 S</strong>：几乎没有坑点，单排和临时结盟都好用</li>\n<li><strong>美德思路</strong>：<strong>起义者（Upriser）</strong> 对高美德领先者增加崩解——去抢领先的人，别只欺负残血</li>\n<li><strong>适合谁</strong>：想用一个角色学完整款游戏的人</li>\n</ul>\n<p><a id=\"zork\"></a></p>\n<h3>佐克 Zork —— S ｜ 成为全场要处理的麻烦</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg\" alt=\"佐克 Zork 血誓者立绘\"></p>\n<p><strong>技能</strong>：海底电缆 · 鱼叉枪 / 火箭 · 导弹 · 人肉火箭</p>\n<p>潜水服重装，击杀偷最大生命（<strong>深海法则</strong>），搅乱视线，强迫周围所有人先处理你。难度只有 2，但下限很高：只要活过淘汰，决赛圈就是威胁。</p>\n<ul>\n<li><strong>为什么 S</strong>：坦克度 + 击杀成长，在淘汰阶段会滚雪球</li>\n<li><strong>美德思路</strong>：早点去仪式场抢点；偷来的生命还能和决赛阶段的美德加成叠加</li>\n<li><strong>适合谁</strong>：喜欢当「必须被针对」的 Boss</li>\n</ul>\n<hr>\n<h2>A 档 —— 强，但有明确分工</h2>\n<p><a id=\"layla\"></a></p>\n<h3>狙击手蕾拉 Sniper Layla —— A ｜ 控住视线</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg\" alt=\"狙击手蕾拉 血誓者立绘\"></p>\n<p><strong>技能</strong>：圣书拳刃 · 绿玉加特林 · 内布拉消失 · 夜视锁定</p>\n<p>蕾拉控高低差和长视线，打完就消失重置。洛安罗城多层地形（街道、洞穴、森林、湖）正适合她挑架。</p>\n<ul>\n<li><strong>为什么 A</strong>：地形合适时极强；被迫近身肉搏的淘汰局偏弱</li>\n<li><strong>适合谁</strong>：熟悉 <a href=\"/zh/maps\">地图路线</a>、想白嫖点名的人</li>\n</ul>\n<p><a id=\"jan\"></a></p>\n<h3>血手扬 Bloodhand Jan —— A ｜ 难看地赢，然后赢很久</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg\" alt=\"血手扬 血誓者立绘\"></p>\n<p><strong>技能</strong>：嗜血斧 · 闪步 · 向吾血臣服 · 血手血脉</p>\n<p>扬故意换血、反击回血、法术奴仆滚雪球，是网测里最长线作战的角色。</p>\n<ul>\n<li><strong>为什么 A</strong>：后期消耗强于爆发；被连续偷袭、治疗没转起来会很惨</li>\n<li><strong>适合谁</strong>：喜欢打持久战而不是一招秒</li>\n</ul>\n<hr>\n<h2>B 档 —— 上限真实，下限痛苦</h2>\n<p><a id=\"trang\"></a></p>\n<h3>陈兰 Trang Lanh —— B ｜ 潜行决定胜负</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg\" alt=\"陈兰 血誓者立绘\"></p>\n<p><strong>技能</strong>：满月刃 · 暗月 · 玛玛娜莎 · 诱血新娘</p>\n<p>陈兰从潜行开团、在人群中吸血、控节奏。手顺的话，第三阶段前就能带走对方核心；手不顺的话，美德不够直接被圣杯淘汰。</p>\n<ul>\n<li><strong>为什么 B</strong>：方差极大，容易被 AI 入侵者和随机事件惩罚</li>\n<li><strong>适合谁</strong>：已经懂对局节奏、想要反制工具的人</li>\n</ul>\n<p><a id=\"samir\"></a></p>\n<h3>参议员萨米尔 Senator Samir Patres —— B ｜ 发育碾过他们</h3>\n<p><img src=\"https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg\" alt=\"参议员萨米尔 血誓者立绘\"></p>\n<p><strong>技能</strong>：元老院刺剑 · 血桩 · 蜥形 · 不动之剑</p>\n<p>萨米尔吃完美格挡和技能等级，最后用蜥形收割。定位是「反核心决斗」——打雪球领先的人很好用，自己美德落后就很平庸。</p>\n<ul>\n<li><strong>为什么 B</strong>：吃练习；振刀空了会亏太多节奏</li>\n<li><strong>适合谁</strong>：喜欢技术向 1v1、讨厌被数值碾压的人</li>\n</ul>\n<hr>\n<h2>这张榜以后会怎么变</h2>\n<p>排名锁定在 <strong>2026 年 8 月封闭网络测试</strong>。下列情况发生时我们会上调：</p>\n<ol>\n<li><strong>正式版角色池</strong>落地（承诺 12+ 名，这里只有 6 个）</li>\n<li><strong>服务器 / PvP 延迟</strong>修复（延迟局更利好扬这类发育角色）</li>\n<li><strong>美德与仪式场数值</strong>根据测试反馈调整</li>\n<li><strong>血统史</strong>自定义完全公开</li>\n</ol>\n<p>发售后再用正式环境重写本页。在那之前，S 档的意思是「先用这两个学游戏」，不是竞技圣经。</p>\n<hr>\n<h2>常见问题</h2>\n<h3>这是最终强度榜吗？</h3>\n<p><strong>不是。</strong> 这是网络测试预览。完整角色池和正式版平衡都还没公布。</p>\n<h3>新手最好用哪个血誓者？</h3>\n<p><strong>阿尔伯特</strong>，想更肉一点选 <strong>佐克</strong>。两者都是难度 2，比潜伏或技巧型更容易活过淘汰。</p>\n<h3>PvPvE 游戏里强度榜有意义吗？</h3>\n<p>意义比纯格斗游戏小。美德刷取、眷属契约、临时结盟和入侵者都可能掀翻「更弱」的技能组。本榜衡量的是：同等水平下，谁更常活进第四阶段。</p>\n<h3>完整技能说明在哪？</h3>\n<p>见 <a href=\"/zh/characters\">人物图鉴</a>（武器、血艺、特质），以及 <a href=\"/zh/gameplay\">玩法</a>（Dusk Battle 阶段流程）。</p>\n<hr>\n<h2>信息来源</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods 网络测试玩法指南（角色技能、美德系统、对战阶段），2026 年 8 月</li>\n<li>IGN — 宫崎英高专访（血誓者设计理念、匹配思路）</li>\n<li>站内资料：<a href=\"/zh/characters\">人物图鉴</a> · <a href=\"/zh/gameplay\">玩法系统</a> · <a href=\"/zh/maps\">地图</a></li>\n</ul>\n<p><em>相关阅读：<a href=\"/zh/latest/duskbloods-pvpve-explained\">什么是 The Duskbloods PvPvE？</a> · <a href=\"/zh/latest/duskbloods-beginner-matchmaking\">新手匹配机制解析</a></em></p><hr>\n<p><em>配图来源：FromSoftware / Nintendo 官方素材。排名与评论为粉丝独立分析。</em></p>\n",
+      "wordCount": 1918,
       "faq": [
         {
           "question": "这是最终强度榜吗？",
@@ -1072,7 +1115,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "完整技能说明在哪？",
-          "answer": "见 [人物图鉴](/zh/characters)（武器、血艺、特质），以及 [玩法](/zh/gameplay)（Dusk Battle 阶段流程）。\n\n---"
+          "answer": "见 [人物图鉴](/zh/characters)（武器、血艺、特质），以及 [玩法](/zh/gameplay)（Dusk Battle 阶段流程）。\r\n\r\n---"
         }
       ],
       "listItems": [
@@ -1106,6 +1149,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "黃昏血族強度榜：6 名血誓者排名（2026 網測版）",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "《黃昏血族》（The Duskbloods）網路測試預覽強度榜：6 名可玩血誓者從 S 到 B 全排名，新手選誰、技能優劣，以及美德淘汰機制如何影響環境。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1130,7 +1174,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "完整技能說明在哪？",
-          "answer": "見 [人物圖鑑](/zh-TW/characters)（武器、血藝、特質），以及 [玩法](/zh-TW/gameplay)（Dusk Battle 階段流程）。\n\n---"
+          "answer": "見 [人物圖鑑](/zh-TW/characters)（武器、血藝、特質），以及 [玩法](/zh-TW/gameplay)（Dusk Battle 階段流程）。\r\n\r\n---"
         }
       ],
       "listItems": [
@@ -1164,6 +1208,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods — тир-лист: рейтинг кровоклятых (2026)",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Предварительный тир-лист The Duskbloods по сетевому тесту: все 6 играбельных кровоклятых от S до B, кого брать новичку, сильные стороны китов и как отсечение по добродетели меняет мету.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1188,7 +1233,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Где полные описания скиллов?",
-          "answer": "[Герои](/ru/characters) — оружие, кровавые искусства, аспекты. [Геймплей](/ru/gameplay) — фазы Dusk Battle.\n\n---"
+          "answer": "[Герои](/ru/characters) — оружие, кровавые искусства, аспекты. [Геймплей](/ru/gameplay) — фазы Dusk Battle.\r\n\r\n---"
         }
       ],
       "listItems": [
@@ -1224,6 +1269,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods vs Elden Ring: Which Should You Play?",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods vs Elden Ring compared: PvPvE multiplayer versus open-world solo, Switch 2 exclusive versus multiplat, match-based Virtue culling versus 100-hour exploration — and who each game is actually for.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1252,7 +1298,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Which is better for beginners?",
-          "answer": "If you are new to FromSoftware: Elden Ring teaches at your pace. If you are new but want multiplayer: The Duskbloods has SBMM to protect first-timers — see [beginner matchmaking](/latest/duskbloods-beginner-matchmaking).\n\n---"
+          "answer": "If you are new to FromSoftware: Elden Ring teaches at your pace. If you are new but want multiplayer: The Duskbloods has SBMM to protect first-timers — see [beginner matchmaking](/latest/duskbloods-beginner-matchmaking).\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -1261,6 +1307,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods vs エルデンリング：どっちをプレイすべき？",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "The Duskbloods とエルデンリングを徹底比較：PvPvE マルチ対オープンワールドソロ、Switch 2 獨占かマルチプラットか、美徳の淘汰マッチか百時間探索か——そしてどちらのゲームがどんな人に向いているか。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1289,7 +1336,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "初心者はどちら？",
-          "answer": "FromSoftware 初心者なら エルデンリング。マルチ初心者なら The Duskbloods はSBMMで守られる（[初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)）。\n\n---"
+          "answer": "FromSoftware 初心者なら エルデンリング。マルチ初心者なら The Duskbloods はSBMMで守られる（[初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)）。\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -1298,6 +1345,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "黄昏血族 vs 艾尔登法环：该玩哪一个？",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "《黄昏血族》（The Duskbloods）与《艾尔登法环》全面对比：PvPvE 多人对战还是开放世界单人，Switch 2 独占还是多平台，美德淘汰局还是上百小时探索——以及各自适合谁。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1326,7 +1374,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "新手该玩哪个？",
-          "answer": "FromSoftware 新手：法环可以按自己节奏学。想玩多人新手：黄昏血族有按水平匹配保护，见 [新手匹配](/zh/latest/duskbloods-beginner-matchmaking)。\n\n---"
+          "answer": "FromSoftware 新手：法环可以按自己节奏学。想玩多人新手：黄昏血族有按水平匹配保护，见 [新手匹配](/zh/latest/duskbloods-beginner-matchmaking)。\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -1335,6 +1383,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "黃昏血族 vs 艾爾登法環：該玩哪一個？",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "《黃昏血族》（The Duskbloods）與《艾爾登法環》全面對比：PvPvE 多人對戰還是開放世界單人，Switch 2 獨佔還是多平台，美德淘汰局還是上百小時探索——以及各自適合誰。",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1363,7 +1412,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "新手該玩哪個？",
-          "answer": "FromSoftware 新手：法環可以按自己節奏學。想玩多人新手：黃昏血族有按水平配對保護，見 [新手配對](/zh-TW/latest/duskbloods-beginner-matchmaking)。\n\n---"
+          "answer": "FromSoftware 新手：法環可以按自己節奏學。想玩多人新手：黃昏血族有按水平配對保護，見 [新手配對](/zh-TW/latest/duskbloods-beginner-matchmaking)。\r\n\r\n---"
         }
       ],
       "listItems": []
@@ -1372,6 +1421,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "title": "The Duskbloods vs Elden Ring: во что играть?",
       "date": "2026-10-18",
       "modified": null,
+      "author": "Duskbloods Guide",
       "summary": "Сравнение The Duskbloods и Elden Ring: PvPvE-матчи против открытого мира, эксклюзив Switch 2 против всех платформ, отсечение по добродетели против сотен часов исследования — и кому какая игра подходит.",
       "image": "https://duskbloods.net/og.svg",
       "tags": [
@@ -1400,7 +1450,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Что новичку?",
-          "answer": "Если вы новичок в FromSoftware — Elden Ring учит в вашем темпе. Если хотите мультиплеер — The Duskbloods бережёт SBMM ([матчмейкинг](/ru/latest/duskbloods-beginner-matchmaking)).\n\n---"
+          "answer": "Если вы новичок в FromSoftware — Elden Ring учит в вашем темпе. Если хотите мультиплеер — The Duskbloods бережёт SBMM ([матчмейкинг](/ru/latest/duskbloods-beginner-matchmaking)).\r\n\r\n---"
         }
       ],
       "listItems": []

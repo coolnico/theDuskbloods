@@ -148,6 +148,7 @@ export default function GameplayView() {
             {t('intro.title')}
           </h1>
           <p className="speakable mx-auto mt-4 max-w-2xl text-base text-zinc-400 sm:text-lg">{t('intro.lead')}</p>
+          <p className="mt-3 text-[11px] font-semibold uppercase tracking-[0.25em] text-amber-400/80">{t('intro.updatedAt')}</p>
         </div>
       </header>
 
@@ -518,6 +519,10 @@ export default function GameplayView() {
           </div>
         </section>
       )}
+
+      <p className="mx-auto max-w-5xl px-4 pb-16 text-xs leading-relaxed text-zinc-500 sm:px-6">
+        {t('sourceNote')}
+      </p>
       </article>
     </main>
   );

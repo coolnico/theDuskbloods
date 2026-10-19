@@ -71,22 +71,31 @@
   },
   "privacy": {
     "title": "Datenschutzerklärung",
-    "description": "Wie die The Duskbloods Fan-Seite mit Daten, Cookies und Analyse umgeht.",
+    "description": "Wie Duskbloods Guide Daten erhebt, nutzt und teilt — einschließlich Google Analytics und Werbe-Cookies.",
     "paragraphs": [
-      "Diese Datenschutzerklärung erklärt, wie die The Duskbloods Fan-Informationsseite (\"wir\") beim Besuch mit Ihren Daten umgeht.",
-      "Zum Lesen der Inhalte ist kein Konto und keine Angabe persönlicher Daten nötig. Wir nutzen ggf. datenschutzfreundliche Analyse, um aggregierten Traffic zu verstehen und die Seite zu verbessern.",
-      "Sofern verwendet, dienen Cookies der Speicherung Ihrer Sprache und unterstützen Werbe- oder Analysepartner. Sie können Cookies jederzeit in den Browser-Einstellungen deaktivieren, ohne den Zugriff auf Inhalte zu beeinträchtigen.",
-      "Diese Seite ist eine inoffizielle Fan-Ressource und weder mit FromSoftware oder Nintendo verbunden noch von diesen unterstützt. Fragen zur Richtlinie richten Sie bitte über die Kontaktkanäle der Seite an uns."
+      "Diese Datenschutzerklärung erläutert, wie Duskbloods Guide (“we”, “uns”) Informationen erhebt, nutzt und teilt, wenn Sie https://duskbloods.net (die “Website”) besuchen. Dies ist eine inoffizielle Fan-Informationsseite zum Spiel The Duskbloods.",
+      "Ein Konto ist nicht erforderlich; personenbezogene Daten wie Name, Adresse oder Zahlungsdaten werden zum Lesen der Inhalte nicht bewusst erhoben. Technische Daten können wie nachstehend beschrieben automatisch verarbeitet werden.",
+      "Analyse. Wir nutzen Google Analytics, um aggregierte Zugriffe zu verstehen und die Website zu verbessern. Google Analytics kann Cookies und ähnliche Technologien (Kennungen) setzen und IP-Adresse, Geräte- und Browserinformationen, besuchte Seiten, Referrer-URL sowie einen aus der IP abgeleiteten ungefähren Standort verarbeiten. Google verarbeitet diese Daten in unserem Auftrag für Berichte. Datennutzung durch Google: https://policies.google.com/technologies/partner-sites. Google-Datenschutzrichtlinie: https://policies.google.com/privacy.",
+      "Werbe-Cookies und Web-Beacons. Wenn wir Werbung anzeigen, können Drittanbieter — einschließlich Google — Cookies, Web-Beacons oder ähnliche Kennungen nutzen, um Anzeigen auszuliefern und zu messen, die Häufigkeit zu begrenzen und, sofern aktiviert, Anzeigen basierend auf Ihren Besuchen auf dieser und anderen Websites zu personalisieren. Durch die Nutzung von Werbe-Cookies durch Google können Google und seine Partner Anzeigen auf Basis Ihres Besuchs auf unserer Website und/oder anderen Websites im Internet ausspielen.",
+      "Weitere Cookies. Ein Cookie kann Ihre Spracheinstellung speichern. Das Deaktivieren von Cookies im Browser verhindert den Zugriff auf Inhalte nicht.",
+      "Ihre Auswahl. Personalisierte Werbung können Sie in den Google-Anzeigen-Einstellungen (https://adssettings.google.com/) verwalten oder ablehnen. Google-Analytics-Werbefunktionen lassen sich über das Opt-out-Add-on (https://tools.google.com/dlpage/gaoptout) ablehnen; einige Drittanbieter-Cookies über www.aboutads.info/choices. Sie können Cookies im Browser auch blockieren oder löschen. Gelten DSGVO (EU/UK) oder ePrivacy, holen wir vor nicht essenziellen Cookies oder Kennungen für personalisierte Werbung eine Einwilligung ein.",
+      "Kinder. Die Website richtet sich an ein allgemeines Publikum und nicht an Kinder unter 13 Jahren (oder dem geltenden Alter in Ihrem Land). Wir erheben wissentlich keine personenbezogenen Daten von Kindern.",
+      "Speicherung und Sicherheit. Analyse- und Serverprotokolle werden nur so lange aufbewahrt, wie es für Berichte, Sicherheit und Missbrauchsprävention erforderlich ist. Wir setzen angemessene Schutzmaßnahmen ein; eine Internetübertragung ist jedoch nie vollständig sicher.",
+      "Ihre Rechte. Je nach Standort haben Sie ggf. Rechte auf Auskunft, Berichtigung, Löschung oder Einschränkung sowie Widerspruch oder Widerruf einer Einwilligung. Nutzen Sie hierfür die Kontaktkanäle der Website.",
+      "Änderungen. Wir können diese Erklärung aktualisieren; die jeweils aktuelle Fassung erscheint auf dieser Seite mit Stand.",
+      "Diese Website ist eine inoffizielle Fan-Ressource und weder mit FromSoftware noch Nintendo verbunden noch von diesen unterstützt. The Duskbloods und verwandte Marken liegen bei den jeweiligen Inhabern.",
+      "Kontakt. Datenschutzfragen über die Kontaktseite der Website (contact@duskbloods.net)."
     ]
   },
   "terms": {
     "title": "Nutzungsbedingungen",
     "description": "Nutzungsbedingungen der The Duskbloods Fan-Informationsseite.",
     "paragraphs": [
-      "Mit dem Zugriff auf diese Seite stimmen Sie diesen Bedingungen zu. Die The Duskbloods Fan-Seite bietet kostenlose, inoffizielle Informationen zum Spiel The Duskbloods zu Informations- und Bildungszwecken.",
-      "The Duskbloods sowie alle verwandten Namen, Marken und Inhalte sind Marken der jeweiligen Eigentümer, darunter FromSoftware und Nintendo. Diese Seite beansprucht keine Verbindung, kein Sponsoring und keine Befürwortung.",
-      "Inhalte werden unabhängig verfasst und können jederzeit aktualisiert oder korrigiert werden. Vor dem Release 2026 kann sich die Information ändern; für Vollständigkeit oder Richtigkeit wird keine Gewähr übernommen.",
-      "Bei Bedenken zum Inhalt wenden Sie sich bitte an die Kontaktkanäle der Seite."
+      "Mit dem Zugriff auf diese Website stimmen Sie diesen Bedingungen zu. Duskbloods Guide stellt kostenlose, inoffizielle Informationen zum Spiel The Duskbloods zu Informations- und Bildungszwecken bereit.",
+      "The Duskbloods sowie alle zugehörigen Namen, Marken und Inhalte sind Marken ihrer jeweiligen Inhaber, darunter FromSoftware und Nintendo. Diese Website beansprucht keine Zugehörigkeit, kein Sponsoring und keine Billigung durch diese Parteien.",
+      "Inhalte werden unabhängig verfasst und können jederzeit aktualisiert oder korrigiert werden. Für Richtigkeit wird keine Gewähr übernommen. Bestätigen Sie Angaben stets über die offiziellen Kanäle von Nintendo und FromSoftware.",
+      "Die Nutzung der Website unterliegt auch unserer Datenschutzerklärung zu Daten, Cookies, Analyse und Werbetechnologien. Bitte lesen Sie diese Seite vor der Nutzung.",
+      "Bei Fragen zu Inhalten, Urheberrecht oder diesen Bedingungen nutzen Sie die Kontaktkanäle der Website (contact@duskbloods.net)."
     ]
   },
   "nav": {
@@ -120,7 +129,8 @@
     "lead": "Nachrichten, Guides und Updates zu The Duskbloods.",
     "updatedOn": "Aktualisiert",
     "fallbackNotice": "Dieser Artikel ist noch nicht in Ihrer Sprache verfügbar. Englische Version wird angezeigt.",
-    "readingTime": "{min} Min. Lesezeit"
+    "readingTime": "{min} Min. Lesezeit",
+    "imageCredit": "Bilder in diesem Artikel sind offizielle Materialien © FromSoftware / Nintendo. Rankings, Kommentare und Empfehlungen sind unsere eigenen."
   },
   "home": {
     "hero": {
@@ -225,7 +235,8 @@
       "eyebrow": "BILDSCHIRMFOTOS",
       "title": "Aus dem Spiel",
       "cta": "Mehr Ansehen →",
-      "alt": "The Duskbloods Bildschirmfoto {n}"
+      "alt": "The Duskbloods Bildschirmfoto {n}",
+      "credit": "Screenshots sind offizielle Materialien © FromSoftware / Nintendo. Texte und Analysen der Website sind unabhängig und inoffiziell."
     },
     "videos": {
       "eyebrow": "TRAILER",
@@ -238,7 +249,8 @@
     "intro": {
       "eyebrow": "Gameplay",
       "title": "Wie The Duskbloods gespielt wird",
-      "lead": "The Duskbloods ist ein Action-RPG um 8-Spieler-PvPvE-Matches. So greifen Kampf, Charaktere und Match-Ablauf ineinander."
+      "lead": "The Duskbloods ist ein Action-RPG um 8-Spieler-PvPvE-Matches. So greifen Kampf, Charaktere und Match-Ablauf ineinander.",
+      "updatedAt": "Zuletzt aktualisiert: 19. Oktober 2026"
     },
     "sections": [
       {
@@ -579,13 +591,15 @@
           "a": "Registriere dich über den Nintendo eShop auf deiner Switch 2. Der geschlossene Netzwerktest findet 2026 statt. Besuche unsere Netzwerktest-Seite für genaue Termine und Registrierungsdetails."
         }
       ]
-    }
+    },
+    "sourceNote": "Offizielle Screenshots und Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
   },
   "characters": {
     "intro": {
       "eyebrow": "Charaktere",
       "title": "Die Bloodsworn",
-      "lead": "Die spielbaren Charaktere von The Duskbloods sind die Bloodsworn — Krieger, die durch besonderes Blut übermenschliche Kraft erlangt haben. Keine unkontrollierbaren Monster, sondern bewusste, dominante Kämpfer mit eigener Identität und eigenem Schicksal."
+      "lead": "Die spielbaren Charaktere von The Duskbloods sind die Bloodsworn — Krieger, die durch besonderes Blut übermenschliche Kraft erlangt haben. Keine unkontrollierbaren Monster, sondern bewusste, dominante Kämpfer mit eigener Identität und eigenem Schicksal.",
+      "updatedAt": "Zuletzt aktualisiert: 19. Oktober 2026"
     },
     "about": {
       "title": "Über ein Dutzend Kämpfer",
@@ -991,7 +1005,8 @@
       "title": "Tier-Liste & Auswahl",
       "desc": "Rankings und Einsteiger-Empfehlungen findest du in den Guides.",
       "cta": "Charakter-Guides ansehen"
-    }
+    },
+    "imageCredit": "Charaktergrafiken und Screenshots sind offizielle Materialien © FromSoftware / Nintendo. Hinweise, Spiel-Tipps und Bewertungen auf dieser Seite sind unabhängige Fan-Analysen, keine offizielle Anleitung."
   },
   "networkTest": {
     "intro": {
@@ -1363,6 +1378,28 @@
         {
           "label": "Spielbare Charaktere",
           "value": "12+ Bloodsworn"
+        }
+      ]
+    },
+    "site": {
+      "title": "Über diese Website",
+      "lead": "Duskbloods Guide ist ein unabhängiges Fan-Informationsportal. Wir sind weder FromSoftware noch Nintendo.",
+      "items": [
+        {
+          "title": "Wer betreibt die Website",
+          "desc": "Duskbloods Guide wird von einem unabhängigen Redaktionsteam als Fan-Projekt betrieben. Wir stehen in keiner Verbindung zu FromSoftware, Nintendo oder Kadokawa und werden von diesen weder gesponsert noch unterstützt."
+        },
+        {
+          "title": "Was wir veröffentlichen",
+          "desc": "News-Einordnungen, Systemguides, Charakter-Analysen, Release-Datum-Tracking und Network-Test-Berichte — mit klaren, belegten Antworten."
+        },
+        {
+          "title": "Quellen und Unabhängigkeit",
+          "desc": "Fakten stammen aus offiziellen Nintendo/FromSoftware-Materialien und öffentlicher Berichterstattung. Analysen und Rankings sind unsere eigenen. Offizielle Screenshots sind den Rechteinhabern zugeordnet; Kommentare sind unabhängig."
+        },
+        {
+          "title": "Korrekturen und Updates",
+          "desc": "Fehler korrigieren wir umgehend und aktualisieren Seiten mit dem Spielstand. Fehler gefunden? Nutzen Sie die Kontaktseite — jede Nachricht wird gelesen."
         }
       ]
     }
@@ -1740,7 +1777,7 @@
     "email": {
       "title": "E-Mail",
       "desc": "Senden Sie uns eine E-Mail und wir werden uns so schnell wie möglich bei Ihnen melden.",
-      "address": "contact@duskbloods.com"
+      "address": "contact@duskbloods.net"
     },
     "note": {
       "title": "Haftungsausschluss",
@@ -1751,7 +1788,8 @@
     "intro": {
       "eyebrow": "Karte",
       "title": "Dämmerungslande — Karte der Stadt Lowanro",
-      "lead": "Sobald eine Schlacht beginnt, werden die Blutgeweihten in die Dämmerungslande gerufen. Im Netzwerktest spielen sich alle Schlachten in einem dieser Lande ab: der Stadt Lowanro – einer mehrschichtigen Landschaft aus Wahrzeichen, Gassen und Wildnis."
+      "lead": "Sobald eine Schlacht beginnt, werden die Blutgeweihten in die Dämmerungslande gerufen. Im Netzwerktest spielen sich alle Schlachten in einem dieser Lande ab: der Stadt Lowanro – einer mehrschichtigen Landschaft aus Wahrzeichen, Gassen und Wildnis.",
+      "updatedAt": "Zuletzt aktualisiert: 19. Oktober 2026"
     },
     "lands": {
       "title": "Die Dämmerungslande",
@@ -1824,13 +1862,15 @@
       "title": "Routen & Farm-Spots",
       "desc": "Karten-Strategie-Guides findest du in den Guides.",
       "cta": "Karten-Guides ansehen"
-    }
+    },
+    "sourceNote": "Offizielle Screenshots und Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
   },
   "kin": {
     "intro": {
       "eyebrow": "Vasallen",
       "title": "Vasallen — Pakte, Portale & Entwicklung",
-      "lead": "Vasallen sind jene, die einen Pakt mit dem Dämmerungsbund geschlossen haben. Sie verbünden sich mit Blutgeweihten und leihen ihnen ihre Kraft – eine Unterstützung jenseits von Waffen und Fertigkeiten."
+      "lead": "Vasallen sind jene, die einen Pakt mit dem Dämmerungsbund geschlossen haben. Sie verbünden sich mit Blutgeweihten und leihen ihnen ihre Kraft – eine Unterstützung jenseits von Waffen und Fertigkeiten.",
+      "updatedAt": "Zuletzt aktualisiert: 19. Oktober 2026"
     },
     "what": {
       "title": "Vasallen anheuern",
@@ -1888,7 +1928,8 @@
     "summon": {
       "title": "Beschwörung & Entlassung",
       "desc": "Beschwöre und entlasse Vasallen über das Funktionsmenü. Stirbt ein Vasall, wird er automatisch entlassen und kann eine Zeitlang nicht erneut beschworen werden. In Ruhe oder außerhalb des Kampfes regeneriert seine Lebenskraft. Einen angegriffenen Vasallen kannst du nicht entlassen."
-    }
+    },
+    "sourceNote": "Offizielle Screenshots und Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
   },
   "relatedHubs": {
     "eyebrow": "Weiterlesen",

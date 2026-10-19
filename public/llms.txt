@@ -4,6 +4,8 @@
 
 This site is not affiliated with or endorsed by FromSoftware or Nintendo. All game content belongs to its respective owners.
 
+Editorial independence: official screenshots and system facts are credited to FromSoftware / Nintendo. Rankings, analysis, and recommendations are independent fan work. See [About](https://duskbloods.net/about) and [Privacy Policy](https://duskbloods.net/privacy).
+
 ## Core pages
 
 - [Release Date](https://duskbloods.net/release-date): Current status of The Duskbloods release date — official 2026 window, delay watch, and tracker analysis.
@@ -14,6 +16,7 @@ This site is not affiliated with or endorsed by FromSoftware or Nintendo. All ga
 - [Network Test](https://duskbloods.net/network-test): Closed network test recap — schedule, registration results, and server issues.
 - [FAQ](https://duskbloods.net/faq): Frequently asked questions about the game and this site.
 - [Latest News](https://duskbloods.net/latest): Dated news and analysis articles.
+- [Guides](https://duskbloods.net/guides): Evergreen guides — tier lists, weapons, maps, mechanics, comparisons.
 
 ## Locales
 
@@ -21,6 +24,8 @@ English is served without a path prefix. Other languages use a locale prefix: `/
 
 ## Optional
 
-- [About](https://duskbloods.net/about): About this fan site.
-- [Gallery](https://duskbloods.net/gallery): Official screenshots and artwork.
+- [About](https://duskbloods.net/about): About this fan site, editorial policy, and independence.
+- [Gallery](https://duskbloods.net/gallery): Official screenshots and artwork with independent breakdowns.
 - [Contact](https://duskbloods.net/contact): Contact channels.
+- [Privacy Policy](https://duskbloods.net/privacy): Data, cookies, analytics, and advertising technologies.
+- [Terms](https://duskbloods.net/terms): Terms of use.

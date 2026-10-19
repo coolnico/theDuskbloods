@@ -18,6 +18,7 @@ export default function KinView() {
         <span className="eyebrow">{t('intro.eyebrow')}</span>
         <h1 className="h-title mt-3 text-2xl font-bold sm:text-3xl lg:text-4xl">{t('intro.title')}</h1>
         <p className="mt-3 max-w-3xl text-sm leading-relaxed text-muted sm:mt-4 sm:text-base">{t('intro.lead')}</p>
+        <p className="mt-2 text-xs uppercase tracking-wider text-gold">{t('intro.updatedAt')}</p>
       </header>
 
       <section>
@@ -118,6 +119,8 @@ export default function KinView() {
         </div>
         <p className="mt-3 max-w-3xl text-sm leading-relaxed text-muted">{t('summon.desc')}</p>
       </section>
+
+      <p className="border-t border-border pt-4 text-xs leading-relaxed text-muted">{t('sourceNote')}</p>
     </div>
   );
 }

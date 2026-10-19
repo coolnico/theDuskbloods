@@ -271,6 +271,8 @@ export default function CharacterDetailView({
         <h2 className="h-title mt-3 text-lg font-bold text-text sm:mt-4 sm:text-xl">{detail.ctaTitle}</h2>
         <p className="mx-auto mt-2 max-w-xl text-sm leading-relaxed text-muted sm:mt-3">{detail.ctaDesc}</p>
       </section>
+
+      <p className="border-t border-border pt-4 text-xs leading-relaxed text-muted">{t('imageCredit')}</p>
     </div>
   );
 }

@@ -1,41 +1,51 @@
 import type { MetadataRoute } from 'next';
 import { DOMAIN, LOCALES } from '@/lib/seo';
-import { getAllSlugs, getArticleHref, getSlugSection, getTranslatedLocales } from '@/lib/news';
-import { getCategorySlugs } from '@/lib/guides-categories';
+import {
+  getAllSlugs,
+  getArticleHref,
+  getSlugSection,
+  getTranslatedLocales,
+  getArticle,
+} from '@/lib/news';
 
 // English served at root (no prefix) + each non-en locale prefixed
 const NON_EN = LOCALES.filter((l) => l !== 'en');
 
+/** Site-wide lastmod for hub/legal pages (bump when major content ships). */
+const SITE_LASTMOD = '2026-10-19';
+
 const PAGES = [
-  { path: '', priority: 1.0 },
-  { path: '/gameplay', priority: 0.9 },
-  { path: '/characters', priority: 0.9 },
-  { path: '/network-test', priority: 0.9 },
-  { path: '/release-date', priority: 0.9 },
-  { path: '/guides', priority: 0.9 },
-  { path: '/gallery', priority: 0.8 },
-  { path: '/faq', priority: 0.8 },
-  { path: '/latest', priority: 0.8 },
-  { path: '/about', priority: 0.6 },
-  { path: '/privacy', priority: 0.3 },
-  { path: '/terms', priority: 0.3 },
+  { path: '', priority: 1.0, lastmod: SITE_LASTMOD },
+  { path: '/gameplay', priority: 0.9, lastmod: SITE_LASTMOD },
+  { path: '/characters', priority: 0.9, lastmod: SITE_LASTMOD },
+  { path: '/network-test', priority: 0.9, lastmod: SITE_LASTMOD },
+  { path: '/release-date', priority: 0.9, lastmod: SITE_LASTMOD },
+  { path: '/guides', priority: 0.9, lastmod: SITE_LASTMOD },
+  { path: '/gallery', priority: 0.8, lastmod: SITE_LASTMOD },
+  { path: '/faq', priority: 0.8, lastmod: SITE_LASTMOD },
+  { path: '/latest', priority: 0.8, lastmod: SITE_LASTMOD },
+  { path: '/about', priority: 0.6, lastmod: SITE_LASTMOD },
+  { path: '/privacy', priority: 0.3, lastmod: SITE_LASTMOD },
+  { path: '/terms', priority: 0.3, lastmod: SITE_LASTMOD },
 ] as const;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const urls: MetadataRoute.Sitemap = [];
 
-  for (const { path, priority } of PAGES) {
-    urls.push({ url: `${DOMAIN}${path}`, priority, changeFrequency: 'weekly' });
+  for (const { path, priority, lastmod } of PAGES) {
+    urls.push({
+      url: `${DOMAIN}${path}`,
+      priority,
+      changeFrequency: 'weekly',
+      lastModified: lastmod,
+    });
     for (const locale of NON_EN) {
-      urls.push({ url: `${DOMAIN}/${locale}${path}`, priority, changeFrequency: 'weekly' });
-    }
-  }
-
-  // Guides category pages
-  for (const slug of getCategorySlugs()) {
-    urls.push({ url: `${DOMAIN}/guides/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
-    for (const locale of NON_EN) {
-      urls.push({ url: `${DOMAIN}/${locale}/guides/${slug}`, priority: 0.8, changeFrequency: 'weekly' });
+      urls.push({
+        url: `${DOMAIN}/${locale}${path}`,
+        priority,
+        changeFrequency: 'weekly',
+        lastModified: lastmod,
+      });
     }
   }
 
@@ -44,9 +54,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const slugs = getAllSlugs();
   for (const slug of slugs) {
     const href = getArticleHref(slug, getSlugSection(slug));
-    urls.push({ url: `${DOMAIN}${href}`, priority: 0.7, changeFrequency: 'monthly' });
+    const en = getArticle('en', slug);
+    const lastmod = en?.modified || en?.date || SITE_LASTMOD;
+    urls.push({
+      url: `${DOMAIN}${href}`,
+      priority: 0.7,
+      changeFrequency: 'monthly',
+      lastModified: lastmod,
+    });
     for (const locale of getTranslatedLocales(slug)) {
-      urls.push({ url: `${DOMAIN}/${locale}${href}`, priority: 0.7, changeFrequency: 'monthly' });
+      const locArticle = getArticle(locale, slug);
+      urls.push({
+        url: `${DOMAIN}/${locale}${href}`,
+        priority: 0.7,
+        changeFrequency: 'monthly',
+        lastModified: locArticle?.modified || locArticle?.date || lastmod,
+      });
     }
   }
 

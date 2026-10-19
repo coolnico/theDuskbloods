@@ -1,12 +1,13 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { Info } from 'lucide-react';
+import { Info, ShieldCheck } from 'lucide-react';
 
 export default function AboutView() {
   const t = useTranslations('about');
   const paragraphs = t.raw('paragraphs') as string[];
   const facts = t.raw('facts.items') as { label: string; value: string }[];
+  const siteItems = t.raw('site.items') as { title: string; desc: string }[];
 
   return (
     <div className="space-y-8 sm:space-y-12">
@@ -36,6 +37,22 @@ export default function AboutView() {
             </div>
           ))}
         </dl>
+      </section>
+
+      <section className="card">
+        <div className="flex items-center gap-2">
+          <ShieldCheck className="h-5 w-5 text-gold" />
+          <h2 className="h-title text-lg font-bold sm:text-xl">{t('site.title')}</h2>
+        </div>
+        <p className="mt-3 text-sm leading-relaxed text-muted">{t('site.lead')}</p>
+        <div className="mt-5 grid gap-3 sm:mt-6 sm:gap-4 sm:grid-cols-2">
+          {siteItems.map((item, i) => (
+            <div key={i} className="rounded-[var(--radius)] border border-border bg-surface-2/40 p-3 sm:p-4">
+              <h3 className="text-sm font-semibold text-text">{item.title}</h3>
+              <p className="mt-2 text-sm leading-relaxed text-muted">{item.desc}</p>
+            </div>
+          ))}
+        </div>
       </section>
     </div>
   );

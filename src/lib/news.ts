@@ -9,6 +9,7 @@ export interface Article {
   title: string;
   date: string;
   modified?: string;
+  author: string;
   summary: string;
   image?: string;
   tags?: string[];
@@ -26,6 +27,7 @@ export interface ArticleMeta {
   title: string;
   date: string;
   modified?: string;
+  author: string;
   summary: string;
   image?: string;
   tags?: string[];
@@ -74,6 +76,7 @@ function toMeta(slug: string, data: ArticleData, usedLocale: string): ArticleMet
     title: data.title,
     date: data.date,
     modified: data.modified || undefined,
+    author: data.author || 'Duskbloods Guide',
     summary: data.summary,
     image: data.image || undefined,
     tags: data.tags,
@@ -132,6 +135,7 @@ export function getArticle(locale: string, slug: string): Article | null {
     title: data.title,
     date: data.date,
     modified: data.modified || undefined,
+    author: data.author || 'Duskbloods Guide',
     summary: data.summary,
     image: data.image || undefined,
     tags: data.tags,

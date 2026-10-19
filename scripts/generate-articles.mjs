@@ -73,6 +73,7 @@ function buildEntry(file) {
     title: file.data.title,
     date: file.data.date,
     modified: file.data.modified || null,
+    author: file.data.author || 'Duskbloods Guide',
     summary: file.data.summary,
     image: file.data.image || null,
     tags: file.data.tags || [],
@@ -140,6 +141,7 @@ export interface ArticleData {
   title: string;
   date: string;
   modified: string | null;
+  author: string;
   summary: string;
   image: string | null;
   tags: string[];

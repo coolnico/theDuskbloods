@@ -129,6 +129,7 @@ export default function HomeView() {
             </Link>
           ))}
         </div>
+        <p className="mt-4 text-xs leading-relaxed text-muted">{t('screenshots.credit')}</p>
       </section>
 
       {/* Overview */}
