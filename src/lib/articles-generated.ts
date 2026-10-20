@@ -348,7 +348,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Was the network test a success?",
-          "answer": "Mixed, with heat. Gameplay sentiment was strong and applications beat Nightreign. Servers and PvP latency were the weak spot — and the most likely reason nobody will print a date yet.\r\n\r\n---"
+          "answer": "Mixed, with heat. Gameplay sentiment was strong and applications beat Nightreign. Servers and PvP latency were the weak spot — and the most likely reason nobody will print a date yet.\n\n---"
         }
       ],
       "listItems": []
@@ -393,7 +393,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "ネットワークテストは成功だったか？",
-          "answer": "熱量はあるが毀誉褒貶あり。ゲームプレイ評価と応募数は好調。サーバーとPvP遅延が弱点で、日付が出ない最大の理由でもある。\r\n\r\n---"
+          "answer": "熱量はあるが毀誉褒貶あり。ゲームプレイ評価と応募数は好調。サーバーとPvP遅延が弱点で、日付が出ない最大の理由でもある。\n\n---"
         }
       ],
       "listItems": []
@@ -483,7 +483,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Сетевой тест можно считать успехом?",
-          "answer": "Скорее «шумный и спорный». Игровой цикл хвалили, заявок было больше, чем у Nightreign. Серверы и лаги PvP — слабое место и главная причина, почему дату до сих пор не ставят.\r\n\r\n---"
+          "answer": "Скорее «шумный и спорный». Игровой цикл хвалили, заявок было больше, чем у Nightreign. Серверы и лаги PvP — слабое место и главная причина, почему дату до сих пор не ставят.\n\n---"
         }
       ],
       "listItems": []
@@ -997,7 +997,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Where do I see full skill descriptions?",
-          "answer": "See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and [Gameplay](/gameplay) for the Dusk Battle phase flow.\r\n\r\n---"
+          "answer": "See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and [Gameplay](/gameplay) for the Dusk Battle phase flow.\n\n---"
         }
       ],
       "listItems": [
@@ -1056,7 +1056,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "スキルの詳細はどこに？",
-          "answer": "[キャラクター](/ja/characters)（武器・ブラッドアート・アスペクト）と[ゲームプレイ](/ja/gameplay)（Dusk Battle フェーズ）を参照。\r\n\r\n---"
+          "answer": "[キャラクター](/ja/characters)（武器・ブラッドアート・アスペクト）と[ゲームプレイ](/ja/gameplay)（Dusk Battle フェーズ）を参照。\n\n---"
         }
       ],
       "listItems": [
@@ -1115,7 +1115,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "完整技能说明在哪？",
-          "answer": "见 [人物图鉴](/zh/characters)（武器、血艺、特质），以及 [玩法](/zh/gameplay)（Dusk Battle 阶段流程）。\r\n\r\n---"
+          "answer": "见 [人物图鉴](/zh/characters)（武器、血艺、特质），以及 [玩法](/zh/gameplay)（Dusk Battle 阶段流程）。\n\n---"
         }
       ],
       "listItems": [
@@ -1174,7 +1174,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "完整技能說明在哪？",
-          "answer": "見 [人物圖鑑](/zh-TW/characters)（武器、血藝、特質），以及 [玩法](/zh-TW/gameplay)（Dusk Battle 階段流程）。\r\n\r\n---"
+          "answer": "見 [人物圖鑑](/zh-TW/characters)（武器、血藝、特質），以及 [玩法](/zh-TW/gameplay)（Dusk Battle 階段流程）。\n\n---"
         }
       ],
       "listItems": [
@@ -1233,7 +1233,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Где полные описания скиллов?",
-          "answer": "[Герои](/ru/characters) — оружие, кровавые искусства, аспекты. [Геймплей](/ru/gameplay) — фазы Dusk Battle.\r\n\r\n---"
+          "answer": "[Герои](/ru/characters) — оружие, кровавые искусства, аспекты. [Геймплей](/ru/gameplay) — фазы Dusk Battle.\n\n---"
         }
       ],
       "listItems": [
@@ -1298,7 +1298,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Which is better for beginners?",
-          "answer": "If you are new to FromSoftware: Elden Ring teaches at your pace. If you are new but want multiplayer: The Duskbloods has SBMM to protect first-timers — see [beginner matchmaking](/latest/duskbloods-beginner-matchmaking).\r\n\r\n---"
+          "answer": "If you are new to FromSoftware: Elden Ring teaches at your pace. If you are new but want multiplayer: The Duskbloods has SBMM to protect first-timers — see [beginner matchmaking](/latest/duskbloods-beginner-matchmaking).\n\n---"
         }
       ],
       "listItems": []
@@ -1336,7 +1336,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "初心者はどちら？",
-          "answer": "FromSoftware 初心者なら エルデンリング。マルチ初心者なら The Duskbloods はSBMMで守られる（[初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)）。\r\n\r\n---"
+          "answer": "FromSoftware 初心者なら エルデンリング。マルチ初心者なら The Duskbloods はSBMMで守られる（[初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)）。\n\n---"
         }
       ],
       "listItems": []
@@ -1374,7 +1374,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "新手该玩哪个？",
-          "answer": "FromSoftware 新手：法环可以按自己节奏学。想玩多人新手：黄昏血族有按水平匹配保护，见 [新手匹配](/zh/latest/duskbloods-beginner-matchmaking)。\r\n\r\n---"
+          "answer": "FromSoftware 新手：法环可以按自己节奏学。想玩多人新手：黄昏血族有按水平匹配保护，见 [新手匹配](/zh/latest/duskbloods-beginner-matchmaking)。\n\n---"
         }
       ],
       "listItems": []
@@ -1412,7 +1412,7 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "新手該玩哪個？",
-          "answer": "FromSoftware 新手：法環可以按自己節奏學。想玩多人新手：黃昏血族有按水平配對保護，見 [新手配對](/zh-TW/latest/duskbloods-beginner-matchmaking)。\r\n\r\n---"
+          "answer": "FromSoftware 新手：法環可以按自己節奏學。想玩多人新手：黃昏血族有按水平配對保護，見 [新手配對](/zh-TW/latest/duskbloods-beginner-matchmaking)。\n\n---"
         }
       ],
       "listItems": []
@@ -1450,7 +1450,254 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
         },
         {
           "question": "Что новичку?",
-          "answer": "Если вы новичок в FromSoftware — Elden Ring учит в вашем темпе. Если хотите мультиплеер — The Duskbloods бережёт SBMM ([матчмейкинг](/ru/latest/duskbloods-beginner-matchmaking)).\r\n\r\n---"
+          "answer": "Если вы новичок в FromSoftware — Elden Ring учит в вашем темпе. Если хотите мультиплеер — The Duskbloods бережёт SBMM ([матчмейкинг](/ru/latest/duskbloods-beginner-matchmaking)).\n\n---"
+        }
+      ],
+      "listItems": []
+    }
+  },
+  "duskbloods-zork-guide": {
+    "en": {
+      "title": "Zork Guide: How to Play The Duskbloods' Snowball Tank",
+      "date": "2026-10-20",
+      "modified": null,
+      "author": "Duskbloods Guide",
+      "summary": "Complete Zork guide for The Duskbloods — Law of the Deep Sea HP steal explained, Human Rocket and Missile combos, phase-by-phase game plan, and why this diving-suit Bloodsworn is S-tier in the network test meta.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Zork"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>TL;DR</strong>: <strong>Zork</strong> is The Duskbloods&#39; aggressive tank / disruptor. His Aspect <strong>Law of the Deep Sea</strong> steals max HP whenever you defeat another Bloodsworn — if you get ahead, you snowball. <strong>Human Rocket</strong> and <strong>Missile</strong> force fights and break setups. Difficulty 2, but the floor is high: a Zork who survives Grail culling is a final-three threat. Never die to the player you just robbed.</p>\n</blockquote>\n<hr>\n<h2>Who Is Zork in The Duskbloods?</h2>\n<p><strong>Zork</strong> is a playable <strong>Bloodsworn</strong> in <em>The Duskbloods</em> — FromSoftware&#39;s 8-player PvPvE action RPG, exclusive to Nintendo Switch 2. He is <strong>not</strong> the 1980 Infocom text adventure of the same name. In-game, Zork is a diving-suit wrecking ball: a winged, deep-sea salvage figure who grows cannons and rocket packs out of his suit and steals maximum life from the players he kills.</p>\n<p>He became the <strong>meme favorite of the August 2026 network test</strong> and finished as an <strong>S-tier pick</strong> in our <a href=\"/guides/duskbloods-tier-list\">Bloodsworn tier list</a>. Hidetaka Miyazaki himself has said he has a near-maternal fondness for the character — a rare piece of Nintendo-flavored charm inside Twilight industrial body-horror.</p>\n<table>\n<thead>\n<tr>\n<th>Fact</th>\n<th>Detail</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Game</strong></td>\n<td>The Duskbloods (2026, Nintendo Switch 2 exclusive)</td>\n</tr>\n<tr>\n<td><strong>Role</strong></td>\n<td>Aggressive tank / disruptor</td>\n</tr>\n<tr>\n<td><strong>Difficulty</strong></td>\n<td>★★☆☆☆ (2 / 5)</td>\n</tr>\n<tr>\n<td><strong>Melee</strong></td>\n<td>Undersea Cable</td>\n</tr>\n<tr>\n<td><strong>Ranged</strong></td>\n<td>Speargun</td>\n</tr>\n<tr>\n<td><strong>Blood Arts</strong></td>\n<td>Missile · Human Rocket</td>\n</tr>\n<tr>\n<td><strong>Aspects</strong></td>\n<td>Law of the Deep Sea · Dread Resonance</td>\n</tr>\n<tr>\n<td><strong>Network-test tier</strong></td>\n<td><strong>S</strong></td>\n</tr>\n</tbody></table>\n<p>Full stats and lore live on the <a href=\"/characters/zork\">Zork character page</a>. This guide is the <strong>how-to-play</strong> companion.</p>\n<hr>\n<h2>Zork&#39;s Kit, Explained</h2>\n<p>Zork&#39;s kit is built around one idea: <strong>force the fight, win the fight, grow from the fight</strong>. Every tool either starts an engagement or pays you for finishing one.</p>\n<h3>Weapons: Undersea Cable &amp; Speargun</h3>\n<table>\n<thead>\n<tr>\n<th>Slot</th>\n<th>Weapon</th>\n<th>What it does</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Melee</strong></td>\n<td>Undersea Cable</td>\n<td>Honest, reliable close-range pressure. Good stagger into confirms.</td>\n</tr>\n<tr>\n<td><strong>Ranged</strong></td>\n<td>Speargun</td>\n<td>Clean mid-range poke. Use it to soften targets before you commit.</td>\n</tr>\n</tbody></table>\n<p>These are &quot;honest tools&quot; — they do not win games on their own. They set up the Blood Arts.</p>\n<h3>Blood Arts: Missile &amp; Human Rocket</h3>\n<table>\n<thead>\n<tr>\n<th>Blood Art</th>\n<th>Input idea</th>\n<th>Best use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Missile</strong></td>\n<td>Deploy the cannon from the diving suit&#39;s back, take a firing stance, then fire</td>\n<td><strong>Punish stationary setups.</strong> Catch people channeling, reviving, or holding a ritual.</td>\n</tr>\n<tr>\n<td><strong>Human Rocket</strong></td>\n<td>Deploy the back thrusters and charge forward in flight mode</td>\n<td><strong>Force the engage.</strong> Close distance, break formations, start the brawl Zork wants.</td>\n</tr>\n</tbody></table>\n<p><strong>Human Rocket</strong> is the signature move. It turns Zork into a guided threat that the whole lobby has to answer. <strong>Missile</strong> is the follow-up or the anti-camp tool.</p>\n<h3>Aspects: Law of the Deep Sea &amp; Dread Resonance</h3>\n<table>\n<thead>\n<tr>\n<th>Aspect</th>\n<th>Effect</th>\n<th>Why it matters</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Law of the Deep Sea</strong></td>\n<td>Defeat a Bloodsworn → <strong>steal their max HP</strong>. If they defeat you later, <strong>you lose it all</strong>.</td>\n<td>The snowball engine. Early kills compound through culling phases.</td>\n</tr>\n<tr>\n<td><strong>Dread Resonance</strong></td>\n<td>A non-human sonic howl. <strong>Hold [L] + [ZR]</strong> to keep it going.</td>\n<td>Interrupt telegraphed attacks, inflate stagger, bully the final-phase duel.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Law of the Deep Sea: The HP Steal Mechanic</h2>\n<p>This is the reason to play Zork — and the reason people throw games on him.</p>\n<p><strong>Law of the Deep Sea explained in one sentence</strong>: when you defeat another Bloodsworn, you permanently gain max HP; if that same player later defeats you, you lose the HP you stole from them.</p>\n<h3>How the snowball works</h3>\n<ol>\n<li><strong>Phase I</strong> — farm Virtue and look for a clean Bloodsworn elimination (not just PvE).</li>\n<li><strong>Each kill</strong> raises your max HP ceiling. In a game where the Grail culls low-Virtue Bloodsworn in Phases II–III, extra HP is extra survival budget.</li>\n<li><strong>Culling phases</strong> — weaker players die to the Grail or to you. Hunt the wounded.</li>\n<li><strong>Final three</strong> — stolen max HP stacks with raw Virtue bonuses. You enter the last fight as the raid boss.</li>\n</ol>\n<h3>How people throw</h3>\n<ul>\n<li><strong>Dying to their victim.</strong> If the player you robbed finishes you, the stolen HP is returned. Greed throws the lead.</li>\n<li><strong>Chasing kills into the open.</strong> Zork wants controlled fights, not 1v3s in a field.</li>\n<li><strong>Ignoring Virtue.</strong> HP does not stop the Grail. You still need Virtue to survive culling.</li>\n</ul>\n<h3>The rule of thumb</h3>\n<blockquote>\n<p>After a steal, <strong>reset or play safer</strong>. You are now worth more dead to the one person who can take it back.</p>\n</blockquote>\n<hr>\n<h2>How to Play Zork: Phase-by-Phase Game Plan</h2>\n<p>The Duskbloods runs a four-phase Dusk Battle. Zork&#39;s job changes as the clock moves.</p>\n<h3>Phase I — Establish the snowball</h3>\n<ul>\n<li>Contest <strong>ritual sites early</strong>. Virtue now, kills later.</li>\n<li>Use Speargun to soften; commit with <strong>Human Rocket</strong> only when you have a real edge.</li>\n<li>Your first Bloodsworn elimination is the most important moment of the match.</li>\n</ul>\n<h3>Phases II–III — Survive the Grail, hunt the weak</h3>\n<ul>\n<li>The Grail culls low-Virtue Bloodsworn. <strong>Do not be one of them.</strong></li>\n<li>Pick off players already damaged by culling or by other fights. Law of the Deep Sea wants <strong>Bloodsworn eliminations</strong>, not just farming.</li>\n<li>Save <strong>Dread Resonance</strong> to cancel telegraphed attacks when someone tries to collapse on you.</li>\n</ul>\n<h3>Phase IV — Be the problem in the final three</h3>\n<ul>\n<li>Stolen HP + Virtue bonuses make you the natural front-liner.</li>\n<li>Hold the howl in duels. Extended <strong>Dread Resonance</strong> inflates stagger and ruins combo timing.</li>\n<li>Force the other two to deal with you — then let them fight each other.</li>\n</ul>\n<hr>\n<h2>Zork Tips &amp; Combos That Actually Work</h2>\n<h3>1. Kill to grow</h3>\n<p>Law of the Deep Sea wants <strong>Bloodsworn eliminations</strong>, not just PvE. Hunt players who are already weak from the Grail&#39;s culling.</p>\n<h3>2. Do not die to your victim</h3>\n<p>HP stolen is lost if the player you robbed finishes you. After a steal, reset or play safer — greed throws the lead.</p>\n<h3>3. Hold the howl</h3>\n<p><strong>Dread Resonance ([L] + [ZR])</strong> extends while held. Use it to cancel telegraphed attacks or to bully a final-phase duel.</p>\n<h3>4. Human Rocket is an opener, not an escape</h3>\n<p>Do not burn it to run away if you can burn it to start the fight you want. Zork wins by choosing engagements.</p>\n<h3>5. Missile punishes greed</h3>\n<p>When someone channels, revives, or camps a ritual, <strong>Missile</strong> is the answer. Deploy, stance, fire.</p>\n<h3>6. Play the raid boss, not the assassin</h3>\n<p>Zork is difficulty 2 for a reason. You do not need fancy stealth. You need to <strong>be the threat the lobby must address</strong>, then cash in when they fail.</p>\n<hr>\n<h2>Zork vs Other Bloodsworn</h2>\n<table>\n<thead>\n<tr>\n<th>Matchup</th>\n<th>Verdict</th>\n<th>Why</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Zork vs Albert</strong></td>\n<td>Even / Zork favored late</td>\n<td>Albert is the safer all-rounder. Zork outscales him in the final three if the snowball starts.</td>\n</tr>\n<tr>\n<td><strong>Zork vs Sniper Layla</strong></td>\n<td>Zork favored up close</td>\n<td>Layla owns long sightlines. Close the gap with Human Rocket and she loses her game.</td>\n</tr>\n<tr>\n<td><strong>Zork vs Bloodhand Jan</strong></td>\n<td>Skill matchup</td>\n<td>Both want long fights. Whoever lands the better Dread Resonance / sustain loop wins.</td>\n</tr>\n<tr>\n<td><strong>Zork vs Trang Lanh</strong></td>\n<td>Zork favored</td>\n<td>Trang wants ambush. Zork&#39;s kit breaks setups and forces honest fights.</td>\n</tr>\n<tr>\n<td><strong>Zork vs Senator Samir Patres</strong></td>\n<td>Samir favored if clean</td>\n<td>Samir punishes bad positioning. Zork who face-checks dies; Zork who engages on his terms wins.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Is Zork Good? Network-Test Verdict</h2>\n<p><strong>Yes — Zork is S-tier in the August 2026 network test meta</strong>, for three reasons:</p>\n<ol>\n<li><strong>Consistency.</strong> Difficulty 2, high floor. Survives culling more reliably than stealth or tech picks.</li>\n<li><strong>Snowball.</strong> Law of the Deep Sea turns early leads into final-phase dominance.</li>\n<li><strong>Forced attention.</strong> Human Rocket makes him the player everyone has to answer — and that pressure wins games even when he does not top the kill board.</li>\n</ol>\n<p>He is also the <strong>community favorite</strong> of the network test: the diving-suit winged figure with the stolen-HP rule set is pure FromSoftware cruelty wrapped in a weirdly lovable design.</p>\n<p><strong>Caveat</strong>: this is a <strong>network-test preview ranking</strong>, not the final retail build. Launch balance is still unannounced. See our full <a href=\"/guides/duskbloods-tier-list\">tier list</a> for the rest of the roster.</p>\n<hr>\n<h2>FAQ</h2>\n<h3>What is Zork&#39;s role in The Duskbloods?</h3>\n<p><strong>Zork is an aggressive tank / disruptor.</strong> He forces fights with Human Rocket, punishes setups with Missile, and snowballs max HP through Law of the Deep Sea. He is the Bloodsworn other players must deal with.</p>\n<h3>How do you play Zork?</h3>\n<p>Farm Virtue in Phase I, take clean Bloodsworn eliminations to grow max HP, survive Grail culling in Phases II–III, then enter the final three as the raid boss. Hold Dread Resonance to interrupt and bully duels. Never die to the player you robbed.</p>\n<h3>What does Law of the Deep Sea do?</h3>\n<p><strong>Law of the Deep Sea steals max HP when you defeat another Bloodsworn.</strong> If that player later defeats you, the stolen HP is returned. It is Zork&#39;s snowball engine — and his main throw condition.</p>\n<h3>What weapons does Zork use?</h3>\n<p>Zork uses the <strong>Undersea Cable</strong> in melee and the <strong>Speargun</strong> at range. His Blood Arts are <strong>Missile</strong> and <strong>Human Rocket</strong>.</p>\n<h3>Is Zork good for beginners?</h3>\n<p><strong>Yes.</strong> Difficulty is 2 / 5, the floor is high, and the kit is straightforward: force fights, win fights, grow. New players who want a tanky pick over a technical one should start on Zork or <a href=\"/characters/albert\">Albert</a>.</p>\n<h3>Zork vs Albert — who should I pick?</h3>\n<p>Pick <strong>Albert</strong> if you want the safest all-rounder and a clean way to learn the game. Pick <strong>Zork</strong> if you want to snowball, force fights, and be the raid boss in the final three. Both are S-tier network-test picks.</p>\n<h3>Is Zork the Infocom text adventure?</h3>\n<p><strong>No.</strong> The Zork in The Duskbloods is a diving-suit Bloodsworn character. The 1980 <em>Zork</em> is a classic Infocom text adventure — different game, different era, same spelling.</p>\n<hr>\n<h2>Sources</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods network test gameplay guide (character kits, Virtue system, match phases), August 2026</li>\n<li>Site data: <a href=\"/characters/zork\">Zork character page</a> · <a href=\"/guides/duskbloods-tier-list\">Bloodsworn tier list</a> · <a href=\"/gameplay\">Gameplay systems</a> · <a href=\"/maps\">Maps</a></li>\n<li>Related: <a href=\"/latest/duskbloods-pvpve-explained\">What Is The Duskbloods PvPvE?</a> · <a href=\"/latest/duskbloods-beginner-matchmaking\">Beginner Matchmaking Explained</a></li>\n</ul>\n<p><em>Related: <a href=\"/guides/duskbloods-tier-list\">Bloodsworn Tier List</a> · <a href=\"/characters/zork\">Zork Character Page</a> · <a href=\"/latest/duskbloods-network-test-review\">Network Test Review</a></em></p><hr>\n<p><em>Image credit: official materials © FromSoftware / Nintendo. Gameplay analysis is independent fan commentary based on the August 2026 closed network test.</em></p>\n",
+      "wordCount": 1802,
+      "faq": [
+        {
+          "question": "What is Zork's role in The Duskbloods?",
+          "answer": "Zork is an aggressive tank / disruptor. He forces fights with Human Rocket, punishes setups with Missile, and snowballs max HP through Law of the Deep Sea. He is the Bloodsworn other players must deal with."
+        },
+        {
+          "question": "How do you play Zork?",
+          "answer": "Farm Virtue in Phase I, take clean Bloodsworn eliminations to grow max HP, survive Grail culling in Phases II–III, then enter the final three as the raid boss. Hold Dread Resonance to interrupt and bully duels. Never die to the player you robbed."
+        },
+        {
+          "question": "What does Law of the Deep Sea do?",
+          "answer": "Law of the Deep Sea steals max HP when you defeat another Bloodsworn. If that player later defeats you, the stolen HP is returned. It is Zork's snowball engine — and his main throw condition."
+        },
+        {
+          "question": "What weapons does Zork use?",
+          "answer": "Zork uses the Undersea Cable in melee and the Speargun at range. His Blood Arts are Missile and Human Rocket."
+        },
+        {
+          "question": "Is Zork good for beginners?",
+          "answer": "Yes. Difficulty is 2 / 5, the floor is high, and the kit is straightforward: force fights, win fights, grow. New players who want a tanky pick over a technical one should start on Zork or [Albert](/characters/albert)."
+        },
+        {
+          "question": "Zork vs Albert — who should I pick?",
+          "answer": "Pick Albert if you want the safest all-rounder and a clean way to learn the game. Pick Zork if you want to snowball, force fights, and be the raid boss in the final three. Both are S-tier network-test picks."
+        },
+        {
+          "question": "Is Zork the Infocom text adventure?",
+          "answer": "No. The Zork in The Duskbloods is a diving-suit Bloodsworn character. The 1980 *Zork* is a classic Infocom text adventure — different game, different era, same spelling.\n\n---"
+        }
+      ],
+      "listItems": []
+    },
+    "ja": {
+      "title": "ゾーク攻略：The Duskbloods の雪だるまタンクの使い方",
+      "date": "2026-10-20",
+      "modified": null,
+      "author": "Duskbloods Guide",
+      "summary": "The Duskbloods ゾーク完全攻略——深海の掟による最大HP奪取の仕組み、人間ロケットとミサイルの連携、フェーズ別の立ち回り、そしてネットワークテストでSランクだった理由を解説。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Zork"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>要約</strong>：<strong>ゾーク（Zork）</strong> は The Duskbloods のアグレッシブタンク／撹乱役。専用能力 <strong>深海の掟</strong> は、他のブラッドスウォーンを倒すたびに最大HPを奪う——一度リードすれば雪だるま式に伸びる。<strong>人間ロケット</strong> と <strong>ミサイル</strong> で強引に試合を動かし、相手の形を壊す。難易度は2だが下限が高い。聖杯の淘汰を生き延びたゾークは、ファイナル3の脅威になる。<strong>奪った相手に殺されないこと。</strong></p>\n</blockquote>\n<hr>\n<h2>ゾークとは？ The Duskbloods のキャラクター</h2>\n<p><strong>ゾーク（Zork）</strong> は <em>The Duskbloods</em> のプレイアブルな <strong>ブラッドスウォーン</strong> —— FromSoftware の 8 人 PvPvE アクション RPG、Nintendo Switch 2 独占タイトル。<strong>1980 年の Infocom テキストアドベンチャー『Zork』とは別物</strong> なので注意。</p>\n<p>ゲーム内では、ダイビングスーツの破壊神。背部から砲身とロケットパックが生える深海サルベージ的フォルムで、倒した相手の最大寿命を奪う。<strong>2026 年 8 月ネットワークテストのミーム的スター</strong> であり、当サイトの<a href=\"/ja/guides/duskbloods-tier-list\">ブラッドスウォーン ティアリスト</a>では <strong>S ティア</strong>。宮崎英高本人も「ほぼ母性的な愛着」と語っており、黄昏の工業的身体ホラーの中では珍しい、任天堂的な愛嬌の塊。</p>\n<table>\n<thead>\n<tr>\n<th>項目</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ゲーム</strong></td>\n<td>The Duskbloods（2026、Nintendo Switch 2 独占）</td>\n</tr>\n<tr>\n<td><strong>役割</strong></td>\n<td>アグレッシブタンク／撹乱</td>\n</tr>\n<tr>\n<td><strong>難易度</strong></td>\n<td>★★☆☆☆（2／5）</td>\n</tr>\n<tr>\n<td><strong>近接</strong></td>\n<td>海底ケーブル</td>\n</tr>\n<tr>\n<td><strong>遠距離</strong></td>\n<td>スピアガン</td>\n</tr>\n<tr>\n<td><strong>ブラッドアーツ</strong></td>\n<td>ミサイル · 人間ロケット</td>\n</tr>\n<tr>\n<td><strong>アスペクト</strong></td>\n<td>深海の掟 · 怪音波</td>\n</tr>\n<tr>\n<td><strong>ネットテスト評価</strong></td>\n<td><strong>S</strong></td>\n</tr>\n</tbody></table>\n<p>詳細ステータスと設定は <a href=\"/ja/characters/zork\">ゾークのキャラクター頁</a>。本稿は <strong>使い方</strong> の実践ガイド。</p>\n<hr>\n<h2>ゾークのキット解説</h2>\n<p>ゾークのキットは一言で：<strong>試合を強引に始め、それを勝ち、それで伸びる</strong>。すべてのツールは「開幕」か「回収」のどちらか。</p>\n<h3>武器：海底ケーブル＆スピアガン</h3>\n<table>\n<thead>\n<tr>\n<th>スロット</th>\n<th>武器</th>\n<th>役割</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>近接</strong></td>\n<td>海底ケーブル</td>\n<td>正攻法の近接圧力。スタガーから確認へつなげやすい。</td>\n</tr>\n<tr>\n<td><strong>遠距離</strong></td>\n<td>スピアガン</td>\n<td>中距離の削り。突入を決める前に相手を削る。</td>\n</tr>\n</tbody></table>\n<p>これは「正攻法のツール」——単体では試合を取れない。ブラッドアーツの布石になる。</p>\n<h3>ブラッドアーツ：ミサイル＆人間ロケット</h3>\n<table>\n<thead>\n<tr>\n<th>ブラッドアーツ</th>\n<th>操作の要点</th>\n<th>使いどころ</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ミサイル</strong></td>\n<td>潜水服の背部から砲身を展開し、構えてから発射</td>\n<td><strong>置きを罰する。</strong> 詠唱中・復活中・儀式場を固めている相手に。</td>\n</tr>\n<tr>\n<td><strong>人間ロケット</strong></td>\n<td>背部の推進装置を展開し、飛行モードで突進</td>\n<td><strong>開幕を強制する。</strong> 距離を詰め、陣形を壊し、ゾークが望む乱戦へ。</td>\n</tr>\n</tbody></table>\n<p><strong>人間ロケット</strong> が看板技。ロビー全員が「答えなければならない」誘導脅威になる。<strong>ミサイル</strong> は追撃と反カウンター。</p>\n<h3>アスペクト：深海の掟＆怪音波</h3>\n<table>\n<thead>\n<tr>\n<th>アスペクト</th>\n<th>効果</th>\n<th>なぜ重要か</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>深海の掟</strong></td>\n<td>ブラッドスウォーンを倒すと <strong>最大HPを奪う</strong>。相手に倒されると <strong>全部返す</strong></td>\n<td>雪だるまのエンジン。序盤のキルが淘汰フェーズまで複利で効く。</td>\n</tr>\n<tr>\n<td><strong>怪音波</strong></td>\n<td>非人間の音波咆哮。<strong>[L] + [ZR] を長押し</strong> で持続</td>\n<td>テレグラフ攻撃のキャンセル、スタガー増幅、決勝のデュエルを押し切る。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>深海の掟：最大HP奪取の仕組み</h2>\n<p>ゾークを選ぶ理由はこれ——そして、多くの人がこれで試合を投げる理由でもある。</p>\n<p><strong>深海の掟を一文で</strong>：他のブラッドスウォーンを倒すと最大HPが恒久的に増える。その相手に後で倒されると、奪ったHPは返される。</p>\n<h3>雪だるまの回し方</h3>\n<ol>\n<li><strong>フェーズ I</strong> —— 美徳を貯め、綺麗なブラッドスウォーンキルを探す（PvE だけではない）。</li>\n<li><strong>キルごと</strong> に最大HP上限が上がる。聖杯が第2〜3フェーズで低美徳のブラッドスウォーンを淘汰するこのゲームでは、HPがそのまま生存予算。</li>\n<li><strong>淘汰フェーズ</strong> —— 弱った相手は聖杯か、あなたに倒される。傷んだ相手を狩る。</li>\n<li><strong>ファイナル3</strong> —— 奪った最大HPと美徳ボーナスが乗算。最後の戦いに「レイドボス」で入る。</li>\n</ol>\n<h3>投げパターン</h3>\n<ul>\n<li><strong>被害者に殺される。</strong> 奪った相手に倒されるとHPは返る。欲がリードを投げる。</li>\n<li><strong>無暗に追いすぎ。</strong> ゾークが欲しいのは管理された戦闘。野原での 1v3 ではない。</li>\n<li><strong>美徳を無視する。</strong> HPは聖杯を止めない。淘汰を生き延びるには美徳が要る。</li>\n</ul>\n<h3>口グセ</h3>\n<blockquote>\n<p>奪った直後は <strong>リセットするか、もっと慎重に</strong>。あなたは今、たった一人にとって「倒せば元を取れる」獲物。</p>\n</blockquote>\n<hr>\n<h2>ゾークの使い方：フェーズ別プラン</h2>\n<p>The Duskbloods は 4 フェーズの Dusk Battle。ゾークの役割は時間で変わる。</p>\n<h3>フェーズ I —— 雪だるまを立てる</h3>\n<ul>\n<li><strong>儀式場を早めに争奪。</strong> 美徳が先、キルは後。</li>\n<li>スピアガンで削り、<strong>人間ロケット</strong> は本当に優位な時だけ。</li>\n<li>最初のブラッドスウォーンキルが、試合で最も重要な瞬間。</li>\n</ul>\n<h3>フェーズ II〜III —— 聖杯を生き延び、傷んだ相手を狩る</h3>\n<ul>\n<li>聖杯は低美徳のブラッドスウォーンを淘汰する。<strong>その一人にならないこと。</strong></li>\n<li>淘汰か他の戦闘で削れた相手を回収する。深海の掟が欲しいのは <strong>ブラッドスウォーンのキル</strong>、ただのファームではない。</li>\n<li>まとめて来られたら <strong>怪音波</strong> で相手の予備動作を止める。</li>\n</ul>\n<h3>フェーズ IV —— ファイナル3で「処理必須」になる</h3>\n<ul>\n<li>奪ったHP＋美徳ボーナスで自然に前衛。</li>\n<li>デュエルでは怪音波を握り続ける。持続する <strong>怪音波</strong> はスタガーを伸ばし、相手のコンボタイミングを壊す。</li>\n<li>残り2人に自分を答えさせる——その後、彼らに打ち合わせてもらう。</li>\n</ul>\n<hr>\n<h2>ゾークの実戦テク＆コンボ</h2>\n<h3>1. キルで伸びる</h3>\n<p>深海の掟が欲しいのは <strong>ブラッドスウォーンのキル</strong>、PvE だけではない。聖杯の淘汰で削れた相手を狩る。</p>\n<h3>2. 奪った相手に殺されない</h3>\n<p>奪ったHPは、その相手に倒されると返る。奪った後はリセットか慎重に——欲がリードを投げる。</p>\n<h3>3. 怪音波を握る</h3>\n<p><strong>怪音波（[L] + [ZR] 長押し）</strong> は持続する。テレグラフ攻撃のキャンセルや、決勝のデュエル押し切りに。</p>\n<h3>4. 人間ロケットは開幕技、逃げ技ではない</h3>\n<p>逃げに使うくらいなら、望む戦いを始めるのに使う。ゾークは「いつ戦うかを選ぶ」ことで勝つ。</p>\n<h3>5. ミサイルは欲を罰する</h3>\n<p>詠唱・復活・儀式場の固め——<strong>ミサイル</strong> が答え。砲身を展開し、構え、撃つ。</p>\n<h3>6. アサシンではなくレイドボス</h3>\n<p>ゾークが難易度 2 なのは理由がある。派手な潜行は要らない。<strong>ロビーが対応必須と感じる脅威</strong> になり、彼らが失敗した時にお金にする。</p>\n<hr>\n<h2>ゾーク 対 他ブラッドスウォーン</h2>\n<table>\n<thead>\n<tr>\n<th>対面</th>\n<th>判定</th>\n<th>理由</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ゾーク vs アルバート</strong></td>\n<td>互角／終盤ゾーク有利</td>\n<td>アルバートはより安全な万能型。雪だるまが回ればファイナル3でゾークが上。</td>\n</tr>\n<tr>\n<td><strong>ゾーク vs スナイパーレイラ</strong></td>\n<td>近接ならゾーク有利</td>\n<td>レイラは長視察を支配。人間ロケットで距離を詰めれば彼女の土俵は消える。</td>\n</tr>\n<tr>\n<td><strong>ゾーク vs ブラッドハンド・ジャン</strong></td>\n<td>腕次第</td>\n<td>どちらも長引く戦いを望む。怪音波／持続ループを決めた方が勝つ。</td>\n</tr>\n<tr>\n<td><strong>ゾーク vs トラン・ラン</strong></td>\n<td>ゾーク有利</td>\n<td>トランは伏撃が本業。ゾークのキットは形を壊し、正攻法の戦いを強制する。</td>\n</tr>\n<tr>\n<td><strong>ゾーク vs 上院議員サミル</strong></td>\n<td>サミルが丁寧なら有利</td>\n<td>サミルは立ち回りミスを罰する。無闇に顔を出すゾークは死に、自分のタイミングで動くゾークは勝つ。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>ゾークは強い？ ネットワークテストの結論</h2>\n<p><strong>強い——2026 年 8 月ネットワークテスト環境では S ティア。</strong> 理由は3つ：</p>\n<ol>\n<li><strong>安定性。</strong> 難易度 2、下限が高い。潜行型やテク型より淘汰を生き延びやすい。</li>\n<li><strong>雪だるま。</strong> 深海の掟が序盤のリードを決勝まで複利で運ぶ。</li>\n<li><strong>強制される注目。</strong> 人間ロケットが「全員が答えなければならない問題」にする——キルボード首位でなくても、その圧力が試合を取る。</li>\n</ol>\n<p>ネットテストの <strong>コミュニティの宠児</strong> でもある：潜水服、翼、HPを奪う残酷ルール、そして不思議と憎めないデザイン——FromSoftware の悪意が、可愛さに包まれた形。</p>\n<p><strong>注記</strong>：これは <strong>ネットワークテストのプレビュー評価</strong> であり、製品版の最終結論ではない。発売時のバランスは未発表。全ロスターは<a href=\"/ja/guides/duskbloods-tier-list\">ティアリスト</a>を参照。</p>\n<hr>\n<h2>よくある質問</h2>\n<h3>ゾークの役割は？</h3>\n<p><strong>ゾークはアグレッシブタンク／撹乱役。</strong> 人間ロケットで戦いを強制し、ミサイルで置きを罰し、深海の掟で最大HPを雪だるま式に奪う。他のプレイヤーが「答えなければならない」存在。</p>\n<h3>ゾークの使い方は？</h3>\n<p>フェーズ I で美徳を貯め、綺麗なブラッドスウォーンキルで最大HPを伸ばす。フェーズ II〜III で聖杯の淘汰を生き延びる。ファイナル3に雪だるまを抱えて入る。デュエルでは怪音波を握って相手を止める。<strong>奪った相手に殺されないこと。</strong></p>\n<h3>深海の掟とは？</h3>\n<p><strong>深海の掟は、他のブラッドスウォーンを倒すと最大HPを奪う。</strong> その相手に後で倒されると返される。ゾークの雪だるまエンジンであり、最大の投げポイント。</p>\n<h3>ゾークの武器は？</h3>\n<p>近接は <strong>海底ケーブル</strong>、遠距離は <strong>スピアガン</strong>。ブラッドアーツは <strong>ミサイル</strong> と <strong>人間ロケット</strong>。</p>\n<h3>初心者に向く？</h3>\n<p><strong>向く。</strong> 難易度 2／5、下限が高く、考え方は単純：戦いを始め、勝ち、伸びる。テク型よりタンク型が欲しい初心者は、ゾークか <a href=\"/ja/characters/albert\">アルバート</a> から。</p>\n<h3>ゾークとアルバート、どちらを選ぶ？</h3>\n<p>最も安全な万能型でゲーム全体を学びたければ <strong>アルバート</strong>。雪だるま、強制開幕、ファイナル3のレイドボスをやりたければ <strong>ゾーク</strong>。どちらもネットテストの S ティア。</p>\n<h3>ゾークはあのテキストアドベンチャー？</h3>\n<p><strong>いいえ。</strong> The Duskbloods のゾークはダイビングスーツのブラッドスウォーン。1980 年の『Zork』は Infocom の古典テキストアドベンチャー——別ゲーム、別時代、つづりが同じだけ。</p>\n<hr>\n<h2>参考</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods ネットワークテスト プレイガイド（キャラキット、美徳システム、対局フェーズ）、2026 年 8 月</li>\n<li>サイト内データ：<a href=\"/ja/characters/zork\">ゾークのキャラクター頁</a> · <a href=\"/ja/guides/duskbloods-tier-list\">ティアリスト</a> · <a href=\"/ja/gameplay\">ゲームプレイ</a> · <a href=\"/ja/maps\">マップ</a></li>\n<li>関連：<a href=\"/ja/latest/duskbloods-pvpve-explained\">The Duskbloods の PvPvE とは？</a> · <a href=\"/ja/latest/duskbloods-beginner-matchmaking\">初心者マッチメイキング</a></li>\n</ul>\n<p><em>関連記事：<a href=\"/ja/guides/duskbloods-tier-list\">ブラッドスウォーン ティアリスト</a> · <a href=\"/ja/characters/zork\">ゾークのキャラクター頁</a> · <a href=\"/ja/latest/duskbloods-network-test-review\">ネットワークテストレビュー</a></em></p><hr>\n<p><em>画像クレジット：公式素材 © FromSoftware / Nintendo。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立したファンコメントです。</em></p>\n",
+      "wordCount": 3954,
+      "faq": [
+        {
+          "question": "ゾークの役割は？",
+          "answer": "ゾークはアグレッシブタンク／撹乱役。 人間ロケットで戦いを強制し、ミサイルで置きを罰し、深海の掟で最大HPを雪だるま式に奪う。他のプレイヤーが「答えなければならない」存在。"
+        },
+        {
+          "question": "ゾークの使い方は？",
+          "answer": "フェーズ I で美徳を貯め、綺麗なブラッドスウォーンキルで最大HPを伸ばす。フェーズ II〜III で聖杯の淘汰を生き延びる。ファイナル3に雪だるまを抱えて入る。デュエルでは怪音波を握って相手を止める。奪った相手に殺されないこと。"
+        },
+        {
+          "question": "深海の掟とは？",
+          "answer": "深海の掟は、他のブラッドスウォーンを倒すと最大HPを奪う。 その相手に後で倒されると返される。ゾークの雪だるまエンジンであり、最大の投げポイント。"
+        },
+        {
+          "question": "ゾークの武器は？",
+          "answer": "近接は 海底ケーブル、遠距離は スピアガン。ブラッドアーツは ミサイル と 人間ロケット。"
+        },
+        {
+          "question": "初心者に向く？",
+          "answer": "向く。 難易度 2／5、下限が高く、考え方は単純：戦いを始め、勝ち、伸びる。テク型よりタンク型が欲しい初心者は、ゾークか [アルバート](/ja/characters/albert) から。"
+        },
+        {
+          "question": "ゾークとアルバート、どちらを選ぶ？",
+          "answer": "最も安全な万能型でゲーム全体を学びたければ アルバート。雪だるま、強制開幕、ファイナル3のレイドボスをやりたければ ゾーク。どちらもネットテストの S ティア。"
+        },
+        {
+          "question": "ゾークはあのテキストアドベンチャー？",
+          "answer": "いいえ。 The Duskbloods のゾークはダイビングスーツのブラッドスウォーン。1980 年の『Zork』は Infocom の古典テキストアドベンチャー——別ゲーム、別時代、つづりが同じだけ。\n\n---"
+        }
+      ],
+      "listItems": []
+    },
+    "zh": {
+      "title": "黄昏血族佐克攻略：深海法则滚雪球坦克完全指南",
+      "date": "2026-10-20",
+      "modified": null,
+      "author": "Duskbloods Guide",
+      "summary": "《黄昏血族》佐克（Zork）完整攻略——深海法则偷取最大HP机制详解、人肉火箭与导弹连招、分阶段打法思路，以及他为何在网络测试强度榜稳居S档。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Zork"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>一句话总结</strong>：<strong>佐克（Zork）</strong> 是《黄昏血族》的进攻型坦克 / 扰乱者。专属能力<strong>深海法则</strong>会在击败其他血誓者时窃取最大 HP——一旦领先就疯狂滚雪球。<strong>人肉火箭</strong>与<strong>导弹</strong>用来强行开战、拆解阵型。操作难度只有 2，但下限很高：只要活过圣杯淘汰，决赛圈就是威胁。<strong>千万别死在你偷过 HP 的人手里。</strong></p>\n</blockquote>\n<hr>\n<h2>佐克是谁？《黄昏血族》角色解析</h2>\n<p><strong>佐克（Zork）</strong> 是《黄昏血族》（The Duskbloods）中的可操作<strong>血誓者</strong>——FromSoftware 这款 8 人 PvPvE 动作 RPG 是 Nintendo Switch 2 独占。注意：<strong>他不是 1980 年 Infocom 那款同名文字冒险游戏</strong>。</p>\n<p>游戏里，佐克是一套会自己长出炮身与火箭背包的潜水服：深海打捞式的外形，读起来却像掠食者。他在 <strong>2026 年 8 月网络测试</strong>中毫无争议地成为<strong>社区梗王</strong>，并在本站<a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a>中拿到 <strong>S 档</strong>。宫崎英高本人也承认对这个角色有「近乎母性的喜爱」——在人类黄昏工业身体恐怖里，这是一次罕见的、任天堂式的可爱尝试。</p>\n<table>\n<thead>\n<tr>\n<th>事实</th>\n<th>详情</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>游戏</strong></td>\n<td>The Duskbloods（2026，Nintendo Switch 2 独占）</td>\n</tr>\n<tr>\n<td><strong>定位</strong></td>\n<td>进攻型坦克 / 扰乱</td>\n</tr>\n<tr>\n<td><strong>操作难度</strong></td>\n<td>★★☆☆☆（2 / 5）</td>\n</tr>\n<tr>\n<td><strong>近战</strong></td>\n<td>海底电缆</td>\n</tr>\n<tr>\n<td><strong>远程</strong></td>\n<td>鱼叉枪</td>\n</tr>\n<tr>\n<td><strong>血系技能</strong></td>\n<td>导弹 · 人肉火箭</td>\n</tr>\n<tr>\n<td><strong>专属能力</strong></td>\n<td>深海法则 · 怪音波</td>\n</tr>\n<tr>\n<td><strong>网测强度</strong></td>\n<td><strong>S 档</strong></td>\n</tr>\n</tbody></table>\n<p>完整数值与背景见 <a href=\"/zh/characters/zork\">佐克角色页</a>。本篇是<strong>怎么玩</strong>的实战攻略。</p>\n<hr>\n<h2>佐克技能全解析</h2>\n<p>佐克的技能组只围绕一件事：<strong>强行开战 → 打赢 → 变强</strong>。每个工具要么用来开团，要么用来收割。</p>\n<h3>武器：海底电缆 &amp; 鱼叉枪</h3>\n<table>\n<thead>\n<tr>\n<th>槽位</th>\n<th>武器</th>\n<th>作用</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>近战</strong></td>\n<td>海底电缆</td>\n<td>诚实好用的近身压制，打崩解接确认很稳。</td>\n</tr>\n<tr>\n<td><strong>远程</strong></td>\n<td>鱼叉枪</td>\n<td>中距离消耗。先削血，再决定要不要冲。</td>\n</tr>\n</tbody></table>\n<p>这两把是「诚实工具」——单靠它们赢不了局，但能给血系技能铺路。</p>\n<h3>血系技能：导弹 &amp; 人肉火箭</h3>\n<table>\n<thead>\n<tr>\n<th>技能</th>\n<th>操作要点</th>\n<th>最佳用途</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>导弹</strong></td>\n<td>从潜水服背部展开炮身，架好后发射</td>\n<td><strong>惩罚站桩。</strong> 打正在蓄力、救人、守仪式场的人。</td>\n</tr>\n<tr>\n<td><strong>人肉火箭</strong></td>\n<td>展开背部推进装置，进入飞行模式冲锋</td>\n<td><strong>强行开团。</strong> 拉近距离、拆阵型、把节奏拖进佐克想要的混战。</td>\n</tr>\n</tbody></table>\n<p><strong>人肉火箭</strong>是招牌技——把佐克变成一发必须被处理的制导威胁。<strong>导弹</strong>是跟进或反蹲工具。</p>\n<h3>专属能力：深海法则 &amp; 怪音波</h3>\n<table>\n<thead>\n<tr>\n<th>能力</th>\n<th>效果</th>\n<th>为什么重要</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>深海法则</strong></td>\n<td>击败其他血誓者 → <strong>窃取其最大 HP</strong>；若被对方击败 → <strong>全部归还</strong></td>\n<td>滚雪球引擎。前期击杀会在淘汰阶段持续复利。</td>\n</tr>\n<tr>\n<td><strong>怪音波</strong></td>\n<td>非人类声波咆哮；<strong>按住 [L] + [ZR]</strong> 可持续</td>\n<td>打断前摇、推高硬直、在决胜回合压到对方抬不起头。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>深海法则：偷取最大 HP 机制详解</h2>\n<p>这是选佐克的全部理由——也是很多人在他身上翻车的原因。</p>\n<p><strong>深海法则一句话说清</strong>：击败其他血誓者时，永久获得最大 HP；若那名玩家反过来击败你，从他身上偷来的 HP 会全部归还。</p>\n<h3>滚雪球怎么滚起来</h3>\n<ol>\n<li><strong>第一阶段</strong> —— 先刷美德，找干净的血誓者击杀（不只是刷怪）。</li>\n<li><strong>每次击杀</strong> 抬高你的最大 HP 上限。圣杯会在第二、三阶段淘汰美德不足的人，多出来的 HP 就是多出来的生存预算。</li>\n<li><strong>淘汰阶段</strong> —— 弱者要么被圣杯筛掉，要么被你收掉。去猎杀已经残血的。</li>\n<li><strong>最终三人</strong> —— 偷来的最大 HP 会和美德加成叠加。你带着 Boss 身板进决赛圈。</li>\n</ol>\n<h3>翻车方式</h3>\n<ul>\n<li><strong>死在受害者手里。</strong> 被你偷过的人若反过来击败你，偷来的 HP 会还回去。贪婪会葬送优势。</li>\n<li><strong>无脑追进开阔地。</strong> 佐克要的是受控的战斗，不是 1v3 在空地硬刚。</li>\n<li><strong>忽略美德。</strong> HP 挡不住圣杯。你仍然需要美德活过淘汰。</li>\n</ul>\n<h3>一条口诀</h3>\n<blockquote>\n<p>得手之后，<strong>先重置或打得更稳</strong>。你现在对那一个人来说，是「杀了就能连本带利拿回来」的猎物。</p>\n</blockquote>\n<hr>\n<h2>佐克怎么玩：分阶段打法思路</h2>\n<p>《黄昏血族》跑的是四阶段 Dusk Battle。佐克的职责随时钟变化。</p>\n<h3>第一阶段 —— 立住雪球</h3>\n<ul>\n<li><strong>早点去仪式场抢点。</strong> 美德先行，击杀在后。</li>\n<li>鱼叉枪消耗；只有真正有优势时才用<strong>人肉火箭</strong>进场。</li>\n<li>本局第一个血誓者击杀，是整场最重要的时刻。</li>\n</ul>\n<h3>第二至三阶段 —— 活过圣杯，猎杀残血</h3>\n<ul>\n<li>圣杯会淘汰美德不足的血誓者。<strong>别让自己成为其中一个。</strong></li>\n<li>收割那些已经被淘汰机制或其他战斗打残的人。深海法则要的是<strong>血誓者击杀</strong>，不只是刷怪。</li>\n<li>有人抱团来抓你时，用<strong>怪音波</strong>取消对方的前摇攻击。</li>\n</ul>\n<h3>第四阶段 —— 决赛圈成为全场要处理的麻烦</h3>\n<ul>\n<li>偷来的 HP + 美德加成，让你自然成为前排。</li>\n<li>对拼时攥住怪音波。持续的<strong>恐惧共鸣</strong>会推高硬直、毁掉对方连招节奏。</li>\n<li>强迫另外两个人先来处理你——然后看他们互相打。</li>\n</ul>\n<hr>\n<h2>佐克实战技巧与连招</h2>\n<h3>1. 靠击杀变强</h3>\n<p>深海法则要的是<strong>击败血族战士</strong>，不只是刷怪。去猎杀那些已经在圣杯筛选中被打残的玩家。</p>\n<h3>2. 别死在你偷过的人手里</h3>\n<p>被你窃取 HP 的玩家若反过来击败你，偷来的最大 HP 会归还。得手后先重置或打得更稳——贪婪会葬送优势。</p>\n<h3>3. 攥住怪音波</h3>\n<p>**怪音波（按住 [L] + [ZR]）**可以持续。用它取消对方的前摇攻击，或在决胜回合把人压到抬不起头。</p>\n<h3>4. 人肉火箭是开团技，不是逃跑技</h3>\n<p>能用它开你想要的团，就别拿它跑路。佐克赢在「选择什么时候打」。</p>\n<h3>5. 导弹惩罚贪婪</h3>\n<p>对面有人蓄力、救人、死守仪式场，<strong>导弹</strong>就是答案。展开炮身、架好、开火。</p>\n<h3>6. 当 Boss，别当刺客</h3>\n<p>佐克难度只有 2，是有原因的。你不需要花哨潜行。你需要<strong>成为全场必须被处理的威胁</strong>，然后在他们处理失败时收割。</p>\n<hr>\n<h2>佐克对阵其他血誓者</h2>\n<table>\n<thead>\n<tr>\n<th>对局</th>\n<th>结论</th>\n<th>原因</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>佐克 vs 阿尔伯特</strong></td>\n<td>均势 / 后期佐克占优</td>\n<td>阿尔伯特是更稳的全能位。只要雪球滚起来，决赛圈佐克更强。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 狙击手蕾拉</strong></td>\n<td>近身佐克占优</td>\n<td>蕾拉掌控长视线。用人肉火箭拉近距离，她就没得玩。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 血手扬</strong></td>\n<td>看操作</td>\n<td>两人都要长线战斗。谁的怪音波 / 续航循环打得更好，谁赢。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 陈兰</strong></td>\n<td>佐克占优</td>\n<td>陈兰要伏击。佐克的技能专门拆阵型、把人拖进正面战。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 参议员萨米尔</strong></td>\n<td>萨米尔干净时占优</td>\n<td>萨米尔惩罚走位失误。佐克无脑脸探会死；按自己节奏开团则能赢。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>佐克强不强？网络测试结论</h2>\n<p><strong>强——在 2026 年 8 月网络测试环境里，佐克是 S 档</strong>，原因有三：</p>\n<ol>\n<li><strong>稳定性。</strong> 难度 2，下限高。比潜行或技术型角色更能活过淘汰。</li>\n<li><strong>滚雪球。</strong> 深海法则把前期优势复利到决赛阶段。</li>\n<li><strong>被迫被针对。</strong> 人肉火箭让他成为所有人都必须回答的那道题——即使他不是击杀王，这份压力也能赢下比赛。</li>\n</ol>\n<p>他也是网络测试的<strong>社区宠儿</strong>：潜水服、翅膀、偷 HP 的残酷规则，外加奇怪地讨喜的设计——纯正的 FromSoftware 恶意，包着一层可爱。</p>\n<p><strong>注意</strong>：这是<strong>网络测试预览排名</strong>，并非正式版结论。发售日平衡仍待官宣。完整榜单见<a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a>。</p>\n<hr>\n<h2>常见问题</h2>\n<h3>佐克在《黄昏血族》里是什么定位？</h3>\n<p><strong>佐克是进攻型坦克 / 扰乱者。</strong> 他用人肉火箭强行开团，用导弹惩罚站桩，用深海法则滚雪球偷最大 HP。他是其他玩家必须处理的那个人。</p>\n<h3>佐克怎么玩？</h3>\n<p>第一阶段刷美德、拿干净的血誓者击杀来涨最大 HP；第二、三阶段活过圣杯淘汰；决赛圈带着雪球进场当 Boss。对拼时攥住怪音波打断和压制。<strong>千万别死在你偷过 HP 的人手里。</strong></p>\n<h3>深海法则是什么效果？</h3>\n<p><strong>深海法则会在你击败其他血誓者时窃取最大 HP。</strong> 若那名玩家反过来击败你，偷来的 HP 会归还。它是佐克的雪球引擎——也是最大的翻车点。</p>\n<h3>佐克用什么武器？</h3>\n<p>佐克近战用<strong>海底电缆</strong>，远程用<strong>鱼叉枪</strong>。血系技能是<strong>导弹</strong>和<strong>人肉火箭</strong>。</p>\n<h3>佐克适合新手吗？</h3>\n<p><strong>适合。</strong> 操作难度 2 / 5，下限高，思路直接：开团、打赢、变强。想玩坦克而不是技术型角色的新手，可以从佐克或<a href=\"/zh/characters/albert\">阿尔伯特</a>起步。</p>\n<h3>佐克和阿尔伯特选哪个？</h3>\n<p>想要最稳的全能位、用一个角色学完整款游戏，选<strong>阿尔伯特</strong>。想滚雪球、强行开团、决赛圈当 Boss，选<strong>佐克</strong>。两个都是网测 S 档。</p>\n<h3>佐克是那个文字冒险游戏 Zork 吗？</h3>\n<p><strong>不是。</strong>《黄昏血族》里的佐克是潜水服血誓者角色。1980 年的《Zork》是 Infocom 经典文字冒险——不同游戏、不同时代、只是拼写相同。</p>\n<hr>\n<h2>资料来源</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods 网络测试游戏指南（角色技能、美德系统、对局阶段），2026 年 8 月</li>\n<li>本站数据：<a href=\"/zh/characters/zork\">佐克角色页</a> · <a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a> · <a href=\"/zh/gameplay\">玩法系统</a> · <a href=\"/zh/maps\">地图</a></li>\n<li>延伸阅读：<a href=\"/zh/latest/duskbloods-pvpve-explained\">什么是 PvPvE？</a> · <a href=\"/zh/latest/duskbloods-beginner-matchmaking\">新手匹配说明</a></li>\n</ul>\n<p><em>相关阅读：<a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a> · <a href=\"/zh/characters/zork\">佐克角色页</a> · <a href=\"/zh/latest/duskbloods-network-test-review\">网络测试回顾</a></em></p><hr>\n<p><em>图片来源：官方素材 © FromSoftware / Nintendo。玩法分析为基于 2026 年 8 月封闭网络测试的独立玩家评论。</em></p>\n",
+      "wordCount": 3147,
+      "faq": [
+        {
+          "question": "佐克在《黄昏血族》里是什么定位？",
+          "answer": "佐克是进攻型坦克 / 扰乱者。 他用人肉火箭强行开团，用导弹惩罚站桩，用深海法则滚雪球偷最大 HP。他是其他玩家必须处理的那个人。"
+        },
+        {
+          "question": "佐克怎么玩？",
+          "answer": "第一阶段刷美德、拿干净的血誓者击杀来涨最大 HP；第二、三阶段活过圣杯淘汰；决赛圈带着雪球进场当 Boss。对拼时攥住怪音波打断和压制。千万别死在你偷过 HP 的人手里。"
+        },
+        {
+          "question": "深海法则是什么效果？",
+          "answer": "深海法则会在你击败其他血誓者时窃取最大 HP。 若那名玩家反过来击败你，偷来的 HP 会归还。它是佐克的雪球引擎——也是最大的翻车点。"
+        },
+        {
+          "question": "佐克用什么武器？",
+          "answer": "佐克近战用海底电缆，远程用鱼叉枪。血系技能是导弹和人肉火箭。"
+        },
+        {
+          "question": "佐克适合新手吗？",
+          "answer": "适合。 操作难度 2 / 5，下限高，思路直接：开团、打赢、变强。想玩坦克而不是技术型角色的新手，可以从佐克或[阿尔伯特](/zh/characters/albert)起步。"
+        },
+        {
+          "question": "佐克和阿尔伯特选哪个？",
+          "answer": "想要最稳的全能位、用一个角色学完整款游戏，选阿尔伯特。想滚雪球、强行开团、决赛圈当 Boss，选佐克。两个都是网测 S 档。"
+        },
+        {
+          "question": "佐克是那个文字冒险游戏 Zork 吗？",
+          "answer": "不是。《黄昏血族》里的佐克是潜水服血誓者角色。1980 年的《Zork》是 Infocom 经典文字冒险——不同游戏、不同时代、只是拼写相同。\n\n---"
+        }
+      ],
+      "listItems": []
+    },
+    "zh-TW": {
+      "title": "黃昏血族佐克攻略：深海法則滾雪球坦克完全指南",
+      "date": "2026-10-20",
+      "modified": null,
+      "author": "Duskbloods Guide",
+      "summary": "《黃昏血族》佐克（Zork）完整攻略——深海法則偷取最大 HP 機制詳解、人體火箭與導彈連招、分階段打法思路，以及他為何在網路測試強度榜穩居 S 檔。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Zork"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>一句話總結</strong>：<strong>佐克（Zork）</strong> 是《黃昏血族》的進攻型坦克／擾亂者。專屬能力<strong>深海法則</strong>會在擊敗其他血誓者時竊取最大 HP——一旦領先就瘋狂滾雪球。<strong>人體火箭</strong>與<strong>導彈</strong>用來強行開戰、拆解陣型。操作難度只有 2，但下限很高：只要活過聖杯淘汰，決賽圈就是威脅。<strong>千萬別死在你偷過 HP 的人手裡。</strong></p>\n</blockquote>\n<hr>\n<h2>佐克是誰？《黃昏血族》角色解析</h2>\n<p><strong>佐克（Zork）</strong> 是《黃昏血族》（The Duskbloods）中的可操作<strong>血誓者</strong>——FromSoftware 這款 8 人 PvPvE 動作 RPG 是 Nintendo Switch 2 獨佔。注意：<strong>他不是 1980 年 Infocom 那款同名文字冒險遊戲</strong>。</p>\n<p>遊戲裡，佐克是一套會自己長出砲身與火箭背包的潛水服：深海打撈式的外形，讀起來卻像掠食者。他在 <strong>2026 年 8 月網路測試</strong>中毫無爭議地成為<strong>社群梗王</strong>，並在本站<a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a>中拿到 <strong>S 檔</strong>。宮崎英高本人也承認對這個角色有「近乎母性的喜愛」——在人類黃昏工業身體恐怖裡，這是一次罕見的、任天堂式的可愛嘗試。</p>\n<table>\n<thead>\n<tr>\n<th>事實</th>\n<th>詳情</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>遊戲</strong></td>\n<td>The Duskbloods（2026，Nintendo Switch 2 獨佔）</td>\n</tr>\n<tr>\n<td><strong>定位</strong></td>\n<td>進攻型坦克／擾亂</td>\n</tr>\n<tr>\n<td><strong>操作難度</strong></td>\n<td>★★☆☆☆（2／5）</td>\n</tr>\n<tr>\n<td><strong>近戰</strong></td>\n<td>海底電纜</td>\n</tr>\n<tr>\n<td><strong>遠程</strong></td>\n<td>魚叉槍</td>\n</tr>\n<tr>\n<td><strong>血系技能</strong></td>\n<td>導彈 · 人體火箭</td>\n</tr>\n<tr>\n<td><strong>專屬能力</strong></td>\n<td>深海法則 · 怪音波</td>\n</tr>\n<tr>\n<td><strong>網測強度</strong></td>\n<td><strong>S 檔</strong></td>\n</tr>\n</tbody></table>\n<p>完整數值與背景見 <a href=\"/zh-TW/characters/zork\">佐克角色頁</a>。本篇是<strong>怎麼玩</strong>的實戰攻略。</p>\n<hr>\n<h2>佐克技能全解析</h2>\n<p>佐克的技能組只圍繞一件事：<strong>強行開戰 → 打贏 → 變強</strong>。每個工具要么用來開團，要么用來收割。</p>\n<h3>武器：海底電纜＆魚叉槍</h3>\n<table>\n<thead>\n<tr>\n<th>槽位</th>\n<th>武器</th>\n<th>作用</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>近戰</strong></td>\n<td>海底電纜</td>\n<td>誠實好用的近身壓制，打崩解接確認很穩。</td>\n</tr>\n<tr>\n<td><strong>遠程</strong></td>\n<td>魚叉槍</td>\n<td>中距離消耗。先削血，再決定要不要衝。</td>\n</tr>\n</tbody></table>\n<p>這兩把是「誠實工具」——單靠它們贏不了局，但能給血系技能鋪路。</p>\n<h3>血系技能：導彈＆人體火箭</h3>\n<table>\n<thead>\n<tr>\n<th>技能</th>\n<th>操作要點</th>\n<th>最佳用途</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>導彈</strong></td>\n<td>從潛水服背部展開砲身，架好後發射</td>\n<td><strong>懲罰站樁。</strong> 打正在蓄力、救人、守儀式場的人。</td>\n</tr>\n<tr>\n<td><strong>人體火箭</strong></td>\n<td>展開背部推進裝置，進入飛行模式衝鋒</td>\n<td><strong>強行開團。</strong> 拉近距離、拆陣型、把節奏拖進佐克想要的混戰。</td>\n</tr>\n</tbody></table>\n<p><strong>人體火箭</strong>是招牌技——把佐克變成一發必須被處理的制導威脅。<strong>導彈</strong>是跟進或反蹲工具。</p>\n<h3>專屬能力：深海法則＆怪音波</h3>\n<table>\n<thead>\n<tr>\n<th>能力</th>\n<th>效果</th>\n<th>為什麼重要</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>深海法則</strong></td>\n<td>擊敗其他血誓者 → <strong>竊取其最大 HP</strong>；若被對方擊敗 → <strong>全部歸還</strong></td>\n<td>滾雪球引擎。前期擊殺會在淘汰階段持續複利。</td>\n</tr>\n<tr>\n<td><strong>怪音波</strong></td>\n<td>非人類聲波咆哮；<strong>按住 [L] + [ZR]</strong> 可持續</td>\n<td>打斷前搖、推高硬直、在決勝回合壓到對方抬不起頭。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>深海法則：偷取最大 HP 機制詳解</h2>\n<p>這是選佐克的全部理由——也是很多人在他身上翻車的原因。</p>\n<p><strong>深海法則一句話說清</strong>：擊敗其他血誓者時，永久獲得最大 HP；若那名玩家反過來擊敗你，從他身上偷來的 HP 會全部歸還。</p>\n<h3>滾雪球怎麼滾起來</h3>\n<ol>\n<li><strong>第一階段</strong> —— 先刷美德，找乾淨的血誓者擊殺（不只是刷怪）。</li>\n<li><strong>每次擊殺</strong> 抬高你的最大 HP 上限。聖杯會在第二、三階段淘汰美德不足的人，多出來的 HP 就是多出來的生存預算。</li>\n<li><strong>淘汰階段</strong> —— 弱者要么被聖杯篩掉，要么被你收掉。去獵殺已經殘血的。</li>\n<li><strong>最終三人</strong> —— 偷來的最大 HP 會和美德加成疊加。你帶著 Boss 身板進決賽圈。</li>\n</ol>\n<h3>翻車方式</h3>\n<ul>\n<li><strong>死在受害者手裡。</strong> 被你偷過的人若反過來擊敗你，偷來的 HP 會還回去。貪婪會葬送優勢。</li>\n<li><strong>無腦追進開闊地。</strong> 佐克要的是受控的戰鬥，不是 1v3 在空地硬剛。</li>\n<li><strong>忽略美德。</strong> HP 擋不住聖杯。你仍然需要美德活過淘汰。</li>\n</ul>\n<h3>一條口訣</h3>\n<blockquote>\n<p>得手之後，<strong>先重置或打得更穩</strong>。你現在對那一個人來說，是「殺了就能連本帶利拿回來」的獵物。</p>\n</blockquote>\n<hr>\n<h2>佐克怎麼玩：分階段打法思路</h2>\n<p>《黃昏血族》跑的是四階段 Dusk Battle。佐克的職責隨時鐘變化。</p>\n<h3>第一階段 —— 立住雪球</h3>\n<ul>\n<li><strong>早點去儀式場搶點。</strong> 美德先行，擊殺在後。</li>\n<li>魚叉槍消耗；只有真正有優勢時才用<strong>人體火箭</strong>進場。</li>\n<li>本局第一個血誓者擊殺，是整場最重要的時刻。</li>\n</ul>\n<h3>第二至三階段 —— 活過聖杯，獵殺殘血</h3>\n<ul>\n<li>聖杯會淘汰美德不足的血誓者。<strong>別讓自己成為其中一個。</strong></li>\n<li>收割那些已經被淘汰機制或其他戰鬥打殘的人。深海法則要的是<strong>血誓者擊殺</strong>，不只是刷怪。</li>\n<li>有人抱團來抓你時，用<strong>怪音波</strong>取消對方的前搖攻擊。</li>\n</ul>\n<h3>第四階段 —— 決賽圈成為全場要處理的麻煩</h3>\n<ul>\n<li>偷來的 HP ＋ 美德加成，讓你自然成為前排。</li>\n<li>對拼時攢住怪音波。持續的<strong>怪音波</strong>會推高硬直、毀掉對方連招節奏。</li>\n<li>強迫另外兩個人先來處理你——然後看他們互相打。</li>\n</ul>\n<hr>\n<h2>佐克實戰技巧與連招</h2>\n<h3>1. 靠擊殺變強</h3>\n<p>深海法則要的是<strong>擊敗血族戰士</strong>，不只是刷怪。去獵殺那些已經在聖杯篩選中被打殘的玩家。</p>\n<h3>2. 別死在你偷過的人手裡</h3>\n<p>被你竊取 HP 的玩家若反過來擊敗你，偷來的最大 HP 會歸還。得手後先重置或打得更穩——貪婪會葬送優勢。</p>\n<h3>3. 攢住怪音波</h3>\n<p>**怪音波（按住 [L] + [ZR]）**可以持續。用它取消對方的前搖攻擊，或在決勝回合把人壓到抬不起頭。</p>\n<h3>4. 人體火箭是開團技，不是逃跑技</h3>\n<p>能用它開你想要的團，就別拿它跑路。佐克贏在「選擇什麼時候打」。</p>\n<h3>5. 導彈懲罰貪婪</h3>\n<p>對面有人蓄力、救人、死守儀式場，<strong>導彈</strong>就是答案。展開砲身、架好、開火。</p>\n<h3>6. 當 Boss，別當刺客</h3>\n<p>佐克難度只有 2，是有原因的。你不需要花俏潛行。你需要<strong>成為全場必須被處理的威脅</strong>，然後在他們處理失敗時收割。</p>\n<hr>\n<h2>佐克對陣其他血誓者</h2>\n<table>\n<thead>\n<tr>\n<th>對局</th>\n<th>結論</th>\n<th>原因</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>佐克 vs 阿爾伯特</strong></td>\n<td>均勢／後期佐克佔優</td>\n<td>阿爾伯特是更穩的全能位。只要雪球滾起來，決賽圈佐克更強。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 狙擊手蕾拉</strong></td>\n<td>近身佐克佔優</td>\n<td>蕾拉掌控長視線。用人體火箭拉近距離，她就沒得玩。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 血手揚</strong></td>\n<td>看操作</td>\n<td>兩人都要長線戰鬥。誰的怪音波／續航循環打得更好，誰贏。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 陳蘭</strong></td>\n<td>佐克佔優</td>\n<td>陳蘭要伏擊。佐克的技能專門拆陣型、把人拖進正面戰。</td>\n</tr>\n<tr>\n<td><strong>佐克 vs 參議員薩米爾</strong></td>\n<td>薩米爾乾淨時佔優</td>\n<td>薩米爾懲罰走位失誤。佐克無腦臉探會死；按自己節奏開團則能贏。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>佐克強不強？網路測試結論</h2>\n<p><strong>強——在 2026 年 8 月網路測試環境裡，佐克是 S 檔</strong>，原因有三：</p>\n<ol>\n<li><strong>穩定性。</strong> 難度 2，下限高。比潛行或技術型角色更能活過淘汰。</li>\n<li><strong>滾雪球。</strong> 深海法則把前期優勢複利到決賽階段。</li>\n<li><strong>被迫被針對。</strong> 人體火箭讓他成為所有人都必須回答的那道題——即使他不是擊殺王，這份壓力也能贏下比賽。</li>\n</ol>\n<p>他也是網路測試的<strong>社群寵兒</strong>：潛水服、翅膀、偷 HP 的殘酷規則，外加奇怪地討喜的設計——純正的 FromSoftware 惡意，包著一層可愛。</p>\n<p><strong>注意</strong>：這是<strong>網路測試預覽排名</strong>，並非正式版結論。發售日平衡仍待官宣。完整榜單見<a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a>。</p>\n<hr>\n<h2>常見問題</h2>\n<h3>佐克在《黃昏血族》裡是什麼定位？</h3>\n<p><strong>佐克是進攻型坦克／擾亂者。</strong> 他用人體火箭強行開團，用導彈懲罰站樁，用深海法則滾雪球偷最大 HP。他是其他玩家必須處理的那個人。</p>\n<h3>佐克怎麼玩？</h3>\n<p>第一階段刷美德、拿乾淨的血誓者擊殺來漲最大 HP；第二、三階段活過聖杯淘汰；決賽圈帶著雪球進場當 Boss。對拼時攢住怪音波打斷和壓制。<strong>千萬別死在你偷過 HP 的人手裡。</strong></p>\n<h3>深海法則是什麼效果？</h3>\n<p><strong>深海法則會在你擊敗其他血誓者時竊取最大 HP。</strong> 若那名玩家反過來擊敗你，偷來的 HP 會歸還。它是佐克的雪球引擎——也是最大的翻車點。</p>\n<h3>佐克用什麼武器？</h3>\n<p>佐克近戰用<strong>海底電纜</strong>，遠程用<strong>魚叉槍</strong>。血系技能是<strong>導彈</strong>和<strong>人體火箭</strong>。</p>\n<h3>佐克適合新手嗎？</h3>\n<p><strong>適合。</strong> 操作難度 2／5，下限高，思路直接：開團、打贏、變強。想玩坦克而不是技術型角色的新手，可以從佐克或<a href=\"/zh-TW/characters/albert\">阿爾伯特</a>起步。</p>\n<h3>佐克和阿爾伯特選哪個？</h3>\n<p>想要最穩的全能位、用一個角色學完整款遊戲，選<strong>阿爾伯特</strong>。想滾雪球、強行開團、決賽圈當 Boss，選<strong>佐克</strong>。兩個都是網測 S 檔。</p>\n<h3>佐克是那個文字冒險遊戲 Zork 嗎？</h3>\n<p><strong>不是。</strong>《黃昏血族》裡的佐克是潛水服血誓者角色。1980 年的《Zork》是 Infocom 經典文字冒險——不同遊戲、不同時代、只是拼寫相同。</p>\n<hr>\n<h2>資料來源</h2>\n<ul>\n<li>FromSoftware / Nintendo — The Duskbloods 網路測試遊戲指南（角色技能、美德系統、對局階段），2026 年 8 月</li>\n<li>本站數據：<a href=\"/zh-TW/characters/zork\">佐克角色頁</a> · <a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a> · <a href=\"/zh-TW/gameplay\">玩法系統</a> · <a href=\"/zh-TW/maps\">地圖</a></li>\n<li>延伸閱讀：<a href=\"/zh-TW/latest/duskbloods-pvpve-explained\">什麼是 PvPvE？</a> · <a href=\"/zh-TW/latest/duskbloods-beginner-matchmaking\">新手配對說明</a></li>\n</ul>\n<p><em>相關閱讀：<a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a> · <a href=\"/zh-TW/characters/zork\">佐克角色頁</a> · <a href=\"/zh-TW/latest/duskbloods-network-test-review\">網路測試回顧</a></em></p><hr>\n<p><em>圖片來源：官方素材 © FromSoftware / Nintendo。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。</em></p>\n",
+      "wordCount": 3142,
+      "faq": [
+        {
+          "question": "佐克在《黃昏血族》裡是什麼定位？",
+          "answer": "佐克是進攻型坦克／擾亂者。 他用人體火箭強行開團，用導彈懲罰站樁，用深海法則滾雪球偷最大 HP。他是其他玩家必須處理的那個人。"
+        },
+        {
+          "question": "佐克怎麼玩？",
+          "answer": "第一階段刷美德、拿乾淨的血誓者擊殺來漲最大 HP；第二、三階段活過聖杯淘汰；決賽圈帶著雪球進場當 Boss。對拼時攢住怪音波打斷和壓制。千萬別死在你偷過 HP 的人手裡。"
+        },
+        {
+          "question": "深海法則是什麼效果？",
+          "answer": "深海法則會在你擊敗其他血誓者時竊取最大 HP。 若那名玩家反過來擊敗你，偷來的 HP 會歸還。它是佐克的雪球引擎——也是最大的翻車點。"
+        },
+        {
+          "question": "佐克用什麼武器？",
+          "answer": "佐克近戰用海底電纜，遠程用魚叉槍。血系技能是導彈和人體火箭。"
+        },
+        {
+          "question": "佐克適合新手嗎？",
+          "answer": "適合。 操作難度 2／5，下限高，思路直接：開團、打贏、變強。想玩坦克而不是技術型角色的新手，可以從佐克或[阿爾伯特](/zh-TW/characters/albert)起步。"
+        },
+        {
+          "question": "佐克和阿爾伯特選哪個？",
+          "answer": "想要最穩的全能位、用一個角色學完整款遊戲，選阿爾伯特。想滾雪球、強行開團、決賽圈當 Boss，選佐克。兩個都是網測 S 檔。"
+        },
+        {
+          "question": "佐克是那個文字冒險遊戲 Zork 嗎？",
+          "answer": "不是。《黃昏血族》裡的佐克是潛水服血誓者角色。1980 年的《Zork》是 Infocom 經典文字冒險——不同遊戲、不同時代、只是拼寫相同。\n\n---"
+        }
+      ],
+      "listItems": []
+    },
+    "ru": {
+      "title": "Гайд по Зорку: как играть снежным комом-танком в The Duskbloods",
+      "date": "2026-10-20",
+      "modified": null,
+      "author": "Duskbloods Guide",
+      "summary": "Полный гайд по Зорку в The Duskbloods — как работает кража макс. ОЗ через «Закон глубокого моря», комбо «Человек-ракета» и «Ракеты», план по фазам и почему в сетевом тесте он занял S-тир.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Zork"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>Коротко</strong>: <strong>Зорк</strong> — агрессивный танк / дизраптор The Duskbloods. Его аспект <strong>«Закон глубокого моря»</strong> крадёт макс. ОЗ за каждого убитого Кровоклятого — лид снежным комом превращается в финал. <strong>«Человек-ракета»</strong> и <strong>«Ракеты»</strong> навязывают бой и ломают сетапы. Сложность 2, но пол высокий: переживший отсечение Грааля Зорк — угроза в финальной тройке. <strong>Никогда не умирайте от руки того, у кого вы украли ОЗ.</strong></p>\n</blockquote>\n<hr>\n<h2>Кто такой Зорк в The Duskbloods?</h2>\n<p><strong>Зорк</strong> — играбельный <strong>Кровоклятый</strong> в <em>The Duskbloods</em> — PvPvE-экшене FromSoftware на 8 игроков, эксклюзив Nintendo Switch 2. <strong>Это не текстовый квест Infocom 1980 года</strong> с тем же названием.</p>\n<p>В игре Зорк — разрушитель в водолазном костюме: фигура глубоководного салвиджа, у которой из костюма растут пушки и ракетные ранцы, а максимальное жизнь воруется у убитых. Он стал <strong>мемом №1 августовского сетевого теста 2026</strong> и занял <strong>S-тир</strong> в нашем <a href=\"/ru/guides/duskbloods-tier-list\">тир-листе Кровоклятых</a>. Хидэтака Миядзаки сам признавал «почти материнскую привязанность» к персонажу — редкий случай нинтендовского обаяния внутри индустриального body-horror Сумерек.</p>\n<table>\n<thead>\n<tr>\n<th>Факт</th>\n<th>Детали</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Игра</strong></td>\n<td>The Duskbloods (2026, эксклюзив Nintendo Switch 2)</td>\n</tr>\n<tr>\n<td><strong>Роль</strong></td>\n<td>Агрессивный танк / дизраптор</td>\n</tr>\n<tr>\n<td><strong>Сложность</strong></td>\n<td>★★☆☆☆ (2 / 5)</td>\n</tr>\n<tr>\n<td><strong>Ближний бой</strong></td>\n<td>Подводный кабель</td>\n</tr>\n<tr>\n<td><strong>Дальний бой</strong></td>\n<td>Подводное ружьё</td>\n</tr>\n<tr>\n<td><strong>Кровавые искусства</strong></td>\n<td>Ракеты · Человек-ракета</td>\n</tr>\n<tr>\n<td><strong>Аспекты</strong></td>\n<td>Закон глубокого моря · Жуткий резонанс</td>\n</tr>\n<tr>\n<td><strong>Оценка в тесте</strong></td>\n<td><strong>S</strong></td>\n</tr>\n</tbody></table>\n<p>Полные статы и лор — на <a href=\"/ru/characters/zork\">странице Зорка</a>. Этот гайд — практическое <strong>«как играть»</strong>.</p>\n<hr>\n<h2>Кит Зорка разбор</h2>\n<p>Весь кит Зорка строится на одной идее: <strong>навязать бой, выиграть бой, вырасти из боя</strong>. Каждый инструмент либо открывает схватку, либо платит за её завершение.</p>\n<h3>Оружие: Подводный кабель и Подводное ружьё</h3>\n<table>\n<thead>\n<tr>\n<th>Слот</th>\n<th>Оружие</th>\n<th>Зачем</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Ближний</strong></td>\n<td>Подводный кабель</td>\n<td>Честное, надёжное давление вблизи. Хороший стаггер в подтверждение.</td>\n</tr>\n<tr>\n<td><strong>Дальний</strong></td>\n<td>Подводное ружьё</td>\n<td>Аккуратный покер на средней дистанции. Смягчать цель перед входом.</td>\n</tr>\n</tbody></table>\n<p>Это «честные инструменты» — сами по себе матч не выигрывают. Они готовят Кровавые искусства.</p>\n<h3>Кровавые искусства: Ракеты и Человек-ракета</h3>\n<table>\n<thead>\n<tr>\n<th>Искусство</th>\n<th>Суть управления</th>\n<th>Лучшее применение</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Ракеты</strong></td>\n<td>Из спины костюма выезжает ствол, Зорк принимает стойку и стреляет</td>\n<td><strong>Карать статичных.</strong> Бить тех, кто кастует, поднимает или держит ритуал.</td>\n</tr>\n<tr>\n<td><strong>Человек-ракета</strong></td>\n<td>Включаются ранцевые двигатели, Зорк уходит в режим полёта и таранит</td>\n<td><strong>Навязывать вход.</strong> Закрывать дистанцию, ломать формации, затягивать в замес, который нужен Зорку.</td>\n</tr>\n</tbody></table>\n<p><strong>«Человек-ракета»</strong> — фирменный приём. Он превращает Зорка в наводимую угрозу, которую весь лобби обязан разобрать. <strong>«Ракеты»</strong> — добор или анти-камп.</p>\n<h3>Аспекты: Закон глубокого моря и Жуткий резонанс</h3>\n<table>\n<thead>\n<tr>\n<th>Аспект</th>\n<th>Эффект</th>\n<th>Почему важно</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Закон глубокого моря</strong></td>\n<td>Убили Кровоклятого → <strong>украли его макс. ОЗ</strong>. Если он потом убьёт вас — <strong>всё вернётся</strong></td>\n<td>Двигатель снежного кома. Ранние киллы копятся через фазы отсечения.</td>\n</tr>\n<tr>\n<td><strong>Жуткий резонанс</strong></td>\n<td>Нечеловеческий вой. <strong>Держите [L] + [ZR]</strong>, чтобы продлить</td>\n<td>Сбивать телеграфированные атаки, разгонять стаггер, давить дуэль в финале.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Закон глубокого моря: механика кражи ОЗ</h2>\n<p>Из-за этого берут Зорка — и из-за этого же на нём сливают игры.</p>\n<p><strong>«Закон глубокого моря» в одном предложении</strong>: убив другого Кровоклятого, вы навсегда увеличиваете макс. ОЗ; если этот же игрок потом убьёт вас, украденное возвращается.</p>\n<h3>Как крутится снежный ком</h3>\n<ol>\n<li><strong>Фаза I</strong> — фармите добродетель и ищите чистый килл Кровоклятого (не только PvE).</li>\n<li><strong>За каждый килл</strong> растёт потолок макс. ОЗ. В игре, где Грааль вырезает низкодобродетельных во II–III фазах, лишний ОЗ — лишний бюджет выживания.</li>\n<li><strong>Фазы отсечения</strong> — слабых добивает Грааль или вы. Охотьтесь на подранков.</li>\n<li><strong>Финальная тройка</strong> — украденный макс. ОЗ складывается с бонусами добродетели. В последний бой вы входите рейд-боссом.</li>\n</ol>\n<h3>Как на этом сливают</h3>\n<ul>\n<li><strong>Умирают от своей жертвы.</strong> Если ограбленный вами игрок добивает вас, ОЗ возвращается. Жадность сливает лид.</li>\n<li><strong>Гоняются в открытую.</strong> Зорку нужны контролируемые драки, а не 1v3 на поле.</li>\n<li><strong>Игнорируют добродетель.</strong> ОЗ не останавливает Грааль. Чтобы пережить отсечение, нужна добродетель.</li>\n</ul>\n<h3>Правило большого пальца</h3>\n<blockquote>\n<p>После кражи <strong>сбрасывайте или играйте аккуратнее</strong>. Для того самого игрока вы теперь — добыча, убив которую можно вернуть всё с процентами.</p>\n</blockquote>\n<hr>\n<h2>Как играть Зорком: план по фазам</h2>\n<p>The Duskbloods идёт четырёхфазным Dusk Battle. Задача Зорка меняется со временем.</p>\n<h3>Фаза I — поставить снежный ком</h3>\n<ul>\n<li><strong>Рано спорьте ритуальные площадки.</strong> Сначала добродетель, потом киллы.</li>\n<li>Смягчайте ружьём; входите <strong>«Человек-ракетой»</strong> только при реальном перевесе.</li>\n<li>Первый убитый Кровоклятый — самый важный момент матча.</li>\n</ul>\n<h3>Фазы II–III — пережить Грааль, добить слабых</h3>\n<ul>\n<li>Грааль вырезает низкодобродетельных. <strong>Не будьте одним из них.</strong></li>\n<li>Добивайте тех, кого уже покромсали отсечение или другие бои. Закону нужны <strong>киллы Кровоклятых</strong>, а не просто фарм.</li>\n<li>Если на вас сходятся — <strong>Жуткий резонанс</strong> сбивает телеграф.</li>\n</ul>\n<h3>Фаза IV — быть проблемой в финальной тройке</h3>\n<ul>\n<li>Украденный ОЗ + бонусы добродетели делают вас естественным танком.</li>\n<li>Держите вой на дуэлях. Продлённый <strong>Жуткий резонанс</strong> разгоняет стаггер и ломает тайминги комбо.</li>\n<li>Заставьте двоих сначала разбираться с вами — потом дайте им подраться между собой.</li>\n</ul>\n<hr>\n<h2>Приёмы и комбо Зорка</h2>\n<h3>1. Килл = рост</h3>\n<p><strong>«Закон глубокого моря»</strong> хочет <strong>убийства Кровоклятых</strong>, а не просто фарм. Охотьтесь на тех, кого уже покромсал Грааль.</p>\n<h3>2. Не умирайте от своей жертвы</h3>\n<p>Украденный ОЗ возвращается, если ограбленный игрок добивает вас. После кражи сбрасывайтесь или играйте аккуратнее — жадность сливает лид.</p>\n<h3>3. Держите вой</h3>\n<p><strong>Жуткий резонанс ([L] + [ZR] удержание)</strong> продлевается. Используйте, чтобы сбивать телеграф или давить финальную дуэль.</p>\n<h3>4. «Человек-ракета» — вход, а не побег</h3>\n<p>Если можете открыть нужный бой — не тратите на отход. Зорк выигрывает тем, что выбирает, когда драться.</p>\n<h3>5. «Ракеты» карают жадность</h3>\n<p>Кто-то кастует, поднимает или сидит на ритуале — <strong>«Ракеты»</strong>. Выезд ствола, стойка, выстрел.</p>\n<h3>6. Будьте рейд-боссом, а не убийцей</h3>\n<p>Сложность 2 — не случайна. Вам не нужен красивый стелс. Вам нужно <strong>стать угрозой, которую лобби обязано ответить</strong>, и забрать всё, когда они ответят плохо.</p>\n<hr>\n<h2>Зорк против других Кровоклятых</h2>\n<table>\n<thead>\n<tr>\n<th>Матчап</th>\n<th>Вердикт</th>\n<th>Почему</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Зорк vs Альберт</strong></td>\n<td>Ничья / Зорк сильнее в конце</td>\n<td>Альберт — безопаснее и универсальнее. Если снежный ком пошёл, в финальной тройке Зорк выше.</td>\n</tr>\n<tr>\n<td><strong>Зорк vs Снайпер Лейла</strong></td>\n<td>Зорк сильнее вблизи</td>\n<td>Лейла держит длинные линии. Закройте дистанцию «Человек-ракетой» — её игра кончается.</td>\n</tr>\n<tr>\n<td><strong>Зорк vs Кроворукий Ян</strong></td>\n<td>Решает скилл</td>\n<td>Оба хотят длинный бой. Кто лучше поставит вой / петлю устойчивости — тот и победил.</td>\n</tr>\n<tr>\n<td><strong>Зорк vs Чанг Лан</strong></td>\n<td>Зорк сильнее</td>\n<td>Чанг играет из засады. Кит Зорка ломает сетапы и навязывает честный бой.</td>\n</tr>\n<tr>\n<td><strong>Зорк vs Сенатор Самир</strong></td>\n<td>Самир сильнее, если аккуратен</td>\n<td>Самир карает за плохую позицию. Зорк без разбора умирает; Зорк со своим таймингом выигрывает.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Зорк сильный? Вердикт по сетевому тесту</h2>\n<p><strong>Да — в августовском сетевом тесте 2026 Зорк это S-тир.</strong> Три причины:</p>\n<ol>\n<li><strong>Стабильность.</strong> Сложность 2, высокий пол. Переживает отсечение надёжнее стелса и технарей.</li>\n<li><strong>Снежный ком.</strong> «Закон глубокого моря» превращает ранний лид в финальное доминирование.</li>\n<li><strong>Вынужденное внимание.</strong> «Человек-ракета» делает его игроком, которого все обязаны разбирать — и это давление выигрывает матчи даже без вершины киллборда.</li>\n</ol>\n<p>Он же <strong>любимчик комьюнити</strong> теста: водолаз с крыльями и жёстким правилом кражи ОЗ — чистая жестокость FromSoftware, завёрнутая в странным образом милый дизайн.</p>\n<p><strong>Оговорка</strong>: это <strong>превью-рейтинг по сетевому тесту</strong>, не финальная версия. Баланс на релизе ещё не объявлен. Полный список — в <a href=\"/ru/guides/duskbloods-tier-list\">тир-листе</a>.</p>\n<hr>\n<h2>FAQ</h2>\n<h3>Какая роль Зорка в The Duskbloods?</h3>\n<p><strong>Зорк — агрессивный танк / дизраптор.</strong> Он навязывает бой «Человек-ракетой», карает сетапы «Ракетами» и копит макс. ОЗ через «Закон глубокого моря». Это игрок, которого остальные обязаны разбирать.</p>\n<h3>Как играть Зорком?</h3>\n<p>В фазе I фармите добродетель и берите чистые киллы Кровоклятых, чтобы расти в макс. ОЗ. В II–III переживайте отсечение Грааля. В финальную тройку входите рейд-боссом. На дуэлях держите Жуткий резонанс. <strong>Никогда не умирайте от руки того, кого ограбили.</strong></p>\n<h3>Что делает «Закон глубокого моря»?</h3>\n<p><strong>Он крадёт макс. ОЗ за убийство другого Кровоклятого.</strong> Если этот игрок потом убьёт вас — украденное вернётся. Это двигатель снежного кома Зорка и его главный способ слить игру.</p>\n<h3>Какое оружие у Зорка?</h3>\n<p>В ближнем бою — <strong>Подводный кабель</strong>, на дистанции — <strong>Подводное ружьё</strong>. Кровавые искусства: <strong>«Ракеты»</strong> и <strong>«Человек-ракета»</strong>.</p>\n<h3>Зорк подходит новичкам?</h3>\n<p><strong>Да.</strong> Сложность 2 / 5, высокий пол, простая идея: навязать бой, выиграть, вырасти. Если хотите танка, а не технаря — начинайте с Зорка или <a href=\"/ru/characters/albert\">Альберта</a>.</p>\n<h3>Зорк или Альберт — кого брать?</h3>\n<p><strong>Альберт</strong> — если нужен самый безопасный универсал и способ выучить игру. <strong>Зорк</strong> — если хотите снежный ком, навязанные бои и быть рейд-боссом в финальной тройке. Оба — S-тир сетевого теста.</p>\n<h3>Зорк — это тот текстовый квест?</h3>\n<p><strong>Нет.</strong> Зорк в The Duskbloods — Кровоклятый в водолазном костюме. <em>Zork</em> 1980 года — классический текстовый квест Infocom. Другая игра, другая эпоха, то же написание.</p>\n<hr>\n<h2>Источники</h2>\n<ul>\n<li>FromSoftware / Nintendo — гайд по сетевому тесту The Duskbloods (киты персонажей, система добродетели, фазы матча), август 2026</li>\n<li>Данные сайта: <a href=\"/ru/characters/zork\">страница Зорка</a> · <a href=\"/ru/guides/duskbloods-tier-list\">тир-лист</a> · <a href=\"/ru/gameplay\">геймплей</a> · <a href=\"/ru/maps\">карты</a></li>\n<li>Также: <a href=\"/ru/latest/duskbloods-pvpve-explained\">Что такое PvPvE в The Duskbloods?</a> · <a href=\"/ru/latest/duskbloods-beginner-matchmaking\">Матчмейкинг для новичков</a></li>\n</ul>\n<p><em>Читайте дальше: <a href=\"/ru/guides/duskbloods-tier-list\">тир-лист Кровоклятых</a> · <a href=\"/ru/characters/zork\">страница Зорка</a> · <a href=\"/ru/latest/duskbloods-network-test-review\">разбор сетевого теста</a></em></p><hr>\n<p><em>Изображения: официальные материалы © FromSoftware / Nintendo. Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.</em></p>\n",
+      "wordCount": 1525,
+      "faq": [
+        {
+          "question": "Какая роль Зорка в The Duskbloods?",
+          "answer": "Зорк — агрессивный танк / дизраптор. Он навязывает бой «Человек-ракетой», карает сетапы «Ракетами» и копит макс. ОЗ через «Закон глубокого моря». Это игрок, которого остальные обязаны разбирать."
+        },
+        {
+          "question": "Как играть Зорком?",
+          "answer": "В фазе I фармите добродетель и берите чистые киллы Кровоклятых, чтобы расти в макс. ОЗ. В II–III переживайте отсечение Грааля. В финальную тройку входите рейд-боссом. На дуэлях держите Жуткий резонанс. Никогда не умирайте от руки того, кого ограбили."
+        },
+        {
+          "question": "Что делает «Закон глубокого моря»?",
+          "answer": "Он крадёт макс. ОЗ за убийство другого Кровоклятого. Если этот игрок потом убьёт вас — украденное вернётся. Это двигатель снежного кома Зорка и его главный способ слить игру."
+        },
+        {
+          "question": "Какое оружие у Зорка?",
+          "answer": "В ближнем бою — Подводный кабель, на дистанции — Подводное ружьё. Кровавые искусства: «Ракеты» и «Человек-ракета»."
+        },
+        {
+          "question": "Зорк подходит новичкам?",
+          "answer": "Да. Сложность 2 / 5, высокий пол, простая идея: навязать бой, выиграть, вырасти. Если хотите танка, а не технаря — начинайте с Зорка или [Альберта](/ru/characters/albert)."
+        },
+        {
+          "question": "Зорк или Альберт — кого брать?",
+          "answer": "Альберт — если нужен самый безопасный универсал и способ выучить игру. Зорк — если хотите снежный ком, навязанные бои и быть рейд-боссом в финальной тройке. Оба — S-тир сетевого теста."
+        },
+        {
+          "question": "Зорк — это тот текстовый квест?",
+          "answer": "Нет. Зорк в The Duskbloods — Кровоклятый в водолазном костюме. *Zork* 1980 года — классический текстовый квест Infocom. Другая игра, другая эпоха, то же написание.\n\n---"
         }
       ],
       "listItems": []
