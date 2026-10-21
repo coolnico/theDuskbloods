@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 He became the **meme favorite of the August 2026 network test** and finished as an **S-tier pick** in our [Bloodsworn tier list](/guides/duskbloods-tier-list). Hidetaka Miyazaki has spoken about the character with rare, near-maternal fondness in interviews ([IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)) — a piece of Nintendo-flavored charm inside Twilight industrial body-horror.
 
-| Fact | Detail |
-|------|--------|
 
 ![Zork — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
 
-| **Game** | The Duskbloods (2026, Nintendo Switch 2 exclusive) |
-| **Role** | Aggressive tank / disruptor |
-| **Difficulty** | ★★☆☆☆ (2 / 5) |
-| **Melee** | Undersea Cable |
-| **Ranged** | Speargun |
-| **Blood Arts** | Missile · Human Rocket |
-| **Aspects** | Law of the Deep Sea · Dread Resonance |
-| **Network-test tier** | **S** |
+
 
 Full stats and lore live on the [Zork character page](/characters/zork). This guide is the **how-to-play** companion.
 

@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 ゲーム内では、ダイビングスーツの破壊神。背部から砲身とロケットパックが生える深海サルベージ的フォルムで、倒した相手の最大寿命を奪う。**2026 年 8 月ネットワークテストのミーム的スター** であり、当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **S ティア**。宮崎英高はインタビューで「ほぼ母性的な愛着」に近い感情を認めており（[IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)）、黄昏の工業的身体ホラーの中では珍しい、任天堂的な愛嬌の塊だ。
 
-| 項目 | 内容 |
-|------|------|
 
 ![ゾーク — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
 
-| **ゲーム** | The Duskbloods（2026、Nintendo Switch 2 独占） |
-| **役割** | アグレッシブタンク／撹乱 |
-| **難易度** | ★★☆☆☆（2／5） |
-| **近接** | 海底ケーブル |
-| **遠距離** | スピアガン |
-| **ブラッドアーツ** | ミサイル · 人間ロケット |
-| **アスペクト** | 深海の掟 · 怪音波 |
-| **ネットテスト評価** | **S** |
+
 
 詳細ステータスと設定は [ゾークのキャラクター頁](/ja/characters/zork)。本稿は **使い方** の実践ガイド。
 

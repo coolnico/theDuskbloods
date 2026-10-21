@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 He finished as an **S-tier pick** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) and is the character we recommend to anyone learning the game. Official materials describe his kit as a "walking argument" — clean melee pressure, mid-range confirms, and blood arts that scale with how well you manage Virtue.
 
-| Fact | Detail |
-|------|--------|
 
 ![Albert — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
 
-| **Game** | The Duskbloods (2026, Nintendo Switch 2 exclusive) |
-| **Role** | Balanced duelist |
-| **Difficulty** | ★★☆☆☆ (2 / 5) |
-| **Melee** | Lorrik's Jeweled Saber |
-| **Ranged** | Submachine Gun |
-| **Blood Arts** | Blood Blade · Light of Hayern |
-| **Aspects** | High Lorrik Blood · Upriser |
-| **Network-test tier** | **S** |
+
 
 Full stats and lore live on the [Albert character page](/characters/albert). This guide is the **how-to-play** companion.
 

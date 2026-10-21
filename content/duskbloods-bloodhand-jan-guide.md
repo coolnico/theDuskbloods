@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 He finished as an **A-tier specialist** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) — the best long-fight character in the network test build. If you like winning through pressure and sustain instead of clean one-shots, Jan is your pick.
 
-| Fact | Detail |
-|------|--------|
 
 ![Bloodhand Jan — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
 
-| **Game** | The Duskbloods (2026, Nintendo Switch 2 exclusive) |
-| **Role** | Bruiser / sustain fighter |
-| **Difficulty** | ★★★☆☆ (3 / 5) |
-| **Melee** | Bloodthirsty Axe |
-| **Ranged** | Stone of Sorcery |
-| **Blood Arts** | Blink · Surrender to My Blood |
-| **Aspects** | Bloodhand Lineage · Lord of Blood |
-| **Network-test tier** | **A** |
+
 
 Full stats and lore live on the [Bloodhand Jan character page](/characters/bloodhand-jan). This guide is the **how-to-play** companion.
 

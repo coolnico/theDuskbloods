@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 他在本站[血誓者強度榜](/zh-TW/guides/duskbloods-tier-list)中是 **A 檔專精**——網測版本裡最強的長局角色。如果你更喜歡靠壓制和續航取勝，而不是乾淨秒殺，血手揚就是你的選擇。
 
-| 事實 | 詳情 |
-|------|------|
 
 ![血手揚 — 血誓者立繪](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
 
-| **遊戲** | The Duskbloods（2026，Nintendo Switch 2 獨佔） |
-| **定位** | 狂戰 / 續航 |
-| **操作難度** | ★★★☆☆（3 / 5） |
-| **近戰** | 嗜血戰斧 |
-| **遠程** | 法術之石 |
-| **血系技能** | 閃現 · 臣服吾血 |
-| **專屬能力** | 血手血脈 · 血之領主 |
-| **網測強度** | **A 檔** |
+
 
 完整數值與背景見 [血手揚角色頁](/zh-TW/characters/bloodhand-jan)。本篇是**怎麼玩**的實戰攻略。
 

@@ -196,16 +196,6 @@ export default async function GuidesSlugPage({
               </div>
             )}
           </header>
-          {article.image && (
-            <img
-              src={article.image}
-              alt={article.title}
-              width={1200}
-              height={675}
-              className="mt-6 w-full rounded-[var(--radius)] border border-border object-cover"
-              itemProp="image"
-            />
-          )}
           <div className="prose-article mt-8" itemProp="articleBody" dangerouslySetInnerHTML={{ __html: article.content }} />
           <RelatedHubs tags={article.tags} slug={slug} />
         </article>

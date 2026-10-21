@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 他在本站[血誓者强度榜](/zh/guides/duskbloods-tier-list)中拿到 **S 档**，也是我们推荐给新人的首选角色。官方材料形容他的技能组是「会走路的论据」——干净的近身压制、中距离收割，以及一套靠美德喂养的血系技能。
 
-| 事实 | 详情 |
-|------|------|
 
 ![阿尔伯特 — 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
 
-| **游戏** | The Duskbloods（2026，Nintendo Switch 2 独占） |
-| **定位** | 均衡决斗 |
-| **操作难度** | ★★☆☆☆（2 / 5） |
-| **近战** | 洛瑞克宝石军刀 |
-| **远程** | 冲锋枪 |
-| **血系技能** | 血刃 · 海恩之光 |
-| **专属能力** | 高等洛瑞克之血 · 起义者 |
-| **网测强度** | **S 档** |
+
 
 完整数值与背景见 [阿尔伯特角色页](/zh/characters/albert)。本篇是**怎么玩**的实战攻略。
 

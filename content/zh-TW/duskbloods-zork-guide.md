@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 遊戲裡，佐克是一套會自己長出砲身與火箭背包的潛水服：深海打撈式的外形，讀起來卻像掠食者。他在 **2026 年 8 月網路測試**中毫無爭議地成為**社群梗王**，並在本站[血誓者強度榜](/zh-TW/guides/duskbloods-tier-list)中拿到 **S 檔**。宮崎英高在訪談中承認對這個角色有「近乎母性的喜愛」（[IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)）——在人類黃昏工業身體恐怖裡，這是一次罕見的、任天堂式的可愛嘗試。
 
-| 事實 | 詳情 |
-|------|------|
 
 ![佐克 — 血誓者立繪](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
 
-| **遊戲** | The Duskbloods（2026，Nintendo Switch 2 獨佔） |
-| **定位** | 進攻型坦克／擾亂 |
-| **操作難度** | ★★☆☆☆（2／5） |
-| **近戰** | 海底電纜 |
-| **遠程** | 魚叉槍 |
-| **血系技能** | 導彈 · 人體火箭 |
-| **專屬能力** | 深海法則 · 怪音波 |
-| **網測強度** | **S 檔** |
+
 
 完整數值與背景見 [佐克角色頁](/zh-TW/characters/zork)。本篇是**怎麼玩**的實戰攻略。
 

@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **A ティアの専門家**——ネットテスト版で最も強い長試合キャラ。クリーンなワンショットではなく圧力と持続で勝ちたいなら、ジャンだ。
 
-| 項目 | 内容 |
-|------|------|
 
 ![ブラッドハンド・ジャン — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
 
-| **ゲーム** | The Duskbloods（2026、Nintendo Switch 2 独占） |
-| **役割** | ブルーザー / 持続 |
-| **難易度** | ★★★☆☆（3 / 5） |
-| **近接** | 血に飢えた斧 |
-| **遠距離** | 呪術の石 |
-| **ブラッドアーツ** | ブリンク · ブラッドサレンダー |
-| **アスペクト** | ブラッドハンド系譜 · ブラッドロード |
-| **ネットテスト評価** | **A** |
+
 
 詳細ステータスと設定は [ジャンのキャラクター頁](/ja/characters/bloodhand-jan)。本稿は **使い方** の実践ガイド。
 

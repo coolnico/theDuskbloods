@@ -18,19 +18,10 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **S ティア**。初めての人への第一推奨キャラでもある。公式資料は彼のキットを「歩く論拠」と表現する——クリーンな近接圧力、中距離の確認、そして美徳で成長する血系スキル。
 
-| 項目 | 内容 |
-|------|------|
 
 ![アルバート — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
 
-| **ゲーム** | The Duskbloods（2026、Nintendo Switch 2 独占） |
-| **役割** | バランス型デュエリスト |
-| **難易度** | ★★☆☆☆（2／5） |
-| **近接** | ローリックの宝石付きサーベル |
-| **遠距離** | サブマシンガン |
-| **ブラッドアーツ** | ブラッドブレード · ハイエルンの光 |
-| **アスペクト** | 高位ローリックの血 · 起業家 |
-| **ネットテスト評価** | **S** |
+
 
 詳細ステータスと設定は [アルバートのキャラクター頁](/ja/characters/albert)。本稿は **使い方** の実践ガイド。
 
