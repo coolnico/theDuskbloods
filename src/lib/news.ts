@@ -18,6 +18,7 @@ export interface Article {
   wordCount: number;
   faq: ArticleFaqItem[];
   listItems: ArticleListItem[];
+  howTo: { name: string; steps: { name: string; text: string }[] } | null;
   locale: string;
   isFallback: boolean;
 }
@@ -144,6 +145,7 @@ export function getArticle(locale: string, slug: string): Article | null {
     wordCount: data.wordCount,
     faq: data.faq ?? [],
     listItems: data.listItems ?? [],
+    howTo: data.howTo ?? null,
     locale: usedLocale,
     isFallback: usedLocale !== locale,
   };

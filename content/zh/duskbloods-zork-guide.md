@@ -2,6 +2,7 @@
 title: "黄昏血族佐克攻略：深海法则滚雪球坦克完全指南"
 section: guides
 date: "2026-10-20"
+modified: "2026-10-21"
 summary: "《黄昏血族》佐克（Zork）完整攻略——深海法则偷取最大HP机制详解、人肉火箭与导弹连招、分阶段打法思路，以及他为何在网络测试强度榜稳居S档。"
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg"
 tags: ["characters", "builds", "tips", "guide", "Zork"]
@@ -15,7 +16,7 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 **佐克（Zork）** 是《黄昏血族》（The Duskbloods）中的可操作**血誓者**——FromSoftware 这款 8 人 PvPvE 动作 RPG 是 Nintendo Switch 2 独占。注意：**他不是 1980 年 Infocom 那款同名文字冒险游戏**。
 
-游戏里，佐克是一套会自己长出炮身与火箭背包的潜水服：深海打捞式的外形，读起来却像掠食者。他在 **2026 年 8 月网络测试**中毫无争议地成为**社区梗王**，并在本站[血誓者强度榜](/zh/guides/duskbloods-tier-list)中拿到 **S 档**。宫崎英高本人也承认对这个角色有「近乎母性的喜爱」——在人类黄昏工业身体恐怖里，这是一次罕见的、任天堂式的可爱尝试。
+游戏里，佐克是一套会自己长出炮身与火箭背包的潜水服：深海打捞式的外形，读起来却像掠食者。他在 **2026 年 8 月网络测试**中毫无争议地成为**社区梗王**，并在本站[血誓者强度榜](/zh/guides/duskbloods-tier-list)中拿到 **S 档**。宫崎英高在访谈中承认对这个角色有「近乎母性的喜爱」（[IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)）——在人类黄昏工业身体恐怖里，这是一次罕见的、任天堂式的可爱尝试。
 
 | 事实 | 详情 |
 |------|------|
@@ -191,14 +192,18 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 ---
 
-## 资料来源
+## 本篇是怎么写的
 
-- FromSoftware / Nintendo — The Duskbloods 网络测试游戏指南（角色技能、美德系统、对局阶段），2026 年 8 月
-- 本站数据：[佐克角色页](/zh/characters/zork) · [血誓者强度榜](/zh/guides/duskbloods-tier-list) · [玩法系统](/zh/gameplay) · [地图](/zh/maps)
-- 延伸阅读：[什么是 PvPvE？](/zh/latest/duskbloods-pvpve-explained) · [新手匹配说明](/zh/latest/duskbloods-beginner-matchmaking)
-
-<p><em>相关阅读：<a href="/zh/guides/duskbloods-tier-list">血誓者强度榜</a> · <a href="/zh/characters/zork">佐克角色页</a> · <a href="/zh/latest/duskbloods-network-test-review">网络测试回顾</a></em></p>
+**方法说明。** 武器、血系技能、专属能力的数据（含**深海法则**偷取最大 HP 规则）来自 FromSoftware / Nintendo 官方网络测试玩法指南（见下方链接）。分阶段打法、对局克制与 S 档结论，是基于 **2026 年 8 月 21–24 日封闭网络测试** 的独立编辑分析，并非正式版最终结论。最近核对：**2026 年 10 月 21 日**。
 
 ---
 
+## 资料来源
+
+- 官方 — [网络测试玩法指南](https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=the_americas&locate=US&lang=en) — FromSoftware / Nintendo（角色技能、美德系统、对局阶段，2026 年 8 月）
+- [IGN — 宫崎英高访谈](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn) — 监督关于 The Duskbloods 的说明
+- 本站数据：[佐克角色页](/zh/characters/zork) · [血誓者强度榜](/zh/guides/duskbloods-tier-list) · [玩法系统](/zh/gameplay) · [地图](/zh/maps)
+- 相关阅读：[什么是 PvPvE](/zh/latest/duskbloods-pvpve-explained) · [新手匹配说明](/zh/latest/duskbloods-beginner-matchmaking)
+
 *图片来源：官方素材 © FromSoftware / Nintendo。玩法分析为基于 2026 年 8 月封闭网络测试的独立玩家评论。*
+

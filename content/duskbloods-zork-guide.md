@@ -2,6 +2,7 @@
 title: "Zork Guide: How to Play The Duskbloods' Snowball Tank"
 section: guides
 date: "2026-10-20"
+modified: "2026-10-21"
 summary: "Complete Zork guide for The Duskbloods — Law of the Deep Sea HP steal explained, Human Rocket and Missile combos, phase-by-phase game plan, and why this diving-suit Bloodsworn is S-tier in the network test meta."
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg"
 tags: ["characters", "builds", "tips", "guide", "Zork"]
@@ -15,7 +16,7 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 **Zork** is a playable **Bloodsworn** in *The Duskbloods* — FromSoftware's 8-player PvPvE action RPG, exclusive to Nintendo Switch 2. He is **not** the 1980 Infocom text adventure of the same name. In-game, Zork is a diving-suit wrecking ball: a winged, deep-sea salvage figure who grows cannons and rocket packs out of his suit and steals maximum life from the players he kills.
 
-He became the **meme favorite of the August 2026 network test** and finished as an **S-tier pick** in our [Bloodsworn tier list](/guides/duskbloods-tier-list). Hidetaka Miyazaki himself has said he has a near-maternal fondness for the character — a rare piece of Nintendo-flavored charm inside Twilight industrial body-horror.
+He became the **meme favorite of the August 2026 network test** and finished as an **S-tier pick** in our [Bloodsworn tier list](/guides/duskbloods-tier-list). Hidetaka Miyazaki has spoken about the character with rare, near-maternal fondness in interviews ([IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)) — a piece of Nintendo-flavored charm inside Twilight industrial body-horror.
 
 | Fact | Detail |
 |------|--------|
@@ -191,14 +192,18 @@ Pick **Albert** if you want the safest all-rounder and a clean way to learn the 
 
 ---
 
-## Sources
+## How We Wrote This Guide
 
-- FromSoftware / Nintendo — The Duskbloods network test gameplay guide (character kits, Virtue system, match phases), August 2026
-- Site data: [Zork character page](/characters/zork) · [Bloodsworn tier list](/guides/duskbloods-tier-list) · [Gameplay systems](/gameplay) · [Maps](/maps)
-- Related: [What Is The Duskbloods PvPvE?](/latest/duskbloods-pvpve-explained) · [Beginner Matchmaking Explained](/latest/duskbloods-beginner-matchmaking)
-
-<p><em>Related: <a href="/guides/duskbloods-tier-list">Bloodsworn Tier List</a> · <a href="/characters/zork">Zork Character Page</a> · <a href="/latest/duskbloods-network-test-review">Network Test Review</a></em></p>
+**Methodology.** Weapon, Blood Art, and Aspect data — including the Law of the Deep Sea HP-steal rule — come from FromSoftware / Nintendo's official network test gameplay guide (linked below). Phase plans, matchup notes, and the S-tier call are independent editorial analysis of the **August 21–24, 2026 closed network test** meta, not the final retail build. Last reviewed **October 21, 2026**.
 
 ---
 
+## Sources
+
+- Official — [Network Test Gameplay Guide (EN)](https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=the_americas&locate=US&lang=en) — FromSoftware / Nintendo, character kits, Virtue system, match phases (August 2026)
+- [IGN — Hidetaka Miyazaki Interview](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn) — director commentary on The Duskbloods
+- Site data: [Zork character page](/characters/zork) · [Bloodsworn tier list](/guides/duskbloods-tier-list) · [Gameplay systems](/gameplay) · [Maps](/maps)
+- Related: [What Is The Duskbloods PvPvE?](/latest/duskbloods-pvpve-explained) · [Beginner Matchmaking Explained](/latest/duskbloods-beginner-matchmaking)
+
 *Image credit: official materials © FromSoftware / Nintendo. Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*
+

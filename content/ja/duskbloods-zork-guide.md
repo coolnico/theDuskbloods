@@ -2,6 +2,7 @@
 title: "ゾーク攻略：The Duskbloods の雪だるまタンクの使い方"
 section: guides
 date: "2026-10-20"
+modified: "2026-10-21"
 summary: "The Duskbloods ゾーク完全攻略——深海の掟による最大HP奪取の仕組み、人間ロケットとミサイルの連携、フェーズ別の立ち回り、そしてネットワークテストでSランクだった理由を解説。"
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg"
 tags: ["characters", "builds", "tips", "guide", "Zork"]
@@ -15,7 +16,7 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 **ゾーク（Zork）** は *The Duskbloods* のプレイアブルな **ブラッドスウォーン** —— FromSoftware の 8 人 PvPvE アクション RPG、Nintendo Switch 2 独占タイトル。**1980 年の Infocom テキストアドベンチャー『Zork』とは別物** なので注意。
 
-ゲーム内では、ダイビングスーツの破壊神。背部から砲身とロケットパックが生える深海サルベージ的フォルムで、倒した相手の最大寿命を奪う。**2026 年 8 月ネットワークテストのミーム的スター** であり、当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **S ティア**。宮崎英高本人も「ほぼ母性的な愛着」と語っており、黄昏の工業的身体ホラーの中では珍しい、任天堂的な愛嬌の塊。
+ゲーム内では、ダイビングスーツの破壊神。背部から砲身とロケットパックが生える深海サルベージ的フォルムで、倒した相手の最大寿命を奪う。**2026 年 8 月ネットワークテストのミーム的スター** であり、当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **S ティア**。宮崎英高はインタビューで「ほぼ母性的な愛着」に近い感情を認めており（[IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)）、黄昏の工業的身体ホラーの中では珍しい、任天堂的な愛嬌の塊だ。
 
 | 項目 | 内容 |
 |------|------|
@@ -191,14 +192,18 @@ The Duskbloods は 4 フェーズの Dusk Battle。ゾークの役割は時間�
 
 ---
 
-## 参考
+## 本ガイドの作成方法
 
-- FromSoftware / Nintendo — The Duskbloods ネットワークテスト プレイガイド（キャラキット、美徳システム、対局フェーズ）、2026 年 8 月
-- サイト内データ：[ゾークのキャラクター頁](/ja/characters/zork) · [ティアリスト](/ja/guides/duskbloods-tier-list) · [ゲームプレイ](/ja/gameplay) · [マップ](/ja/maps)
-- 関連：[The Duskbloods の PvPvE とは？](/ja/latest/duskbloods-pvpve-explained) · [初心者マッチメイキング](/ja/latest/duskbloods-beginner-matchmaking)
-
-<p><em>関連記事：<a href="/ja/guides/duskbloods-tier-list">ブラッドスウォーン ティアリスト</a> · <a href="/ja/characters/zork">ゾークのキャラクター頁</a> · <a href="/ja/latest/duskbloods-network-test-review">ネットワークテストレビュー</a></em></p>
+**方法論。** 武器・ブラッドアーツ・アスペクトのデータ（**深海の掟**の最大HP奪取ルールを含む）は、FromSoftware / Nintendo 公式のネットワークテスト・ゲームプレイガイド（下記リンク）に基づく。フェーズ別プラン、対面相性、S ティア判定は **2026年8月21〜24日のクローズド・ネットワークテスト** における独立編集分析であり、製品版の最終結論ではない。最終確認：**2026年10月21日**。
 
 ---
 
+## 参考
+
+- 公式 — [ネットワークテスト ゲームプレイガイド](https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=asia_pacific&locate=JP&lang=ja) — FromSoftware / Nintendo（キャラキット、美徳システム、マッチ構成、2026年8月）
+- [IGN — 宮崎英高インタビュー](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn) — The Duskbloods 監督コメント
+- サイト内データ：[ゾークのキャラクター頁](/ja/characters/zork) · [ティアリスト](/ja/guides/duskbloods-tier-list) · [ゲームプレイ](/ja/gameplay) · [マップ](/ja/maps)
+- 関連記事：[The Duskbloods の PvPvE とは？](/ja/latest/duskbloods-pvpve-explained) · [初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)
+
 *画像クレジット：公式素材 © FromSoftware / Nintendo。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立したファンコメントです。*
+

@@ -55,6 +55,29 @@ function parseFaq(md) {
   return items;
 }
 
+/** Extract HowTo steps from a "how to play" section's ### headings. */
+function parseHowTo(md, title) {
+  const howToHeading = /^##[ \t]+(?:How to\b[^\n]*|[^#\n]*怎么玩[：:][^\n]*|[^#\n]*怎麼玩[：:][^\n]*|[^#\n]*使い方[^\n]*|[^#\n]*Как играть[^\n]*)\s*$/im;
+  const m = md.match(howToHeading);
+  if (!m) return null;
+  const rest = md.slice(m.index + m[0].length);
+  const nextH2 = rest.search(/\n##[ \t]/);
+  const section = nextH2 === -1 ? rest : rest.slice(0, nextH2);
+  const steps = [];
+  const parts = section.split(/\n###[ \t]+/).slice(1);
+  for (const part of parts) {
+    const lines = part.split('\n');
+    const name = lines[0].trim().replace(/\*\*/g, '');
+    const text = lines.slice(1).join(' ').replace(/\s+/g, ' ').trim().replace(/\*\*/g, '');
+    if (name) steps.push({ name, text: text || name });
+  }
+  if (steps.length < 2) return null;
+  return {
+    name: m[0].replace(/^##[ \t]+/, '').trim() || `How to play ${title}`,
+    steps,
+  };
+}
+
 /** Extract ranked names from a tier table: | **S** | [Name](#id) | … */
 function parseRankList(md) {
   const row = /^\|\s*\*\*[SAB][^|]*\*\*\s*\|\s*\[([^\]]+)\]\([^)]+\)/gm;
@@ -82,6 +105,7 @@ function buildEntry(file) {
     wordCount: countWords(md),
     faq: parseFaq(md),
     listItems: parseRankList(md),
+    howTo: parseHowTo(md, file.data.title),
   };
 }
 
@@ -150,6 +174,7 @@ export interface ArticleData {
   wordCount: number;
   faq: ArticleFaqItem[];
   listItems: ArticleListItem[];
+  howTo: { name: string; steps: { name: string; text: string }[] } | null;
 }
 
 export const ARTICLES: Record<string, Record<string, ArticleData>> = ${JSON.stringify(articles, null, 2)};

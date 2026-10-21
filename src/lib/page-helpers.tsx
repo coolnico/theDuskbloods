@@ -96,6 +96,31 @@ export function makeItemListLd(opts: {
   };
 }
 
+
+export function makeHowToLd(opts: {
+  name: string;
+  description?: string;
+  image?: string;
+  url: string;
+  steps: { name: string; text: string }[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: opts.name,
+    description: opts.description,
+    image: opts.image,
+    url: opts.url,
+    step: opts.steps.map((s, i) => ({
+      '@type': 'HowToStep',
+      position: i + 1,
+      name: s.name,
+      text: s.text,
+      url: `${opts.url}#step-${i + 1}`,
+    })),
+  };
+}
+
 export function makeCollectionPageLd(opts: {
   name: string;
   description: string;

@@ -1,7 +1,8 @@
----
+﻿---
 title: "Гайд по Зорку: как играть снежным комом-танком в The Duskbloods"
 section: guides
 date: "2026-10-20"
+modified: "2026-10-21"
 summary: "Полный гайд по Зорку в The Duskbloods — как работает кража макс. ОЗ через «Закон глубокого моря», комбо «Человек-ракета» и «Ракеты», план по фазам и почему в сетевом тесте он занял S-тир."
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg"
 tags: ["characters", "builds", "tips", "guide", "Zork"]
@@ -15,7 +16,7 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 **Зорк** — играбельный **Кровоклятый** в *The Duskbloods* — PvPvE-экшене FromSoftware на 8 игроков, эксклюзив Nintendo Switch 2. **Это не текстовый квест Infocom 1980 года** с тем же названием.
 
-В игре Зорк — разрушитель в водолазном костюме: фигура глубоководного салвиджа, у которой из костюма растут пушки и ракетные ранцы, а максимальное жизнь воруется у убитых. Он стал **мемом №1 августовского сетевого теста 2026** и занял **S-тир** в нашем [тир-листе Кровоклятых](/ru/guides/duskbloods-tier-list). Хидэтака Миядзаки сам признавал «почти материнскую привязанность» к персонажу — редкий случай нинтендовского обаяния внутри индустриального body-horror Сумерек.
+В игре Зорк — разрушитель в водолазном костюме: фигура глубоководного салвиджа, у которой из костюма растут пушки и ракетные ранцы, а максимальное жизнь воруется у убитых. Он стал **мемом №1 августовского сетевого теста 2026** и занял **S-тир** в нашем [тир-листе Кровоклятых](/ru/guides/duskbloods-tier-list). Хидэтака Хидэтаки Миядзаки в интервью признавал «почти материнскую привязанность» к персонажу ([IGN](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn)) — редкий случай нинтендовского обаяния внутри индустриального body-horror Сумерек.
 
 | Факт | Детали |
 |------|--------|
@@ -191,14 +192,18 @@ The Duskbloods идёт четырёхфазным Dusk Battle. Задача З�
 
 ---
 
-## Источники
+## Как написан этот гайд
 
-- FromSoftware / Nintendo — гайд по сетевому тесту The Duskbloods (киты персонажей, система добродетели, фазы матча), август 2026
-- Данные сайта: [страница Зорка](/ru/characters/zork) · [тир-лист](/ru/guides/duskbloods-tier-list) · [геймплей](/ru/gameplay) · [карты](/ru/maps)
-- Также: [Что такое PvPvE в The Duskbloods?](/ru/latest/duskbloods-pvpve-explained) · [Матчмейкинг для новичков](/ru/latest/duskbloods-beginner-matchmaking)
-
-<p><em>Читайте дальше: <a href="/ru/guides/duskbloods-tier-list">тир-лист Кровоклятых</a> · <a href="/ru/characters/zork">страница Зорка</a> · <a href="/ru/latest/duskbloods-network-test-review">разбор сетевого теста</a></em></p>
+**Методика.** Данные по оружию, Кровавым искусствам и Аспектам (включая кражу макс. ОЗ по «Закону глубокого моря») взяты из официального руководства сетевого теста FromSoftware / Nintendo (ссылка ниже). План по фазам, разбор матчапов и S-тир — независимый редакционный анализ меты **закрытого сетевого теста 21–24 августа 2026**, а не финальной версии. Последняя проверка: **21 октября 2026**.
 
 ---
 
+## Источники
+
+- Официально — [Gameplay Guide сетевого теста](https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=the_americas&locate=US&lang=en) — FromSoftware / Nintendo (киты персонажей, система добродетели, фазы матча, август 2026)
+- [IGN — интервью с Хидэтаки Миядзаки](https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn) — комментарии режиссёра о The Duskbloods
+- Данные сайта: [страница Зорка](/ru/characters/zork) · [тир-лист](/ru/guides/duskbloods-tier-list) · [геймплей](/ru/gameplay) · [карты](/ru/maps)
+- Читайте дальше: [Что такое PvPvE?](/ru/latest/duskbloods-pvpve-explained) · [Матчмейкинг для новичков](/ru/latest/duskbloods-beginner-matchmaking)
+
 *Изображения: официальные материалы © FromSoftware / Nintendo. Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*
+

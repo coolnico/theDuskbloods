@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { makeBreadcrumbLd, makeFaqPageLd, makeItemListLd } from '@/lib/page-helpers';
+import { makeBreadcrumbLd, makeFaqPageLd, makeItemListLd, makeHowToLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
 import {
   getArticle,
@@ -129,6 +129,17 @@ export default async function GuidesSlugPage({
     ...(article.faq?.length ? [makeFaqPageLd(article.faq)] : []),
     ...(article.listItems?.length
       ? [makeItemListLd({ name: article.title, url: pageUrl, items: article.listItems })]
+      : []),
+    ...(article.howTo?.steps?.length
+      ? [
+          makeHowToLd({
+            name: article.howTo.name,
+            description: article.summary,
+            image: article.image || undefined,
+            url: pageUrl,
+            steps: article.howTo.steps,
+          }),
+        ]
       : []),
   ];
 
