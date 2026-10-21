@@ -509,6 +509,318 @@ export const ARTICLES: Record<string, Record<string, ArticleData>> = {
       "howTo": null
     }
   },
+  "duskbloods-bloodhand-jan-guide": {
+    "en": {
+      "title": "Bloodhand Jan Guide: How to Play The Duskbloods' Sustain Bruiser",
+      "date": "2026-10-21",
+      "modified": "2026-10-21",
+      "author": "Duskbloods Guide",
+      "summary": "Complete Bloodhand Jan guide for The Duskbloods — Bloodhand Lineage counter-heals and Lord of Blood spellbind explained, Blink and Surrender to My Blood combos, phase-by-phase game plan, and why this axe-wielding Bloodsworn is A-tier in the network test meta.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Bloodhand Jan"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>TL;DR</strong>: <strong>Bloodhand Jan</strong> is The Duskbloods&#39; sustain bruiser. The <strong>Bloodthirsty Axe</strong> hits hard; <strong>Bloodhand Lineage</strong> heals you when you counterattack after taking damage; <strong>Lord of Blood</strong> turns spellbound foes into fuel. Difficulty 3 — trade on purpose, blink to reset tempo, and win the long fights other characters cannot. <strong>Win ugly, win long.</strong></p>\n</blockquote>\n<hr>\n<h2>Who Is Bloodhand Jan in The Duskbloods?</h2>\n<p><strong>Bloodhand Jan</strong> is a playable <strong>Bloodsworn</strong> in <em>The Duskbloods</em> — FromSoftware&#39;s 8-player PvPvE action RPG, exclusive to Nintendo Switch 2. His epithet is not marketing: blood is both wound and weapon. He wants messy, close fights where trading HP is the plan, not the mistake.</p>\n<p>He finished as an <strong>A-tier specialist</strong> in our <a href=\"/guides/duskbloods-tier-list\">Bloodsworn tier list</a> — the best long-fight character in the network test build. If you like winning through pressure and sustain instead of clean one-shots, Jan is your pick.</p>\n<table>\n<thead>\n<tr>\n<th>Fact</th>\n<th>Detail</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Game</strong></td>\n<td>The Duskbloods (2026, Nintendo Switch 2 exclusive)</td>\n</tr>\n<tr>\n<td><strong>Role</strong></td>\n<td>Bruiser / sustain fighter</td>\n</tr>\n<tr>\n<td><strong>Difficulty</strong></td>\n<td>★★★☆☆ (3 / 5)</td>\n</tr>\n<tr>\n<td><strong>Melee</strong></td>\n<td>Bloodthirsty Axe</td>\n</tr>\n<tr>\n<td><strong>Ranged</strong></td>\n<td>Stone of Sorcery</td>\n</tr>\n<tr>\n<td><strong>Blood Arts</strong></td>\n<td>Blink · Surrender to My Blood</td>\n</tr>\n<tr>\n<td><strong>Aspects</strong></td>\n<td>Bloodhand Lineage · Lord of Blood</td>\n</tr>\n<tr>\n<td><strong>Network-test tier</strong></td>\n<td><strong>A</strong></td>\n</tr>\n</tbody></table>\n<p>Full stats and lore live on the <a href=\"/characters/bloodhand-jan\">Bloodhand Jan character page</a>. This guide is the <strong>how-to-play</strong> companion.</p>\n<hr>\n<h2>Bloodhand Jan&#39;s Kit, Explained</h2>\n<p>Jan&#39;s kit is built around one idea: <strong>trade, heal, spellbind, press</strong>. Every tool either keeps you in the pocket or pays you for staying there.</p>\n<h3>Weapons: Bloodthirsty Axe &amp; Stone of Sorcery</h3>\n<table>\n<thead>\n<tr>\n<th>Slot</th>\n<th>Weapon</th>\n<th>What it does</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Melee</strong></td>\n<td>Bloodthirsty Axe</td>\n<td>Hard hits. Your main damage and the source of the blood theme.</td>\n</tr>\n<tr>\n<td><strong>Ranged</strong></td>\n<td>Stone of Sorcery</td>\n<td>Deceptive ranged option. Poke and set up without giving up the pocket.</td>\n</tr>\n</tbody></table>\n<p>The axe is the honest part. The Stone is how you stay dangerous when someone tries to leave.</p>\n<h3>Blood Arts: Blink &amp; Surrender to My Blood</h3>\n<table>\n<thead>\n<tr>\n<th>Blood Art</th>\n<th>Input idea</th>\n<th>Best use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Blink</strong></td>\n<td>Use your blood to enhance evasion speed for a short time.</td>\n<td><strong>Tempo tool.</strong> Dodge a culling burst, or close after they waste stamina. The buff fades — act fast.</td>\n</tr>\n<tr>\n<td><strong>Surrender to My Blood</strong></td>\n<td>Quench the axe&#39;s thirst with your blood, drive it into the ground, and rend the area with blood slashes.</td>\n<td><strong>Area denial.</strong> Plant the axe, flood the ground, dare anyone to walk in.</td>\n</tr>\n</tbody></table>\n<p><strong>Blink</strong> is your get-out and your re-engage. <strong>Surrender to My Blood</strong> is the zone you own.</p>\n<h3>Aspects: Bloodhand Lineage &amp; Lord of Blood</h3>\n<table>\n<thead>\n<tr>\n<th>Aspect</th>\n<th>Effect</th>\n<th>Why it matters</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Bloodhand Lineage</strong></td>\n<td>Counterattacking after receiving damage <strong>restores HP</strong>.</td>\n<td>The sustain engine. Trading is not a mistake if you trade back.</td>\n</tr>\n<tr>\n<td><strong>Lord of Blood</strong></td>\n<td>Interacting with <strong>spellbound</strong> foes restores HP and <strong>boosts attack</strong>.</td>\n<td>The snowball. Spellbind, drink, press — do not reset after you win the exchange.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Bloodhand Lineage &amp; Lord of Blood: The Sustain Loop</h2>\n<p>Jan is not a burst character. He is a <strong>grinder</strong>. The loop is the whole character.</p>\n<h3>The counter-heal (Bloodhand Lineage)</h3>\n<ol>\n<li>Take a hit on purpose when the trade is even or better.</li>\n<li><strong>Counterattack immediately</strong> — that is what triggers the heal.</li>\n<li>Do not panic-drain every chip. If you can hit back, the HP comes back.</li>\n</ol>\n<h3>The spellbind snowball (Lord of Blood)</h3>\n<ul>\n<li>Spellbound foes become fuel: <strong>heal through blood drink and boost your attack</strong>.</li>\n<li>After a successful blood drink, <strong>press the advantage</strong>. Do not reset — the attack buff is the window.</li>\n<li>Minions and spellbound targets are how a mid-fight turns into a Jan-favored brawl.</li>\n</ul>\n<h3>The rule of thumb</h3>\n<blockquote>\n<p>If you can trade and hit back, <strong>stay in the pocket</strong>. Blink out only when the trade stops working.</p>\n</blockquote>\n<hr>\n<h2>How to Play Bloodhand Jan: Phase-by-Phase Game Plan</h2>\n<p>The Duskbloods runs a four-phase Dusk Battle. Jan&#39;s job changes as the clock moves.</p>\n<h3>Phase I — Establish the trade pattern</h3>\n<ul>\n<li>Fight for ritual sites, but do not over-chase. Jan wants <strong>sustained contact</strong>, not highlight kills.</li>\n<li>Use the Stone of Sorcery to poke; commit with the axe when they are already trading into you.</li>\n<li>First spellbind opportunities matter — Lord of Blood needs something to drink.</li>\n</ul>\n<h3>Phases II–III — Grind through culling</h3>\n<ul>\n<li>The Grail culls low-Virtue Bloodsworn. <strong>You still need Virtue</strong> — sustain does not stop the Grail.</li>\n<li>Pick fights with people already damaged. Bloodhand Lineage loves long, dirty trades.</li>\n<li>Save <strong>Blink</strong> for culling bursts or to close when they waste stamina. The buff is temporary.</li>\n</ul>\n<h3>Phase IV — Be the last problem standing</h3>\n<ul>\n<li>Final three is where the grinder shines. Force long trades; do not let them reset.</li>\n<li><strong>Surrender to My Blood</strong> owns space in the final arena — plant it when they try to collapse.</li>\n<li>Spellbound targets + Lord of Blood pressure is how you turn a 1v1 into a win.</li>\n</ul>\n<hr>\n<h2>Bloodhand Jan Tips &amp; Combos That Actually Work</h2>\n<h3>1. Trade on purpose</h3>\n<p>Do not panic-heal every chip. Counterattack after hits to trigger Bloodhand Lineage and stay in the pocket.</p>\n<h3>2. Spellbind, then snowball</h3>\n<p>Lord of Blood heals through spellbound foes and boosts your attack. After a successful blood drink, press the advantage instead of resetting.</p>\n<h3>3. Blink is tempo</h3>\n<p>Use Blink to dodge a culling burst or to close after they waste stamina — the buff is temporary, so act fast.</p>\n<h3>4. Axe for contact, Stone for chase</h3>\n<p>Bloodthirsty Axe when they are in the pocket. Stone of Sorcery when they try to leave. Do not swap randomly.</p>\n<h3>5. Surrender to My Blood is a zone, not a snipe</h3>\n<p>Plant the axe and control the floor. Do not waste it as a random long-range burst.</p>\n<h3>6. Win ugly</h3>\n<p>Jan is difficulty 3 because the plan is uncomfortable: take hits, heal back, grind. If you need clean fights, play Albert.</p>\n<hr>\n<h2>Bloodhand Jan vs Other Bloodsworn</h2>\n<table>\n<thead>\n<tr>\n<th>Matchup</th>\n<th>Verdict</th>\n<th>Why</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Bloodhand Jan vs Albert</strong></td>\n<td>Skill matchup</td>\n<td>Both want long fights. Better stagger and beam confirms win. Jan wins if the trade loop stays online.</td>\n</tr>\n<tr>\n<td><strong>Bloodhand Jan vs Zork</strong></td>\n<td>Skill matchup</td>\n<td>Both want long fights. Whoever lands the better sustain / control loop wins. Zork&#39;s Upriser-style pressure can break your rhythm.</td>\n</tr>\n<tr>\n<td><strong>Bloodhand Jan vs Sniper Layla</strong></td>\n<td>Jan favored up close</td>\n<td>Get in the pocket and stay. Blink to close sightlines; do not let her poke for free.</td>\n</tr>\n<tr>\n<td><strong>Bloodhand Jan vs Trang Lanh</strong></td>\n<td>Even</td>\n<td>Trang wants ambush. If you see the fight coming, the grinder usually outlasts it.</td>\n</tr>\n<tr>\n<td><strong>Bloodhand Jan vs Senator Samir Patres</strong></td>\n<td>Samir favored if clean</td>\n<td>Samir punishes bad positioning. Jan&#39;s messy trades can still win if you force contact.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Is Bloodhand Jan Good? Network-Test Verdict</h2>\n<p><strong>Yes — Bloodhand Jan is A-tier in the August 2026 network test meta</strong>, for three reasons:</p>\n<ol>\n<li><strong>Sustain.</strong> Bloodhand Lineage rewards a playstyle most characters cannot copy: purposeful trading.</li>\n<li><strong>Long-fight ceiling.</strong> If the lobby goes messy and slow, Jan is the best character left standing.</li>\n<li><strong>Spellbind snowball.</strong> Lord of Blood turns mid-fight advantages into attack power and HP.</li>\n</ol>\n<p>He is a <strong>specialist</strong>, not a default pick. Difficulty 3 and a plan that feels wrong until it works.</p>\n<p><strong>Caveat</strong>: this is a <strong>network-test preview ranking</strong>, not the final retail build. Launch balance is still unannounced. See our full <a href=\"/guides/duskbloods-tier-list\">tier list</a> for the rest of the roster.</p>\n<hr>\n<h2>FAQ</h2>\n<h3>What is Bloodhand Jan&#39;s role in The Duskbloods?</h3>\n<p><strong>Bloodhand Jan is a bruiser / sustain fighter.</strong> He trades HP on purpose, counter-heals with Bloodhand Lineage, and snowballs through spellbound foes with Lord of Blood. The Bloodthirsty Axe and Stone of Sorcery keep him dangerous at every range.</p>\n<h3>How do you play Bloodhand Jan?</h3>\n<p>Trade on purpose and counterattack immediately to trigger Bloodhand Lineage. Use Blink as tempo — escape culling bursts or close after they waste stamina. Spellbind targets to feed Lord of Blood, then press the advantage instead of resetting.</p>\n<h3>What do Bloodhand Lineage and Lord of Blood do?</h3>\n<p><strong>Bloodhand Lineage</strong> restores HP when you counterattack after taking damage. <strong>Lord of Blood</strong> restores HP through spellbound foes and boosts your attack. Together they make long, dirty fights Jan-favored.</p>\n<h3>What weapons does Bloodhand Jan use?</h3>\n<p>Jan uses the <strong>Bloodthirsty Axe</strong> in melee and the <strong>Stone of Sorcery</strong> at range. His Blood Arts are <strong>Blink</strong> and <strong>Surrender to My Blood</strong>.</p>\n<h3>Is Bloodhand Jan good for beginners?</h3>\n<p><strong>Not as a first pick.</strong> Difficulty is 3 / 5 and the plan is counterintuitive (take hits on purpose). Start on <a href=\"/guides/duskbloods-albert-guide\">Albert</a> or Zork, then come back to Jan when you understand trades and culling.</p>\n<h3>Bloodhand Jan vs Albert — who should I pick?</h3>\n<p>Pick <strong>Albert</strong> if you want the safest all-rounder and clean neutral. Pick <strong>Bloodhand Jan</strong> if you want to grind, trade HP, and win the fights that go long and ugly.</p>\n<hr>\n<h2>How We Wrote This Guide</h2>\n<p><strong>Methodology.</strong> Weapon, Blood Art, and Aspect data — including Bloodhand Lineage&#39;s counter-heal rule and Lord of Blood&#39;s spellbind interaction — come from FromSoftware / Nintendo&#39;s official network test gameplay guide (linked below). Phase plans, matchup notes, and the tier call are independent editorial analysis of the <strong>August 21–24, 2026 closed network test</strong> meta, not the final retail build. Last reviewed <strong>October 21, 2026</strong>.</p>\n<hr>\n<h2>Sources</h2>\n<ul>\n<li>Official — <a href=\"https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=the_americas&locate=US&lang=en\">Network Test Gameplay Guide (EN)</a> — FromSoftware / Nintendo, character kits, Virtue system, match phases (August 2026)</li>\n<li><a href=\"https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn\">IGN — Hidetaka Miyazaki Interview</a> — director commentary on The Duskbloods</li>\n<li>Site data: <a href=\"/characters/bloodhand-jan\">Bloodhand Jan character page</a> · <a href=\"/guides/duskbloods-tier-list\">Bloodsworn tier list</a> · <a href=\"/gameplay\">Gameplay systems</a> · <a href=\"/maps\">Maps</a></li>\n<li>Related: <a href=\"/guides/duskbloods-zork-guide\">Zork Guide</a> · <a href=\"/guides/duskbloods-albert-guide\">Albert Guide</a> · <a href=\"/latest/duskbloods-pvpve-explained\">What Is The Duskbloods PvPvE?</a></li>\n</ul>\n<p><em>Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.</em></p>\n",
+      "wordCount": 1711,
+      "faq": [
+        {
+          "question": "What is Bloodhand Jan's role in The Duskbloods?",
+          "answer": "Bloodhand Jan is a bruiser / sustain fighter. He trades HP on purpose, counter-heals with Bloodhand Lineage, and snowballs through spellbound foes with Lord of Blood. The Bloodthirsty Axe and Stone of Sorcery keep him dangerous at every range."
+        },
+        {
+          "question": "How do you play Bloodhand Jan?",
+          "answer": "Trade on purpose and counterattack immediately to trigger Bloodhand Lineage. Use Blink as tempo — escape culling bursts or close after they waste stamina. Spellbind targets to feed Lord of Blood, then press the advantage instead of resetting."
+        },
+        {
+          "question": "What do Bloodhand Lineage and Lord of Blood do?",
+          "answer": "Bloodhand Lineage restores HP when you counterattack after taking damage. Lord of Blood restores HP through spellbound foes and boosts your attack. Together they make long, dirty fights Jan-favored."
+        },
+        {
+          "question": "What weapons does Bloodhand Jan use?",
+          "answer": "Jan uses the Bloodthirsty Axe in melee and the Stone of Sorcery at range. His Blood Arts are Blink and Surrender to My Blood."
+        },
+        {
+          "question": "Is Bloodhand Jan good for beginners?",
+          "answer": "Not as a first pick. Difficulty is 3 / 5 and the plan is counterintuitive (take hits on purpose). Start on [Albert](/guides/duskbloods-albert-guide) or Zork, then come back to Jan when you understand trades and culling."
+        },
+        {
+          "question": "Bloodhand Jan vs Albert — who should I pick?",
+          "answer": "Pick Albert if you want the safest all-rounder and clean neutral. Pick Bloodhand Jan if you want to grind, trade HP, and win the fights that go long and ugly.\n\n---"
+        }
+      ],
+      "listItems": [],
+      "howTo": {
+        "name": "How to Play Bloodhand Jan: Phase-by-Phase Game Plan",
+        "steps": [
+          {
+            "name": "Phase I — Establish the trade pattern",
+            "text": "- Fight for ritual sites, but do not over-chase. Jan wants sustained contact, not highlight kills. - Use the Stone of Sorcery to poke; commit with the axe when they are already trading into you. - First spellbind opportunities matter — Lord of Blood needs something to drink."
+          },
+          {
+            "name": "Phases II–III — Grind through culling",
+            "text": "- The Grail culls low-Virtue Bloodsworn. You still need Virtue — sustain does not stop the Grail. - Pick fights with people already damaged. Bloodhand Lineage loves long, dirty trades. - Save Blink for culling bursts or to close when they waste stamina. The buff is temporary."
+          },
+          {
+            "name": "Phase IV — Be the last problem standing",
+            "text": "- Final three is where the grinder shines. Force long trades; do not let them reset. - Surrender to My Blood owns space in the final arena — plant it when they try to collapse. - Spellbound targets + Lord of Blood pressure is how you turn a 1v1 into a win. ---"
+          }
+        ]
+      }
+    },
+    "ja": {
+      "title": "ブラッドハンド・ジャン攻略：The Duskbloods 持続型ブルーザー完全ガイド",
+      "date": "2026-10-21",
+      "modified": "2026-10-21",
+      "author": "Duskbloods Guide",
+      "summary": "The Duskbloods ブラッドハンド・ジャン完全攻略——ブラッドハンド系譜の反撃回復とブラッドロードの魅了仕組み、ブリンクとブラッドサレンダーのコンボ、フェーズ別プラン、そしてなぜこの血に飢えた斧がネットテスト A ティアの長試合の王なのか。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Bloodhand Jan"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>要約</strong>：<strong>ブラッドハンド・ジャン</strong>は The Duskbloods の持続型ブルーザー。<strong>血に飢えた斧</strong>は重く、<strong>ブラッドハンド系譜</strong>は被弾後の反撃で回復し、<strong>ブラッドロード</strong>は魅了した敵を燃料に変える。難易度は 3——意図的にトレードし、ブリンクでテンポを取り、他キャラが勝てない長い試合を取る。<strong>格好悪く勝ち、長く勝つ。</strong></p>\n</blockquote>\n<hr>\n<h2>ブラッドハンド・ジャンとは？ The Duskbloods のキャラクター</h2>\n<p><strong>ブラッドハンド・ジャン</strong>は <em>The Duskbloods</em> のプレイアブルな <strong>ブラッドスウォーン</strong> —— FromSoftware の 8 人 PvPvE アクション RPG、Nintendo Switch 2 独占タイトル。二つ名はマーケティングではない。血は傷であり武器でもある。彼が欲しいのは、乱れた近接の乱戦——HP のトレードは失敗ではなく計画だ。</p>\n<p>当サイトの<a href=\"/ja/guides/duskbloods-tier-list\">ブラッドスウォーン ティアリスト</a>では <strong>A ティアの専門家</strong>——ネットテスト版で最も強い長試合キャラ。クリーンなワンショットではなく圧力と持続で勝ちたいなら、ジャンだ。</p>\n<table>\n<thead>\n<tr>\n<th>項目</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ゲーム</strong></td>\n<td>The Duskbloods（2026、Nintendo Switch 2 独占）</td>\n</tr>\n<tr>\n<td><strong>役割</strong></td>\n<td>ブルーザー / 持続</td>\n</tr>\n<tr>\n<td><strong>難易度</strong></td>\n<td>★★★☆☆（3 / 5）</td>\n</tr>\n<tr>\n<td><strong>近接</strong></td>\n<td>血に飢えた斧</td>\n</tr>\n<tr>\n<td><strong>遠距離</strong></td>\n<td>呪術の石</td>\n</tr>\n<tr>\n<td><strong>ブラッドアーツ</strong></td>\n<td>ブリンク · ブラッドサレンダー</td>\n</tr>\n<tr>\n<td><strong>アスペクト</strong></td>\n<td>ブラッドハンド系譜 · ブラッドロード</td>\n</tr>\n<tr>\n<td><strong>ネットテスト評価</strong></td>\n<td><strong>A</strong></td>\n</tr>\n</tbody></table>\n<p>詳細ステータスと設定は <a href=\"/ja/characters/bloodhand-jan\">ジャンのキャラクター頁</a>。本稿は <strong>使い方</strong> の実践ガイド。</p>\n<hr>\n<h2>ブラッドハンド・ジャンのキット解説</h2>\n<p>ジャンのキットは一言で：<strong>トレード → 回復 → 魅了 → 圧力</strong>。すべてのツールは「貼る」か「貼ったことを報いる」。</p>\n<h3>武器：血に飢えた斧＆呪術の石</h3>\n<table>\n<thead>\n<tr>\n<th>スロット</th>\n<th>武器</th>\n<th>役割</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>近接</strong></td>\n<td>血に飢えた斧</td>\n<td>重い一撃。主火力であり血のテーマの源。</td>\n</tr>\n<tr>\n<td><strong>遠距離</strong></td>\n<td>呪術の石</td>\n<td>地味な遠距離手段。離れようとする相手への削りと始動。</td>\n</tr>\n</tbody></table>\n<p>斧が誠実な部分。石は、相手が去ろうとするときも危険でいられる方法。</p>\n<h3>ブラッドアーツ：ブリンク＆ブラッドサレンダー</h3>\n<table>\n<thead>\n<tr>\n<th>ブラッドアーツ</th>\n<th>入力イメージ</th>\n<th>最適な使い方</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ブリンク</strong></td>\n<td>自身の血で回避速度を一時的に強化</td>\n<td><strong>テンポ用。</strong> 淘汰のバーストを避けるか、スタミナを切らした相手に詰める。バフは消える——すぐ動け。</td>\n</tr>\n<tr>\n<td><strong>ブラッドサレンダー</strong></td>\n<td>血で斧の渇きを潤し、地面に突き立て、血刃で周囲を裂く</td>\n<td><strong>圧倒的な領域支配。</strong> 斧を置き、床を血で満たし、入る勇気のある者を待つ。</td>\n</tr>\n</tbody></table>\n<p><strong>ブリンク</strong>は逃げと再突入。<strong>ブラッドサレンダー</strong>は君の地面。</p>\n<h3>アスペクト：ブラッドハンド系譜＆ブラッドロード</h3>\n<table>\n<thead>\n<tr>\n<th>アスペクト</th>\n<th>効果</th>\n<th>なぜ重要か</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ブラッドハンド系譜</strong></td>\n<td>被弾後の反撃で <strong>HP 回復</strong></td>\n<td>持続エンジン。撃ち返せるならトレードは失敗ではない。</td>\n</tr>\n<tr>\n<td><strong>ブラッドロード</strong></td>\n<td><strong>魅了</strong>した敵との関わりで回復し、<strong>攻撃上昇</strong></td>\n<td>雪だるま。魅了、血を飲み、圧力をかけろ——交換に勝ったらリセットするな。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>ブラッドハンド系譜とブラッドロード：持続ループ</h2>\n<p>ジャンはバーストキャラではない。<strong>グラインダー</strong>だ。ループがキャラそのもの。</p>\n<h3>反撃回復（ブラッドハンド系譜）</h3>\n<ol>\n<li>交換が見合うなら、意図的に被弾する。</li>\n<li><strong>すぐ撃ち返す</strong>——それが回復のトリガー。</li>\n<li>ちょっとした被弾で慌てて回復するな。撃ち返せれば血は戻る。</li>\n</ol>\n<h3>魅了の雪だるま（ブラッドロード）</h3>\n<ul>\n<li>魅了した敵は燃料：<strong>血を飲んで回復し攻撃が上がる</strong>。</li>\n<li>血を飲んだら <strong>有利を押し続けろ</strong>。リセットするな——攻な——攻撃バフが窓だ。</li>\n<li>雑魚や魅了対象は、中盤の乱戦をジャン有利に変える手段。</li>\n</ul>\n<h3>経験則</h3>\n<blockquote>\n<p>トレードして撃ち返せるなら、<strong>貼っていろ</strong>。ブリンクで離れるのは、交換が合わなくなったときだけ。</p>\n</blockquote>\n<hr>\n<h2>ブラッドハンド・ジャンの使い方：フェーズ別プラン</h2>\n<p>The Duskbloods は 4 フェーズの Dusk Battle。ジャンの役割は時間で変わる。</p>\n<h3>フェーズ I —— トレードの型を作る</h3>\n<ul>\n<li>儀式場を争え。ただし追いすぎるな。ジャンが欲しいのは<strong>継続的な接触</strong>であって、派手なキルではない。</li>\n<li>呪術の石で削り、すでにトレードに入ってきた相手に斧でコミット。</li>\n<li>最初の魅了機会が重要——ブラッドロードは飲む対象が要る。</li>\n</ul>\n<h3>フェーズ II–III —— 淘汰をグラインドで抜ける</h3>\n<ul>\n<li>聖杯は低美徳を淘汰する。<strong>美徳は依然として必要</strong>——持続は聖杯を止めない。</li>\n<li>すでに削れている相手を選べ。ブラッドハンド系譜は長い泥試合が好き。</li>\n<li><strong>ブリンク</strong>は淘汰のバースト回避か、スタミナ切れへの詰めに温存。バフは一時的。</li>\n</ul>\n<h3>フェーズ IV —— 最後に立つ問題になれ</h3>\n<ul>\n<li>最終 3 人はグラインダーの舞台。長い交換を強制し、リセットさせるな。</li>\n<li><strong>ブラッドサレンダー</strong>は最終盤の空間を支配——崩れかけたら置け。</li>\n<li>魅了対象＋ブラッドロードの圧力で 1v1 を勝ちに変えろ。</li>\n</ul>\n<hr>\n<h2>ブラッドハンド・ジャンの実戦テク＆コンボ</h2>\n<h3>1. 意図的にトレードする</h3>\n<p>ちょっとした被弾で慌てて回復するな。被弾後すぐ反撃してブラッドハンド系譜を発動し、貼っていろ。</p>\n<h3>2. 先に魅了、次に雪だるま</h3>\n<p>ブラッドロードは魅了した敵から回復し攻撃を上げる。血を飲んだら有利を押し続けろ。</p>\n<h3>3. ブリンクはテンポ</h3>\n<p>淘汰のバーストを避けるか、スタミナ切れに詰める。バフは一時的——すぐ動け。</p>\n<h3>4. 斧は接触、石は追撃</h3>\n<p>近いなら血に飢えた斧。離れようとするなら呪術の石。無作為に切り替えるな。</p>\n<h3>5. ブラッドサレンダーは領域であって狙撃ではない</h3>\n<p>斧を置き床を支配せよ。遠距離の抽選に無駄打ちするな。</p>\n<h3>6. 格好悪く勝て</h3>\n<p>難易度 3 なのは、計画が不快だからだ：被弾し、戻し、削る。クリーンな試合が欲しいならアルバートを。</p>\n<hr>\n<h2>ブラッドハンド・ジャン 対 他ブラッドスウォーン</h2>\n<table>\n<thead>\n<tr>\n<th>マッチアップ</th>\n<th>判定</th>\n<th>理由</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>ジャン vs アルバート</strong></td>\n<td>実力勝負</td>\n<td>両者とも長試合を望む。より良いスタガーとビーム確認が勝つ。トレードループが生きていればジャン優勢。</td>\n</tr>\n<tr>\n<td><strong>ジャン vs ゾーク</strong></td>\n<td>実力勝負</td>\n<td>両者とも長試合。持続／制圧ループが良いほうが勝つ。ゾークの圧力がリズムを崩すことも。</td>\n</tr>\n<tr>\n<td><strong>ジャン vs スナイパーレイラ</strong></td>\n<td>近接ならジャン優勢</td>\n<td>貼っていろ。ブリンクで射線を詰め、無料ポークを許すな。</td>\n</tr>\n<tr>\n<td><strong>ジャン vs トラン・ラン</strong></td>\n<td>五分</td>\n<td>トランは伏撃。戦いが見えていれば、グラインダーが残りやすい。</td>\n</tr>\n<tr>\n<td><strong>ジャン vs 上院議員サミir</strong></td>\n<td>サミルが綺麗なら優勢</td>\n<td>サミルはポジショニングを罚する。接触を強制すれば、ジャンの泥な交換も勝ち筋。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>ブラッドハンド・ジャンは強い？ ネットワークテストの結論</h2>\n<p><strong>強い——ジャンは 2026 年 8 月ネットワークテストで A ティア</strong>。理由は 3 つ：</p>\n<ol>\n<li><strong>持続。</strong> ブラッドハンド系譜は、他のキャラが真似しにくい「意図的なトレード」を報いる。</li>\n<li><strong>長試合の天井。</strong> ロビーが泥くさく遅くなれば、最後に立つのはジャン。</li>\n<li><strong>魅了の雪だるま。</strong> ブラッドロードは中盤の優位を攻撃力と HP に変える。</li>\n</ol>\n<p>彼は<strong>専門家</strong>であって、デフォルトではない。難易度は 3、計画は効くまで不快。</p>\n<p><strong>注記</strong>：これは <strong>ネットワークテストのプレビュー評価</strong> であり、製品版の最終結論ではない。発売時のバランスは未発表。全ロスターは<a href=\"/ja/guides/duskbloods-tier-list\">ティアリスト</a>を参照。</p>\n<hr>\n<h2>よくある質問</h2>\n<h3>ジャンの役割は？</h3>\n<p><strong>ブルーザー／持続ファイター。</strong> 意図的に HP をトレードし、ブラッドハンド系譜で反撃回復、魅了対象からブラッドロードで雪だるま。血に飢えた斧と呪術の石が全距離で危険に保つ。</p>\n<h3>ジャンはどう使う？</h3>\n<p>意図的にトレードし、すぐ反撃してブラッドハンド系譜を発動。ブリンクはテンポ——淘汰のバーストを避けるかスタミナ切れに詰める。魅了でブラッドロードを養い、有利を押し続けろ。</p>\n<h3>ブラッドハンド系ブラッドハンド系譜とブラッドロードの効果は？</h3>\n<p><strong>ブラッドハンド系譜</strong>は被弾後の反撃で回復。<strong>ブラッドロード</strong>は魅了した敵から回復し攻撃を上げる。合わせて長い泥試合がジャン有利になる。</p>\n<h3>ジャンの武器は？</h3>\n<p>近接は <strong>血に飢えた斧</strong>、遠距離は <strong>呪術の石</strong>。ブラッドアーツは <strong>ブリンク</strong> と <strong>ブラッドサレンダー</strong>。</p>\n<h3>初心者向け？</h3>\n<p><strong>最初の一人にはあまり。</strong> 難易度 3／5 で計画が直感に反する（意図的に被弾）。まず <a href=\"/ja/guides/duskbloods-albert-guide\">アルバート</a> かゾークで、トレードと淘汰を理解してから戻ってこい。</p>\n<h3>ジャン vs アルバート、どちらを？</h3>\n<p>いちばん安全なオールラウンダーとクリーンな中立なら <strong>アルバート</strong>。グラインドし、HP をトレードし、長く格好悪い試合を取りたいなら <strong>ブラッドハンド・ジャン</strong>。</p>\n<hr>\n<h2>本ガイドの作成方法</h2>\n<p><strong>方法論。</strong> 武器・ブラッドアーツ・アスペクトのデータ（<strong>ブラッドハンド系譜</strong>の反撃回復と <strong>ブラッドロード</strong> の魅了連携を含む）は、FromSoftware / Nintendo 公式のネットワークテスト・ゲームプレイガイド（下記リンク）に基づく。フェーズ別プラン、対面相性、ティア判定は <strong>2026年8月21〜24日のクローズド・ネットワークテスト</strong> における独立編集分析であり、製品版の最終結論ではない。最終確認：<strong>2026年10月21日</strong>。</p>\n<hr>\n<h2>参考</h2>\n<ul>\n<li>公式 — <a href=\"https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=asia_pacific&locate=JP&lang=ja\">ネットワークテスト ゲームプレイガイド</a> — FromSoftware / Nintendo（キャラキット、美徳システム、マッチ構成、2026年8月）</li>\n<li><a href=\"https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn\">IGN — 宮崎英高インタビュー</a> — The Duskbloods 監督コメント</li>\n<li>サイト内データ：<a href=\"/ja/characters/bloodhand-jan\">ジャンのキャラクター頁</a> · <a href=\"/ja/guides/duskbloods-tier-list\">ティアリスト</a> · <a href=\"/ja/gameplay\">ゲームプレイ</a> · <a href=\"/ja/maps\">マップ</a></li>\n<li>関連記事：<a href=\"/ja/guides/duskbloods-zork-guide\">ゾーク攻略</a> · <a href=\"/ja/guides/duskbloods-albert-guide\">アルバート攻略</a> · <a href=\"/ja/latest/duskbloods-pvpve-explained\">The Duskbloods の PvPvE とは？</a></li>\n</ul>\n<p><em>画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。</em></p>\n",
+      "wordCount": 3735,
+      "faq": [
+        {
+          "question": "ジャンの役割は？",
+          "answer": "ブルーザー／持続ファイター。 意図的に HP をトレードし、ブラッドハンド系譜で反撃回復、魅了対象からブラッドロードで雪だるま。血に飢えた斧と呪術の石が全距離で危険に保つ。"
+        },
+        {
+          "question": "ジャンはどう使う？",
+          "answer": "意図的にトレードし、すぐ反撃してブラッドハンド系譜を発動。ブリンクはテンポ——淘汰のバーストを避けるかスタミナ切れに詰める。魅了でブラッドロードを養い、有利を押し続けろ。"
+        },
+        {
+          "question": "ブラッドハンド系ブラッドハンド系譜とブラッドロードの効果は？",
+          "answer": "ブラッドハンド系譜は被弾後の反撃で回復。ブラッドロードは魅了した敵から回復し攻撃を上げる。合わせて長い泥試合がジャン有利になる。"
+        },
+        {
+          "question": "ジャンの武器は？",
+          "answer": "近接は 血に飢えた斧、遠距離は 呪術の石。ブラッドアーツは ブリンク と ブラッドサレンダー。"
+        },
+        {
+          "question": "初心者向け？",
+          "answer": "最初の一人にはあまり。 難易度 3／5 で計画が直感に反する（意図的に被弾）。まず [アルバート](/ja/guides/duskbloods-albert-guide) かゾークで、トレードと淘汰を理解してから戻ってこい。"
+        },
+        {
+          "question": "ジャン vs アルバート、どちらを？",
+          "answer": "いちばん安全なオールラウンダーとクリーンな中立なら アルバート。グラインドし、HP をトレードし、長く格好悪い試合を取りたいなら ブラッドハンド・ジャン。\n\n---"
+        }
+      ],
+      "listItems": [],
+      "howTo": {
+        "name": "ブラッドハンド・ジャンの使い方：フェーズ別プラン",
+        "steps": [
+          {
+            "name": "フェーズ I —— トレードの型を作る",
+            "text": "- 儀式場を争え。ただし追いすぎるな。ジャンが欲しいのは<strong>継続的な接触</strong>であって、派手なキルではない。 - 呪術の石で削り、すでにトレードに入ってきた相手に斧でコミット。 - 最初の魅了機会が重要——ブラッドロードは飲む対象が要る。"
+          },
+          {
+            "name": "フェーズ II–III —— 淘汰をグラインドで抜ける",
+            "text": "- 聖杯は低美徳を淘汰する。<strong>美徳は依然として必要</strong>——持続は聖杯を止めない。 - すでに削れている相手を選べ。ブラッドハンド系譜は長い泥試合が好き。 - <strong>ブリンク</strong>は淘汰のバースト回避か、スタミナ切れへの詰めに温存。バフは一時的。"
+          },
+          {
+            "name": "フェーズ IV —— 最後に立つ問題になれ",
+            "text": "- 最終 3 人はグラインダーの舞台。長い交換を強制し、リセットさせるな。 - <strong>ブラッドサレンダー</strong>は最終盤の空間を支配——崩れかけたら置け。 - 魅了対象＋ブラッドロードの圧力で 1v1 を勝ちに変えろ。 ---"
+          }
+        ]
+      }
+    },
+    "zh": {
+      "title": "血手扬攻略：《黄昏血族》续航狂战型血誓者完全指南",
+      "date": "2026-10-21",
+      "modified": "2026-10-21",
+      "author": "Duskbloods Guide",
+      "summary": "《黄昏血族》血手扬完全攻略——血手血脉反击回血与血之领主魅惑机制详解、闪现与臣服吾血连招、分阶段打法，以及为什么这把嗜血战斧是网测 A 档的长局之王。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Bloodhand Jan"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>一句话总结</strong>：<strong>血手扬（Bloodhand Jan）</strong> 是《黄昏血族》的续航狂战。<strong>嗜血战斧</strong>输出扎实；<strong>血手血脉</strong>在你受击后反击时回血；<strong>血之领主</strong>把魅惑目标变成燃料。操作难度 3——主动换血，闪现控节奏，打赢别人打不了的长局。<strong>赢在难看，赢在够久。</strong></p>\n</blockquote>\n<hr>\n<h2>血手扬是谁？《黄昏血族》角色解析</h2>\n<p><strong>血手扬（Bloodhand Jan）</strong> 是《黄昏血族》（The Duskbloods）中的可操作<strong>血誓者</strong>——FromSoftware 这款 8 人 PvPvE 动作 RPG 是 Nintendo Switch 2 独占。他的外号不是营销：血既是伤口也是武器。他要的是脏乱贴身的乱战——换血是计划，不是失误。</p>\n<p>他在本站<a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a>中是 <strong>A 档专精</strong>——网测版本里最强的长局角色。如果你更喜欢靠压制和续航取胜，而不是干净秒杀，血手扬就是你的选择。</p>\n<table>\n<thead>\n<tr>\n<th>事实</th>\n<th>详情</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>游戏</strong></td>\n<td>The Duskbloods（2026，Nintendo Switch 2 独占）</td>\n</tr>\n<tr>\n<td><strong>定位</strong></td>\n<td>狂战 / 续航</td>\n</tr>\n<tr>\n<td><strong>操作难度</strong></td>\n<td>★★★☆☆（3 / 5）</td>\n</tr>\n<tr>\n<td><strong>近战</strong></td>\n<td>嗜血战斧</td>\n</tr>\n<tr>\n<td><strong>远程</strong></td>\n<td>法术之石</td>\n</tr>\n<tr>\n<td><strong>血系技能</strong></td>\n<td>闪现 · 臣服吾血</td>\n</tr>\n<tr>\n<td><strong>专属能力</strong></td>\n<td>血手血脉 · 血之领主</td>\n</tr>\n<tr>\n<td><strong>网测强度</strong></td>\n<td><strong>A 档</strong></td>\n</tr>\n</tbody></table>\n<p>完整数值与背景见 <a href=\"/zh/characters/bloodhand-jan\">血手扬角色页</a>。本篇是<strong>怎么玩</strong>的实战攻略。</p>\n<hr>\n<h2>血手扬技能全解析</h2>\n<p>血手扬的技能组只围绕一件事：<strong>换血 → 回血 → 魅惑 → 施压</strong>。每个工具要么帮你贴住，要么奖励你贴住。</p>\n<h3>武器：嗜血战斧 &amp; 法术之石</h3>\n<table>\n<thead>\n<tr>\n<th>槽位</th>\n<th>武器</th>\n<th>作用</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>近战</strong></td>\n<td>嗜血战斧</td>\n<td>重击。主要输出，也是血主题的来源。</td>\n</tr>\n<tr>\n<td><strong>远程</strong></td>\n<td>法术之石</td>\n<td>不显眼的远程手段。对手想走时消耗与起手。</td>\n</tr>\n</tbody></table>\n<p>斧头是诚实的部分。石头是对方想离开时，你依然危险的方式。</p>\n<h3>血系技能：闪现 &amp; 臣服吾血</h3>\n<table>\n<thead>\n<tr>\n<th>血系技能</th>\n<th>输入思路</th>\n<th>最佳用法</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>闪现</strong></td>\n<td>以自身血液短时间提升闪避速度</td>\n<td><strong>节奏工具。</strong> 躲圣杯爆发，或对方耗尽体力后近身。增益会消失——动作要快。</td>\n</tr>\n<tr>\n<td><strong>臣服吾血</strong></td>\n<td>以血解斧之渴，插入地面，用血刃撕裂周围</td>\n<td><strong>区域控制。</strong> 插斧、铺地、看谁敢走进来。</td>\n</tr>\n</tbody></table>\n<p><strong>闪现</strong>是你的退出与再进。<strong>臣服吾血</strong>是你拥有的那块地。</p>\n<h3>专属能力：血手血脉 &amp; 血之领主</h3>\n<table>\n<thead>\n<tr>\n<th>专属能力</th>\n<th>效果</th>\n<th>为什么重要</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>血手血脉</strong></td>\n<td>受到伤害后反击可<strong>恢复 HP</strong></td>\n<td>续航引擎。只要你能打回去，换血就不是失误。</td>\n</tr>\n<tr>\n<td><strong>血之领主</strong></td>\n<td>与<strong>魅惑</strong>目标互动可回血并<strong>提升攻击</strong></td>\n<td>滚雪球。魅惑、饮血、施压——赢下交换后不要重置。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>血手血脉与血之领主：续航循环</h2>\n<p>血手扬不是爆发角色，是<strong>打磨机</strong>。循环就是整个角色。</p>\n<h3>反击回血（血手血脉）</h3>\n<ol>\n<li>当交换不亏时，<strong>主动吃刀</strong>。</li>\n<li><strong>立刻反击</strong>——这才会触发回血。</li>\n<li>别一被打就慌着回。能打回去，血就会回来。</li>\n</ol>\n<h3>魅惑滚雪球（血之领主）</h3>\n<ul>\n<li>魅惑目标变成燃料：<strong>饮血回血并提升攻击</strong>。</li>\n<li>成功饮血后，<strong>继续施压</strong>。别重置——攻击增益就是窗口。</li>\n<li>小怪和魅惑目标，是把中期乱战变成血手扬主场的方式。</li>\n</ul>\n<h3>经验法则</h3>\n<blockquote>\n<p>如果你能换血并且打回去，<strong>就贴住别走</strong>。只有当交换开始亏时，才用闪现拉开。</p>\n</blockquote>\n<hr>\n<h2>血手扬怎么玩：分阶段打法思路</h2>\n<p>《黄昏血族》跑的是四阶段 Dusk Battle。血手扬的职责随时钟变化。</p>\n<h3>第一阶段 —— 建立换血节奏</h3>\n<ul>\n<li>争夺仪式场，但别过度追击。血手扬要的是<strong>持续接触</strong>，不是集锦击杀。</li>\n<li>用法术之石消耗；对方已经在跟你换血时，再用斧头进场。</li>\n<li>第一批魅惑机会很重要——血之领主需要有东西可饮。</li>\n</ul>\n<h3>第二、三阶段 —— 磨过圣杯</h3>\n<ul>\n<li>圣杯会淘汰美德不足的血誓者。<strong>你仍然需要美德</strong>——续航挡不住圣杯。</li>\n<li>找已经受伤的人开打。血手血脉最喜欢长而脏的交换。</li>\n<li><strong>闪现</strong>留给圣杯爆发，或对方耗尽体力后近身。增益是暂时的。</li>\n</ul>\n<h3>第四阶段 —— 做最后还站着的问题</h3>\n<ul>\n<li>决赛圈是打磨机的舞台。强行拉长交换，别让他们重置。</li>\n<li><strong>臣服吾血</strong>在决赛圈拥有空间——对方想集火时插下去。</li>\n<li>魅惑目标 + 血之领主的压制，是把 1v1 打成胜利的方式。</li>\n</ul>\n<hr>\n<h2>血手扬实战技巧与连招</h2>\n<h3>1. 主动换血</h3>\n<p>别一被打就慌着回。受击后立刻反击触发血手血脉，贴住别走。</p>\n<h3>2. 先魅惑，再滚雪球</h3>\n<p>血之领主通过魅惑目标回血并提升攻击。成功饮血后继续施压，不要重置。</p>\n<h3>3. 闪现是节奏</h3>\n<p>用闪现躲圣杯爆发，或对方耗尽体力后近身——增益是暂时的，动作要快。</p>\n<h3>4. 斧头贴身，石头追击</h3>\n<p>对方在近身距离就用嗜血战斧。对方想走就用法术之石。别乱切。</p>\n<h3>5. 臣服吾血是区域，不是狙击</h3>\n<p>插斧控地板。别把它浪费成随机远程爆发。</p>\n<h3>6. 赢在难看</h3>\n<p>血手扬难度是 3，因为计划让人不舒服：挨刀、回血、硬磨。如果你要干净局，去玩阿尔伯特。</p>\n<hr>\n<h2>血手扬对阵其他血誓者</h2>\n<table>\n<thead>\n<tr>\n<th>对局</th>\n<th>结论</th>\n<th>原因</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>血手扬 vs 阿尔伯特</strong></td>\n<td>看操作</td>\n<td>两边都想打长局。更好的崩解和光束确认者赢。换血循环在线时血手扬占优。</td>\n</tr>\n<tr>\n<td><strong>血手扬 vs 佐克</strong></td>\n<td>看操作</td>\n<td>两边都想打长局。更好的续航 / 控制循环者赢。佐克的强压可能打断你的节奏。</td>\n</tr>\n<tr>\n<td><strong>血手扬 vs 狙击手蕾拉</strong></td>\n<td>贴身血手扬占优</td>\n<td>进近身距离并贴住。闪现拉近射线；别让她白嫖消耗。</td>\n</tr>\n<tr>\n<td><strong>血手扬 vs 陈兰</strong></td>\n<td>五五开</td>\n<td>陈兰要伏击。如果你看见了战斗，续航机通常能拖赢。</td>\n</tr>\n<tr>\n<td><strong>血手扬 vs 参议员萨米尔</strong></td>\n<td>萨米尔干净则占优</td>\n<td>萨米尔惩罚站位失误。强行制造接触，血手扬的脏交换仍可能赢。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>血手扬强不强？网络测试结论</h2>\n<p><strong>强——血手扬在 2026 年 8 月网络测试中是 A 档</strong>，三个原因：</p>\n<ol>\n<li><strong>续航。</strong> 血手血脉奖励一种多数角色抄不来的打法：主动换血。</li>\n<li><strong>长局上限。</strong> 如果对局变脏变慢，血手扬是最能站到最后的角色。</li>\n<li><strong>魅惑滚雪球。</strong> 血之领主把中期优势变成攻击和 HP。</li>\n</ol>\n<p>他是<strong>专精</strong>，不是默认推荐。难度 3，而且计划在奏效前一直让人不舒服。</p>\n<p><strong>注意</strong>：这是<strong>网络测试预览排名</strong>，并非正式版结论。发售日平衡仍待官宣。完整榜单见<a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a>。</p>\n<hr>\n<h2>常见问题</h2>\n<h3>血手扬在《黄昏血族》里是什么定位？</h3>\n<p><strong>血手扬是狂战 / 续航型。</strong> 他主动换血，用血手血脉反击回血，并通过魅惑目标用血之领主滚雪球。嗜血战斧和法术之石让他在每个距离都危险。</p>\n<h3>血手扬怎么玩？</h3>\n<p>主动换血并立刻反击触发血手血脉。把闪现当节奏工具——躲圣杯爆发或对方耗尽体力后近身。魅惑目标喂养血之领主，赢下交换后继续施压。</p>\n<h3>血手血脉和血之领主有什么用？</h3>\n<p><strong>血手血脉</strong>在你受击后反击时恢复 HP。<strong>血之领主</strong>通过魅惑目标回血并提升攻击。两者叠加：长而脏的战斗对血手扬有利。</p>\n<h3>血手扬用什么武器？</h3>\n<p>近战是<strong>嗜血战斧</strong>，远程是<strong>法术之石</strong>。血系技能是<strong>闪现</strong>和<strong>臣服吾血</strong>。</p>\n<h3>血手扬适合新手吗？</h3>\n<p><strong>不建议作第一选择。</strong> 难度 3 / 5，而且计划反直觉（主动挨刀）。先玩<a href=\"/zh/guides/duskbloods-albert-guide\">阿尔伯特</a>或佐克，等你理解换血和圣杯再回来。</p>\n<h3>血手扬 vs 阿尔伯特，选谁？</h3>\n<p>想用最稳的全能角色和干净中立，选<strong>阿尔伯特</strong>。想硬磨、换血、打赢又长又脏的局，选<strong>血手扬</strong>。</p>\n<hr>\n<h2>本篇是怎么写的</h2>\n<p><strong>方法说明。</strong> 武器、血系技能、专属能力的数据（含<strong>血手血脉</strong>的反击回血规则与<strong>血之领主</strong>的魅惑互动）来自 FromSoftware / Nintendo 官方网络测试玩法指南（见下方链接）。分阶段打法、对局克制与档位结论，是基于 <strong>2026 年 8 月 21–24 日封闭网络测试</strong> 的独立编辑分析，并非正式版最终结论。最近核对：<strong>2026 年 10 月 21 日</strong>。</p>\n<hr>\n<h2>资料来源</h2>\n<ul>\n<li>官方 — <a href=\"https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=the_americas&locate=US&lang=en\">网络测试玩法指南</a> — FromSoftware / Nintendo（角色技能、美德系统、对局阶段，2026 年 8 月）</li>\n<li><a href=\"https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn\">IGN — 宫崎英高访谈</a> — 监督关于 The Duskbloods 的说明</li>\n<li>本站数据：<a href=\"/zh/characters/bloodhand-jan\">血手扬角色页</a> · <a href=\"/zh/guides/duskbloods-tier-list\">血誓者强度榜</a> · <a href=\"/zh/gameplay\">玩法系统</a> · <a href=\"/zh/maps\">地图</a></li>\n<li>相关阅读：<a href=\"/zh/guides/duskbloods-zork-guide\">佐克攻略</a> · <a href=\"/zh/guides/duskbloods-albert-guide\">阿尔伯特攻略</a> · <a href=\"/zh/latest/duskbloods-pvpve-explained\">什么是 PvPvE</a></li>\n</ul>\n<p><em>图片：官方素材 © FromSoftware / Nintendo（官方网络测试媒体）。玩法分析为基于 2026 年 8 月封闭网络测试的独立玩家评论。</em></p>\n",
+      "wordCount": 2831,
+      "faq": [
+        {
+          "question": "血手扬在《黄昏血族》里是什么定位？",
+          "answer": "血手扬是狂战 / 续航型。 他主动换血，用血手血脉反击回血，并通过魅惑目标用血之领主滚雪球。嗜血战斧和法术之石让他在每个距离都危险。"
+        },
+        {
+          "question": "血手扬怎么玩？",
+          "answer": "主动换血并立刻反击触发血手血脉。把闪现当节奏工具——躲圣杯爆发或对方耗尽体力后近身。魅惑目标喂养血之领主，赢下交换后继续施压。"
+        },
+        {
+          "question": "血手血脉和血之领主有什么用？",
+          "answer": "血手血脉在你受击后反击时恢复 HP。血之领主通过魅惑目标回血并提升攻击。两者叠加：长而脏的战斗对血手扬有利。"
+        },
+        {
+          "question": "血手扬用什么武器？",
+          "answer": "近战是嗜血战斧，远程是法术之石。血系技能是闪现和臣服吾血。"
+        },
+        {
+          "question": "血手扬适合新手吗？",
+          "answer": "不建议作第一选择。 难度 3 / 5，而且计划反直觉（主动挨刀）。先玩[阿尔伯特](/zh/guides/duskbloods-albert-guide)或佐克，等你理解换血和圣杯再回来。"
+        },
+        {
+          "question": "血手扬 vs 阿尔伯特，选谁？",
+          "answer": "想用最稳的全能角色和干净中立，选阿尔伯特。想硬磨、换血、打赢又长又脏的局，选血手扬。\n\n---"
+        }
+      ],
+      "listItems": [],
+      "howTo": {
+        "name": "血手扬怎么玩：分阶段打法思路",
+        "steps": [
+          {
+            "name": "第一阶段 —— 建立换血节奏",
+            "text": "- 争夺仪式场，但别过度追击。血手扬要的是持续接触，不是集锦击杀。 - 用法术之石消耗；对方已经在跟你换血时，再用斧头进场。 - 第一批魅惑机会很重要——血之领主需要有东西可饮。"
+          },
+          {
+            "name": "第二、三阶段 —— 磨过圣杯",
+            "text": "- 圣杯会淘汰美德不足的血誓者。你仍然需要美德——续航挡不住圣杯。 - 找已经受伤的人开打。血手血脉最喜欢长而脏的交换。 - 闪现留给圣杯爆发，或对方耗尽体力后近身。增益是暂时的。"
+          },
+          {
+            "name": "第四阶段 —— 做最后还站着的问题",
+            "text": "- 决赛圈是打磨机的舞台。强行拉长交换，别让他们重置。 - 臣服吾血在决赛圈拥有空间——对方想集火时插下去。 - 魅惑目标 + 血之领主的压制，是把 1v1 打成胜利的方式。 ---"
+          }
+        ]
+      }
+    },
+    "zh-TW": {
+      "title": "血手揚攻略：《黃昏血族》續航狂戰型血誓者完全指南",
+      "date": "2026-10-21",
+      "modified": "2026-10-21",
+      "author": "Duskbloods Guide",
+      "summary": "《黃昏血族》血手揚完全攻略——血手血脈反擊回血與血之領主魅惑機制詳解、閃現與臣服吾血連招、分階段打法，以及為什麼這把嗜血戰斧是網測 A 檔的長局之王。",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Bloodhand Jan"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>一句話總結</strong>：<strong>血手揚（Bloodhand Jan）</strong> 是《黃昏血族》的續航狂戰。<strong>嗜血戰斧</strong>輸出扎實；<strong>血手血脈</strong>在你受擊後反擊時回血；<strong>血之領主</strong>把魅惑目標變成燃料。操作難度 3——主動換血，閃現控節奏，打贏別人打不了的長局。<strong>贏在難看，贏在夠久。</strong></p>\n</blockquote>\n<hr>\n<h2>血手揚是誰？《黃昏血族》角色解析</h2>\n<p><strong>血手揚（Bloodhand Jan）</strong> 是《黃昏血族》（The Duskbloods）中的可操作<strong>血誓者</strong>——FromSoftware 這款 8 人 PvPvE 動作 RPG 是 Nintendo Switch 2 獨佔。他的外號不是行銷：血既是傷口也是武器。他要的是髒亂貼身的亂戰——換血是計畫，不是失誤。</p>\n<p>他在本站<a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a>中是 <strong>A 檔專精</strong>——網測版本裡最強的長局角色。如果你更喜歡靠壓制和續航取勝，而不是乾淨秒殺，血手揚就是你的選擇。</p>\n<table>\n<thead>\n<tr>\n<th>事實</th>\n<th>詳情</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>遊戲</strong></td>\n<td>The Duskbloods（2026，Nintendo Switch 2 獨佔）</td>\n</tr>\n<tr>\n<td><strong>定位</strong></td>\n<td>狂戰 / 續航</td>\n</tr>\n<tr>\n<td><strong>操作難度</strong></td>\n<td>★★★☆☆（3 / 5）</td>\n</tr>\n<tr>\n<td><strong>近戰</strong></td>\n<td>嗜血戰斧</td>\n</tr>\n<tr>\n<td><strong>遠程</strong></td>\n<td>法術之石</td>\n</tr>\n<tr>\n<td><strong>血系技能</strong></td>\n<td>閃現 · 臣服吾血</td>\n</tr>\n<tr>\n<td><strong>專屬能力</strong></td>\n<td>血手血脈 · 血之領主</td>\n</tr>\n<tr>\n<td><strong>網測強度</strong></td>\n<td><strong>A 檔</strong></td>\n</tr>\n</tbody></table>\n<p>完整數值與背景見 <a href=\"/zh-TW/characters/bloodhand-jan\">血手揚角色頁</a>。本篇是<strong>怎麼玩</strong>的實戰攻略。</p>\n<hr>\n<h2>血手揚技能全解析</h2>\n<p>血手揚的技能組只圍繞一件事：<strong>換血 → 回血 → 魅惑 → 施壓</strong>。每個工具要么幫你貼住，要么獎勵你貼住。</p>\n<h3>武器：嗜血戰斧 &amp; 法術之石</h3>\n<table>\n<thead>\n<tr>\n<th>槽位</th>\n<th>武器</th>\n<th>作用</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>近戰</strong></td>\n<td>嗜血戰斧</td>\n<td>重擊。主要輸出，也是血主題的來源。</td>\n</tr>\n<tr>\n<td><strong>遠程</strong></td>\n<td>法術之石</td>\n<td>不顯眼的遠程手段。對手想走時消耗與起手。</td>\n</tr>\n</tbody></table>\n<p>斧頭是誠實的部分。石頭是對方想離開時，你依然危險的方式。</p>\n<h3>血系技能：閃現 &amp; 臣服吾血</h3>\n<table>\n<thead>\n<tr>\n<th>血系技能</th>\n<th>輸入思路</th>\n<th>最佳用法</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>閃現</strong></td>\n<td>以自身血液短時間提升閃避速度</td>\n<td><strong>節奏工具。</strong> 躲聖杯爆發，或對方耗盡體力後近身。增益會消失——動作要快。</td>\n</tr>\n<tr>\n<td><strong>臣服吾血</strong></td>\n<td>以血解斧之渴，插入地面，用血刃撕裂周圍</td>\n<td><strong>區域控制。</strong> 插斧、鋪地、看誰敢走進來。</td>\n</tr>\n</tbody></table>\n<p><strong>閃現</strong>是你的退出與再進。<strong>臣服吾血</strong>是你擁有的那塊地。</p>\n<h3>專屬能力：血手血脈 &amp; 血之領主</h3>\n<table>\n<thead>\n<tr>\n<th>專屬能力</th>\n<th>效果</th>\n<th>為什麼重要</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>血手血脈</strong></td>\n<td>受到傷害後反擊可<strong>恢復 HP</strong></td>\n<td>續航引擎。只要你能打回去，換血就不是失誤。</td>\n</tr>\n<tr>\n<td><strong>血之領主</strong></td>\n<td>與<strong>魅惑</strong>目標互動可回血並<strong>提升攻擊</strong></td>\n<td>滾雪球。魅惑、飲血、施壓——贏下交換後不要重置。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>血手血脈與血之領主：續航循環</h2>\n<p>血手揚不是爆發角色，是<strong>硬磨機</strong>。循環就是整個角色。</p>\n<h3>反擊回血（血手血脈）</h3>\n<ol>\n<li>當交換不虧時，<strong>主動吃刀</strong>。</li>\n<li><strong>立刻反擊</strong>——這才會觸發回血。</li>\n<li>別一被打就慌著回。能打回去，血就會回來。</li>\n</ol>\n<h3>魅惑滾雪球（血之領主）</h3>\n<ul>\n<li>魅惑目標變成燃料：<strong>飲血回血並提升攻擊</strong>。</li>\n<li>成功飲血後，<strong>繼續施壓</strong>。別重置——攻擊增益就是窗口。</li>\n<li>小怪和魅惑目標，是把中期亂戰變成血手揚主場的方式。</li>\n</ul>\n<h3>經驗法則</h3>\n<blockquote>\n<p>如果你能換血並且打回去，<strong>就貼住別走</strong>。只有當交換開始虧時，才用閃現拉開。</p>\n</blockquote>\n<hr>\n<h2>血手揚怎麼玩：分階段打法思路</h2>\n<p>《黃昏血族》跑的是四階段 Dusk Battle。血手揚的職責隨時鐘變化。</p>\n<h3>第一階段 —— 建立換血節奏</h3>\n<ul>\n<li>爭奪儀式場，但別過度追擊。血手揚要的是<strong>持續接觸</strong>，不是集錦擊殺。</li>\n<li>用法術之石消耗；對方已經在跟你換血時，再用斧頭進場。</li>\n<li>第一批魅惑機會很重要——血之領主需要有東西可飲。</li>\n</ul>\n<h3>第二、三階段 —— 磨過聖杯</h3>\n<ul>\n<li>聖杯會淘汰美德不足的血誓者。<strong>你仍然需要美德</strong>——續航擋不住聖杯。</li>\n<li>找已經受傷的人開打。血手血脈最喜歡長而髒的交換。</li>\n<li><strong>閃現</strong>留給聖杯爆發，或對方耗盡體力後近身。增益是暫時的。</li>\n</ul>\n<h3>第四階段 —— 做最後還站著的問題</h3>\n<ul>\n<li>決賽圈是硬磨機的舞台。強行拉長交換，別讓他們重置。</li>\n<li><strong>臣服吾血</strong>在決賽圈擁有空間——對方想集火時插下去。</li>\n<li>魅惑目標 + 血之領主的壓制，是把 1v1 打成勝利的方式。</li>\n</ul>\n<hr>\n<h2>血手揚實戰技巧與連招</h2>\n<h3>1. 主動換血</h3>\n<p>別一被打就慌著回。受擊後立刻反擊觸發血手血脈，貼住別走。</p>\n<h3>2. 先魅惑，再滾雪球</h3>\n<p>血之領主通過魅惑目標回血並提升攻擊。成功飲血後繼續施壓，不要重置。</p>\n<h3>3. 閃現是節奏</h3>\n<p>用閃現躲聖杯爆發，或對方耗盡體力後近身——增益是暫時的，動作要快。</p>\n<h3>4. 斧頭貼身，石頭追擊</h3>\n<p>對方在近身距離就用嗜血戰斧。對方想走就用法術之石。別亂切。</p>\n<h3>5. 臣服吾血是區域，不是狙擊</h3>\n<p>插斧控地板。別把它浪費成隨機遠程爆發。</p>\n<h3>6. 贏在難看</h3>\n<p>血手揚難度是 3，因為計畫讓人不舒服：挨刀、回血、硬磨。如果你要乾淨局，去玩阿爾伯特。</p>\n<hr>\n<h2>血手揚對陣其他血誓者</h2>\n<table>\n<thead>\n<tr>\n<th>對局</th>\n<th>結論</th>\n<th>原因</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>血手揚 vs 阿爾伯特</strong></td>\n<td>看操作</td>\n<td>兩邊都想打長局。更好的崩解和光束確認者贏。換血循環在線時血手揚佔優。</td>\n</tr>\n<tr>\n<td><strong>血手揚 vs 佐克</strong></td>\n<td>看操作</td>\n<td>兩邊都想打長局。更好的續航 / 控制循環者贏。佐克的強壓可能打斷你的節奏。</td>\n</tr>\n<tr>\n<td><strong>血手揚 vs 狙擊手蕾拉</strong></td>\n<td>貼身血手揚佔優</td>\n<td>進近身距離並貼住。閃現拉近射線；別讓她白嫖消耗。</td>\n</tr>\n<tr>\n<td><strong>血手揚 vs 陳蘭</strong></td>\n<td>五五開</td>\n<td>陳蘭要伏擊。如果你看見了戰鬥，續航機通常能拖贏。</td>\n</tr>\n<tr>\n<td><strong>血手揚 vs 參議員薩米爾</strong></td>\n<td>薩米爾乾淨則佔優</td>\n<td>薩米爾懲罰站位失誤。強行製造接觸，血手揚的髒交換仍可能贏。</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>血手揚強不強？網路測試結論</h2>\n<p><strong>強——血手揚在 2026 年 8 月網路測試中是 A 檔</strong>，三個原因：</p>\n<ol>\n<li><strong>續航。</strong> 血手血脈獎勵一種多數角色抄不來的打法：主動換血。</li>\n<li><strong>長局上限。</strong> 如果對局變髒變慢，血手揚是最能站到最後的角色。</li>\n<li><strong>魅惑滾雪球。</strong> 血之領主把中期優勢變成攻擊和 HP。</li>\n</ol>\n<p>他是<strong>專精</strong>，不是預設推薦。難度 3，而且計畫在奏效前一直讓人不舒服。</p>\n<p><strong>注意</strong>：這是<strong>網路測試預覽排名</strong>，並非正式版結論。發售日平衡仍待官宣。完整榜單見<a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a>。</p>\n<hr>\n<h2>常見問題</h2>\n<h3>血手揚在《黃昏血族》裡是什麼定位？</h3>\n<p><strong>血手揚是狂戰 / 續航型。</strong> 他主動換血，用血手血脈反擊回血，並通過魅惑目標用血之領主滾雪球。嗜血戰斧和法術之石讓他在每個距離都危險。</p>\n<h3>血手揚怎麼玩？</h3>\n<p>主動換血並立刻反擊觸發血手血脈。把閃現當節奏工具——躲聖杯爆發或對方耗盡體力後近身。魅惑目標餵養血之領主，贏下交換後繼續施壓。</p>\n<h3>血手血脈和血之領主有什麼用？</h3>\n<p><strong>血手血脈</strong>在你受擊後反擊時恢復 HP。<strong>血之領主</strong>通過魅惑目標回血並提升攻擊。兩者疊加：長而髒的戰鬥對血手揚有利。</p>\n<h3>血手揚用什麼武器？</h3>\n<p>近戰是<strong>嗜血戰斧</strong>，遠程是<strong>法術之石</strong>。血系技能是<strong>閃現</strong>和<strong>臣服吾血</strong>。</p>\n<h3>血手揚適合新手嗎？</h3>\n<p><strong>不建議作第一選擇。</strong> 難度 3 / 5，而且計畫反直覺（主動挨刀）。先玩<a href=\"/zh-TW/guides/duskbloods-albert-guide\">阿爾伯特</a>或佐克，等你理解換血和聖杯再回來。</p>\n<h3>血手揚 vs 阿爾伯特，選誰？</h3>\n<p>想用最穩的全能角色和乾淨中立，選<strong>阿爾伯特</strong>。想硬磨、換血、打贏又長又髒的局，選<strong>血手揚</strong>。</p>\n<hr>\n<h2>本篇是怎麼寫的</h2>\n<p><strong>方法說明。</strong> 武器、血系技能、專屬能力的資料（含<strong>血手血脈</strong>的反擊回血規則與<strong>血之領主</strong>的魅惑互動）來自 FromSoftware / Nintendo 官方網路測試玩法指南（見下方連結）。分階段打法、對局克制與檔位結論，是基於 <strong>2026 年 8 月 21–24 日封閉網路測試</strong> 的獨立編輯分析，並非正式版最終結論。最近核對：<strong>2026 年 10 月 21 日</strong>。</p>\n<hr>\n<h2>資料來源</h2>\n<ul>\n<li>官方 — <a href=\"https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=asia_pacific&locate=HK&lang=zh-hk\">網路測試玩法指南</a> — FromSoftware / Nintendo（角色技能、美德系統、對局階段，2026 年 8 月）</li>\n<li><a href=\"https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn\">IGN — 宮崎英高訪談</a> — 監督關於 The Duskbloods 的說明</li>\n<li>本站數據：<a href=\"/zh-TW/characters/bloodhand-jan\">血手揚角色頁</a> · <a href=\"/zh-TW/guides/duskbloods-tier-list\">血誓者強度榜</a> · <a href=\"/zh-TW/gameplay\">玩法系統</a> · <a href=\"/zh-TW/maps\">地圖</a></li>\n<li>相關閱讀：<a href=\"/zh-TW/guides/duskbloods-zork-guide\">佐克攻略</a> · <a href=\"/zh-TW/guides/duskbloods-albert-guide\">阿爾伯特攻略</a> · <a href=\"/zh-TW/latest/duskbloods-pvpve-explained\">什麼是 PvPvE</a></li>\n</ul>\n<p><em>圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。</em></p>\n",
+      "wordCount": 2831,
+      "faq": [
+        {
+          "question": "血手揚在《黃昏血族》裡是什麼定位？",
+          "answer": "血手揚是狂戰 / 續航型。 他主動換血，用血手血脈反擊回血，並通過魅惑目標用血之領主滾雪球。嗜血戰斧和法術之石讓他在每個距離都危險。"
+        },
+        {
+          "question": "血手揚怎麼玩？",
+          "answer": "主動換血並立刻反擊觸發血手血脈。把閃現當節奏工具——躲聖杯爆發或對方耗盡體力後近身。魅惑目標餵養血之領主，贏下交換後繼續施壓。"
+        },
+        {
+          "question": "血手血脈和血之領主有什麼用？",
+          "answer": "血手血脈在你受擊後反擊時恢復 HP。血之領主通過魅惑目標回血並提升攻擊。兩者疊加：長而髒的戰鬥對血手揚有利。"
+        },
+        {
+          "question": "血手揚用什麼武器？",
+          "answer": "近戰是嗜血戰斧，遠程是法術之石。血系技能是閃現和臣服吾血。"
+        },
+        {
+          "question": "血手揚適合新手嗎？",
+          "answer": "不建議作第一選擇。 難度 3 / 5，而且計畫反直覺（主動挨刀）。先玩[阿爾伯特](/zh-TW/guides/duskbloods-albert-guide)或佐克，等你理解換血和聖杯再回來。"
+        },
+        {
+          "question": "血手揚 vs 阿爾伯特，選誰？",
+          "answer": "想用最穩的全能角色和乾淨中立，選阿爾伯特。想硬磨、換血、打贏又長又髒的局，選血手揚。\n\n---"
+        }
+      ],
+      "listItems": [],
+      "howTo": {
+        "name": "血手揚怎麼玩：分階段打法思路",
+        "steps": [
+          {
+            "name": "第一階段 —— 建立換血節奏",
+            "text": "- 爭奪儀式場，但別過度追擊。血手揚要的是持續接觸，不是集錦擊殺。 - 用法術之石消耗；對方已經在跟你換血時，再用斧頭進場。 - 第一批魅惑機會很重要——血之領主需要有東西可飲。"
+          },
+          {
+            "name": "第二、三階段 —— 磨過聖杯",
+            "text": "- 聖杯會淘汰美德不足的血誓者。你仍然需要美德——續航擋不住聖杯。 - 找已經受傷的人開打。血手血脈最喜歡長而髒的交換。 - 閃現留給聖杯爆發，或對方耗盡體力後近身。增益是暫時的。"
+          },
+          {
+            "name": "第四階段 —— 做最後還站著的問題",
+            "text": "- 決賽圈是硬磨機的舞台。強行拉長交換，別讓他們重置。 - 臣服吾血在決賽圈擁有空間——對方想集火時插下去。 - 魅惑目標 + 血之領主的壓制，是把 1v1 打成勝利的方式。 ---"
+          }
+        ]
+      }
+    },
+    "ru": {
+      "title": "Гайд по Кроворукому Яну: сустейн-брусер The Duskbloods",
+      "date": "2026-10-21",
+      "modified": "2026-10-21",
+      "author": "Duskbloods Guide",
+      "summary": "Полный гайд по Кроворукому Яну в The Duskbloods — «Родословная кровавой руки» и «Владыка крови», комбо «Мигания» и «Кровавой сдачи», план по фазам и почему этот кровавый топор — A-тир долгих боёв сетевого теста.",
+      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+      "tags": [
+        "characters",
+        "builds",
+        "tips",
+        "guide",
+        "Bloodhand Jan"
+      ],
+      "section": "guides",
+      "content": "<blockquote>\n<p><strong>Коротко</strong>: <strong>Кроворукий Ян</strong> — сустейн-брусер The Duskbloods. <strong>Кровавый топор</strong> бьёт больно; <strong>«Родословная кровавой руки»</strong> лечит за ответ после урона; <strong>«Владыка крови»</strong> превращает околдованных в топливо. Сложность 3 — меняйтесь ХП намеренно, «Миганием» держите темп и выигрывайте те долгие и грязные бои, которые другим не по силам. <strong>Побеждайте некрасиво, побеждайте долго.</strong></p>\n</blockquote>\n<hr>\n<h2>Кто такой Кроворукий Ян в The Duskbloods?</h2>\n<p><strong>Кроворукий Ян</strong> — играбельный <strong>Кровоклятый</strong> в <em>The Duskbloods</em> — PvPvE-экшене FromSoftware на 8 игроков, эксклюзив Nintendo Switch 2. Его прозвище — не маркетинг: кровь одновременно рана и оружие. Ему нужны грязные ближние свалки, где обмен ХП — план, а не ошибка.</p>\n<p>Он занял <strong>A-тир</strong> в нашем <a href=\"/ru/guides/duskbloods-tier-list\">тир-листе Кровоклятых</a> — лучший персонаж для длинных боёв в сборке сетевого теста. Если вам нравится побеждать давлением и сустейном, а не чистыми оншотами — берите Яна.</p>\n<table>\n<thead>\n<tr>\n<th>Факт</th>\n<th>Детали</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Игра</strong></td>\n<td>The Duskbloods (2026, эксклюзив Nintendo Switch 2)</td>\n</tr>\n<tr>\n<td><strong>Роль</strong></td>\n<td>Брусер / сустейн-бой</td>\n</tr>\n<tr>\n<td><strong>Сложность</strong></td>\n<td>★★★☆☆ (3 / 5)</td>\n</tr>\n<tr>\n<td><strong>Ближний бой</strong></td>\n<td>Кровавый топор</td>\n</tr>\n<tr>\n<td><strong>Дальний бой</strong></td>\n<td>Камень чародейства</td>\n</tr>\n<tr>\n<td><strong>Кровавые искусства</strong></td>\n<td>Мигание · Кровавая сдача</td>\n</tr>\n<tr>\n<td><strong>Аспекты</strong></td>\n<td>Родословная кровавой руки · Владыка крови</td>\n</tr>\n<tr>\n<td><strong>Оценка теста</strong></td>\n<td><strong>A</strong></td>\n</tr>\n</tbody></table>\n<p>Полные статы и лор — на <a href=\"/ru/characters/bloodhand-jan\">странице Яна</a>. Этот гайд — практическое <strong>«как играть»</strong>.</p>\n<hr>\n<h2>Кит Кроворукого Яна разбор</h2>\n<p>Кит Яна вокруг одной идеи: <strong>обменяться, вылечиться, околдовать, давить</strong>. Каждый инструмент либо держит вас в кармане, либо награждает за это.</p>\n<h3>Оружие: Кровавый топор и Камень чародейства</h3>\n<table>\n<thead>\n<tr>\n<th>Слот</th>\n<th>Оружие</th>\n<th>Роль</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Ближний</strong></td>\n<td>Кровавый топор</td>\n<td>Тяжёлые удары. Основной урон и источник «кровавой» темы.</td>\n</tr>\n<tr>\n<td><strong>Дальний</strong></td>\n<td>Камень чародейства</td>\n<td>Незаметный дальний вариант. Покер и старт, когда противник уходит.</td>\n</tr>\n</tbody></table>\n<p>Топор — честная часть. Камень — как вы остаётесь опасными, когда вас хотят оставить.</p>\n<h3>Кровавые искусства: Мигание и Кровавая сдача</h3>\n<table>\n<thead>\n<tr>\n<th>Искусство</th>\n<th>Идея ввода</th>\n<th>Лучшее применение</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Мигание</strong></td>\n<td>Кровью усилить скорость уклонения на короткое время.</td>\n<td><strong>Темп.</strong> Уйти от всплеска отсечения или зайти после траты стамины. Бафф временный — действуйте быстро.</td>\n</tr>\n<tr>\n<td><strong>Кровавая сдача</strong></td>\n<td>Утолить жажду топора своей кровью, вонзить в землю и разорвать область кровавыми разрезами.</td>\n<td><strong>Контроль зоны.</strong> Воткнуть топор, залить пол, бросить вызов.</td>\n</tr>\n</tbody></table>\n<p><strong>Мигание</strong> — выход и повторный вход. <strong>Кровавая сдача</strong> — зона, которой владеете вы.</p>\n<h3>Аспекты: Родословная кровавой руки и Владыка крови</h3>\n<table>\n<thead>\n<tr>\n<th>Аспект</th>\n<th>Эффект</th>\n<th>Почему важно</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Родословная кровавой руки</strong></td>\n<td>Ответный удар после получения урона <strong>восстанавливает ОЗ</strong>.</td>\n<td>Двигатель сустейна. Если можете ударить в ответ — обмен не ошибка.</td>\n</tr>\n<tr>\n<td><strong>Владыка крови</strong></td>\n<td>Взаимодействие с <strong>околдованными</strong> лечит и <strong>повышает атаку</strong>.</td>\n<td>Снежный ком. Околдовать, выпить, давить — не сбрасывайте после выигранного обмена.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Родословная кровавой руки и Владыка крови: цикл сустейна</h2>\n<p>Ян не бёрст-персонаж. Он <strong>грайндер</strong>. Цикл — это весь персонаж.</p>\n<h3>Ответное лечение (Родословная кровавой руки)</h3>\n<ol>\n<li>Намеренно примите удар, если обмен равный или лучше.</li>\n<li><strong>Сразу ответьте</strong> — это и запускает лечение.</li>\n<li>Не паникуйте от каждого чипа. Если можете ударить — ОЗ вернётся.</li>\n</ol>\n<h3>Снежный ком околдования (Владыка крови)</h3>\n<ul>\n<li>Околдованные становятся топливом: <strong>лечение через кровопийство и буст атаки</strong>.</li>\n<li>После успешного «выпивания» <strong>продавливайте</strong>. Не сбрасывайте — бафф атаки это окно.</li>\n<li>Мобы и околдованные — как средний бой превращается в свалку в пользу Яна.</li>\n</ul>\n<h3>Правило большого пальца</h3>\n<blockquote>\n<p>Если можете обменяться и ударить в ответ — <strong>оставайтесь в кармане</strong>. «Мигание» — только когда обмен перестаёт работать.</p>\n</blockquote>\n<hr>\n<h2>Как играть Кроворуким Яном: план по фазам</h2>\n<p>The Duskbloods идёт в четыре фазы Dusk Battle. Задача Яна меняется со временем.</p>\n<h3>Фаза I — поставить паттерн обмена</h3>\n<ul>\n<li>Спорьте ритуальные площадки, но не гоняйтесь. Яну нужно <strong>длительное касание</strong>, не хайлайт-киллы.</li>\n<li>Камень чародейства для покера; топор — когда они уже лезут в обмен.</li>\n<li>Первые возможности околдовать важны — «Владыке крови» нужно что выпивать.</li>\n</ul>\n<h3>Фазы II–III — грайндить через отсечение</h3>\n<ul>\n<li>Грааль режет низкую добродетель. <strong>Добродетель всё ещё нужна</strong> — сустейн не останавливает Грааль.</li>\n<li>Берите тех, кто уже побит. «Родословная кровавой руки» любит длинные грязные обмены.</li>\n<li><strong>Мигание</strong> берегите на всплески отсечения или заход после траты стамины. Бафф временный.</li>\n</ul>\n<h3>Фаза IV — быть последней проблемой</h3>\n<ul>\n<li>Финальная тройка — сцена грайндера. Навязывайте долгие обмены, не давайте сбросить.</li>\n<li><strong>Кровавая сдача</strong> владеет пространством финала — ставьте, когда валятся.</li>\n<li>Околдованные + давление «Владыки крови» — как превратить 1v1 в победу.</li>\n</ul>\n<hr>\n<h2>Приёмы и комбо Кроворукого Яна</h2>\n<h3>1. Меняйтесь намеренно</h3>\n<p>Не паникуйте от каждого чипа. Отвечайте после ударов, чтобы запустить «Родословную кровавой руки» и остаться в кармане.</p>\n<h3>2. Околдовать, затем снежный ком</h3>\n<p>«Владыка крови» лечит через околдованных и поднимает атаку. После успешного «выпивания» продавливайте.</p>\n<h3>3. Мигание — это темп</h3>\n<p>Уходите от всплеска отсечения или заходите после траты стамины. Бафф временный.</p>\n<h3>4. Топор для касания, камень для погони</h3>\n<p>Кровавый топор, когда в кармане. Камень чародейства, когда уходят. Не переключайтесь наугад.</p>\n<h3>5. Кровавая сдача — зона, а не снайперка</h3>\n<p>Воткните топор и держите пол. Не тратьте как случайный дальний бёрст.</p>\n<h3>6. Побеждайте некрасиво</h3>\n<p>Сложность 3, потому что план неудобный: принять удары, вернуть ОЗ, грызть. Нужны чистые бои — играйте Альберта.</p>\n<hr>\n<h2>Кроворукий Ян против других Кровоклятых</h2>\n<table>\n<thead>\n<tr>\n<th>Матчап</th>\n<th>Вердикт</th>\n<th>Почему</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Ян vs Альберт</strong></td>\n<td>Игра навыка</td>\n<td>Оба хотят длинный бой. Лучше стаггеры и подтверждения лучом. Ян впереди, если цикл обмена жив.</td>\n</tr>\n<tr>\n<td><strong>Ян vs Зорк</strong></td>\n<td>Игра навыка</td>\n<td>Оба хотят длинный бой. Лучший цикл сустейна / контроля победит. Давление Зорка может сбить ритм.</td>\n</tr>\n<tr>\n<td><strong>Ян vs Снайпер Лейла</strong></td>\n<td>Ян впереди вблизи</td>\n<td>Заходите в карман и держитесь. Мигание закрывает линии огня.</td>\n</tr>\n<tr>\n<td><strong>Ян vs Чанг Лан</strong></td>\n<td>Равно</td>\n<td>Лану нужна засада. Если бой виден, грайндер обычно переживает.</td>\n</tr>\n<tr>\n<td><strong>Ян vs Сенатор Самир</strong></td>\n<td>Самир впереди, если чисто</td>\n<td>Самир наказывает позицию. Грязные обмены Яна всё ещё могут выиграть, если навязать контакт.</td>\n</tr>\n</tbody></table>\n<hr>\n<h2>Кроворукий Ян сильный? Вердикт по сетевому тесту</h2>\n<p><strong>Да — Ян A-тир августовского сетевого теста 2026</strong>, по трём причинам:</p>\n<ol>\n<li><strong>Сустейн.</strong> «Родословная кровавой руки» награждает стиль, который мало кто копирует: намеренный обмен.</li>\n<li><strong>Потолок в длинных боях.</strong> Если лобби становится грязным и медленным, Ян — лучший из оставшихся.</li>\n<li><strong>Снежный ком околдования.</strong> «Владыка крови» превращает преимущества в атаку и ОЗ.</li>\n</ol>\n<p>Он <strong>специалист</strong>, а не дефолт. Сложность 3 и план, который неудобен, пока не сработает.</p>\n<p><strong>Оговорка</strong>: это <strong>превью-рейтинг по сетевому тесту</strong>, не финальная версия. Баланс на релизе ещё не объявлен. Полный список — в <a href=\"/ru/guides/duskbloods-tier-list\">тир-листе</a>.</p>\n<hr>\n<h2>FAQ</h2>\n<h3>Какая роль у Кроворукого Яна?</h3>\n<p><strong>Брусер / сустейн-бой.</strong> Меняется ХП намеренно, лечится за ответ через «Родословную кровавой руки» и крутит снежный ком через околдованных с «Владыкой крови». Кровавый топор и Камень чародейства держат опасность на любой дистанции.</p>\n<h3>Как играть Яном?</h3>\n<p>Меняйтесь намеренно и сразу отвечайте, чтобы запустить «Родословную кровавой руки». «Мигание» — темп: уйти от всплеска отсечения или зайти после траты стамины. Околдовывайте цели для «Владыки крови» и продавливайте после «выпивания».</p>\n<h3>Что делают «Родословная кровавой руки» и «Владыка крови»?</h3>\n<p><strong>«Родословная кровавой руки»</strong> восстанавливает ОЗ за ответ после урона. <strong>«Владыка крови»</strong> лечит через околдованных и повышает атаку. Вместе длинные грязные бои становятся вашими.</p>\n<h3>Какое оружие у Яна?</h3>\n<p><strong>Кровавый топор</strong> в ближнем бою и <strong>Камень чародейства</strong> на дистанции. Кровавые искусства: <strong>Мигание</strong> и <strong>Кровавая сдача</strong>.</p>\n<h3>Ян подходит новичкам?</h3>\n<p><strong>Не как первый пик.</strong> Сложность 3 / 5 и контринтуитивный план (намеренно принимать удары). Начните с <a href=\"/ru/guides/duskbloods-albert-guide\">Альберта</a> или Зорка, потом возвращайтесь.</p>\n<h3>Ян или Альберт?</h3>\n<p><strong>Альберт</strong> — самый безопасный универсал и чистая нейтралка. <strong>Кроворукий Ян</strong> — если хотите грызть, меняться ХП и выигрывать долгие грязные бои.</p>\n<hr>\n<h2>Как написан этот гайд</h2>\n<p><strong>Методика.</strong> Данные по оружию, Кровавым искусствам и Аспектам (включая ответное лечение «Родословной кровавой руки» и связку «Владыки крови» с околдовыванием) взяты из официального руководства сетевого теста FromSoftware / Nintendo (ссылка ниже). План по фазам, разбор матчапов и тир — независимый редакционный анализ меты <strong>закрытого сетевого теста 21–24 августа 2026</strong>, а не финальной версии. Последняя проверка: <strong>21 октября 2026</strong>.</p>\n<hr>\n<h2>Источники</h2>\n<ul>\n<li>Официально — <a href=\"https://campaign.theduskbloods.jp/p/event/networktest/gameplayguide/?region=the_americas&locate=US&lang=en\">Gameplay Guide сетевого теста</a> — FromSoftware / Nintendo (киты персонажей, система добродетели, фазы матча, август 2026)</li>\n<li><a href=\"https://sea.ign.com/the-duskbloods/247221/hidetaka-miyazaki-interview-fromsoftwares-boss-on-the-duskbloods-ttrpg-influences-the-nintendo-partn\">IGN — интервью с Хидэтаки Миядзаки</a> — комментарии режиссёра о The Duskbloods</li>\n<li>Данные сайта: <a href=\"/ru/characters/bloodhand-jan\">страница Яна</a> · <a href=\"/ru/guides/duskbloods-tier-list\">тир-лист</a> · <a href=\"/ru/gameplay\">геймплей</a> · <a href=\"/ru/maps\">карты</a></li>\n<li>Читайте дальше: <a href=\"/ru/guides/duskbloods-zork-guide\">Гайд по Зорку</a> · <a href=\"/ru/guides/duskbloods-albert-guide\">Гайд по Альберту</a> · <a href=\"/ru/latest/duskbloods-pvpve-explained\">Что такое PvPvE?</a></li>\n</ul>\n<p><em>Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевого тесту августа 2026 года.</em></p>\n",
+      "wordCount": 1398,
+      "faq": [
+        {
+          "question": "Какая роль у Кроворукого Яна?",
+          "answer": "Брусер / сустейн-бой. Меняется ХП намеренно, лечится за ответ через «Родословную кровавой руки» и крутит снежный ком через околдованных с «Владыкой крови». Кровавый топор и Камень чародейства держат опасность на любой дистанции."
+        },
+        {
+          "question": "Как играть Яном?",
+          "answer": "Меняйтесь намеренно и сразу отвечайте, чтобы запустить «Родословную кровавой руки». «Мигание» — темп: уйти от всплеска отсечения или зайти после траты стамины. Околдовывайте цели для «Владыки крови» и продавливайте после «выпивания»."
+        },
+        {
+          "question": "Что делают «Родословная кровавой руки» и «Владыка крови»?",
+          "answer": "«Родословная кровавой руки» восстанавливает ОЗ за ответ после урона. «Владыка крови» лечит через околдованных и повышает атаку. Вместе длинные грязные бои становятся вашими."
+        },
+        {
+          "question": "Какое оружие у Яна?",
+          "answer": "Кровавый топор в ближнем бою и Камень чародейства на дистанции. Кровавые искусства: Мигание и Кровавая сдача."
+        },
+        {
+          "question": "Ян подходит новичкам?",
+          "answer": "Не как первый пик. Сложность 3 / 5 и контринтуитивный план (намеренно принимать удары). Начните с [Альберта](/ru/guides/duskbloods-albert-guide) или Зорка, потом возвращайтесь."
+        },
+        {
+          "question": "Ян или Альберт?",
+          "answer": "Альберт — самый безопасный универсал и чистая нейтралка. Кроворукий Ян — если хотите грызть, меняться ХП и выигрывать долгие грязные бои.\n\n---"
+        }
+      ],
+      "listItems": [],
+      "howTo": {
+        "name": "Как играть Кроворуким Яном: план по фазам",
+        "steps": [
+          {
+            "name": "Фаза I — поставить паттерн обмена",
+            "text": "- Спорьте ритуальные площадки, но не гоняйтесь. Яну нужно длительное касание, не хайлайт-киллы. - Камень чародейства для покера; топор — когда они уже лезут в обмен. - Первые возможности околдовать важны — «Владыке крови» нужно что выпивать."
+          },
+          {
+            "name": "Фазы II–III — грайндить через отсечение",
+            "text": "- Грааль режет низкую добродетель. Добродетель всё ещё нужна — сустейн не останавливает Грааль. - Берите тех, кто уже побит. «Родословная кровавой руки» любит длинные грязные обмены. - Мигание берегите на всплески отсечения или заход после траты стамины. Бафф временный."
+          },
+          {
+            "name": "Фаза IV — быть последней проблемой",
+            "text": "- Финальная тройка — сцена грайндера. Навязывайте долгие обмены, не давайте сбросить. - Кровавая сдача владеет пространством финала — ставьте, когда валятся. - Околдованные + давление «Владыки крови» — как превратить 1v1 в победу. ---"
+          }
+        ]
+      }
+    }
+  },
   "duskbloods-network-test-review": {
     "en": {
       "title": "The Duskbloods Network Test Results: Servers Crashed, PvP Lag, and What We Learned",
