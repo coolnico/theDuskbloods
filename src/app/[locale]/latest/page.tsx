@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
 import { requireValidLocale } from '@/lib/require-locale';
-import { getAllArticleMetas } from '@/lib/news';
+import { getArticleMetasBySection } from '@/lib/news';
 import { LOCALES } from '@/lib/seo';
 import NewsList from '@/components/NewsList';
 
@@ -27,7 +27,7 @@ export default async function NewsPage({ params }: { params: Promise<{ locale: s
   requireValidLocale(locale);
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'news' });
-  const articles = getAllArticleMetas(locale);
+  const articles = getArticleMetasBySection(locale, 'news');
   const breadcrumbLd = makeBreadcrumbLd(locale, [
     { name: 'Home', href: '/' },
     { name: t('title') },

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
 import { makePageMetadata, makeBreadcrumbLd } from '@/lib/page-helpers';
-import { getAllArticleMetas } from '@/lib/news';
+import { getArticleMetasBySection } from '@/lib/news';
 import NewsList from '@/components/NewsList';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.news', path: '/latest' });
@@ -12,7 +12,7 @@ export function generateMetadata(): Promise<Metadata> {
 
 export default function NewsPage() {
   setRequestLocale('en');
-  const articles = getAllArticleMetas('en');
+  const articles = getArticleMetasBySection('en', 'news');
   const breadcrumbLd = makeBreadcrumbLd('en', [
     { name: 'Home', href: '/' },
     { name: 'Latest' },
