@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 | 事实 | 详情 |
 |------|------|
+
+![血手扬 — 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+
 | **游戏** | The Duskbloods（2026，Nintendo Switch 2 独占） |
 | **定位** | 狂战 / 续航 |
 | **操作难度** | ★★★☆☆（3 / 5） |

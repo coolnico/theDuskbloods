@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 | Факт | Детали |
 |------|--------|
+
+![Зорк — портрет Кровоклятого](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
+
 | **Игра** | The Duskbloods (2026, эксклюзив Nintendo Switch 2) |
 | **Роль** | Агрессивный танк / дизраптор |
 | **Сложность** | ★★☆☆☆ (2 / 5) |

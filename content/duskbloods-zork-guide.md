@@ -20,6 +20,9 @@ He became the **meme favorite of the August 2026 network test** and finished as 
 
 | Fact | Detail |
 |------|--------|
+
+![Zork — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
+
 | **Game** | The Duskbloods (2026, Nintendo Switch 2 exclusive) |
 | **Role** | Aggressive tank / disruptor |
 | **Difficulty** | ★★☆☆☆ (2 / 5) |

@@ -20,6 +20,9 @@ He finished as an **A-tier specialist** in our [Bloodsworn tier list](/guides/du
 
 | Fact | Detail |
 |------|--------|
+
+![Bloodhand Jan — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+
 | **Game** | The Duskbloods (2026, Nintendo Switch 2 exclusive) |
 | **Role** | Bruiser / sustain fighter |
 | **Difficulty** | ★★★☆☆ (3 / 5) |

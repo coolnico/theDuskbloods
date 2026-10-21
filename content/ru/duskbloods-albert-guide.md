@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 | Факт | Детали |
 |------|--------|
+
+![Альберт — портрет Кровоклятого](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+
 | **Игра** | The Duskbloods (2026, эксклюзив Nintendo Switch 2) |
 | **Роль** | Сбалансированный дуэлянт |
 | **Сложность** | ★★☆☆☆ (2 / 5) |

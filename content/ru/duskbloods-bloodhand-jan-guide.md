@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 | Факт | Детали |
 |------|--------|
+
+![Кроворукий Ян — портрет Кровоклятого](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+
 | **Игра** | The Duskbloods (2026, эксклюзив Nintendo Switch 2) |
 | **Роль** | Брусер / сустейн-бой |
 | **Сложность** | ★★★☆☆ (3 / 5) |

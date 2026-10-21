@@ -20,6 +20,9 @@ He finished as an **S-tier pick** in our [Bloodsworn tier list](/guides/duskbloo
 
 | Fact | Detail |
 |------|--------|
+
+![Albert — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+
 | **Game** | The Duskbloods (2026, Nintendo Switch 2 exclusive) |
 | **Role** | Balanced duelist |
 | **Difficulty** | ★★☆☆☆ (2 / 5) |

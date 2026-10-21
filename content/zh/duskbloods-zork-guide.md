@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 
 | 事实 | 详情 |
 |------|------|
+
+![佐克 — 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
+
 | **游戏** | The Duskbloods（2026，Nintendo Switch 2 独占） |
 | **定位** | 进攻型坦克 / 扰乱 |
 | **操作难度** | ★★☆☆☆（2 / 5） |

@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 | 項目 | 内容 |
 |------|------|
+
+![アルバート — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+
 | **ゲーム** | The Duskbloods（2026、Nintendo Switch 2 独占） |
 | **役割** | バランス型デュエリスト |
 | **難易度** | ★★☆☆☆（2／5） |

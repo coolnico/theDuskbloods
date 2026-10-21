@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 | 事实 | 详情 |
 |------|------|
+
+![阿尔伯特 — 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+
 | **游戏** | The Duskbloods（2026，Nintendo Switch 2 独占） |
 | **定位** | 均衡决斗 |
 | **操作难度** | ★★☆☆☆（2 / 5） |

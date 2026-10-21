@@ -20,6 +20,9 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 | 項目 | 内容 |
 |------|------|
+
+![ブラッドハンド・ジャン — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+
 | **ゲーム** | The Duskbloods（2026、Nintendo Switch 2 独占） |
 | **役割** | ブルーザー / 持続 |
 | **難易度** | ★★★☆☆（3 / 5） |
