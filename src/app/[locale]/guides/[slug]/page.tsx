@@ -197,7 +197,7 @@ export default async function GuidesSlugPage({
             )}
           </header>
           <div className="prose-article mt-8" itemProp="articleBody" dangerouslySetInnerHTML={{ __html: article.content }} />
-          <RelatedHubs tags={article.tags} slug={slug} />
+          <RelatedHubs tags={article.tags} slug={slug} locale={locale} />
         </article>
       </main>
     </>

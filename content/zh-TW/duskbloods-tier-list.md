@@ -138,3 +138,5 @@ tags: ["tier-list", "characters"]
 - 站內資料：[人物圖鑑](/zh-TW/characters) · [玩法系統](/zh-TW/gameplay) · [地圖](/zh-TW/maps)
 
 <p><em>相關閱讀：<a href="/zh-TW/latest/duskbloods-pvpve-explained">什麼是 The Duskbloods PvPvE？</a> · <a href="/zh-TW/latest/duskbloods-beginner-matchmaking">新手配對機制解析</a></em></p>
+
+*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide)*

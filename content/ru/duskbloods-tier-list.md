@@ -138,3 +138,5 @@ tags: ["tier-list", "characters"]
 - Данные сайта: [Герои](/ru/characters) · [Геймплей](/ru/gameplay) · [Карты](/ru/maps)
 
 <p><em>По теме: <a href="/ru/latest/duskbloods-pvpve-explained">Что такое PvPvE в The Duskbloods?</a> · <a href="/ru/latest/duskbloods-beginner-matchmaking">Матчмейкинг для новичков</a></em></p>
+
+*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*

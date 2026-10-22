@@ -193,4 +193,7 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 - 本站數據：[阿爾伯特角色頁](/zh-TW/characters/albert) · [血誓者強度榜](/zh-TW/guides/duskbloods-tier-list) · [玩法系統](/zh-TW/gameplay) · [地圖](/zh-TW/maps)
 - 相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [什麼是 PvPvE](/zh-TW/latest/duskbloods-pvpve-explained) · [新手配對說明](/zh-TW/latest/duskbloods-beginner-matchmaking)
 
+
+*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide)*
+
 *圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

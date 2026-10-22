@@ -199,5 +199,8 @@ The Duskbloods идёт четырёхфазным Dusk Battle. Задача З�
 - Данные сайта: [страница Зорка](/ru/characters/zork) · [тир-лист](/ru/guides/duskbloods-tier-list) · [геймплей](/ru/gameplay) · [карты](/ru/maps)
 - Читайте дальше: [Что такое PvPvE?](/ru/latest/duskbloods-pvpve-explained) · [Матчмейкинг для новичков](/ru/latest/duskbloods-beginner-matchmaking)
 
+
+*Читайте дальше: [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
+
 *Изображения: официальные материалы © FromSoftware / Nintendo. Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*
 

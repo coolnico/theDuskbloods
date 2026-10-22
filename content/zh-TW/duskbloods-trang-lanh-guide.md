@@ -190,4 +190,7 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 - 本站數據：[陳蘭角色頁](/zh-TW/characters/trang-lanh) · [血誓者強度榜](/zh-TW/guides/duskbloods-tier-list) · [玩法系統](/zh-TW/gameplay) · [地圖](/zh-TW/maps)
 - 相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide)
 
+
+*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide)*
+
 *圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

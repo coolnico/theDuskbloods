@@ -190,4 +190,7 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ча�
 - Данные сайта: [страница Чанг Лан](/ru/characters/trang-lanh) · [тир-лист](/ru/guides/duskbloods-tier-list) · [геймплей](/ru/gameplay) · [карты](/ru/maps)
 - Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide)
 
+
+*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
+
 *Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

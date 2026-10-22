@@ -193,4 +193,7 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ян�
 - Данные сайта: [страница Яна](/ru/characters/bloodhand-jan) · [тир-лист](/ru/guides/duskbloods-tier-list) · [геймплей](/ru/gameplay) · [карты](/ru/maps)
 - Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Что такое PvPvE?](/ru/latest/duskbloods-pvpve-explained)
 
+
+*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
+
 *Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевого тесту августа 2026 года.*

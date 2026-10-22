@@ -193,4 +193,7 @@ Pick **Albert** if you want the safest all-rounder and clean neutral. Pick **Blo
 - Site data: [Bloodhand Jan character page](/characters/bloodhand-jan) · [Bloodsworn tier list](/guides/duskbloods-tier-list) · [Gameplay systems](/gameplay) · [Maps](/maps)
 - Related: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [What Is The Duskbloods PvPvE?](/latest/duskbloods-pvpve-explained)
 
+
+*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide)*
+
 *Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

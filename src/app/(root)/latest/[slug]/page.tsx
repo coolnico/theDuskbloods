@@ -139,7 +139,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             )}
           </header>
           <div className="prose-article mt-8" itemProp="articleBody" dangerouslySetInnerHTML={{ __html: article.content }} />
-          <RelatedHubs tags={article.tags} slug={slug} />
+          <RelatedHubs tags={article.tags} slug={slug} locale="en" />
         </article>
       </main>
     </>

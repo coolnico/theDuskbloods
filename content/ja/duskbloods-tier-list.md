@@ -138,3 +138,5 @@ tags: ["tier-list", "characters"]
 - サイト内データ：[キャラクター](/ja/characters) · [ゲームプレイ](/ja/gameplay) · [マップ](/ja/maps)
 
 <p><em>関連：<a href="/ja/latest/duskbloods-pvpve-explained">The Duskbloods の PvPvE とは？</a> · <a href="/ja/latest/duskbloods-beginner-matchmaking">初心者マッチメイキング解説</a></em></p>
+
+*関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide)*

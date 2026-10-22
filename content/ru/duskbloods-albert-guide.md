@@ -193,4 +193,7 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ал�
 - Данные сайта: [страница Альберта](/ru/characters/albert) · [тир-лист](/ru/guides/duskbloods-tier-list) · [геймплей](/ru/gameplay) · [карты](/ru/maps)
 - Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Что такое PvPvE?](/ru/latest/duskbloods-pvpve-explained) · [Матчмейкинг для новичков](/ru/latest/duskbloods-beginner-matchmaking)
 
+
+*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
+
 *Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

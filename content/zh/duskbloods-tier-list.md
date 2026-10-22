@@ -155,3 +155,5 @@ tags: ["tier-list", "characters"]
 ---
 
 *配图来源：FromSoftware / Nintendo 官方素材。排名与评论为粉丝独立分析。*
+
+*相关阅读：[佐克攻略](/zh/guides/duskbloods-zork-guide) · [阿尔伯特攻略](/zh/guides/duskbloods-albert-guide) · [血手扬攻略](/zh/guides/duskbloods-bloodhand-jan-guide) · [陈兰攻略](/zh/guides/duskbloods-trang-lanh-guide) · [狙击手 Layla 攻略](/zh/guides/duskbloods-sniper-layla-guide)*

@@ -190,4 +190,7 @@ Pick **Trang** if you want to choose when fights start and win through ambush. P
 - Site data: [Trang Lanh character page](/characters/trang-lanh) · [Bloodsworn tier list](/guides/duskbloods-tier-list) · [Gameplay systems](/gameplay) · [Maps](/maps)
 - Related: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide)
 
+
+*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide)*
+
 *Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

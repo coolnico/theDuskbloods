@@ -199,5 +199,8 @@ The Duskbloods は 4 フェーズの Dusk Battle。ゾークの役割は時間�
 - サイト内データ：[ゾークのキャラクター頁](/ja/characters/zork) · [ティアリスト](/ja/guides/duskbloods-tier-list) · [ゲームプレイ](/ja/gameplay) · [マップ](/ja/maps)
 - 関連記事：[The Duskbloods の PvPvE とは？](/ja/latest/duskbloods-pvpve-explained) · [初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)
 
+
+*関連記事：[アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide)*
+
 *画像クレジット：公式素材 © FromSoftware / Nintendo。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立したファンコメントです。*
 
