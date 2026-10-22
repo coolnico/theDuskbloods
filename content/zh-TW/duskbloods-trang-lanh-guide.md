@@ -1,8 +1,8 @@
 ﻿---
 title: "陳蘭攻略：《黃昏血族》伏擊控場型血誓者完全指南"
 section: guides
-date: "2026-10-21"
-modified: "2026-10-21"
+date: "2026-10-22"
+modified: "2026-10-22"
 summary: "《黃昏血族》陳蘭完全攻略——暗月隱匿與暗月之女機制詳解、銀蛇瑪瑪娜塔召塔召喚、誘人新娘飲血魅惑、分階段打法，以及如何駕馭這個高難度高回報的伏擊控場角色。"
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
@@ -179,7 +179,7 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 
 ## 本篇是怎麼寫的
 
-**方法說明。** 武器、血系技能、專屬能力的資料（含**暗月**的隱匿窗口與**誘人新娘**的飲血魅惑）來自 FromSoftware / Nintendo 官方網路測試玩法指南（見下方連結）。分階段打法、對局克制與檔位結論，是基於 **2026 年 8 月 21–24 日封閉網路測試** 的獨立編輯分析，並非正式版最終結論。最近核對：**2026 年 10 月 21 日**。
+**方法說明。** 武器、血系技能、專屬能力的資料（含**暗月**的隱匿窗口與**誘人新娘**的飲血魅惑）來自 FromSoftware / Nintendo 官方網路測試玩法指南（見下方連結）。分階段打法、對局克制與檔位結論，是基於 **2026 年 8 月 21–24 日封閉網路測試** 的獨立編輯分析，並非正式版最終結論。最近核對：**2026 年 10 月 22 日**。
 
 ---
 

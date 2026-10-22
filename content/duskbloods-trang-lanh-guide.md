@@ -1,8 +1,8 @@
 ﻿---
 title: "Trang Lanh Guide: How to Play The Duskbloods' Ambush Controller"
 section: guides
-date: "2026-10-21"
-modified: "2026-10-21"
+date: "2026-10-22"
+modified: "2026-10-22"
 summary: "Complete Trang Lanh guide for The Duskbloods — Darkmoon stealth and Daughter of the Darkmoon explained, Mama Nātha serpent summons, Alluring Bride blood-drink control, phase-by-phase game plan, and how to pilot this high-skill ambush Bloodsworn in the network test meta."
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
@@ -179,7 +179,7 @@ Pick **Trang** if you want to choose when fights start and win through ambush. P
 
 ## How We Wrote This Guide
 
-**Methodology.** Weapon, Blood Art, and Aspect data — including Darkmoon's concealment window and Alluring Bride's blood-drink spellbind — come from FromSoftware / Nintendo's official network test gameplay guide (linked below). Phase plans, matchup notes, and the tier call are independent editorial analysis of the **August 21–24, 2026 closed network test** meta, not the final retail build. Last reviewed **October 21, 2026**.
+**Methodology.** Weapon, Blood Art, and Aspect data — including Darkmoon's concealment window and Alluring Bride's blood-drink spellbind — come from FromSoftware / Nintendo's official network test gameplay guide (linked below). Phase plans, matchup notes, and the tier call are independent editorial analysis of the **August 21–24, 2026 closed network test** meta, not the final retail build. Last reviewed **October 22, 2026**.
 
 ---
 

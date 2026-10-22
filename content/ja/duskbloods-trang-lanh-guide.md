@@ -1,8 +1,8 @@
 ﻿---
 title: "トラン・ラン攻略：The Duskbloods 伏撃・制圧型ブラッドスウォーン完全ガイド"
 section: guides
-date: "2026-10-21"
-modified: "2026-10-21"
+date: "2026-10-22"
+modified: "2026-10-22"
 summary: "The Duskbloods トラン・ラン完全攻略——ダークムーン隠密と暗月の娘、マーマ・ナータの銀蛇召喚、魅惑の花嫁の血飲み制圧、フェーズ別プラン、そして難易度 4 の伏撃型をどう乗りこなすか。"
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
@@ -179,7 +179,7 @@ The Duskbloods は 4 フェーズの Dusk Battle。トランの役割は時間�
 
 ## 本ガイドの作成方法
 
-**方法論。** 武器・ブラッドアーツ・アスペクトのデータ（**ダークムーン** の隠密時間と **魅惑の花嫁** の血飲み魅了を含む）は、FromSoftware / Nintendo 公式のネットワークテスト・ゲームプレイガイド（下記リンク）に基づく。フェーズ別プラン、対面相性、ティア判定は **2026年8月21〜24日のクローズド・ネットワークテスト** における独立編集分析であり、製品版の最終結論ではない。最終確認：**2026年10月21日**。
+**方法論。** 武器・ブラッドアーツ・アスペクトのデータ（**ダークムーン** の隠密時間と **魅惑の花嫁** の血飲み魅了を含む）は、FromSoftware / Nintendo 公式のネットワークテスト・ゲームプレイガイド（下記リンク）に基づく。フェーズ別プラン、対面相性、ティア判定は **2026年8月21〜24日のクローズド・ネットワークテスト** における独立編集分析であり、製品版の最終結論ではない。最終確認：**2026年10月22日**。
 
 ---
 
