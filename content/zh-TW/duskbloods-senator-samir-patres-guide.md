@@ -1,14 +1,14 @@
 ﻿---
-title: "長老 Samir Patres（Senator Samir Patres）攻略：《黃昏血族》反核心決鬥完全指南"
+title: "長老 Samir Patres（Senator Samir Patres）攻略：《黃昏血族》反 carry 決鬥完全指南"
 section: guides
 date: "2026-10-23"
 modified: "2026-10-23"
-summary: "《黃昏血族》長老 Samir Patres（Senator Samir Patres）完全攻略——不動劍術完美格擋、血之門徒技能經濟、血樁沼澤與蜥形衝鋒、分階段打法，以及如何駕馭這個 B 檔高難度反核心角色。"
+summary: "《黃昏血族》長老 Samir Patres（Senator Samir Patres）完全攻略——不動劍術完美格擋、血之門徒技能經濟、血樁沼澤與蜥形衝鋒、分階段打法，以及如何駕馭這個 B 檔高難度反 carry角色。"
 image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg"
 tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 ---
 
-> **一句話總結**：**長老 Samir Patres（Senator Samir Patres）** 是《黃昏血族》的技巧型反核心。**不動劍術**把完美格擋變成近戰傷害。**血之門徒**讓技能比對手預期更早成形。**血樁**鎖住空間；**蜥形**是他們以為你還要擊劍時的恐龍衝鋒。操作難度 4——先發育碾過去，再碾過他們。
+> **一句話總結**：**長老 Samir Patres（Senator Samir Patres）** 是《黃昏血族》的技巧型反 carry。**不動劍術**把完美格擋變成近戰傷害。**血之門徒**讓技能比對手預期更早成形。**血樁**鎖住空間；**蜥形**是他們以為你還要擊劍時的恐龍衝鋒。操作難度 4——先發育碾過去，再碾過他們。
 
 ---
 
@@ -16,7 +16,7 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 **長老 Samir Patres（Senator Samir Patres）** 是《黃昏血族》（The Duskbloods）中的可操作**血誓者**——FromSoftware 這款 8 人 PvPvE 動作 RPG 是 Nintendo Switch 2 獨佔。元老院刺劍、血沼與恐龍衝鋒：一名獎勵乾淨防禦、懲罰自以為已經贏了的人的技術型戰士。
 
-他在本站[血誓者強度榜](/zh-TW/guides/duskbloods-tier-list)中是 **B 檔技巧 / 反核心**——高上限高下限。當你想**先發育碾壓全場**，再**碾過領先者**時選他。
+他在本站[血誓者強度榜](/zh-TW/guides/duskbloods-tier-list)中是 **B 檔技巧 / 反 carry**——高上限高下限。當你想**先發育碾壓全場**，再**碾過領先者**時選他。
 
 > 譯名說明：官方中文資料寫作「長老 Samir Patres」，姓名保留英文。本文沿用該寫法，英文全名 **Senator Samir Patres** 一併標註。
 
@@ -57,7 +57,7 @@ Samir 的技能組只圍繞一件事：**乾淨防守、提前成型，然後掀
 
 ---
 
-## 不動劍術與血之門徒：反核心循環
+## 不動劍術與血之門徒：剋領先循環
 
 Samir 不是狂戰。他是**你看見的數值檢查**。
 
@@ -92,7 +92,7 @@ Samir 不是狂戰。他是**你看見的數值檢查**。
 ### 第二、三階段 —— 懲罰領先者
 
 - 聖杯淘汰美德不足的血誓者。**跟上節奏**——你的構築更快。
-- 找高美德領先者。你是反核心：完美格擋，然後拆掉他們。
+- 找高美德領先者。你是剋領先位：完美格擋，然後拆掉他們。
 - 對方想集火或轉出決鬥時下**血樁**。
 
 ### 第四階段 —— 碾過去
@@ -147,7 +147,7 @@ Samir 難度 4，因為計畫是技術向的。如果你沒有格擋價值還在
 
 **Samir 是 2026 年 8 月網路測試裡 B 檔的高上限角色**：
 
-1. **反核心。** 他生來就是為了拆掉正在贏的人。
+1. **剋領先。** 他生來就是為了拆掉正在贏的人。
 2. **成型速度。** 血之門徒是安靜的經濟優勢，整場都在滾。
 3. **可懲罰的下限。** 難度 4。格擋窗口失誤、浪費衝鋒、沒有格擋價值還硬換——你就輸了。
 
@@ -160,7 +160,7 @@ Samir 難度 4，因為計畫是技術向的。如果你沒有格擋價值還在
 ## 常見問題
 
 ### 長老 Samir Patres 在《黃昏血族》裡是什麼定位？
-**Samir 是技巧型 / 反核心決鬥。** 不動劍術用完美格擋換近戰傷害，血之門徒讓技能更早成型，血樁鎖空間，蜥形是掀翻擊劍劇本的恐龍衝鋒。
+**Samir 是技巧型 / 反 carry 決鬥。** 不動劍術用完美格擋換近戰傷害，血之門徒讓技能更早成型，血樁鎖空間，蜥形是掀翻擊劍劇本的恐龍衝鋒。
 
 ### 長老 Samir Patres 怎麼玩？
 打有章法的決鬥，用完美格擋觸發不動劍術傷害。把血之門徒的提前解鎖花在崩解和血液經濟上。血樁釘住，他們想走時開蜥形。決賽圈掀一次桌。
