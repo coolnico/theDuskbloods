@@ -154,6 +154,7 @@ See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and
 
 ---
 
-*Image credit: official materials © FromSoftware / Nintendo. Rankings and commentary are independent fan analysis.*
 
-*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide)*
+*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
+
+*Image credit: official materials © FromSoftware / Nintendo. Rankings and commentary are independent fan analysis.*

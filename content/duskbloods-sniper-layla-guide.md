@@ -191,6 +191,8 @@ Pick **Layla** if you want to own sightlines and pick fights from range. Pick **
 - Related: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide)
 
 
-*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide)*
+
+
+*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
 *Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

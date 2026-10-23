@@ -191,6 +191,8 @@ Pick **Trang** if you want to choose when fights start and win through ambush. P
 - Related: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide)
 
 
-*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide)*
+
+
+*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
 *Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

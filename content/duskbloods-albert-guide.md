@@ -194,6 +194,8 @@ Pick **Albert** if you want the safest way to learn the game and a kit that is n
 - Related: [Zork Guide](/guides/duskbloods-zork-guide) · [What Is The Duskbloods PvPvE?](/latest/duskbloods-pvpve-explained) · [Beginner Matchmaking Explained](/latest/duskbloods-beginner-matchmaking)
 
 
-*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide)*
+
+
+*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
 *Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

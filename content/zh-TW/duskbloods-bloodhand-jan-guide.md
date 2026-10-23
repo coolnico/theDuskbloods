@@ -194,6 +194,8 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 - 相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [什麼是 PvPvE](/zh-TW/latest/duskbloods-pvpve-explained)
 
 
-*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide)*
+
+
+*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide) · [長老 Samir Patres 攻略](/zh-TW/guides/duskbloods-senator-samir-patres-guide)*
 
 *圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

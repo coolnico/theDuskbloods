@@ -200,7 +200,8 @@ tags: ["characters", "builds", "tips", "guide", "Zork"]
 - 相關閱讀：[什麼是 PvPvE](/zh-TW/latest/duskbloods-pvpve-explained) · [新手配對說明](/zh-TW/latest/duskbloods-beginner-matchmaking)
 
 
-*相關閱讀：[阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide)*
+
+
+*相關閱讀：[阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide) · [長老 Samir Patres 攻略](/zh-TW/guides/duskbloods-senator-samir-patres-guide)*
 
 *圖片來源：官方素材 © FromSoftware / Nintendo。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*
-

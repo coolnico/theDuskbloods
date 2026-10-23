@@ -191,6 +191,8 @@ The Duskbloods は 4 フェーズの Dusk Battle。トランの役割は時間�
 - 関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide)
 
 
-*関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide)*
+
+
+*関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide) · [サミル・パトリス攻略](/ja/guides/duskbloods-senator-samir-patres-guide)*
 
 *画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

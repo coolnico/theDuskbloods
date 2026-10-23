@@ -194,6 +194,8 @@ The Duskbloods は 4 フェーズの Dusk Battle。アルバートの役割は�
 - 関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [The Duskbloods の PvPvE とは？](/ja/latest/duskbloods-pvpve-explained) · [初心者マッチング](/ja/latest/duskbloods-beginner-matchmaking)
 
 
-*関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide)*
+
+
+*関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide) · [サミル・パトリス攻略](/ja/guides/duskbloods-senator-samir-patres-guide)*
 
 *画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

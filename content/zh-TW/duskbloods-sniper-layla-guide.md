@@ -193,6 +193,8 @@ Layla 不是決鬥者。她是**視線編輯**。
 - 相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide)
 
 
-*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide)*
+
+
+*相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [長老 Samir Patres 攻略](/zh-TW/guides/duskbloods-senator-samir-patres-guide)*
 
 *圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

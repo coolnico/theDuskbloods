@@ -194,6 +194,8 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ян�
 - Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Что такое PvPvE?](/ru/latest/duskbloods-pvpve-explained)
 
 
-*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
+
+
+*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide) · [Гайд по Сенатору Самиру](/ru/guides/duskbloods-senator-samir-patres-guide)*
 
 *Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевого тесту августа 2026 года.*

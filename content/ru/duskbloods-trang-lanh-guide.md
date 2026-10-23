@@ -191,6 +191,8 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ча�
 - Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide)
 
 
-*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
+
+
+*Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide) · [Гайд по Сенатору Самиру](/ru/guides/duskbloods-senator-samir-patres-guide)*
 
 *Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

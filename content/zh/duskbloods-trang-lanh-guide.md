@@ -191,6 +191,8 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 - 相关阅读：[佐克攻略](/zh/guides/duskbloods-zork-guide) · [阿尔伯特攻略](/zh/guides/duskbloods-albert-guide) · [血手扬攻略](/zh/guides/duskbloods-bloodhand-jan-guide)
 
 
-*相关阅读：[佐克攻略](/zh/guides/duskbloods-zork-guide) · [阿尔伯特攻略](/zh/guides/duskbloods-albert-guide) · [血手扬攻略](/zh/guides/duskbloods-bloodhand-jan-guide) · [狙击手 Layla 攻略](/zh/guides/duskbloods-sniper-layla-guide)*
+
+
+*相关阅读：[佐克攻略](/zh/guides/duskbloods-zork-guide) · [阿尔伯特攻略](/zh/guides/duskbloods-albert-guide) · [血手扬攻略](/zh/guides/duskbloods-bloodhand-jan-guide) · [狙击手 Layla 攻略](/zh/guides/duskbloods-sniper-layla-guide) · [长老 Samir Patres 攻略](/zh/guides/duskbloods-senator-samir-patres-guide)*
 
 *图片：官方素材 © FromSoftware / Nintendo（官方网络测试媒体）。玩法分析为基于 2026 年 8 月封闭网络测试的独立玩家评论。*
