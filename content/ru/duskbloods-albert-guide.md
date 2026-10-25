@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "Полный гайд по Альберту в The Duskbloods — «Высокая кровь Лоррика» и «Бунтарь», комбо «Кровавого клинка» и «Света Хайерна», план по фазам и почему этот кровоклятый с украшенным саблей — самый стабильный S-тир сетевого теста."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Albert"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 Он занял **S-тир** в нашем [тир-листе Кровоклятых](/ru/guides/duskbloods-tier-list) и является персонажем по умолчанию для новичков. Официальные материалы называют его кит «ходячим аргументом» — чистое давление в ближнем бою, добивание на средней и кровавые искусства, которые растут вместе с добродетелью.
 
 
-![Альберт — портрет Кровоклятого](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+![Альберт — портрет Кровоклятого](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ал�
 
 *Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide) · [Гайд по Сенатору Самиру](/ru/guides/duskbloods-senator-samir-patres-guide)*
 
-*Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*
+*Изображения: официальные материалы （权利归原权利人） (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

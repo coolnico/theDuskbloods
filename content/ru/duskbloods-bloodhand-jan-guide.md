@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "Полный гайд по Кроворукому Яну в The Duskbloods — «Родословная кровавой руки» и «Владыка крови», комбо «Мигания» и «Кровавой сдачи», план по фазам и почему этот кровавый топор — A-тир долгих боёв сетевого теста."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 Он занял **A-тир** в нашем [тир-листе Кровоклятых](/ru/guides/duskbloods-tier-list) — лучший персонаж для длинных боёв в сборке сетевого теста. Если вам нравится побеждать давлением и сустейном, а не чистыми оншотами — берите Яна.
 
 
-![Кроворукий Ян — портрет Кровоклятого](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+![Кроворукий Ян — портрет Кровоклятого](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ян�
 
 *Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide) · [Гайд по Сенатору Самиру](/ru/guides/duskbloods-senator-samir-patres-guide)*
 
-*Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевого тесту августа 2026 года.*
+*Изображения: официальные материалы （权利归原权利人） (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевого тесту августа 2026 года.*

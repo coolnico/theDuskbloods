@@ -42,7 +42,7 @@
     },
     "gallery": {
       "title": "Галерея The Duskbloods — скриншоты и разборы боя",
-      "description": "Официальные скриншоты The Duskbloods с авторским разбором: бой кровоклятых, ориентиры Лоанро, телеграфы Blood Arts, давление PvPvE и чтение арен в поздних фазах."
+      "description": "Иллюстрации The Duskbloods с авторским разбором: бой кровоклятых, ориентиры Лоанро, телеграфы Blood Arts, давление PvPvE и чтение арен в поздних фазах."
     },
     "contact": {
       "title": "Контакты — Фан-сайт The Duskbloods",
@@ -130,7 +130,7 @@
     "updatedOn": "Обновлено",
     "fallbackNotice": "Эта статья пока не доступна на вашем языке. Показана английская версия.",
     "readingTime": "{min} мин. чтения",
-    "imageCredit": "Изображения в этой статье — официальные материалы © FromSoftware / Nintendo. Рейтинги, комментарии и рекомендации — наши собственные."
+    "imageCredit": "Изображения в этой статье — локально размещённые фрагменты публичных материалов （权利归原权利人） Рейтинги, комментарии и рекомендации — наши собственные."
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "Кадры из игры",
       "cta": "Ещё →",
       "alt": "Скриншот The Duskbloods {n}",
-      "credit": "Скриншоты — официальные материалы © FromSoftware / Nintendo. Тексты и аналитика сайта независимы и неофициальны."
+      "credit": "Скриншоты — локально размещённые фрагменты публичных материалов （权利归原权利人） Тексты и аналитика сайта независимы и неофициальны."
     },
     "videos": {
       "eyebrow": "ТРЕЙЛЕРЫ",
@@ -305,7 +305,7 @@
         {
           "name": "Фаза I: Исследование и завоевание",
           "desc": "Восемь кровоклятых входят в земли сумрака и начинают копить добродетель.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "Побеждайте врагов, зажигайте черепа светильных трупов для добродетели пламени, исследуйте местность для сбора предметов",
             "В различных областях появляются особенности — кровосумы, алхимические горны, малые врата призыва причастных",
@@ -316,7 +316,7 @@
         {
           "name": "Фаза II: Места ритуалов и отсев",
           "desc": "Грааль начинает отсев. Кровоклятые с недостаточной добродетелью выбывают. Открываются места проведения ритуалов.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "Два типа добродетели в местах ритуалов: добродетель меча (победа над кровоклятым) и добродетель обета (клятва у столпов)",
             "Получите багряные камни (усиливают добродетель меча) или золотые камни (усиливают добродетель обета) из каменных вместилищ",
@@ -327,7 +327,7 @@
         {
           "name": "Фаза III: События и обострение боя",
           "desc": "Отсев продолжается. Особенности областей меняются. Поле боя становится опаснее.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "Особенности областей меняются, предлагая новые возможности усиления",
             "Места ритуалов открываются снова с ещё более ожесточённой конкуренцией",
@@ -338,7 +338,7 @@
         {
           "name": "Финальная фаза: Кровавый дар луны",
           "desc": "Остаются только три кровоклятых с наивысшей добродетелью. Они сражаются за окончательную победу.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "Грааль дарует две жизни — можно воскреснуть один раз",
             "Бонусные ОЗ в зависимости от накопленной добродетели",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "Официальные скриншоты и сведения о системах основаны на материалах FromSoftware / Nintendo (гайд сетевого теста). Структура, анализ и рекомендации этой страницы независимы и неофициальны."
+    "sourceNote": "Сведения о системах основаны на материалах FromSoftware / Nintendo (гайд сетевого теста). Структура, анализ и рекомендации этой страницы независимы и неофициальны."
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Альберт",
           "melee": "Сабля Лорриков",
           "ranged": "Пистолет-пулемёт",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "Кровавый клинок",
@@ -709,7 +709,7 @@
           "name": "Ян Кроваворукий",
           "melee": "Кровожадный топор",
           "ranged": "Колдовской камень",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "Стремительность",
@@ -761,7 +761,7 @@
           "name": "Чанг Лань",
           "melee": "Клинок полной луны",
           "ranged": "Клинок полной луны (метание)",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "Темная луна",
@@ -813,7 +813,7 @@
           "name": "Снайпер Лайла",
           "melee": "Гравированные катары",
           "ranged": "Снайперская винтовка",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "Исчезновение Неб-ра",
@@ -865,7 +865,7 @@
           "name": "Сенатор Самир Патрес",
           "melee": "Сенаторская рапира",
           "ranged": "Перстень дух-птицы",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "Кровный кол",
@@ -917,7 +917,7 @@
           "name": "Зорк",
           "melee": "Подводный кабель",
           "ranged": "Подводное ружьё",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "Ракеты",
@@ -1006,60 +1006,60 @@
       "desc": "Рейтинги и рекомендации для новичков — в разделе «Гайды».",
       "cta": "Смотреть гайды по персонажам"
     },
-    "imageCredit": "Арт персонажей и скриншоты — официальные материалы © FromSoftware / Nintendo. Заметки, советы по игре и оценки на этой странице — независимый фан-анализ, а не официальное руководство."
+    "imageCredit": "Арт персонажей и скриншоты — локально размещённые фрагменты публичных материалов （权利归原权利人） Заметки, советы по игре и оценки на этой странице — независимый фан-анализ, а не официальное руководство."
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Сетевой тест",
       "title": "Закрытый сетевой тест The Duskbloods",
-      "lead": "Период заявок на закрытый сетевой тест The Duskbloods от FromSoftware на Nintendo Switch 2 завершён. Вот полное расписание и подробности."
+      "lead": "Приём заявок на закрытый сетевой тест FromSoftware на Nintendo Switch 2 завершён. Здесь — полное расписание, требования и то, во что играли участники: полезный контекст до релиза 2026 года."
     },
     "status": {
-      "label": "Регистрация закрыта",
-      "desc": "Период заявок на сетевой тест завершён. Отобранные игроки получили уведомление 7 августа."
+      "label": "Заявки закрыты",
+      "desc": "Период заявок завершён. Отобранные игроки получили уведомление 7 августа. Даже если вы пропустили тест, структура сессий, темп мультиплеера и требования Switch 2 помогут подготовиться. Сохраните страницу: обновляем при официальных новостях."
     },
     "schedule": {
       "eyebrow": "Расписание",
-      "title": "Полное расписание",
+      "title": "Полный таймлайн",
       "application": {
-        "label": "Период подачи заявок",
-        "start": "22 июля (ср.) в 7:00 PDT",
-        "end": "28 июля (вт.) в 6:59 PDT",
-        "note": "Повторные заявки одного пользователя будут отклонены. Участники отбираются в порядке регистрации."
+        "label": "Период заявок",
+        "start": "22 июля (ср) 7:00 PDT",
+        "end": "28 июля (вт) 6:59 PDT",
+        "note": "Повторные заявки отклоняются. Отбор по порядку регистрации — важнее был ранний вход, чем красивый профиль."
       },
       "selection": {
-        "label": "Объявление результатов",
-        "date": "7 августа (пт.) в 6:00 PDT",
-        "note": "Проверьте результат на странице аккаунта на официальном сайте. Отобранные игроки получили код загрузки."
+        "label": "Объявление отбора",
+        "date": "7 августа (пт) 6:00 PDT",
+        "note": "Проверяйте результат в аккаунте на официальном сайте. Отобранные получили код загрузки; при будущем тесте следите за той же страницей, а не за слухами."
       },
       "download": {
         "label": "Загрузка клиента",
-        "date": "Доступна с 18 августа (вт.) в 6:00 PDT",
-        "note": "Отобранные игроки могут использовать код загрузки в Nintendo Store или Nintendo eShop. В некоторых регионах загрузка другими способами не поддерживается."
+        "date": "Доступно с 18 августа (вт) 6:00 PDT",
+        "note": "Используйте код в Nintendo Store или Nintendo eShop. В некоторых регионах загрузка вне eShop недоступна."
       },
       "sessions": {
         "label": "Сессии теста",
-        "note": "Даты и время сессий могут измениться или быть отменены без предварительного уведомления.",
+        "note": "Даты могут меняться или отменяться без предупреждения. Расписание намеренно использовало короткие окна между часовыми поясами — ждите похожего, а не долгой открытой беты.",
         "items": [
           {
-            "date": "21 августа 2026 (пт.)",
-            "time": "3:00 — 7:00 PDT"
+            "date": "Aug. 21, 2026 (Fri.)",
+            "time": "3:00 a.m. to 7:00 a.m. PDT"
           },
           {
-            "date": "21 августа 2026 (пт.)",
-            "time": "19:00 — 23:00 PDT"
+            "date": "Aug. 21, 2026 (Fri.)",
+            "time": "7:00 p.m. to 11:00 p.m. PDT"
           },
           {
-            "date": "22 августа 2026 (сб.)",
-            "time": "11:00 — 15:00 PDT"
+            "date": "Aug. 22, 2026 (Sat.)",
+            "time": "11:00 a.m. to 3:00 p.m. PDT"
           },
           {
-            "date": "23 августа 2026 (вс.)",
-            "time": "3:00 — 7:00 PDT"
+            "date": "Aug. 23, 2026 (Sun.)",
+            "time": "3:00 a.m. to 7:00 a.m. PDT"
           },
           {
-            "date": "23 августа 2026 (вс.)",
-            "time": "19:00 — 23:00 PDT"
+            "date": "Aug. 23, 2026 (Sun.)",
+            "time": "7:00 p.m. to 11:00 p.m. PDT"
           }
         ]
       }
@@ -1069,48 +1069,68 @@
       "title": "Что нужно",
       "items": [
         {
-          "label": "Платформа",
+          "label": "Platform",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Подписка",
-          "value": "Nintendo Switch Online"
+          "label": "Membership",
+          "value": "Nintendo Switch Online membership"
         },
         {
-          "label": "Отбор",
-          "value": "В порядке регистрации (ограниченное количество мест)"
+          "label": "Selection",
+          "value": "By order of sign-up (limited spots)"
         },
         {
-          "label": "Разработчик",
+          "label": "Developer",
           "value": "FromSoftware"
         },
         {
-          "label": "Издатель",
-          "value": "Nintendo"
+          "label": "Region note",
+          "value": "Some regions could not download outside Nintendo eShop"
         }
       ]
     },
     "expect": {
       "eyebrow": "Что ожидать",
-      "title": "Содержание теста",
+      "title": "Внутри теста",
       "items": [
         {
-          "title": "Кусочек PvPvE",
-          "desc": "Играбельный вертикальный срез 8-игрового PvPvE-экшена, определяющего полную игру."
+          "title": "PvPvE structure",
+          "desc": "Eight players compete across three rounds with mid-round culling. PvE pressure is constant, but the scoreboard is still written by player fights and objective control."
         },
         {
-          "title": "Проверка производительности и стабильности",
-          "desc": "Как сетевой тест, фокус на нагрузке серверов, матмейкинге и стабильности в реальных условиях."
+          "title": "Short session windows",
+          "desc": "Each test window was only a few hours. That rewarded players who had already learned Lowanro routes — practice the map in the final game the same way you would practice a raid night."
         },
         {
-          "title": "В разработке",
-          "desc": "Контент, баланс и графика могут не отражать финальную версию. Ожидайте шероховатости и изменения до выхода."
+          "title": "Virtue economy",
+          "desc": "Virtue decides who advances and who is culled. The test made one lesson obvious: passive farming without contesting objectives is how you quietly lose."
+        },
+        {
+          "title": "Matchmaking feel",
+          "desc": "Early reports suggested strong demand and busy lobbies. If a future test opens, expect queue pressure at session start — log in before the window, not at the buzzer."
+        },
+        {
+          "title": "Performance on Switch 2",
+          "desc": "The test targeted native Switch 2 play, including handheld mode. Network stability mattered as much as combat skill during peak hours."
+        },
+        {
+          "title": "What transfers to launch",
+          "desc": "Map knowledge, Virtue tempo, and compact/kin habits will carry forward. Weapons and exact balance numbers may change, but the decision loop will not."
+        },
+        {
+          "title": "How to use the test notes",
+          "desc": "Rewatch your clips with the map open. Most improvement comes from noticing where you lost Virtue, not from mechanical flash — pathing is the skill check The Duskbloods actually grades."
+        },
+        {
+          "title": "What we are still waiting on",
+          "desc": "An exact calendar date for the full release has not been confirmed. Until then, treat delay rumors as rumors and use this schedule as the last official multiplayer stress signal."
         }
       ]
     },
     "cta": {
-      "title": "Следите за выходом полной версии",
-      "desc": "Сетевой тест стал первым знакомством с The Duskbloods перед выходом в 2026 году на Nintendo Switch 2. Мы будем обновлять эту страницу последними новостями."
+      "title": "Следите за полным релизом",
+      "desc": "Тест был первым взглядом до планируемого релиза 2026 на Nintendo Switch 2. Ссылки ниже — про тайминг, системы и подготовку персонажей. Если играли, ваши заметки — стартовое преимущество: кто знает коллауты Лоанро, математику отсечения и пороги кин, стартует увереннее."
     }
   },
   "faq": {
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "Источники и независимость",
-          "desc": "Факты — из официальных материалов Nintendo/FromSoftware и открытых публикаций. Анализ и рейтинги — наши. Официальные скриншоты указаны правообладателям; комментарии независимы."
+          "desc": "Факты — из публичных материалов Nintendo/FromSoftware и открытых публикаций. Анализ и рейтинги — наши. Иллюстрации локально размещены; комментарии независимы."
         },
         {
           "title": "Правки и обновления",
@@ -1662,11 +1682,11 @@
     "intro": {
       "eyebrow": "СКРИНШОТЫ",
       "title": "Галерея",
-      "lead": "Официальные скриншоты The Duskbloods — исследуйте тёмный мир мультиплеерного экшена от FromSoftware для Nintendo Switch 2."
+      "lead": "Иллюстрации The Duskbloods — исследуйте тёмный мир мультиплеерного экшена от FromSoftware для Nintendo Switch 2."
     },
     "main": {
       "eyebrow": "ОСНОВНОЙ НАБОР",
-      "title": "Официальные скриншоты",
+      "title": "Иллюстрации",
       "alt": "Скриншот The Duskbloods {n}"
     },
     "lightbox": {
@@ -1676,7 +1696,7 @@
       "eyebrow": "РАЗБОР ИЗБРАННОГО",
       "title": "Разборы скриншотов — что эти кадры на самом деле показывают",
       "lead": "Двенадцать официальных стоп-кадров, разложенных на три непересекающихся чтения: кто такие кровоклятые, как на самом деле выглядит бой и как мир подаёт опасность. Каждая заметка начинается с того, что на экране, и возвращает к матчу.",
-      "sourceNote": "Изображения — официальные скриншоты © FromSoftware / Nintendo. Разбор независимый и неофициальный.",
+      "sourceNote": "Изображения — локальные иллюстрации （权利归原权利人） Разбор независимый и неофициальный.",
       "h2A": "Кровоклятые и кровавые искусства",
       "h2B": "Бой, существа и Blood Arts",
       "h2C": "Мир, маршруты и знамения",
@@ -1786,150 +1806,185 @@
   },
   "maps": {
     "intro": {
-      "eyebrow": "Карта",
-      "title": "Земли сумрака — карта города Лоанро",
-      "lead": "Когда сражение начинается, кровоклятые призываются в земли сумрака. В сетевом тесте все бои происходят в одном месте — городе Лоанро, многоуровневом поле с достопримечательностями, улицами и дикой природой.",
-      "updatedAt": "Последнее обновление: 19 октября 2026"
+      "eyebrow": "Карты",
+      "title": "Земли Сумерек — гид по карте Лоанро",
+      "lead": "Когда начинается Сумеречная битва, Кровоклятые призываются в Земли Сумерек. В сетевом тесте каждый матч шёл на одной земле — Лоанро, многослойном поле улиц, ориентиров и дикой природы. На этой странице — устройство локации, региональные механики середины матча и как читать карту, чтобы меньше блуждать и копить больше Доблести до отсечения Грааля.",
+      "updatedAt": "Обновлено: 25 октября 2026"
     },
     "lands": {
-      "title": "Земли сумрака",
-      "desc": "Одна земля — много уровней. Исследуйте её свободно, усиливая кровоклятого и копя добродетель, чтобы пережить отсев чаши.",
+      "title": "Земли Сумерек",
+      "desc": "Одна земля, много слоёв. Лоанро — вертикальная цитадель: площадь часов держит центр, соборный квартал смотрит на верхние террасы, внешние улицы растворяются в пещерах, лесу и берегу озера. Исследуйте свободно, усиливая Кровоклятых и копя Доблесть, нужную чтобы пережить отсечение. Маршруты, что кажутся безопасными, часто прячут засады третьих сил в узких местах: относитесь к каждой точке как к ресурсу и как к скорому бою.",
       "points": [
         {
-          "title": "Город Лоанро",
-          "desc": "Единственная арена сетевого теста: город под присмотром высокой часовой башни и кафедрального собора."
+          "title": "Lowanro City",
+          "desc": "The network test's sole battleground — a city watched over by a towering clock tower and cathedral, with streets spreading around them. Expect frequent multi-team collisions in the plaza because it is the fastest path between spawn quadrants and several upgrade spawns."
         },
         {
-          "title": "Несколько областей",
-          "desc": "Помимо улиц, ландшафт включает несколько областей — пещеру, лес и озеро."
+          "title": "Multilayered Regions",
+          "desc": "Beyond the streets, the field branches into multiple regions including a cave, a forest, and a lake. Verticality matters: ledges, stairwells, and rooftops let short-range builds disengage while ranged Bloodsworn hold sightlines from above."
         },
         {
-          "title": "Возрождение без ограничений",
-          "desc": "Здесь можно возрождаться сколько угодно раз — пока не проиграете в отсеве."
+          "title": "Revive Until You Fall",
+          "desc": "You can revive any number of times in the Lands of Dusk — until you fail to survive the culling. Because lives are generous but the grail is not, dying late in a round is far more expensive than dying early while you still have time to rebuild Virtue."
+        },
+        {
+          "title": "Spawn Quadrants",
+          "desc": "Players drop into distinct quadrants at match start. Early routing choices decide whether you contest a contested furnace, claim uncontested bloodbags, or sprint for golden spires that summon allies — each opening shapes the next two minutes of the round."
+        },
+        {
+          "title": "Culling Pressure",
+          "desc": "After each round, the lowest-scoring players are culled. The map itself is neutral, but tempo is not: if you are behind, force fights near objectives instead of wandering the wilderness hoping for isolated PvE value."
+        },
+        {
+          "title": "Terrain Tells",
+          "desc": "Look for ritual sites, teleport pads, and chains of light — they telegraph where players will cluster. Use the terrain as a scouting tool: if a region is quiet and empty, the real fight is usually on the other side of the clock tower."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "Особенности областей",
-      "desc": "В каждой области с каждой фазой появляются свои особенности, и они меняются по ходу матча. Смотрите на карту и выбирайте усиления под свой стиль.",
+      "title": "Региональные фичи",
+      "desc": "Несколько фич появляются в фазах и меняются по ходу матча. Смотрите иконки и выбирайте усиления под стиль. «Безопасный» путь часто связывает две фичи, не влетая в свалку трёх команд на площади.",
       "features": [
         {
-          "title": "Кровосумы",
-          "desc": "По земле бродят кровосумы. Побеждайте их, чтобы получать кровавые кристаллы для усиления кровавых искусств.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "Bloodbag Elder",
+          "desc": "Bloodsacs wander the land. Defeat them for blood crystals that enhance your Bloodsworn Skills. They are usually contested after the first culling, so secure a crystal route early instead of gambling on a late steal.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
-          "title": "Алхимический горн",
-          "desc": "Наделите оружие огнём и другими сродствами. Повторное усиление в подходящем горне поднимает уровень усиления.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "title": "Alchemy Furnace",
+          "desc": "Imbue weapons with fire and other affinities. Enhancing again at a matching furnace raises the weapon's enhancement level. Stacking a matching affinity is one of the few mid-round power spikes that is not tied to killing other players.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "Малые врата причастных",
-          "desc": "Появляются малые врата призыва: укрепите пакт и передайте причастному большой опыт.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "Kin Small Circles",
+          "desc": "Small kin summoning circles appear — strengthen your compact and grant a large amount of experience to your partnered kin. Pair this with a safe farming loop if your kin is close to a breakthrough.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "Предметы исследования",
-          "desc": "Находите предметы на местности — огненную склянку или памятный кол как точку возрождения.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "Golden Spires",
+          "desc": "Golden spires can summon allies into the field. Treat them as high-value objectives: activating one under pressure often turns a losing skirmish into a stable fight, but standing in the open to channel is an invitation to third parties."
+        },
+        {
+          "title": "Ritual Sites",
+          "desc": "Ritual Sites are where Sword Virtue is earned by killing players. If you are building an aggressive scoreline, path past them every phase; if you are protecting a lead, gatekeep the entrances instead of forcing the center."
+        },
+        {
+          "title": "Teleport Pads",
+          "desc": "Teleport pads compress the map and punish slow rotations. Use them to escape collapses or to arrive first at a fading objective — then expect someone else to arrive three seconds later."
         }
       ]
     },
     "tools": {
-      "title": "Инструменты карты и экран сведений",
-      "desc": "Нажмите [+] во время сражения, чтобы открыть экран сведений и использовать карту по максимуму.",
+      "title": "Инструменты карты и экран инфо",
+      "desc": "Нажмите [+] в бою, чтобы открыть карту и инфо. Это лучшая разведка при шумном звуке: иконки целей, позиции отряда и контекст фазы без рискованных выглядываний.",
       "items": [
         {
-          "title": "Экран сведений",
-          "desc": "Смотрите свою позицию, следы других кровоклятых и значки особенностей рядом с названиями областей."
+          "title": "Live Objectives",
+          "desc": "Track furnaces, circles, spires, and ritual sites as they appear. Icons update with the phase, so re-check after every round transition."
         },
         {
-          "title": "Мгновенное перемещение",
-          "desc": "Выберите точку варпа на карте для мгновенного перемещения. Недоступно в начале фазы, сразу после варпа или возрождения и в бою."
+          "title": "Team Positions",
+          "desc": "See where your Bloodsworn partners are holding. If two teammates are already committed to the plaza, do not add a third unless you can finish the fight quickly."
         },
         {
-          "title": "Метки вторженцев",
-          "desc": "Вторженцы отмечаются на карте особыми значками — включая ещё более сильные варианты."
+          "title": "Phase Context",
+          "desc": "Culling windows and match structure reward different routes early versus late. Early rounds favor setup; late rounds favor closing on the final battle."
         },
         {
-          "title": "Булавки",
-          "desc": "Ставьте булавки на экране или карте, чтобы отмечать маршруты и интересные места."
+          "title": "Quick Ping Habits",
+          "desc": "Ping before you engage when possible. A one-second callout prevents the classic Lowanro mistake of winning a duel while the enemy team takes the spire behind you."
+        },
+        {
+          "title": "Sound Cues",
+          "desc": "Roar conversions, flame arts, and ally summons are loud on purpose. Audio is information: if you hear a fight, decide whether to third-party or complete your own feature first."
+        },
+        {
+          "title": "Route Planning",
+          "desc": "Before the gate opens, pick a two-feature loop. Wandering without a loop is how players fall behind on Virtue without realizing they never took a real fight."
         }
       ]
     },
     "guidesLink": {
       "title": "Маршруты и точки фарма",
-      "desc": "Гайды по стратегии карты — в разделе «Гайды».",
-      "cta": "Смотреть гайды по картам"
+      "desc": "Стратегические гиды по карте — маршруты под Кровоклятых, тайминги печей и математика отсечения — в хабе гайдов. С планом на первые 90 секунд карта перестаёт казаться случайной.",
+      "cta": "Смотреть гайды по карте"
     },
-    "sourceNote": "Официальные скриншоты и сведения о системах основаны на материалах FromSoftware / Nintendo (гайд сетевого теста). Структура, анализ и рекомендации этой страницы независимы и неофициальны."
+    "sourceNote": "Системные факты опираются на публичные материалы FromSoftware / Nintendo. Структура, аналитика и рекомендации страницы независимые и неофициальные."
   },
   "kin": {
     "intro": {
-      "eyebrow": "Причастные",
-      "title": "Причастные — пакты, врата и развитие",
-      "lead": "Причастные — те, кто заключил сделку с Орденом сумрака. Они вступают в пакт с кровоклятыми и одалживают им свою силу — поддержка помимо оружия и кровавых искусств.",
-      "updatedAt": "Последнее обновление: 19 октября 2026"
+      "eyebrow": "Кин",
+      "title": "Кин — договоры, круги и прокачка",
+      "lead": "Кин — существа, заключившие договор с Орденом Сумерек. Они вступают в договоры с Кровоклятыми и дают силу в бою — слой поддержки поверх оружия и навыков. Здесь — как работают договоры, чем отличаются три круга, какие архетипы были в тесте и как прокачивать или менять кин без потери забега.",
+      "updatedAt": "Обновлено: 25 октября 2026"
     },
     "what": {
-      "title": "Пакты с причастными",
-      "desc": "Те, кто заключил соглашение с Орденом сумрака, называются причастными. Они вступают в пакт с кровоклятыми, одалживая свою силу. Пакты заключаются у врат призыва у основания цепей света, уходящих в небо.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "Договоры с кин",
+      "desc": "Те, кто заключил договор с Орденом Сумерек, зовутся кин. Кин вступают в договор с Кровоклятыми в кругах призыва у основания цепей света. На практике договор — это и боевой партнёр, и второй трек прокачки: пока вы качаете свои навыки, кин превращает боевое время в опыт. Партнёр, которого вы держите, важен не меньше оружия.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
-      "title": "Врата призыва",
-      "desc": "Существует три типа врат призыва причастных. Каждый позволяет заключить пакт с разным типом причастных.",
+      "title": "Круги призыва",
+      "desc": "Три типа круга, каждый со своим родом. Выбор круга — сборка, замаскированная под решение по карте: привязанный первым род определяет утилиту (устойчивость, контроль или давление), когда площадь забита.",
       "items": [
         {
-          "title": "Кольцо",
-          "desc": "Врата типа «Кольцо». Пакт с одной семьёй причастных."
+          "title": "Ring",
+          "desc": "A Ring-type summoning circle. Contracts with one family of kin — often the pick when you want reliable frontline support that can survive messy plaza brawls."
         },
         {
-          "title": "Клинок",
-          "desc": "Врата типа «Клинок». Пакт с другой семьёй причастных."
+          "title": "Blade",
+          "desc": "A Blade-type summoning circle. Contracts with a different family of kin — typically more aggressive tools that help you convert skirmishes instead of stalling them."
         },
         {
-          "title": "Око",
-          "desc": "Врата типа «Око». Пакт с третьей семьёй причастных."
+          "title": "Eye",
+          "desc": "An Eye-type summoning circle. Contracts with yet another family of kin — utility-oriented partners that protect allies, reveal pressure, or punish overcommitted attackers."
         }
       ],
-      "note": "В сетевом тесте доступно восемь причастных.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "Eight kin exist in the network test version. Circle type limits which family you can bind, but every family still has multiple candidates — read the compact offer before you lock the run.",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "Типы причастных",
-      "desc": "Разные причастные помогают в бою уникальными способностями. Среди них:",
+      "title": "Архетипы кин",
+      "desc": "Каждый кин даёт поддержку со своей способностью. В тесте были такие фигуры — это не декоративные питомцы: они меняют ротации, дуэли и удержание точек.",
       "items": [
         {
-          "title": "Юная мечница",
-          "desc": "Юная мечница тайного общества."
+          "title": "Young Swordswoman",
+          "desc": "A young swordswoman of a clandestine society. Reliable melee pressure that pairs well with aggressive Blood Arts and short rotations between ritual sites."
         },
         {
-          "title": "Маг пламени",
-          "desc": "Чародей, повелевающий пламенем."
+          "title": "Flame Sorcerer",
+          "desc": "A sorcerer who has mastered the flame. Excellent at denying chokes and finishing weakened targets after a furnace-imbued trade."
         },
         {
-          "title": "Поющий узник",
-          "desc": "Узник, что защищает союзников пением."
+          "title": "Singing Prisoner",
+          "desc": "A prisoner who can protect allies by singing. Best when your team is stacking for spire channels or surviving a three-team collapse."
         },
         {
-          "title": "Чёрный волк",
-          "desc": "Чёрный волк, властелин леса."
+          "title": "Black Wolf",
+          "desc": "A black wolf who lords over a forest. Strong in outdoor lanes and forest edges, where chase tools and open sightlines decide who leaves the region."
+        },
+        {
+          "title": "Shield Bearer",
+          "desc": "A stoic guardian who buys time. Use them when you need to stabilize after a bad culling instead of forcing another duel on low Virtue."
+        },
+        {
+          "title": "Lantern Scout",
+          "desc": "A pathfinder who lights the way. Information-heavy kin that reward players who actually look at the map instead of autopiloting the plaza."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "Развитие причастных",
-      "desc": "Когда вы побеждаете врагов вместе с причастным, он тоже получает опыт и повышает уровень, увеличивая здоровье и силу атаки. Некоторые получают новые атаки в зависимости от уровня.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "Прокачка кин",
+      "desc": "Убивая врагов с кин, вы даёте ему опыт и рост. Поэтому фарм в середине матча важен после первого усиления оружия: каждый мешок, оглушение и сконвертированный рёв кормит партнёра, который останется с вами в финале трёх. Если до порога один бой — берите безопасный опыт; если закрывается отсечение — счёт.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
       "title": "Призыв и отпуск",
-      "desc": "Призывайте и отпускайте причастных через меню функций. Павший причастный автоматически отпускается и какое-то время не может быть призван снова. Вне боя или будучи отпущенным, его здоровье постепенно восстанавливается. Нельзя отпустить причастного, который под атакой."
+      "desc": "Призывайте и отпускайте кин в меню «Функции». После смерти можно призвать снова после отката: потеря партнёра — потеря темпа, не конец забега. Отпускайте осознанно, если есть лучший договор и вы можете позволить простой. Частая ошибка — держать мёртвый договор по привычке; продвинутая — относиться к кин как к любой перезаряжаемой фишке и переоценивать её между фазами. Договор не заменяет позиционирование: он покупает секунды, но не чинит маршрут без плана, влетающий в три отряда."
     },
-    "sourceNote": "Официальные скриншоты и сведения о системах основаны на материалах FromSoftware / Nintendo (гайд сетевого теста). Структура, анализ и рекомендации этой страницы независимы и неофициальны."
+    "sourceNote": "Системные факты опираются на публичные материалы FromSoftware / Nintendo. Структура, аналитика и рекомендации страницы независимые и неофициальные."
   },
   "systemRequirements": {
     "intro": {
@@ -2211,5 +2266,26 @@
         "cta": "Открыть кин"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "Для удобства пользования",
+    "body": "Мы используем cookie, чтобы запоминать язык и понимать, какие страницы полезны, и — только с вашего согласия — для более релевантной рекламы.",
+    "accept": "Принять",
+    "reject": "Отклонить",
+    "acceptAll": "Принять всё",
+    "essentialOnly": "Только необходимые",
+    "customize": "Настроить",
+    "back": "Назад",
+    "settingsTitle": "Настройки cookie",
+    "settingsBody": "Выберите, что мы можем использовать. Необходимые cookie обеспечивают работу сайта и всегда включены.",
+    "essential": "Необходимые",
+    "essentialDesc": "Язык и базовые функции. Всегда включены.",
+    "analytics": "Аналитика",
+    "analyticsDesc": "Помогает понять, какие страницы полезны (Google Analytics).",
+    "ads": "Персонализированная реклама",
+    "adsDesc": "Разрешает более релевантную рекламу и измерение.",
+    "save": "Сохранить выбор",
+    "footerLink": "Настройки cookie",
+    "privacyLink": "Политика конфиденциальности"
   }
 }

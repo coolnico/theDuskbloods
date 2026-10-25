@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "《黃昏血族》狙擊手 Layla（Sniper Layla）完全攻略——夜之瞳鎖定與觀察、內卜拉消散蟲群換位、綠寶石加特林爆發、分階段打法，以及如何用這張網測 A 檔遠程卡控住整條視線。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 ---
 
@@ -20,7 +20,7 @@ tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 
 > 譯名說明：官方中文資料寫作「狙擊手 Layla」，姓名保留英文。本文沿用該寫法，英文全名 **Sniper Layla** 一併標註。
 
-![狙擊手 Layla — 血誓者立繪](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg)
+![狙擊手 Layla — 血誓者立繪](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2)
 
 完整數值與背景見 [Layla 角色頁](/zh-TW/characters/sniper-layla)。本篇是**怎麼玩**的實戰攻略。
 
@@ -197,4 +197,4 @@ Layla 不是決鬥者。她是**視線編輯**。
 
 *相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [長老 Samir Patres 攻略](/zh-TW/guides/duskbloods-senator-samir-patres-guide)*
 
-*圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*
+*圖片：官方素材 （权利归原权利人）（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

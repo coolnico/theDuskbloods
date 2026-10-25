@@ -10,7 +10,7 @@ The Duskbloods 黄昏血族 12小时试玩体验揭晓了FromSoftware这款PvPvE
 
 ## 游戏视频
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/rh2XRuhlHNY" title="The Duskbloods 黄昏血族 12小时试玩" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/rh2XRuhlHNY" title="The Duskbloods 黄昏血族 12小时试玩" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ## 核心玩法
 

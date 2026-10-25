@@ -4,6 +4,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import SetLang from './SetLang';
 import Header from './Header';
 import Footer from './Footer';
+import CookieConsent from './CookieConsent';
 import { useEffect, useState } from 'react';
 
 const LOCALES = ['en', 'ja', 'zh', 'zh-TW', 'es', 'fr', 'de', 'ko', 'it', 'pt', 'ru'] as const;
@@ -55,6 +56,7 @@ export default function LocaleShell({
           <div className="shell py-6 sm:py-10">{children}</div>
         </main>
         <Footer />
+        <CookieConsent />
       </div>
     </NextIntlClientProvider>
   );

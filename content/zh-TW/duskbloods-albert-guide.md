@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "《黃昏血族》阿爾伯特完全攻略——高等洛瑞克之血與起義者機制詳解、血刃與海恩之光連招、分階段打法，以及為什麼這把寶石軍刀是網測最穩的 S 檔。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Albert"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 他在本站[血誓者強度榜](/zh-TW/guides/duskbloods-tier-list)中拿到 **S 檔**，也是我們推薦給新人的首選角色。官方材料形容他的技能組是「會走路的論據」——乾淨的近身壓制、中距離收割，以及一套靠美德餵養的血系技能。
 
 
-![阿爾伯特 — 血誓者立繪](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+![阿爾伯特 — 血誓者立繪](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 
 *相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide) · [長老 Samir Patres 攻略](/zh-TW/guides/duskbloods-senator-samir-patres-guide)*
 
-*圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*
+*圖片：官方素材 （权利归原权利人）（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

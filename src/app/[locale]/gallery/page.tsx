@@ -7,7 +7,8 @@ import GalleryView from '@/components/views/GalleryView';
 
 const getMetadata = makePageMetadata({ namespace: 'Metadata.gallery', path: '/gallery' });
 
-const BASE = 'https://media.fromsoftware.jp/theduskbloods/resources/images/images/pc';
+const BASE = 'https://img.duskbloods.net/dusk/gallery';
+const V = '?v=2';
 
 type FeaturedItem = {
   group: 'main' | 'expansion';
@@ -20,7 +21,7 @@ type FeaturedItem = {
 function imageSrc(_group: string, n: number) {
   // Featured stills use unique frames from the official main set
   const pad = String(n).padStart(3, '0');
-  return `${BASE}/${pad}.png`;
+  return `${BASE}/${pad}.png${V}`;
 }
 
 export function generateStaticParams() {
@@ -34,7 +35,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   requireValidLocale(locale);
-  return getMetadata(locale);
+  const meta = await getMetadata(locale);
+  return {
+    ...meta,
+    // Orphaned from nav/sitemap — keep out of the index (AdSense/SEO).
+    robots: { index: false, follow: false },
+  };
 }
 
 export default async function GalleryPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -67,7 +73,7 @@ export default async function GalleryPage({ params }: { params: Promise<{ locale
       name: item.title,
       description: item.desc,
       keywords: item.keyword,
-      creditText: '© FromSoftware / Nintendo',
+      creditText: '（权利归原权利人）',
     })),
   };
 

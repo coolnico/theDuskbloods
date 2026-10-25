@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
-MARK = "media.fromsoftware.jp"
+MARK = "img.duskbloods.net"
 
 NOTES = {
     "en": "\n\n---\n\n*Image credit: official materials © FromSoftware / Nintendo. Rankings and commentary are independent fan analysis.*\n",

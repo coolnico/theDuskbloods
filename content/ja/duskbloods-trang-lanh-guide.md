@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "The Duskbloods トラン・ラン完全攻略——ダークムーン隠密と暗月の娘、マーマ・ナータの銀蛇召喚、魅惑の花嫁の血飲み制圧、フェーズ別プラン、そして難易度 4 の伏撃型をどう乗りこなすか。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 
 当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **B ティアの高スキル枠**——いちばん安定しているわけではないが、綺麗な手つきでは極めて危険。戦いの始まりを自分で選びたいなら、トランだ。
 
-![トラン・ラン — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg)
+![トラン・ラン — ブラッドスウォーン立ち絵](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2)
 
 詳細ステータスと設定は [トラン・ランのキャラクター頁](/ja/characters/trang-lanh)。本稿は **使い方** の実践ガイド。
 
@@ -195,4 +195,4 @@ The Duskbloods は 4 フェーズの Dusk Battle。トランの役割は時間�
 
 *関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide) · [サミル・パトリス攻略](/ja/guides/duskbloods-senator-samir-patres-guide)*
 
-*画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*
+*画像：公式素材 （权利归原权利人）（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

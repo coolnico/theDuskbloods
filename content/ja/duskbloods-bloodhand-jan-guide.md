@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "The Duskbloods ブラッドハンド・ジャン完全攻略——ブラッドハンド系譜の反撃回復とブラッドロードの魅了仕組み、ブリンクとブラッドサレンダーのコンボ、フェーズ別プラン、そしてなぜこの血に飢えた斧がネットテスト A ティアの長試合の王なのか。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **A ティアの専門家**——ネットテスト版で最も強い長試合キャラ。クリーンなワンショットではなく圧力と持続で勝ちたいなら、ジャンだ。
 
 
-![ブラッドハンド・ジャン — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+![ブラッドハンド・ジャン — ブラッドスウォーン立ち絵](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ The Duskbloods は 4 フェーズの Dusk Battle。ジャンの役割は時間�
 
 *関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide) · [サミル・パトリス攻略](/ja/guides/duskbloods-senator-samir-patres-guide)*
 
-*画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*
+*画像：公式素材 （权利归原权利人）（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

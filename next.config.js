@@ -3,6 +3,8 @@ const createNextIntlPlugin = require('next-intl/plugin');
 const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
 const nextConfig = {
+  // Hide the floating "N" Dev Tools badge in `next dev` so it doesn't cover UI.
+  devIndicators: false,
   images: {
     unoptimized: true,
   },

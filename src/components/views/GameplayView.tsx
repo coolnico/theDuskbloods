@@ -16,30 +16,31 @@ type VirtueType = { title: string; desc: string };
 type RegionFeature = { title: string; desc: string };
 type FaqItem = { q: string; a: string };
 
-const GGBASE = 'https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide';
+const GGBASE = 'https://img.duskbloods.net/dusk';
+const V = '?v=2';
 
 const virtueImages = [
-  `${GGBASE}/virtue/pc/img_01.jpg`,
-  `${GGBASE}/virtue/pc/img_02.jpg`,
-  `${GGBASE}/virtue/pc/img_03.jpg`,
-  `${GGBASE}/virtue/pc/img_04.jpg`,
-  `${GGBASE}/virtue/pc/img_05.jpg`,
-  `${GGBASE}/virtue/pc/img_06.jpg`,
-  `${GGBASE}/virtue/pc/img_07.jpg`,
+  `${GGBASE}/virtue/pc/img_01.jpg${V}`,
+  `${GGBASE}/virtue/pc/img_02.jpg${V}`,
+  `${GGBASE}/virtue/pc/img_03.jpg${V}`,
+  `${GGBASE}/virtue/pc/img_04.jpg${V}`,
+  `${GGBASE}/virtue/pc/img_05.jpg${V}`,
+  `${GGBASE}/virtue/pc/img_06.jpg${V}`,
+  `${GGBASE}/virtue/pc/img_07.jpg${V}`,
 ];
 
 const enhancingImages = [
-  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_levelup.jpg`,
-  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_compact.jpg`,
-  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_kin_ex.png`,
-  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg`,
+  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_levelup.jpg${V}`,
+  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_compact.jpg${V}`,
+  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_kin_ex.png${V}`,
+  `${GGBASE}/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg${V}`,
 ];
 
 
 const battleImages = [
-  `${GGBASE}/battlefactor/pc/img_01.jpg`,
-  `${GGBASE}/battlefactor/pc/img_02.jpg`,
-  `${GGBASE}/battlefactor/pc/img_03.jpg`,
+  `${GGBASE}/battlefactor/pc/img_01.jpg${V}`,
+  `${GGBASE}/battlefactor/pc/img_02.jpg${V}`,
+  `${GGBASE}/battlefactor/pc/img_03.jpg${V}`,
 ];
 
 const colClasses: Record<number, string> = { 2: 'sm:grid-cols-2', 3: 'sm:grid-cols-3', 4: 'sm:grid-cols-4' };

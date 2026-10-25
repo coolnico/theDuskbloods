@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-23"
 modified: "2026-10-23"
 summary: "《黃昏血族》長老 Samir Patres（Senator Samir Patres）完全攻略——不動劍術完美格擋、血之門徒技能經濟、血樁沼澤與蜥形衝鋒、分階段打法，以及如何駕馭這個 B 檔高難度反 carry角色。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 ---
 
@@ -20,7 +20,7 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 > 譯名說明：官方中文資料寫作「長老 Samir Patres」，姓名保留英文。本文沿用該寫法，英文全名 **Senator Samir Patres** 一併標註。
 
-![長老 Samir Patres — 血誓者立繪](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg)
+![長老 Samir Patres — 血誓者立繪](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2)
 
 完整數值與背景見 [Samir 角色頁](/zh-TW/characters/senator-samir-patres)。本篇是**怎麼玩**的實戰攻略。
 
@@ -195,4 +195,4 @@ Samir 難度 4，因為計畫是技術向的。如果你沒有格擋價值還在
 
 *相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [陳蘭攻略](/zh-TW/guides/duskbloods-trang-lanh-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide)*
 
-*圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*
+*圖片：官方素材 （权利归原权利人）（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

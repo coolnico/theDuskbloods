@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "Complete Sniper Layla guide for The Duskbloods — Nighteye lock-ons, Neb-ra Vanishing swarm repositions, Verd Gatling Gun bursts, phase-by-phase game plan, and how to own the long angle as the network test's A-tier long-range pick."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 
 She finished as an **A-tier specialist** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) — the long-range pick. If you want to decide who dies before they know you are there, Layla is how.
 
-![Sniper Layla — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg)
+![Sniper Layla — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2)
 
 Full stats and lore live on the [Sniper Layla character page](/characters/sniper-layla). This guide is the **how-to-play** companion.
 
@@ -195,4 +195,4 @@ Pick **Layla** if you want to own sightlines and pick fights from range. Pick **
 
 *Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
-*Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*
+*Image credit: official materials （权利归原权利人） (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

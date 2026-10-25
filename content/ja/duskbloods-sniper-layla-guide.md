@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "The Duskbloods 狙撃手レイラ完全攻略——夜の瞳のロックと観察、ネブラ・バニッシュの虫群再配置、ヴェルド・ガトリングのバースト、フェーズ別プラン、そしてネットテスト A ティアの長距離ピックで射線をどう支配するか。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 ---
 
@@ -20,7 +20,7 @@ tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 
 > 呼び方について：公式日本語資料は「狙撃手レイラ」。本稿でも英名 **Sniper Layla** を併記する。
 
-![狙撃手レイラ — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg)
+![狙撃手レイラ — ブラッドスウォーン立ち絵](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2)
 
 詳細ステータスと設定は [レイラのキャラクター頁](/ja/characters/sniper-layla)。本稿は **使い方** の実践ガイド。
 
@@ -197,4 +197,4 @@ The Duskbloods は 4 フェーズの Dusk Battle。レイラの役割は時間�
 
 *関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [サミル・パトリス攻略](/ja/guides/duskbloods-senator-samir-patres-guide)*
 
-*画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*
+*画像：公式素材 （权利归原权利人）（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "Complete Bloodhand Jan guide for The Duskbloods — Bloodhand Lineage counter-heals and Lord of Blood spellbind explained, Blink and Surrender to My Blood combos, phase-by-phase game plan, and why this axe-wielding Bloodsworn is A-tier in the network test meta."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 He finished as an **A-tier specialist** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) — the best long-fight character in the network test build. If you like winning through pressure and sustain instead of clean one-shots, Jan is your pick.
 
 
-![Bloodhand Jan — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+![Bloodhand Jan — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ Pick **Albert** if you want the safest all-rounder and clean neutral. Pick **Blo
 
 *Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
-*Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*
+*Image credit: official materials （权利归原权利人） (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

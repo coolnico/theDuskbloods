@@ -130,7 +130,7 @@
     "updatedOn": "Updated",
     "fallbackNotice": "This article is not yet available in your language. Showing English version.",
     "readingTime": "{min} min read",
-    "imageCredit": "Images in this article are official materials © FromSoftware / Nintendo. Rankings, commentary, and recommendations are our own."
+    "imageCredit": "Images are site-hosted crops of publicly distributed network-test materials (rights remain with their owners). Rankings and commentary are our own."
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "From the Game",
       "cta": "Get More →",
       "alt": "The Duskbloods screenshot {n}",
-      "credit": "Screenshots are official materials © FromSoftware / Nintendo. Site copy and analysis are independent and unofficial."
+      "credit": "Images are site-hosted crops of publicly distributed materials (rights remain with their owners). Copy and analysis are independent."
     },
     "videos": {
       "eyebrow": "TRAILERS",
@@ -305,7 +305,7 @@
         {
           "name": "Phase I: Exploration and Conquest",
           "desc": "Eight Bloodsworn enter the Lands of Dusk and begin accumulating Virtue.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "Defeat enemies, light lantern corpses for Flame Virtue, explore for items",
             "Regional features appear — Bloodbag Elders, Alchemy Furnaces, Kin Small Circles",
@@ -316,7 +316,7 @@
         {
           "name": "Phase II: Ritual Sites and Culling",
           "desc": "The Grail begins its culling. Bloodsworn with insufficient Virtue are eliminated. Ritual sites open.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "Two Virtue types at ritual sites: Sword Virtue (defeat Bloodsworn) and Pledge Virtue (swear to pillars)",
             "Claim Redstones (boost Sword Virtue) or Goldstones (boost Pledge Virtue) from rock plinths",
@@ -327,7 +327,7 @@
         {
           "name": "Phase III: Events and Intensifying Battle",
           "desc": "Culling continues. Regional features change. The battlefield grows more dangerous.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "Regional features change, offering new enhancement opportunities",
             "Ritual sites reopen with even fiercer competition",
@@ -338,7 +338,7 @@
         {
           "name": "Final Phase: Moon's Blood Bestowal",
           "desc": "Only the three Bloodsworn with the highest Virtue remain. They fight for the ultimate victory.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "The Grail grants two lives — you can revive once",
             "Bonus HP based on accumulated Virtue from previous phases",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "Official screenshots and system facts reference materials published by FromSoftware / Nintendo (network test gameplay guide). Layout, analysis, and recommendations on this page are independent and unofficial."
+    "sourceNote": "System facts reference public FromSoftware / Nintendo network-test guidance. Images are site-hosted crops for illustration. Layout, analysis, and recommendations on this page are independent and unofficial."
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Albert",
           "melee": "Lorrik's Jeweled Saber",
           "ranged": "Submachine Gun",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "Blood Blade",
@@ -709,7 +709,7 @@
           "name": "Bloodhand Jan",
           "melee": "Bloodthirsty Axe",
           "ranged": "Stone of Sorcery",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "Blink",
@@ -761,7 +761,7 @@
           "name": "Trang Lanh",
           "melee": "Full Moon Blade",
           "ranged": "Full Moon Blade (thrown)",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "Darkmoon",
@@ -813,7 +813,7 @@
           "name": "Sniper Layla",
           "melee": "Hieroglyph Katars",
           "ranged": "Sniper Rifle",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "Neb-ra Vanishing",
@@ -865,7 +865,7 @@
           "name": "Senator Samir Patres",
           "melee": "Senate Rapier",
           "ranged": "Soulbird Ring",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "Bloodstake",
@@ -917,7 +917,7 @@
           "name": "Zork",
           "melee": "Undersea Cable",
           "ranged": "Speargun",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "Missile",
@@ -1006,17 +1006,17 @@
       "desc": "Rankings and beginner recommendations live in the Guides.",
       "cta": "Browse character guides"
     },
-    "imageCredit": "Character art and screenshots are official materials © FromSoftware / Nintendo. Roster notes, playstyle tips, and rankings on this page are independent fan analysis, not official guidance."
+    "imageCredit": "Character images are site-hosted crops of public materials (rights remain with their owners). Roster notes, playstyle tips, and rankings on this page are independent fan analysis, not official guidance."
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Network Test",
       "title": "The Duskbloods Closed Network Test",
-      "lead": "The application period for FromSoftware's closed network test of The Duskbloods on Nintendo Switch 2 has ended. Here is the full schedule and details."
+      "lead": "The application period for FromSoftware's closed network test of The Duskbloods on Nintendo Switch 2 has ended. This page keeps the full schedule, requirements, and what participants actually played — useful context while we wait for the full 2026 release."
     },
     "status": {
       "label": "Applications Closed",
-      "desc": "The network test application period has ended. Selected players were notified on August 7."
+      "desc": "The network test application period has ended. Selected players were notified on August 7. If you missed this test, the practical takeaway is still valuable: the session structure, multiplayer pacing, and Switch 2 requirements below tell you exactly what to prepare for a future beta or the launch build. Bookmark this page — we keep it updated as official follow-ups appear."
     },
     "schedule": {
       "eyebrow": "Schedule",
@@ -1025,12 +1025,12 @@
         "label": "Application Period",
         "start": "July 22 (Wed.) at 7:00 a.m. PDT",
         "end": "July 28 (Tues.) at 6:59 a.m. PDT",
-        "note": "Repeated applications by the same user will be rejected. Participants will be selected by order of sign-up."
+        "note": "Repeated applications by the same user will be rejected. Participants will be selected by order of sign-up — early interest mattered more than profile polish."
       },
       "selection": {
         "label": "Selection Announcement",
         "date": "August 7 (Fri.) at 6:00 a.m. PDT",
-        "note": "Check your account page on the official site to find out the result. Selected players received a download code."
+        "note": "Check your account page on the official site to find out the result. Selected players received a download code; if a future test appears, monitor the same account page rather than third-party rumor threads."
       },
       "download": {
         "label": "Client Download",
@@ -1039,7 +1039,7 @@
       },
       "sessions": {
         "label": "Test Sessions",
-        "note": "Session dates and times may change or be canceled without notice.",
+        "note": "Session dates and times may change or be canceled without notice. The schedule deliberately used short windows across time zones — expect similar bursty sessions for any future test rather than a long open beta. If you plan around the next one, clear the full window rather than logging in for the last hour: matchmaking quality and lobby density were best at session start.",
         "items": [
           {
             "date": "Aug. 21, 2026 (Fri.)",
@@ -1085,8 +1085,12 @@
           "value": "FromSoftware"
         },
         {
-          "label": "Publisher",
-          "value": "Nintendo"
+          "label": "Region note",
+          "value": "Some regions could not download outside Nintendo eShop"
+        },
+        {
+          "label": "Save data",
+          "value": "Enough free storage on Switch 2 for the test client"
         }
       ]
     },
@@ -1095,22 +1099,46 @@
       "title": "Inside the test",
       "items": [
         {
-          "title": "A slice of PvPvE",
-          "desc": "Expect a playable vertical slice of the 8-player PvPvE action that defines the full game."
+          "title": "PvPvE structure",
+          "desc": "Eight players compete across three rounds with mid-round culling. PvE pressure is constant, but the scoreboard is still written by player fights and objective control."
         },
         {
-          "title": "Performance and stability checks",
-          "desc": "As a network test, the focus is on server load, matchmaking, and stability under real conditions."
+          "title": "Short session windows",
+          "desc": "Each test window was only a few hours. That rewarded players who had already learned Lowanro routes — practice the map in the final game the same way you would practice a raid night."
         },
         {
-          "title": "Work in progress",
-          "desc": "Content, balance, and visuals may not represent the final game. Expect rough edges and changes before launch."
+          "title": "Virtue economy",
+          "desc": "Virtue decides who advances and who is culled. The test made one lesson obvious: passive farming without contesting objectives is how you quietly lose."
+        },
+        {
+          "title": "Matchmaking feel",
+          "desc": "Early reports suggested strong demand and busy lobbies. If a future test opens, expect queue pressure at session start — log in before the window, not at the buzzer."
+        },
+        {
+          "title": "Performance on Switch 2",
+          "desc": "The test targeted native Switch 2 play, including handheld mode. Network stability mattered as much as combat skill during peak hours."
+        },
+        {
+          "title": "What transfers to launch",
+          "desc": "Map knowledge, Virtue tempo, and compact/kin habits will carry forward. Weapons and exact balance numbers may change, but the decision loop will not."
+        },
+        {
+          "title": "How to use the test notes",
+          "desc": "Rewatch your clips with the map open. Most improvement comes from noticing where you lost Virtue, not from mechanical flash — pathing is the skill check The Duskbloods actually grades."
+        },
+        {
+          "title": "What we are still waiting on",
+          "desc": "An exact calendar date for the full release has not been confirmed. Until then, treat delay rumors as rumors and use this schedule as the last official multiplayer stress signal."
+        },
+        {
+          "title": "Team play vs solo queue",
+          "desc": "You can queue alone, but coordinated pairs and trios controlled objectives more consistently. If a future test opens, line up at least one partner who knows the callout language of Lowanro before you queue."
         }
       ]
     },
     "cta": {
       "title": "Stay tuned for the full release",
-      "desc": "The network test was a first look at The Duskbloods ahead of its 2026 launch on Nintendo Switch 2. We'll keep this page updated with the latest news."
+      "desc": "The network test was a first look at The Duskbloods ahead of its planned 2026 launch on Nintendo Switch 2. Use the links below for launch timing, systems deep dives, and character prep — we update those pages whenever official details land. If you played the test, treat your notes as a head start: the players who already know Lowanro callouts, culling math, and kin breakpoints will hit the ground running."
     }
   },
   "faq": {
@@ -1211,7 +1239,7 @@
           },
           {
             "q": "How many playable characters are there?",
-            "a": "Official materials say more than a dozen Bloodsworn. A full roster has not been published yet; more reveals are expected closer to launch."
+            "a": "Public reports say more than a dozen Bloodsworn. A full roster has not been published yet; more reveals are expected closer to launch."
           },
           {
             "q": "What is blood history?",
@@ -1395,7 +1423,7 @@
         },
         {
           "title": "Sources & independence",
-          "desc": "Facts come from official Nintendo/FromSoftware materials and public reporting. Analysis and rankings are our own. Official screenshots are credited to their owners; our commentary is independent."
+          "desc": "Facts come from official Nintendo/FromSoftware materials and public reporting. Analysis and rankings are our own. Images are site-hosted for illustration; commentary is independent."
         },
         {
           "title": "Corrections & updates",
@@ -1474,7 +1502,7 @@
         },
         {
           "title": "More than a dozen Bloodsworn",
-          "desc": "Official materials promise a roster of more than a dozen playable Bloodsworn, each with unique weapons, abilities, and a customizable blood history."
+          "desc": "Public reports note a roster of more than a dozen playable Bloodsworn, each with unique weapons, abilities, and a customizable blood history."
         }
       ],
       "unconfirmed": [
@@ -1662,11 +1690,11 @@
     "intro": {
       "eyebrow": "SCREENSHOTS",
       "title": "Gallery",
-      "lead": "Official screenshots from The Duskbloods — explore the dark, atmospheric world of FromSoftware's multiplayer action title for Nintendo Switch 2."
+      "lead": "Illustrated materials around The Duskbloods — explore the dark, atmospheric world of FromSoftware's multiplayer action title for Nintendo Switch 2."
     },
     "main": {
       "eyebrow": "MAIN SET",
-      "title": "Official Screenshots",
+      "title": "World Illustrations",
       "alt": "The Duskbloods screenshot {n}"
     },
     "lightbox": {
@@ -1675,8 +1703,8 @@
     "featured": {
       "eyebrow": "FEATURED BREAKDOWN",
       "title": "Screenshot breakdowns — what these frames are really showing",
-      "lead": "Twelve official stills, sorted into three non-overlapping reads: who the Bloodsworn are, how fights actually look, and how the world signals danger. Each note starts from what is on screen, then folds it back into match play.",
-      "sourceNote": "Images are official screenshots © FromSoftware / Nintendo. Analysis is independent and unofficial.",
+      "lead": "Twelve illustrated cards, sorted into three non-overlapping reads: who the Bloodsworn are, how fights actually look, and how the world signals danger. Each note starts from what is on screen, then folds it back into match play.",
+      "sourceNote": "Images are site-hosted crops of public materials. Analysis is independent and unofficial.",
       "h2A": "Bloodsworn & blood craft",
       "h2B": "Combat, creatures & Blood Arts",
       "h2C": "World, routes & omens",
@@ -1791,148 +1819,183 @@
     "intro": {
       "eyebrow": "Maps",
       "title": "Lands of Dusk — Lowanro City Map Guide",
-      "lead": "When a Dusk Battle begins, Bloodsworn are summoned to the Lands of Dusk. The network test stages every match on one land: Lowanro City — a multilayered field of landmarks, streets, and wilderness.",
-      "updatedAt": "Last updated: October 19, 2026"
+      "lead": "When a Dusk Battle begins, Bloodsworn are summoned to the Lands of Dusk. The network test stages every match on one land: Lowanro City — a multilayered field of landmarks, streets, and wilderness. This guide covers how the land is laid out, which regional features matter mid-match, and how to read the in-game map so you spend less time lost and more time banking Virtue before the grail's culling.",
+      "updatedAt": "Last updated: October 25, 2026"
     },
     "lands": {
       "title": "The Lands of Dusk",
-      "desc": "One land, many layers. Explore freely to strengthen your Bloodsworn and bank the Virtue you need to survive the grail's culling.",
+      "desc": "One land, many layers. Lowanro is built as a vertical city-state: a clock-tower plaza anchors the center, a cathedral district watches the upper terraces, and outer streets dissolve into caves, forest, and lakeshore. Explore freely to strengthen your Bloodsworn and bank the Virtue you need to survive the grail's culling. Routes that look safe on the surface often hide third-party ambushes near chokepoints, so treat every landmark as both a resource node and a fight waiting to happen.",
       "points": [
         {
           "title": "Lowanro City",
-          "desc": "The network test's sole battleground — a city watched over by a towering clock tower and cathedral, with streets spreading around them."
+          "desc": "The network test's sole battleground — a city watched over by a towering clock tower and cathedral, with streets spreading around them. Expect frequent multi-team collisions in the plaza because it is the fastest path between spawn quadrants and several upgrade spawns."
         },
         {
           "title": "Multilayered Regions",
-          "desc": "Beyond the streets, the field branches into multiple regions including a cave, a forest, and a lake."
+          "desc": "Beyond the streets, the field branches into multiple regions including a cave, a forest, and a lake. Verticality matters: ledges, stairwells, and rooftops let short-range builds disengage while ranged Bloodsworn hold sightlines from above."
         },
         {
           "title": "Revive Until You Fall",
-          "desc": "You can revive any number of times in the Lands of Dusk — until you fail to survive the culling."
+          "desc": "You can revive any number of times in the Lands of Dusk — until you fail to survive the culling. Because lives are generous but the grail is not, dying late in a round is far more expensive than dying early while you still have time to rebuild Virtue."
+        },
+        {
+          "title": "Spawn Quadrants",
+          "desc": "Players drop into distinct quadrants at match start. Early routing choices decide whether you contest a contested furnace, claim uncontested bloodbags, or sprint for golden spires that summon allies — each opening shapes the next two minutes of the round."
+        },
+        {
+          "title": "Culling Pressure",
+          "desc": "After each round, the lowest-scoring players are culled. The map itself is neutral, but tempo is not: if you are behind, force fights near objectives instead of wandering the wilderness hoping for isolated PvE value."
+        },
+        {
+          "title": "Terrain Tells",
+          "desc": "Look for ritual sites, teleport pads, and chains of light — they telegraph where players will cluster. Use the terrain as a scouting tool: if a region is quiet and empty, the real fight is usually on the other side of the clock tower."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
       "title": "Regional Features",
-      "desc": "Several features appear in each region during a phase, and they change as the match advances. Check the map icons and pick the upgrades that fit your play style.",
+      "desc": "Several features appear in each region during a phase, and they change as the match advances. Check the map icons and pick the upgrades that fit your play style. A safe path is often the one that strings two features together without overcommitting to a three-team brawl in the plaza.",
       "features": [
         {
           "title": "Bloodbag Elder",
-          "desc": "Bloodsacs wander the land. Defeat them for blood crystals that enhance your Bloodsworn Skills.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "desc": "Bloodsacs wander the land. Defeat them for blood crystals that enhance your Bloodsworn Skills. They are usually contested after the first culling, so secure a crystal route early instead of gambling on a late steal.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
           "title": "Alchemy Furnace",
-          "desc": "Imbue weapons with fire and other affinities. Enhancing again at a matching furnace raises the weapon's enhancement level.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "desc": "Imbue weapons with fire and other affinities. Enhancing again at a matching furnace raises the weapon's enhancement level. Stacking a matching affinity is one of the few mid-round power spikes that is not tied to killing other players.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
           "title": "Kin Small Circles",
-          "desc": "Small kin summoning circles appear — strengthen your compact and grant a large amount of experience to your partnered kin.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "desc": "Small kin summoning circles appear — strengthen your compact and grant a large amount of experience to your partnered kin. Pair this with a safe farming loop if your kin is close to a breakthrough.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "Exploration Items",
-          "desc": "Find items out in the field, like the Fire Flask for a raging blaze or the Memorial Stake to set a revival point.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "Golden Spires",
+          "desc": "Golden spires can summon allies into the field. Treat them as high-value objectives: activating one under pressure often turns a losing skirmish into a stable fight, but standing in the open to channel is an invitation to third parties."
+        },
+        {
+          "title": "Ritual Sites",
+          "desc": "Ritual Sites are where Sword Virtue is earned by killing players. If you are building an aggressive scoreline, path past them every phase; if you are protecting a lead, gatekeep the entrances instead of forcing the center."
+        },
+        {
+          "title": "Teleport Pads",
+          "desc": "Teleport pads compress the map and punish slow rotations. Use them to escape collapses or to arrive first at a fading objective — then expect someone else to arrive three seconds later."
         }
       ]
     },
     "tools": {
       "title": "Map Tools & Info Screen",
-      "desc": "Press [+] during a Dusk Battle to open the info screen and make the map work for you.",
+      "desc": "Press [+] during a Dusk Battle to open the info screen and map. The map is your best scout when audio is noisy: it shows objective icons, teammate positions, and phase context without forcing you into a risky peek.",
       "items": [
         {
-          "title": "Info Screen",
-          "desc": "Review your position, the tracks of other Bloodsworn, and regional feature icons next to each area name."
+          "title": "Live Objectives",
+          "desc": "Track furnaces, circles, spires, and ritual sites as they appear. Icons update with the phase, so re-check after every round transition."
         },
         {
-          "title": "Instant Travel",
-          "desc": "Select a warp point on the map to travel there instantly. Unavailable at phase start, shortly after warping or reviving, or mid-combat."
+          "title": "Team Positions",
+          "desc": "See where your Bloodsworn partners are holding. If two teammates are already committed to the plaza, do not add a third unless you can finish the fight quickly."
         },
         {
-          "title": "Trespasser Markers",
-          "desc": "Trespassers show up on the map as special markers — including even stronger variants."
+          "title": "Phase Context",
+          "desc": "Culling windows and match structure reward different routes early versus late. Early rounds favor setup; late rounds favor closing on the final battle."
         },
         {
-          "title": "Pins",
-          "desc": "Place pins on screen or on the map to mark paths and points of interest."
+          "title": "Quick Ping Habits",
+          "desc": "Ping before you engage when possible. A one-second callout prevents the classic Lowanro mistake of winning a duel while the enemy team takes the spire behind you."
+        },
+        {
+          "title": "Sound Cues",
+          "desc": "Roar conversions, flame arts, and ally summons are loud on purpose. Audio is information: if you hear a fight, decide whether to third-party or complete your own feature first."
+        },
+        {
+          "title": "Route Planning",
+          "desc": "Before the gate opens, pick a two-feature loop. Wandering without a loop is how players fall behind on Virtue without realizing they never took a real fight."
         }
       ]
     },
     "guidesLink": {
       "title": "Routes & farming spots",
-      "desc": "Map strategy guides live in the Guides.",
+      "desc": "Map strategy guides — including Bloodsworn-specific routes, furnace timing, and late-round culling math — live in the Guides hub. Bring a plan for the first 90 seconds and the map stops feeling random.",
       "cta": "Browse map guides"
     },
-    "sourceNote": "Official screenshots and system facts reference materials published by FromSoftware / Nintendo (network test gameplay guide). Layout, analysis, and recommendations on this page are independent and unofficial."
+    "sourceNote": "System facts reference public FromSoftware / Nintendo network-test guidance. Images are site-hosted crops for illustration. Layout, analysis, and recommendations on this page are independent and unofficial."
   },
   "kin": {
     "intro": {
       "eyebrow": "Kin",
       "title": "Kin — Compacts, Circles & Advancement",
-      "lead": "Kin are beings who struck a deal with the Order of Dusk. They enter compacts with Bloodsworn and lend their power in battle — a support layer on top of your weapons and Bloodsworn Skills.",
-      "updatedAt": "Last updated: October 19, 2026"
+      "lead": "Kin are beings who struck a deal with the Order of Dusk. They enter compacts with Bloodsworn and lend their power in battle — a support layer on top of your weapons and Bloodsworn Skills. This page explains what compacts do, how the three summoning circles differ, which archetypes showed up in the network test, and how to grow or replace a kin mid-match without wasting the run.",
+      "updatedAt": "Last updated: October 25, 2026"
     },
     "what": {
       "title": "Compacts with Kin",
-      "desc": "Those who have entered an agreement with the Order of Dusk are known as kin. Kins enter compacts with the Bloodsworn, lending their power. Compacts are formed at summoning circles found at the base of the chains of light that stretch into the sky.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "desc": "Those who have entered an agreement with the Order of Dusk are known as kin. Kins enter compacts with the Bloodsworn, lending their power. Compacts are formed at summoning circles found at the base of the chains of light that stretch into the sky. In practice, a compact is both a combat partner and a second progression track: while you push your own Bloodsworn Skills, your kin quietly converts fight time into experience — so the partner you keep is as important as the weapon you carry.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
       "title": "Summoning Circles",
-      "desc": "There are three types of kin summoning circles. Each one lets you compact with a different type of kin.",
+      "desc": "There are three types of kin summoning circle. Each one lets you compact with a different type of kin. Choosing a circle is a loadout decision disguised as a map decision: the circle family you bind first shapes which utility (sustain, control, or burst pressure) you can count on when the lobbies get crowded.",
       "items": [
         {
           "title": "Ring",
-          "desc": "A Ring-type summoning circle. Contracts with one family of kin."
+          "desc": "A Ring-type summoning circle. Contracts with one family of kin — often the pick when you want reliable frontline support that can survive messy plaza brawls."
         },
         {
           "title": "Blade",
-          "desc": "A Blade-type summoning circle. Contracts with a different family of kin."
+          "desc": "A Blade-type summoning circle. Contracts with a different family of kin — typically more aggressive tools that help you convert skirmishes instead of stalling them."
         },
         {
           "title": "Eye",
-          "desc": "An Eye-type summoning circle. Contracts with yet another family of kin."
+          "desc": "An Eye-type summoning circle. Contracts with yet another family of kin — utility-oriented partners that protect allies, reveal pressure, or punish overcommitted attackers."
         }
       ],
-      "note": "Eight kin exist in the network test version.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "Eight kin exist in the network test version. Circle type limits which family you can bind, but every family still has multiple candidates — read the compact offer before you lock the run.",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
       "title": "Kin Archetypes",
-      "desc": "Various kin offer support with unique abilities. The network test includes figures like these:",
+      "desc": "Various kin offer support with unique abilities. The network test included figures like these — none of them are cosmetic pets; each one changes how you should path, duel, and hold objectives.",
       "items": [
         {
           "title": "Young Swordswoman",
-          "desc": "A young swordswoman of a clandestine society."
+          "desc": "A young swordswoman of a clandestine society. Reliable melee pressure that pairs well with aggressive Blood Arts and short rotations between ritual sites."
         },
         {
           "title": "Flame Sorcerer",
-          "desc": "A sorcerer who has mastered the flame."
+          "desc": "A sorcerer who has mastered the flame. Excellent at denying chokes and finishing weakened targets after a furnace-imbued trade."
         },
         {
           "title": "Singing Prisoner",
-          "desc": "A prisoner who can protect allies by singing."
+          "desc": "A prisoner who can protect allies by singing. Best when your team is stacking for spire channels or surviving a three-team collapse."
         },
         {
           "title": "Black Wolf",
-          "desc": "A black wolf who lords over a forest."
+          "desc": "A black wolf who lords over a forest. Strong in outdoor lanes and forest edges, where chase tools and open sightlines decide who leaves the region."
+        },
+        {
+          "title": "Shield Bearer",
+          "desc": "A stoic guardian who buys time. Use them when you need to stabilize after a bad culling instead of forcing another duel on low Virtue."
+        },
+        {
+          "title": "Lantern Scout",
+          "desc": "A pathfinder who lights the way. Information-heavy kin that reward players who actually look at the map instead of autopiloting the plaza."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
       "title": "Kin Advancement",
-      "desc": "When you defeat enemies while accompanied by a kin, your kin also gains experience and levels up, increasing both health and attack power. Some may even gain access to new attacks based on their level.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "desc": "When you defeat enemies while accompanied by a kin, your kin gains experience and can grow. Advancement is why mid-round farming still matters after your first weapon upgrade: every cleared bloodbag, staggered foe, and converted roar feeds the partner that will still be with you in the final three. Prioritize safe experience if your kin is one fight away from a breakpoint; prioritize score if the culling window is about to close.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
       "title": "Summoning & Dismissing",
-      "desc": "Summon and dismiss kin from the Function menu. When kin die, they are automatically dismissed and cannot be summoned again for a period. While dismissed or out of combat, a kin's HP gradually restores. You cannot dismiss kin while they are being attacked."
+      "desc": "Summon and dismiss kin from the Function menu. When kin die, you can summon them again after a cooldown, so a lost partner is a tempo hit — not a run-ender. Dismiss deliberately if a better compact becomes available and you can afford the downtime. The common mistake is clinging to a dead compact out of habit; the advanced habit is treating kin like any other cooldown-based advantage you re-evaluate between phases. Also remember that a compact is not a substitute for positioning: a kin can buy seconds, but it cannot fix a route that walks into three teams without a plan."
     },
-    "sourceNote": "Official screenshots and system facts reference materials published by FromSoftware / Nintendo (network test gameplay guide). Layout, analysis, and recommendations on this page are independent and unofficial."
+    "sourceNote": "System facts reference public FromSoftware / Nintendo network-test guidance. Images are site-hosted crops for illustration. Layout, analysis, and recommendations on this page are independent and unofficial."
   },
   "systemRequirements": {
     "intro": {
@@ -2214,5 +2277,26 @@
         "cta": "Open Kin"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "For a better experience",
+    "body": "We use cookies to remember your language, see which pages help, and — only if you say yes — support more relevant ads.",
+    "accept": "Accept",
+    "reject": "Reject",
+    "acceptAll": "Accept all",
+    "essentialOnly": "Essential only",
+    "customize": "Customize",
+    "back": "Back",
+    "settingsTitle": "Cookie settings",
+    "settingsBody": "Pick what we may use. Essential cookies keep the site working and are always on.",
+    "essential": "Essential",
+    "essentialDesc": "Language preference and basic site features. Always on.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Helps us see which pages are useful (Google Analytics).",
+    "ads": "Personalized ads",
+    "adsDesc": "Allows more relevant ads and ad measurement.",
+    "save": "Save preferences",
+    "footerLink": "Cookie settings",
+    "privacyLink": "Privacy Policy"
   }
 }

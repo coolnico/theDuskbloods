@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-23"
 modified: "2026-10-23"
 summary: "Полный гайд по Сенатору Самиру Патресу в The Duskbloods — «Непоколебимый меч», «Кровавый ученик», «Кровавый кол» и «Заурийская форма», план по фазам и как вести B-тир техничного анти-кэрри сетевого теста."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 Он занял **B-тир (техника / анти-кэрри)** в нашем [тир-листе Кровоклятых](/ru/guides/duskbloods-tier-list) — высокий потолок и болезненный пол. Берите, когда хотите **достроиться раньше** и **срезать лидера**.
 
-![Сенатор Самир Патрес — портрет Кровоклятого](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg)
+![Сенатор Самир Патрес — портрет Кровоклятого](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2)
 
 Полные статы и лор — на [странице Самира](/ru/characters/senator-samir-patres). Этот гайд — практическое **«как играть»**.
 
@@ -184,4 +184,4 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 *Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide)*
 
-*Изображения: официальные материалы © FromSoftware / Nintendo. Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*
+*Изображения: официальные материалы （权利归原权利人）. Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

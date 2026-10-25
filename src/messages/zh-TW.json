@@ -41,8 +41,8 @@
       "description": "The Duskbloods 發售日追蹤：官方 2026 年 Switch 2 窗口、完整時間線、已確認 vs 傳聞日期、12 月 31 日追蹤站分析、延期風險，以及公佈後如何購買。"
     },
     "gallery": {
-      "title": "The Duskbloods 截圖庫 — 官方截圖與戰鬥解析",
-      "description": "The Duskbloods 官方截圖與原創解析：Bloodsworn 戰鬥、洛安榮地標、血技前搖、PvPvE 壓力，以及終盤關卡判讀。"
+      "title": "The Duskbloods 截圖庫 — 本站託管配圖與戰鬥解析",
+      "description": "The Duskbloods 本站託管配圖與原創解析：Bloodsworn 戰鬥、洛安榮地標、血技前搖、PvPvE 壓力，以及終盤關卡判讀。"
     },
     "contact": {
       "title": "聯繫我們 — The Duskbloods - 黃昏血族",
@@ -130,7 +130,7 @@
     "updatedOn": "更新於",
     "fallbackNotice": "該文章暫無您的語言版本，正在顯示英文版。",
     "readingTime": "{min} 分鐘閱讀",
-    "imageCredit": "本文配圖為 FromSoftware / Nintendo 官方素材。排名、評論與建議為本站獨立觀點。"
+    "imageCredit": "本文配圖為 FromSoftware / Nintendo 公开资料裁剪图。排名、評論與建議為本站獨立觀點。"
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "遊戲場景",
       "cta": "查看更多 →",
       "alt": "黃昏血族 截圖 {n}",
-      "credit": "截圖來自 FromSoftware / Nintendo 官方素材。站內文案與分析為獨立非官方內容。"
+      "credit": "截圖來自 FromSoftware / Nintendo 公开资料裁剪图。站內文案與分析為獨立非官方內容。"
     },
     "videos": {
       "eyebrow": "預告片",
@@ -305,7 +305,7 @@
         {
           "name": "第1階段：探索與征伐",
           "desc": "8位血族戰士進入黃昏之地，開始累積美德值。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "擊殺敵人、點亮遺體顱骨獲取燈之美德、探索收集道具",
             "各地區出現基礎特性——血袋翁、鍊金爐、眷屬小魔法陣",
@@ -316,7 +316,7 @@
         {
           "name": "第2階段：儀式場與篩選",
           "desc": "聖杯開始篩選，美德值不足者被淘汰。儀式場開放，競爭升級。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "儀式場出現兩種美德：劍之美德（擊敗血族）和誓約美德（向誓柱起誓）",
             "可從石之座獲取赤石（增強劍之美德）或黃金石（增強誓約美德）",
@@ -327,7 +327,7 @@
         {
           "name": "第3階段：事件與激戰",
           "desc": "篩選繼續，區域特性變化，戰場環境更加危險。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "區域特性發生變化，出現新的強化機會",
             "儀式場再次開放，競爭更加激烈",
@@ -338,7 +338,7 @@
         {
           "name": "最終階段：月亮授血",
           "desc": "僅剩3位美德值最高的血族戰士，爭奪最終勝利。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "聖杯授予兩條性命，可復活一次",
             "根據此前累積的美德值獲得額外HP",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "官方截圖與系統事實參考 FromSoftware / Nintendo 公布的資料（網路測試玩法指南）。本頁的版式、分析與建議為獨立非官方內容。"
+    "sourceNote": "本站託管配圖與系統事實參考 FromSoftware / Nintendo 公布的資料（網路測試玩法指南）。本頁的版式、分析與建議為獨立非官方內容。"
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Albert",
           "melee": "洛里克的寶刀",
           "ranged": "機關槍",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "血刃",
@@ -709,7 +709,7 @@
           "name": "血手 Jan",
           "melee": "渴血之斧",
           "ranged": "魔術之石",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "瞬身",
@@ -761,7 +761,7 @@
           "name": "莊瀾",
           "melee": "月輪之刃",
           "ranged": "月輪之刃（投擲）",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "暗月",
@@ -813,7 +813,7 @@
           "name": "狙擊手 Layla",
           "melee": "聖刻之卡塔爾",
           "ranged": "狙擊槍",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "內卜拉消散",
@@ -865,7 +865,7 @@
           "name": "長老 Samir Patres",
           "melee": "元老院細劍",
           "ranged": "靈鳥之戒",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "血刑柱",
@@ -917,7 +917,7 @@
           "name": "Zork",
           "melee": "海底電纜",
           "ranged": "魚叉槍",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "導彈",
@@ -1006,70 +1006,70 @@
       "desc": "排名與新手推薦看攻略區。",
       "cta": "瀏覽角色攻略"
     },
-    "imageCredit": "角色立繪與截圖為 FromSoftware / Nintendo 官方素材。本頁的角色說明、打法要點與評價為粉絲獨立分析，非官方指引。"
+    "imageCredit": "角色立繪與截圖為 FromSoftware / Nintendo 公开资料裁剪图。本頁的角色說明、打法要點與評價為粉絲獨立分析，非官方指引。"
   },
   "networkTest": {
     "intro": {
-      "eyebrow": "網路測試",
-      "title": "The Duskbloods - 黃昏血族 封閉網路測試",
-      "lead": "FromSoftware 在 Nintendo Switch 2 上舉辦的 The Duskbloods 封閉網路測試報名已截止。以下為完整時間安排與詳細資訊。"
+      "eyebrow": "网络测试",
+      "title": "The Duskbloods 封閉網路測試",
+      "lead": "FromSoftware 在 Nintendo Switch 2 上进行的《The Duskbloods》封閉網路測試報名已結束。本頁保留完整日程、要求與參與者實際玩到的内容——在等待 2026 年完整發售時，仍是有用的上下文。"
     },
     "status": {
-      "label": "報名已截止",
-      "desc": "網路測試的申請期間已結束。中選玩家已於 8 月 7 日收到通知。"
+      "label": "報名已結束",
+      "desc": "网络测试報名期已結束，入選玩家於 8 月 7 日收到通知。錯過測試也不要緊：下方的场次結構、多人節奏與 Switch 2 要求，仍能告诉你該為未來測試或首發版本準備什麼。請收藏本頁——官方有後續消息時我們會更新。"
     },
     "schedule": {
-      "eyebrow": "時間安排",
-      "title": "完整日程",
+      "eyebrow": "日程",
+      "title": "完整時間线",
       "application": {
-        "label": "申請期間",
-        "start": "7 月 22 日（週三）上午 7:00（太平洋夏令時間）",
-        "end": "7 月 28 日（週二）上午 6:59（太平洋夏令時間）",
-        "note": "同一用戶重複申請將被拒絕。參與者按報名順序選拔。"
+        "label": "報名期",
+        "start": "7 月 22 日（週三）7:00 a.m. PDT",
+        "end": "7 月 28 日（週二）6:59 a.m. PDT",
+        "note": "同一用户重复報名将被拒绝。參與者按報名先后順序選出——早下手比資料好看更重要。"
       },
       "selection": {
-        "label": "結果公布",
-        "date": "8 月 7 日（週五）上午 6:00（太平洋夏令時間）",
-        "note": "請在官網個人頁面查看申請結果。中選玩家將收到下載碼。"
+        "label": "入選公布",
+        "date": "8 月 7 日（週五）6:00 a.m. PDT",
+        "note": "在官網帳號頁查看結果。入選玩家獲得下载码；若未來再開測試，請盯住同一帳號頁，而不是第三方謠言帖。"
       },
       "download": {
-        "label": "用戶端下載",
-        "date": "8 月 18 日（週二）上午 6:00（太平洋夏令時間）起",
-        "note": "中選玩家可使用下載碼在 Nintendo Store 或 Nintendo eShop 下載網路測試版。部分地區不支援透過 Nintendo eShop 以外的方式下載。"
+        "label": "客戶端下載",
+        "date": "自 8 月 18 日（週二）6:00 a.m. PDT 起可用",
+        "note": "入選玩家可在 Nintendo Store 或 Nintendo eShop 使用下載碼。部分地區不支持除 eShop 外的下載方式。"
       },
       "sessions": {
-        "label": "測試時段",
-        "note": "測試時段可能會有變更或取消，恕不另行通知。",
+        "label": "測試場次",
+        "note": "場次日期時間可能變更或取消。日程刻意用跨時區短窗口——若有未來測試，也请預期類似的「脈衝式」場次，而不是長期開放測試。",
         "items": [
           {
-            "date": "8 月 21 日（週五）",
-            "time": "上午 3:00 — 上午 7:00（太平洋夏令時間）"
+            "date": "2026 年 8 月 21 日（週五）",
+            "time": "3:00 a.m. – 7:00 a.m. PDT"
           },
           {
-            "date": "8 月 21 日（週五）",
-            "time": "下午 7:00 — 下午 11:00（太平洋夏令時間）"
+            "date": "2026 年 8 月 21 日（週五）",
+            "time": "7:00 p.m. – 11:00 p.m. PDT"
           },
           {
-            "date": "8 月 22 日（週六）",
-            "time": "上午 11:00 — 下午 3:00（太平洋夏令時間）"
+            "date": "2026 年 8 月 22 日（週六）",
+            "time": "11:00 a.m. – 3:00 p.m. PDT"
           },
           {
-            "date": "8 月 23 日（週日）",
-            "time": "上午 3:00 — 上午 7:00（太平洋夏令時間）"
+            "date": "2026 年 8 月 23 日（週日）",
+            "time": "3:00 a.m. – 7:00 a.m. PDT"
           },
           {
-            "date": "8 月 23 日（週日）",
-            "time": "下午 7:00 — 下午 11:00（太平洋夏令時間）"
+            "date": "2026 年 8 月 23 日（週日）",
+            "time": "7:00 p.m. – 11:00 p.m. PDT"
           }
         ]
       }
     },
     "requirements": {
-      "eyebrow": "參與條件",
-      "title": "必要條件",
+      "eyebrow": "要求",
+      "title": "你需要準備什麼",
       "items": [
         {
-          "label": "主機",
+          "label": "平台",
           "value": "Nintendo Switch 2"
         },
         {
@@ -1077,40 +1077,60 @@
           "value": "Nintendo Switch Online 會員"
         },
         {
-          "label": "選拔方式",
-          "value": "按報名順序選拔（名額有限）"
+          "label": "入選方式",
+          "value": "按報名先后顺序（名額有限）"
         },
         {
           "label": "開發商",
           "value": "FromSoftware"
         },
         {
-          "label": "發行商",
-          "value": "任天堂"
+          "label": "地區說明",
+          "value": "部分地區無法在 eShop 之外下載"
         }
       ]
     },
     "expect": {
-      "eyebrow": "測試內容",
-      "title": "測試體驗",
+      "eyebrow": "體驗內容",
+      "title": "測試裡有什麼",
       "items": [
         {
-          "title": "PvPvE 一隅",
-          "desc": "可體驗本作標誌性的 8 人 PvPvE 動作玩法片段。"
+          "title": "PvPvE 結構",
+          "desc": "八名玩家進行三回合爭奪，並有回合中裁決。PvE 壓力不斷，但記分板仍由玩家對抗与目標控制書寫。"
         },
         {
-          "title": "效能與穩定性驗證",
-          "desc": "作為網路測試，重點在於真實條件下的伺服器負載、配對與穩定性。"
+          "title": "短場次窗口",
+          "desc": "每個测试視窗只有數小時。这獎勵已熟悉羅安羅路線的玩家——為正式版排兵布陣，也該像準備團建夜那樣練圖。"
         },
         {
-          "title": "開發中內容",
-          "desc": "內容、平衡與畫面未必代表正式版，發售前或有調整。"
+          "title": "德行經濟",
+          "desc": "德行決定谁晋级、誰被裁決。測試給出的教訓很直接：只刷不爭，就是你悄悄輸掉的方式。"
+        },
+        {
+          "title": "匹配體感",
+          "desc": "早期反饋顯示需求旺盛、大廳很滿。若再開測試，场次開始时會排隊——請在窗口前登入，而不是卡點。"
+        },
+        {
+          "title": "Switch 2 表現",
+          "desc": "测试面向 Switch 2 原生遊玩，含掌機模式。高峰時段網路穩定与戰鬥技巧一樣重要。"
+        },
+        {
+          "title": "能帶到正式版什麼",
+          "desc": "地圖知识、德行節奏与契約/氏族習慣会延續。武器與具體數值可能變，但决策循環不會。"
+        },
+        {
+          "title": "如何利用測試筆記",
+          "desc": "开着地圖複盤錄像。多數提升來自發現「德行是在哪丟的」，而不是操作炫技——路線選擇才是本作真正考的技能。"
+        },
+        {
+          "title": "还在等什麼",
+          "desc": "完整發售的確切日曆日期尚未確認。在那之前，把延期傳聞當傳聞，把這份日程當作最後一次官方多人壓力信號。"
         }
       ]
     },
     "cta": {
-      "title": "敬請關注正式版發售",
-      "desc": "網路測試是搶先了解 The Duskbloods 的機會，本作將於 2026 年登陸 Nintendo Switch 2。我們將持續在本頁更新最新消息。"
+      "title": "敬請期待完整發售",
+      "desc": "网络测试是 2026 年 Nintendo Switch 2 計劃發售前的第一眼。用下方連結跟進發售時間、系统深潛與角色準備——官方細節落地时我們會更新。若你參加過測試，請把筆記当作起跑優勢：已經懂羅安羅報點、裁決算術與氏族突破點的玩家，落地就能打。"
     }
   },
   "faq": {
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "來源與獨立性",
-          "desc": "事實來自 Nintendo/FromSoftware 官方資料與公開報導；分析與排名為本站獨立觀點。官方截圖已標註歸屬，評論為獨立撰寫。"
+          "desc": "事實來自 Nintendo/FromSoftware 官方資料與公開報導；分析與排名為本站獨立觀點。本站託管配圖已標註歸屬，評論為獨立撰寫。"
         },
         {
           "title": "更正與更新",
@@ -1662,11 +1682,11 @@
     "intro": {
       "eyebrow": "遊戲截圖",
       "title": "遊戲截圖",
-      "lead": "The Duskbloods（黃昏血族）官方截圖 — 探索 FromSoftware 為 Nintendo Switch 2 打造的多人動作遊戲的黑暗沉浸世界。"
+      "lead": "The Duskbloods（黃昏血族）本站託管配圖 — 探索 FromSoftware 為 Nintendo Switch 2 打造的多人動作遊戲的黑暗沉浸世界。"
     },
     "main": {
       "eyebrow": "主圖集",
-      "title": "官方截圖",
+      "title": "本站託管配圖",
       "alt": "黃昏血族 截圖 {n}"
     },
     "lightbox": {
@@ -1676,7 +1696,7 @@
       "eyebrow": "精選解讀",
       "title": "截圖解讀——這些畫面究竟在展示什麼",
       "lead": "十二張官方靜幀，按三條互不重疊的線索分類：Bloodsworn 是誰、戰鬥真實長什麼樣、世界如何暗示危險。每條註解從畫面出發，再拉回對局。",
-      "sourceNote": "圖片為官方截圖 © FromSoftware / Nintendo。解讀為本站獨立、非官方內容。",
+      "sourceNote": "圖片為本站託管配圖 （权利归原权利人）。解讀為本站獨立、非官方內容。",
       "h2A": "Bloodsworn 與血術",
       "h2B": "戰鬥、怪物與 Blood Arts",
       "h2C": "世界、路線與徵兆",
@@ -1787,149 +1807,184 @@
   "maps": {
     "intro": {
       "eyebrow": "地圖",
-      "title": "黃昏之地 — 洛安榮街道地圖指南",
-      "lead": "戰役開始之後，血族將被召喚至「黃昏之地」。網路測試版的舞台是其中之一「洛安榮街道」——由地標、街區與野外組成的立體場地。",
-      "updatedAt": "最後更新：2026年10月19日"
+      "title": "黃昏之地 — 羅安羅城地圖攻略",
+      "lead": "黃昏戰鬥開始时，血誓者會被召喚至黃昏之地。網路測試中每场對戰都發生在同一片土地：羅安羅城 —— 一座地標、街巷与荒野層層交疊的立體戰場。本頁介绍地形結構、對局中期值得注意的區域要素，以及如何讀圖，让你少迷路、多攢德行點，在聖杯裁決前活下來。",
+      "updatedAt": "最後更新：2026 年 10 月 25 日"
     },
     "lands": {
       "title": "黃昏之地",
-      "desc": "一片大地，多層結構。在這片大地上任意馳騁，強化血族並增加美德，通過聖杯的篩選。",
+      "desc": "一片土地，多重層次。羅安羅是一座垂直城邦：鐘樓廣場是中心錨點，主教座堂區俯瞰上層台地，外圍街巷则溶入洞穴、森林与湖岸。你可以自由探索来強化血誓者、積攢躲過裁決所需的德行點。地表看起來安全的路線，往往在咽喉要道藏著第三方伏擊——把每個地標都當成資源點，也當成一場即將開打的戰鬥。",
       "points": [
         {
-          "title": "洛安榮街道",
-          "desc": "網路測試的唯一戰場——俯視著街道的時鐘塔與大聖堂，以及周遭展開的街區。"
+          "title": "羅安羅城",
+          "desc": "网络测试唯一戰場——一座被鐘樓与主教座堂俯視的城市，街巷向四週鋪開。廣場上多隊碰撞極為頻繁，因為它是出生象限之間、以及若干強化刷新點之間的最快通路。"
         },
         {
-          "title": "立體的多地區結構",
-          "desc": "街區之外，還有洞窟與湖泊等數個地區組成的寬廣立體場地。"
+          "title": "多层區域",
+          "desc": "街道之外，戰場延伸出洞穴、森林、湖泊等多塊區域。立體空間很關鍵：臺沿、樓梯与屋頂让近戰能脫手撤退，遠程则可从高處架槍線。"
         },
         {
-          "title": "倒下也能復活",
-          "desc": "血族在這片大地即使倒下也能復活，直到篩選時落敗為止。"
+          "title": "倒下前可無限復活",
+          "desc": "在黃昏之地可以無限復活——直到你在裁決中活不下来。命很寬鬆，但聖杯不留情：後期倒下的代價遠高於前期倒下，因為你还有時間重建德行。"
+        },
+        {
+          "title": "出生象限",
+          "desc": "開局玩家会落在不同象限。最初的路線選擇決定你是去爭奪爐心、穩妥清血囊，還是衝向可召喚盟友的金色尖塔——每种開局都会塑造接下來兩分鐘。"
+        },
+        {
+          "title": "裁決压力",
+          "desc": "每回合結束後，得分最低的玩家會被裁決淘汰。地圖是中立的，但節奏不是：若你落後，就去目標點附近強開戰鬥，而不是在荒野閒逛碰運氣。"
+        },
+        {
+          "title": "地形線索",
+          "desc": "留意儀式點、傳送台与光之鏈——它們会預告人群聚集處。把地形當偵察工具：若某片區域安靜得反常，真正的戰鬥通常在鐘樓另一側。"
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "地區特性",
-      "desc": "各地區在每個階段會出現數種地區特性，並隨戰役推進而變化。確認地圖上的特性圖示，尋找適合自己遊玩風格的強化。",
+      "title": "區域要素",
+      "desc": "每個阶段區域会出現不同要素，并隨對局推進而變化。看清地圖圖標，按自己的打法取捨升級。所謂「安全路線」，往往是把兩個要素串起來、又不一頭扎進廣場三方混戰的那條。",
       "features": [
         {
-          "title": "血袋翁",
-          "desc": "「血袋翁」會在大地上徘徊。打倒後獲得的「血結晶」可用來強化血族技。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "血囊长老",
+          "desc": "血囊在大地上遊蕩。擊敗可得血晶，用於強化血誓者技能。第一次裁決后它們通常會被抢，所以儘早規劃血晶路线，別賭晚期偷搶。",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
-          "title": "煉金爐",
-          "desc": "「煉金爐」可為武器賦予火屬性等各種屬性。在屬性與武器相同的煉金爐再次強化，即可使武器的強化級別提升一級。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "title": "炼金炉",
+          "desc": "為武器注入火等屬性。在對應爐心再次強化可提升武器強化等級。疊出相配屬性是少數不靠殺人也能獲得的中期戰力峰值。",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "眷屬小魔法陣",
-          "desc": "會出現「眷屬小魔法陣」。可強化與眷屬的契約，使已訂定契約的眷屬獲得大量經驗值。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "氏族小环",
+          "desc": "出現小型氏族召喚环——強化你的契約，並給搭檔氏族大量經驗。若你的氏族即將突破，可配合安全刷怪路线使用。",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "探索道具",
-          "desc": "可在探索或打倒敵人時獲得道具，例如燃起大火的燃燒瓶、可作為復活點的生命墓碑。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "金色尖塔",
+          "desc": "金色尖塔可召喚盟友入場。把它當高價值目標：在壓力下啟動往往能把敗局穩住，但站著引導等於邀請第三方進場。"
+        },
+        {
+          "title": "儀式點",
+          "desc": "儀式點可通過擊殺玩家獲取劍之德行。若你要走激進得分路線，每階段都路過它們；若你在保領先，則應卡住入口，而不是硬闖中心。"
+        },
+        {
+          "title": "傳送台",
+          "desc": "傳送台壓縮地圖，懲罰慢速轉點。用它逃離圍剿，或搶先抵達即將結束的目標——然後預計三秒後會有人跟到。"
         }
       ]
     },
     "tools": {
-      "title": "地圖工具與資訊畫面",
-      "desc": "在黃昏戰役中按 [+] 打開資訊畫面，善用地圖工具。",
+      "title": "地圖工具与情報畫面",
+      "desc": "黃昏戰鬥中按 [+] 打開情報畫面与地圖。戰場音效嘈雜时，地圖就是最好的偵察：它顯示目標圖標、队友位置与階段資訊，不必冒險探頭。",
       "items": [
         {
-          "title": "資訊畫面",
-          "desc": "可確認自己的位置、其他血族的行蹤，以及各地區名稱旁的地區特性圖示。"
+          "title": "即時目標",
+          "desc": "追蹤爐心、召喚环、尖塔与儀式點的出現。圖標隨階段更新，每次回合轉換後都值得再看一眼。"
         },
         {
-          "title": "瞬移",
-          "desc": "在地圖上選擇傳送點即可瞬移。階段開始時、傳送或復活後的一段時間內、以及戰鬥中無法使用。"
+          "title": "队友位置",
+          "desc": "查看队友血誓者守住哪裡。若兩人已投入廣場，除非你能迅速結束戰鬥，否則不要派第三人進去。"
         },
         {
-          "title": "侵略者標記",
-          "desc": "侵略者會以特殊標記顯示在地圖上，還有更強的侵略者變體。"
+          "title": "阶段語境",
+          "desc": "裁決窗口與對局結構決定早段、晚段該走不同路線：前期做鋪墊，後期收束進最終戰。"
         },
         {
-          "title": "放置標記",
-          "desc": "可在畫面或地圖上放置標記，用作探索指引。"
+          "title": "快速報點習慣",
+          "desc": "開打前儘量先報點。一聲提醒能避免羅安羅最經典的失誤：你贏下對決，對方卻在背後拿走了尖塔。"
+        },
+        {
+          "title": "聲音線索",
+          "desc": "咆哮轉化、火焰戰技与盟友召喚都很響。音頻也是資訊：聽見交戰，先決定是去勸架，還是先完成自己的目標。"
+        },
+        {
+          "title": "路线規劃",
+          "desc": "開閘前先定一個双目標循環。沒有循環的閒逛，是你默默落後德行、卻以為自己沒打過架的常見原因。"
         }
       ]
     },
     "guidesLink": {
-      "title": "路線與刷點攻略",
-      "desc": "地圖策略類文章在攻略區。",
+      "title": "路線與刷取點",
+      "desc": "地圖策略指南——包括血誓者專屬路线、爐心時機与後期裁決算術——都在攻略中心。開局前 90 秒有計劃，地圖就不那麼隨機了。",
       "cta": "瀏覽地圖攻略"
     },
-    "sourceNote": "官方截圖與系統事實參考 FromSoftware / Nintendo 公布的資料（網路測試玩法指南）。本頁的版式、分析與建議為獨立非官方內容。"
+    "sourceNote": "本站託管配圖与系統事實參考 FromSoftware / Nintendo 公開的網路測試玩法指南。本頁版式、分析與建議為獨立非官方內容。"
   },
   "kin": {
     "intro": {
-      "eyebrow": "眷屬",
-      "title": "眷屬 — 契約、魔法陣與成長",
-      "lead": "眷屬是曾與黃昏協會達成交易的存在。他們會與血族訂定契約並借出力量，是在武器與血族技之外的支援體系。",
-      "updatedAt": "最後更新：2026年10月19日"
+      "eyebrow": "氏族",
+      "title": "氏族 — 契約、召喚环与成长",
+      "lead": "氏族是与黃昏教團立約的存在。它們与血誓者締結契約，在戰鬥中提供助力——是疊在武器與血誓者技能之上的支援層。本頁说明契約作用、三種召喚环有何不同、網路測試中出現过哪些原型，以及如何在對局中養成或更換氏族而不浪費整局。",
+      "updatedAt": "最後更新：2026 年 10 月 25 日"
     },
     "what": {
-      "title": "與眷屬的契約",
-      "desc": "曾與黃昏協會達成交易者，被稱為「眷屬」。眷屬會與血族訂定契約，並借出自身的力量。眷屬契約需透過延伸至空中的光之鎖鏈下方的魔法陣訂定。",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "与氏族締結契約",
+      "desc": "与黃昏教團立約者稱為氏族。氏族与血誓者締結契約並借出力量。契約在光之鏈根部的召喚环处締結。實操上，契約既是戰鬥搭檔，也是第二條成長線：你在推自己的血誓者技能時，氏族也在把戰鬥時間轉換為經驗——所以你留下的搭檔，和你手中的武器一樣重要。",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
-      "title": "召喚魔法陣",
-      "desc": "魔法陣分成「環」「刃」「瞳」三種，不同魔法陣可訂定契約的眷屬都不同。",
+      "title": "召喚环",
+      "desc": "氏族召喚环有三種類型，各自可與不同類型的氏族締約。選環其實是偽裝成地圖决策的配裝決策：你先綁上的環族，決定了擁擠戰局裡你能指望的工具屬性（續航、控制或爆發壓力）。",
       "items": [
         {
-          "title": "環",
-          "desc": "環之魔法陣。可與一族眷屬訂定契約。"
+          "title": "环",
+          "desc": "環型召喚环。与一族氏族締約——在需要能扛住廣場亂戰的前排支援時常見。"
         },
         {
           "title": "刃",
-          "desc": "刃之魔法陣。可與另一族眷屬訂定契約。"
+          "desc": "刃型召喚环。与另一族氏族締約——通常更偏進攻，幫助你把小規模衝突打成擊殺，而不是拖住。"
         },
         {
-          "title": "瞳",
-          "desc": "瞳之魔法陣。可與第三族眷屬訂定契約。"
+          "title": "眼",
+          "desc": "眼型召喚环。与又一族氏族締約——偏工具向搭檔，保護隊友、施加視野壓力，或懲罰过深的進攻。"
         }
       ],
-      "note": "在網路測試版中共有 8 位眷屬。",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "網路測試版本共有八名氏族。环的類型限制你能綁的族別，但每一族仍有多個候選——鎖定本局前先讀清契約内容。",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "眷屬類型",
-      "desc": "各個眷屬將透過獨特的能力協助血族戰鬥，例如：",
+      "title": "氏族原型",
+      "desc": "各類氏族以獨特能力提供支援。網路測試中出現了如下形象——它們都不是裝飾寵物；每一個都會改變你的跑圖、對槍與守點方式。",
       "items": [
         {
-          "title": "年輕劍士",
-          "desc": "秘密團體的年輕劍士。"
+          "title": "年轻女劍士",
+          "desc": "秘社的年輕女劍士。可靠的近戰压力，適合搭配激進血技与儀式點之間的短轉點。"
         },
         {
-          "title": "炎術師",
-          "desc": "操控火焰的魔術師。"
+          "title": "火焰术士",
+          "desc": "精通火焰的術士。擅長封鎖咽喉，以及在爐心附魔換血後收割殘血。"
         },
         {
-          "title": "歌唱的囚人",
-          "desc": "以歌聲保護友方的男囚。"
+          "title": "歌者囚徒",
+          "desc": "能以歌聲護佑同伴的囚徒。适合集合引導尖塔，或在三队圍剿中撐住。"
         },
         {
           "title": "黑狼",
-          "desc": "森林之主的黑狼。"
+          "desc": "統治森林的黑狼。在戶外巷道与林緣強勢，追擊與開闊槍線決定谁能走出區域。"
+        },
+        {
+          "title": "持盾者",
+          "desc": "穩重的守護者，為你爭取時間。在裁決后局勢很差時使用，別在低德行時硬開下一場。"
+        },
+        {
+          "title": "提灯斥候",
+          "desc": "照亮前路的探路人。資訊型氏族，獎勵真正看地圖的玩家，而不是無腦冲廣場。"
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "眷屬的成長",
-      "desc": "在與眷屬訂定契約的狀態下打倒敵人，眷屬也能獲得經驗值並提升等級，使 HP 上限及攻擊力提升。有些眷屬還能因此追加新的攻擊。",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "氏族成长",
+      "desc": "在氏族陪伴下擊敗敌人時，氏族会獲得經驗并可成長。這解釋了為何第一次武器強化后，中期刷怪仍然重要：清掉的血囊、打出的硬直、完成的咆哮轉化，都會餵給最終三人戰仍在你身邊的搭檔。若氏族離突破只差一戰，優先拿安全經驗；若裁決窗口將關，優先保分數。",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
-      "title": "召喚與召還",
-      "desc": "可透過功能選單召喚或召還眷屬。眷屬倒下後會被自動召還，一段時間內無法再次召喚。被召還或非戰鬥狀態下，眷屬的 HP 會逐漸恢復。眷屬受到攻擊時無法召還。"
+      "title": "召喚与解除",
+      "desc": "在功能選單中召喚与解除氏族。氏族阵亡后冷却結束即可再召，因此失去搭檔是節奏损失，而不是整局結束。若有更好的契約且你付得起空窗，就主動解除。常見错误是出於習慣抱著死契約不放；更好的習慣是把氏族當成任何冷卻型優勢，在阶段之間重新評估。還要記住：契約不能取代走位。氏族能買來幾秒，卻修不好一条沒有計劃就撞進三隊的路線。"
     },
-    "sourceNote": "官方截圖與系統事實參考 FromSoftware / Nintendo 公布的資料（網路測試玩法指南）。本頁的版式、分析與建議為獨立非官方內容。"
+    "sourceNote": "本站託管配圖与系統事實參考 FromSoftware / Nintendo 公開的網路測試玩法指南。本頁版式、分析與建議為獨立非官方內容。"
   },
   "relatedHubs": {
     "eyebrow": "繼續閱讀",
@@ -2211,5 +2266,26 @@
         "cta": "打開眷屬"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "為了更好的瀏覽體驗",
+    "body": "我們使用 Cookie 記住語言偏好、了解哪些頁面更有幫助；若您同意，也用來支援更相關的廣告。",
+    "accept": "同意",
+    "reject": "拒絕",
+    "acceptAll": "全部同意",
+    "essentialOnly": "僅必要",
+    "customize": "自訂",
+    "back": "返回",
+    "settingsTitle": "Cookie 設定",
+    "settingsBody": "選擇我們可使用的類型。必要 Cookie 保證網站正常運作，始終開啟。",
+    "essential": "必要",
+    "essentialDesc": "記住語言偏好與基礎功能。始終開啟。",
+    "analytics": "分析",
+    "analyticsDesc": "幫助我們了解哪些頁面更有用（Google Analytics）。",
+    "ads": "個人化廣告",
+    "adsDesc": "允許更相關的廣告與成效衡量。",
+    "save": "儲存選擇",
+    "footerLink": "Cookie 設定",
+    "privacyLink": "隱私權政策"
   }
 }

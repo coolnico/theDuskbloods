@@ -130,7 +130,7 @@
     "updatedOn": "Mis à jour",
     "fallbackNotice": "Cet article n'est pas encore disponible dans votre langue. Affichage de la version anglaise.",
     "readingTime": "{min} min de lecture",
-    "imageCredit": "Les images de cet article sont des supports officiels © FromSoftware / Nintendo. Classements, commentaires et recommandations sont les nôtres."
+    "imageCredit": "Les images de cet article sont des extraits locaux de supports publics （权利归原权利人） Classements, commentaires et recommandations sont les nôtres."
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "Du Jeu",
       "cta": "Voir Plus →",
       "alt": "Capture de The Duskbloods {n}",
-      "credit": "Les captures sont des supports officiels © FromSoftware / Nintendo. Les textes et analyses du site sont indépendants et non officiels."
+      "credit": "Les captures sont des extraits locaux de supports publics （权利归原权利人） Les textes et analyses du site sont indépendants et non officiels."
     },
     "videos": {
       "eyebrow": "BANDES-ANNONCES",
@@ -305,7 +305,7 @@
         {
           "name": "Phase I : Exploration et conquête",
           "desc": "Huit Hémaliges entrent dans les terres du Crépuscule et commencent à accumuler de la Vertu.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "Vainquez des ennemis, allumez des flammes pour la Vertu de flamme, explorez pour des objets",
             "Des caractéristiques régionales apparaissent — Sanguines, Fours alchimistes, Cercles de vassaux",
@@ -316,7 +316,7 @@
         {
           "name": "Phase II : Sites rituels et sélection",
           "desc": "Le Graal commence sa sélection. Les Hémaliges à la Vertu insuffisante sont éliminés.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "Deux types de Vertu aux sites rituels : Vertu de lame et Vertu de foi",
             "Réclamez des Pierres rouges (lame) ou Pierres d'or (foi) des piédestaux",
@@ -327,7 +327,7 @@
         {
           "name": "Phase III : Événements et bataille intense",
           "desc": "La sélection se poursuit. Les caractéristiques régionales changent. Le champ de bataille est plus dangereux.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "Les caractéristiques régionales changent, offrant de nouvelles opportunités",
             "Les sites rituels rouvrent avec une compétition plus feroce",
@@ -338,7 +338,7 @@
         {
           "name": "Phase finale : Don du sang lunaire",
           "desc": "Seuls les trois Hémaliges avec la Vertu la plus élevée restent. Ils se battent pour la victoire ultime.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "Le Graal accorde deux vies — vous pouvez revivre une fois",
             "HP bonus basé sur la Vertu accumulée dans les phases précédentes",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "Les captures officielles et les données systèmes référencent les supports publiés par FromSoftware / Nintendo (guide du network test). La mise en page, les analyses et les recommandations de cette page sont indépendantes et non officielles."
+    "sourceNote": "Les extraits locaux et les données systèmes référencent les supports publiés par FromSoftware / Nintendo (guide du network test). La mise en page, les analyses et les recommandations de cette page sont indépendantes et non officielles."
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Albert",
           "melee": "Sabre serti des Lorrik",
           "ranged": "Mitraillette",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "Lame de sang",
@@ -709,7 +709,7 @@
           "name": "Jan la Main sanglante",
           "melee": "Hache sanglante",
           "ranged": "Gemme arcanique",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "Rapidité",
@@ -761,7 +761,7 @@
           "name": "Trang Lanh",
           "melee": "Lame de la pleine lune",
           "ranged": "Lame de la pleine lune (lancée)",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "Lune noire",
@@ -813,7 +813,7 @@
           "name": "Tireuse d'élite Layla",
           "melee": "Katars sacrés",
           "ranged": "Fusil à lunette",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "Dissipation Neb-ra",
@@ -865,7 +865,7 @@
           "name": "Sénateur Samir Patres",
           "melee": "Rapière de sénateur",
           "ranged": "Bague aviaire",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "Pieu de sang",
@@ -917,7 +917,7 @@
           "name": "Zork",
           "melee": "Câble sous-marin",
           "ranged": "Harpon",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "Missile",
@@ -1006,40 +1006,40 @@
       "desc": "Classements et recommandations pour débutants sont dans les Guides.",
       "cta": "Voir les guides de personnages"
     },
-    "imageCredit": "Les artworks de personnages et captures sont des supports officiels © FromSoftware / Nintendo. Les notes, conseils de jeu et classements de cette page sont des analyses de fans indépendantes, non un guide officiel."
+    "imageCredit": "Les artworks de personnages et captures sont des extraits locaux de supports publics （权利归原权利人） Les notes, conseils de jeu et classements de cette page sont des analyses de fans indépendantes, non un guide officiel."
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Test réseau",
-      "title": "The Duskbloods Closed Network Test",
-      "lead": "La période d'inscription au test réseau fermé de The Duskbloods sur Nintendo Switch 2 de FromSoftware est terminée. Voici le calendrier complet et tous les détails."
+      "title": "Test réseau fermé de The Duskbloods",
+      "lead": "La période de candidature au test réseau fermé de FromSoftware sur Nintendo Switch 2 est terminée. Voici le calendrier complet, les exigences et ce qu'ont joué les participants — un contexte utile en attendant la sortie 2026."
     },
     "status": {
-      "label": "Inscriptions closes",
-      "desc": "La période d'inscription au test réseau est terminée. Les joueurs sélectionnés ont été notifiés le 7 août."
+      "label": "Candidatures closes",
+      "desc": "La période de candidature est terminée. Les joueurs sélectionnés ont été notifiés le 7 août. Si vous l'avez manquée, la structure des sessions, le rythme multijoueur et les exigences Switch 2 restent utiles pour vous préparer. Ajoutez cette page aux favoris : nous la mettons à jour dès qu'il y a du neuf."
     },
     "schedule": {
       "eyebrow": "Calendrier",
-      "title": "Calendrier complet",
+      "title": "Chronologie complète",
       "application": {
-        "label": "Période d'inscription",
+        "label": "Période de candidature",
         "start": "22 juillet (mer.) à 7h00 PDT",
         "end": "28 juillet (mar.) à 6h59 PDT",
-        "note": "Les inscriptions multiples d'un même utilisateur seront rejetées. Les participants seront sélectionnés par ordre d'inscription."
+        "note": "Les candidatures en double sont rejetées. Sélection par ordre d'inscription : tôt comptait plus que le profil soigné."
       },
       "selection": {
-        "label": "Annonce de la sélection",
+        "label": "Annonce de sélection",
         "date": "7 août (ven.) à 6h00 PDT",
-        "note": "Consultez votre page de compte sur le site officiel pour connaître le résultat. Les joueurs sélectionnés ont reçu un code de téléchargement."
+        "note": "Vérifiez votre compte sur le site officiel. Les sélectionnés ont reçu un code de téléchargement ; en cas de futur test, surveillez cette page plutôt que les rumeurs."
       },
       "download": {
         "label": "Téléchargement du client",
-        "date": "Disponible à partir du 18 août (mar.) à 6h00 PDT",
-        "note": "Les joueurs sélectionnés peuvent utiliser le code de téléchargement sur le Nintendo Store ou le Nintendo eShop. Dans certaines régions, le téléchargement par d'autres moyens que le Nintendo eShop n'est pas pris en charge."
+        "date": "Disponible depuis le 18 août (mar.) à 6h00 PDT",
+        "note": "Utilisez le code sur Nintendo Store ou Nintendo eShop. Certaines régions ne prennent pas en charge d'autres moyens."
       },
       "sessions": {
         "label": "Sessions de test",
-        "note": "Les dates et heures des sessions peuvent être modifiées ou annulées sans préavis.",
+        "note": "Les dates peuvent changer ou être annulées sans préavis. Le calendrier a volontairement utilisé des fenêtres courtes entre fuseaux : attendez-vous à cela, pas à une longue bêta ouverte.",
         "items": [
           {
             "date": "21 août 2026 (ven.)",
@@ -1065,8 +1065,8 @@
       }
     },
     "requirements": {
-      "eyebrow": "Prérequis",
-      "title": "Ce dont vous avez besoin",
+      "eyebrow": "Exigences",
+      "title": "Ce qu'il vous faut",
       "items": [
         {
           "label": "Plateforme",
@@ -1074,7 +1074,7 @@
         },
         {
           "label": "Abonnement",
-          "value": "Abonnement Nintendo Switch Online"
+          "value": "Nintendo Switch Online"
         },
         {
           "label": "Sélection",
@@ -1085,8 +1085,8 @@
           "value": "FromSoftware"
         },
         {
-          "label": "Éditeur",
-          "value": "Nintendo"
+          "label": "Note régionale",
+          "value": "Certaines régions n'ont pas pu télécharger hors Nintendo eShop"
         }
       ]
     },
@@ -1095,22 +1095,42 @@
       "title": "Dans le test",
       "items": [
         {
-          "title": "Un aperçu du PvPvE",
-          "desc": "Attendez-vous à une tranche jouable de l'action PvPvE à 8 joueurs qui caractérise le jeu complet."
+          "title": "Structure PvPvE",
+          "desc": "Huit joueurs, trois manches, purge en cours. La pression PvE est constante, mais le tableau de score est écrit par les duels et le contrôle des objectifs."
         },
         {
-          "title": "Vérifications de performance et de stabilité",
-          "desc": "En tant que test réseau, l'accent est mis sur la charge serveur, le matchmaking et la stabilité en conditions réelles."
+          "title": "Fenêtres courtes",
+          "desc": "Chaque fenêtre ne durait que quelques heures. Cela récompensait qui connaissait déjà les routes de Lowanro : entraînez la carte comme pour une soirée de raid."
         },
         {
-          "title": "Travail en cours",
-          "desc": "Le contenu, l'équilibrage et les visuels peuvent ne pas refléter le jeu final. Attendez-vous à des imperfections et des changements avant la sortie."
+          "title": "Économie de Vertu",
+          "desc": "La Vertu décide qui avance et qui tombe. Leçons du test : farmer sans contester les objectifs, c'est perdre en silence."
+        },
+        {
+          "title": "Ressenti du matchmaking",
+          "desc": "Forte demande et salles pleines. Si un test revient, attendez la file au début : connectez-vous avant l'heure."
+        },
+        {
+          "title": "Performances sur Switch 2",
+          "desc": "Le test visait le natif Switch 2, mode portable inclus. La stabilité réseau comptait autant que le combat."
+        },
+        {
+          "title": "Ce qui passe au lancement",
+          "desc": "Carte, tempo de Vertu et habitudes de parenté resteront. Armes et chiffres peuvent changer ; la boucle de décision, non."
+        },
+        {
+          "title": "Utiliser ses notes",
+          "desc": "Revoyez vos clips carte ouverte. La progression vient de voir où la Vertu a été perdue, pas du style mécanique : c'est le routage que le jeu note."
+        },
+        {
+          "title": "Ce qu'on attend encore",
+          "desc": "Pas de date calendaire confirmée. En attendant, traitez les rumeurs de retard comme des rumeurs et ce calendrier comme le dernier signal officiel de charge multijoueur."
         }
       ]
     },
     "cta": {
-      "title": "Restez à l'affût de la sortie complète",
-      "desc": "Le test réseau était un premier aperçu de The Duskbloods avant sa sortie en 2026 sur Nintendo Switch 2. Nous tiendrons cette page à jour avec les dernières informations."
+      "title": "Restez à l'écoute de la sortie",
+      "desc": "Le test fut un premier aperçu avant la sortie 2026 prévue sur Nintendo Switch 2. Utilisez les liens pour le timing, les systèmes et la préparation des personnages. Si vous avez joué, vos notes sont une avance : qui connaît les callouts, la purge et les paliers de parenté démarre en avance."
     }
   },
   "faq": {
@@ -1211,7 +1231,7 @@
           },
           {
             "q": "Combien de personnages jouables y a-t-il ?",
-            "a": "Les supports officiels annoncent plus d'une douzaine de Bloodsworn. Un roster complet n'a pas encore été publié ; d'autres révélations sont attendues plus proches du lancement."
+            "a": "Les extraits locaux de supports publics annoncent plus d'une douzaine de Bloodsworn. Un roster complet n'a pas encore été publié ; d'autres révélations sont attendues plus proches du lancement."
           },
           {
             "q": "Qu'est-ce que l'histoire de sang ?",
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "Sources et indépendance",
-          "desc": "Les faits proviennent des supports officiels Nintendo/FromSoftware et de la presse publique. Analyses et classements sont les nôtres. Les captures officielles sont créditées à leurs propriétaires ; nos commentaires sont indépendants."
+          "desc": "Les faits proviennent des extraits locaux de supports publics Nintendo/FromSoftware et de la presse publique. Analyses et classements sont les nôtres. Les extraits locaux sont créditées à leurs propriétaires ; nos commentaires sont indépendants."
         },
         {
           "title": "Corrections et mises à jour",
@@ -1474,7 +1494,7 @@
         },
         {
           "title": "Plus d'une douzaine de Bloodsworn",
-          "desc": "Les supports officiels promettent un roster de plus d'une douzaine de Bloodsworn jouables, chacun avec des armes, des capacités et une histoire de sang personnalisable."
+          "desc": "Les extraits locaux de supports publics promettent un roster de plus d'une douzaine de Bloodsworn jouables, chacun avec des armes, des capacités et une histoire de sang personnalisable."
         }
       ],
       "unconfirmed": [
@@ -1676,7 +1696,7 @@
       "eyebrow": "DÉCRYPTAGE À LA UNE",
       "title": "Décryptage des captures — ce que ces images montrent vraiment",
       "lead": "Douze stills officiels, classés en trois lectures non superposées : qui sont les Hémaliges, à quoi ressemblent vraiment les combats, et comment le monde signale le danger. Chaque note part de l’écran, puis revient au match.",
-      "sourceNote": "Les images sont des captures officielles © FromSoftware / Nintendo. L’analyse est indépendante et non officielle.",
+      "sourceNote": "Les images sont des extraits locaux （权利归原权利人） L’analyse est indépendante et non officielle.",
       "h2A": "Hémaliges & arts du sang",
       "h2B": "Combat, créatures & arts du sang",
       "h2C": "Monde, itinéraires & présages",
@@ -1786,150 +1806,185 @@
   },
   "maps": {
     "intro": {
-      "eyebrow": "Carte",
-      "title": "Terres du Crépuscule — Guide de la carte de Lowanro",
-      "lead": "Au début d'un combat du Crépuscule, les Hémaliges sont transportés sur les terres du Crépuscule. Dans le cadre du test réseau, l'action se limite à un lieu : la ville de Lowanro — un vaste champ sur plusieurs niveaux, entre monuments, ruelles et nature.",
-      "updatedAt": "Dernière mise à jour : 19 octobre 2026"
+      "eyebrow": "Cartes",
+      "title": "Terres du Crépuscule — Guide de Lowanro",
+      "lead": "Quand une Bataille du Crépuscule commence, les Serments de Sang sont invoqués vers les Terres du Crépuscule. Lors du test réseau, chaque match se jouait sur une seule terre : Lowanro, un champ multicouche de rues, de monuments et de nature sauvage. Cette page explique la structure du terrain, les particularités régionales utiles en milieu de match, et comment lire la carte pour moins se perdre et accumuler plus de Vertu avant la purge du graal.",
+      "updatedAt": "Dernière mise à jour : 25 octobre 2026"
     },
     "lands": {
-      "title": "Les terres du Crépuscule",
-      "desc": "Un seul lieu, plusieurs niveaux. Explorez librement pour améliorer votre Hémalige et accumuler la vertu nécessaire pour survivre à l'Élimination du graal.",
+      "title": "Les Terres du Crépuscule",
+      "desc": "Une terre, plusieurs couches. Lowanro est une citadelle verticale : la place de l'horloge ancre le centre, le quartier de la cathédrale surveille les terrasses hautes, et les rues extérieures fondent vers grottes, forêt et rive du lac. Explorez librement pour renforcer vos Serments et stocker la Vertu nécessaire pour survivre à la purge. Les chemins qui semblent sûrs cachent souvent des embuscades tierces aux goulots d'étranglement : traitez chaque repère comme une ressource et comme un combat imminent.",
       "points": [
         {
-          "title": "La ville de Lowanro",
-          "desc": "Le seul terrain du test réseau : un beffroi et une cathédrale veillent sur la ville qui s'étend alentour."
+          "title": "Lowanro",
+          "desc": "Unique champ du test, une ville sous l'horloge et la cathédrale. Attendez-vous à de fréquentes collisions multi-équipes sur la place, car c'est le chemin le plus rapide entre quadrants d'apparition et plusieurs améliorations."
         },
         {
-          "title": "Régions sur plusieurs niveaux",
-          "desc": "Au-delà des rues, la zone abrite notamment une grotte, une forêt et un lac."
+          "title": "Régions multicouches",
+          "desc": "Au-delà des rues s'ouvrent grotte, forêt et lac. La verticalité compte : rebords, escaliers et toits permettent aux builds de mêlée de décrocher pendant que les tireurs tiennent les lignes de vue."
         },
         {
-          "title": "Renaître à volonté",
-          "desc": "Vous pouvez renaître autant de fois que nécessaire, jusqu'à ce que vous succombiez à l'Élimination."
+          "title": "Ressusciter jusqu'à la chute",
+          "desc": "Vous pouvez ressusciter autant de fois que nécessaire, jusqu'à ne pas survivre à la purge. Les vies sont généreuses, le graal ne l'est pas : mourir tard coûte bien plus cher que mourir tôt, quand il reste du temps pour reconstruire la Vertu."
+        },
+        {
+          "title": "Quadrants d'apparition",
+          "desc": "Les joueurs arrivent dans des quadrants distincts. Votre première route décide si vous contestez un four, sécurisez des sacs de sang ou courez vers des aiguilles dorées : chaque ouverture façonne les deux minutes suivantes."
+        },
+        {
+          "title": "Pression de purge",
+          "desc": "Après chaque manche, les moins bien classés sont purgés. La carte est neutre, pas le tempo. Si vous êtes en retard, forcez les combats près des objectifs plutôt que d'errer dans la nature."
+        },
+        {
+          "title": "Signes du terrain",
+          "desc": "Rituels, plateformes de téléportation et chaînes de lumière annoncent où la foule s'accumule. Utilisez le terrain comme reconnaissance : si une zone est trop calme, le vrai combat est souvent de l'autre côté de l'horloge."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "Caractéristiques régionales",
-      "desc": "Plusieurs caractéristiques apparaissent dans chaque région au cours d'une phase, et elles évoluent avec le combat. Consultez la carte et choisissez les améliorations adaptées à votre style.",
+      "title": "Particularités régionales",
+      "desc": "Plusieurs éléments apparaissent par phase et évoluent avec le match. Vérifiez les icônes et choisissez les améliorations adaptées à votre style. La route « sûre » enchaîne souvent deux éléments sans se jeter dans une mêlée à trois sur la place.",
       "features": [
         {
-          "title": "Sanguine",
-          "desc": "Des Sanguines parcourent la terre. Vainquez-les pour obtenir des cristaux de sang qui améliorent les techniques d'Hémalige.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "Ancien sac de sang",
+          "desc": "Des sacs de sang parcourent la terre. Éliminez-les pour des cristaux qui renforcent les compétences. Après la première purge ils sont disputés : planifiez tôt plutôt que parier sur un vol tardif.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
-          "title": "Four alchimiste",
-          "desc": "Imprégnez vos armes du feu et d'autres affinités. Les renforcer à nouveau dans le four correspondant augmente leur niveau d'amélioration.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "title": "Four d'alchimie",
+          "desc": "Imbibe les armes de feu et d'autres affinités. Renforcer à nouveau dans un four compatible augmente le niveau. Empiler une affinité est l'un des rares pics de puissance qui ne dépendent pas des éliminations.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "Petits cercles de vassaux",
-          "desc": "De petits cercles d'invocation apparaissent : renforcez votre pacte et accordez beaucoup d'expérience à votre vassal.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "Petits cercles de parenté",
+          "desc": "Des cercles d'invocation renforcent votre pacte et donnent beaucoup d'expérience à votre parenté. À coupler à une route de farm sûre si une percée approche.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "Objets d'exploration",
-          "desc": "Trouvez des objets sur le terrain, comme la flasque de feu ou le pieu commémoratif pour fixer un point de renaissance.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "Aiguilles dorées",
+          "desc": "Elles peuvent invoquer des alliés. Traitez-les comme des objectifs à forte valeur : les activer sous pression peut stabiliser un combat perdu, mais canaliser à découvert invite les tiers."
+        },
+        {
+          "title": "Sites rituels",
+          "desc": "On y gagne la Vertu de l'Épée en tuant des joueurs. En jeu agressif, passez-y à chaque phase ; en protection d'avance, bloquez les entrées plutôt que de forcer le centre."
+        },
+        {
+          "title": "Plateformes de téléportation",
+          "desc": "Elles compriment la carte et punissent les rotations lentes. Utilisez-les pour fuir un effondrement ou arriver avant un objectif qui s'éteint, en supposant qu'un tiers arrivera trois secondes après."
         }
       ]
     },
     "tools": {
-      "title": "Outils de carte et écran d'infos",
-      "desc": "Appuyez sur [+] pendant un combat du Crépuscule pour ouvrir l'écran d'infos et tirer parti de la carte.",
+      "title": "Outils de carte et écran d'info",
+      "desc": "Appuyez sur [+] pendant la bataille pour ouvrir la carte et les infos. C'est votre meilleure reconnaissance quand l'audio est bruyant : icônes d'objectifs, position de l'équipe et contexte de phase sans risquer un regard.",
       "items": [
         {
-          "title": "Écran d'infos",
-          "desc": "Consultez votre position, les traces des autres Hémaliges et les icônes de caractéristiques à côté de chaque zone."
+          "title": "Objectifs en direct",
+          "desc": "Suivez fours, cercles, aiguilles et rituels à mesure qu'ils apparaissent. Les icônes suivent la phase : revérifiez après chaque transition."
         },
         {
-          "title": "Téléportation",
-          "desc": "Sélectionnez un point de téléportation sur la carte pour voyager instantanément. Indisponible en début de phase, juste après un téléport ou une renaissance, ou en plein combat."
+          "title": "Positions d'équipe",
+          "desc": "Voyez où tiennent vos partenaires. Si deux alliés sont déjà sur la place, n'envoyez pas un troisième sans pouvoir finir vite."
         },
         {
-          "title": "Marqueurs d'intrus",
-          "desc": "Les intrus apparaissent sur la carte avec des marqueurs spéciaux — y compris des variantes encore plus puissantes."
+          "title": "Contexte de phase",
+          "desc": "Fenêtres de purge et structure récompensent des routes différentes en début et en fin de match. Tôt on se prépare ; tard on ferme le combat final."
         },
         {
-          "title": "Repères",
-          "desc": "Placez des repères à l'écran ou sur la carte pour baliser vos parcours et points d'intérêt."
+          "title": "Habitude d'appels",
+          "desc": "Prévenez avant d'engager si possible. Un appel évite l'erreur classique de Lowanro : gagner son duel pendant que l'équipe adverse prend l'aiguille."
+        },
+        {
+          "title": "Indices sonores",
+          "desc": "Rugissements, arts de feu et invocations sont volontairement forts. L'audio est de l'information : en entendant un combat, choisissez d'intervenir ou de finir votre objectif."
+        },
+        {
+          "title": "Plan de route",
+          "desc": "Avant l'ouverture, choisissez une boucle à deux objectifs. Errer sans plan est la façon la plus courante de perdre de la Vertu sans s'en rendre compte."
         }
       ]
     },
     "guidesLink": {
-      "title": "Itinéraires et points de farm",
-      "desc": "Les guides de stratégie de carte sont dans les Guides.",
-      "cta": "Voir les guides de cartes"
+      "title": "Routes et spots de farm",
+      "desc": "Les guides stratégiques — routes par Serment, timings de four, calcul de purge — vivent dans le hub de guides. Avec un plan pour les 90 premières secondes, la carte semble moins aléatoire.",
+      "cta": "Voir les guides de carte"
     },
-    "sourceNote": "Les captures officielles et les données systèmes référencent les supports publiés par FromSoftware / Nintendo (guide du network test). La mise en page, les analyses et les recommandations de cette page sont indépendantes et non officielles."
+    "sourceNote": "Captures et faits de systèmes référencent les matériaux publics FromSoftware / Nintendo (guide du test réseau). Mise en page, analyses et recommandations de cette page sont indépendantes et non officielles."
   },
   "kin": {
     "intro": {
-      "eyebrow": "Vassaux",
-      "title": "Vassaux — Pactes, cercles et progression",
-      "lead": "Les vassaux sont des êtres qui ont conclu un accord avec l'Ordre du Crépuscule. Ils passent un pacte avec les Hémaliges et leur prêtent leur force — un soutien en plus des armes et des techniques.",
-      "updatedAt": "Dernière mise à jour : 19 octobre 2026"
+      "eyebrow": "Parenté",
+      "title": "Parenté — Pactes, cercles et progression",
+      "lead": "Les parentés sont des êtres liés à l'Ordre du Crépuscule. Elles pactisent avec les Serments de Sang et prêtent leur pouvoir : une couche de soutien au-dessus des armes et compétences. Cette page explique les pactes, les trois cercles, les archétypes du test et comment faire grandir ou changer de parenté sans gaspiller la partie.",
+      "updatedAt": "Dernière mise à jour : 25 octobre 2026"
     },
     "what": {
-      "title": "Pactes avec les vassaux",
-      "desc": "Ceux qui ont conclu un accord avec l'Ordre du Crépuscule sont appelés vassaux. Les vassaux passent un pacte avec les Hémaliges et leur prêtent leur pouvoir. Les pactes se forment aux cercles d'invocation, à la base des chaînes de lumière qui s'élèvent vers le ciel.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "Pactes avec les parentés",
+      "desc": "Ceux qui ont conclu un accord avec l'Ordre du Crépuscule sont des parentés. Elles prêtent leur pouvoir aux Serments via des cercles d'invocation au pied des chaînes de lumière. En pratique, un pacte est un partenaire de combat et une seconde ligne de progression : pendant que vous poussez vos compétences, la parenté transforme le temps de combat en expérience. Le partenaire que vous gardez compte autant que l'arme que vous portez.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
       "title": "Cercles d'invocation",
-      "desc": "Il existe trois types de cercles d'invocation de vassaux. Chacun permet de pactiser avec un type de vassal différent.",
+      "desc": "Il existe trois types de cercle, chacun lié à une famille. Choisir un cercle est une décision de build déguisée en décision de carte : la famille liée en premier définit l'utilité (tenue, contrôle ou pression explosive) disponible quand la place s'encombre.",
       "items": [
         {
           "title": "Anneau",
-          "desc": "Un cercle de type Anneau. Pactise avec une famille de vassaux."
+          "desc": "Cercle de type Anneau. Contrat avec une famille — utile pour une première ligne qui encaisse le chaos."
         },
         {
           "title": "Lame",
-          "desc": "Un cercle de type Lame. Pactise avec une autre famille de vassaux."
+          "desc": "Cercle de type Lame. Autre famille — plus agressive, pour convertir les escarmouches en éliminations."
         },
         {
           "title": "Œil",
-          "desc": "Un cercle de type Œil. Pactise avec une troisième famille de vassaux."
+          "desc": "Cercle de type Œil. Autre famille utilitaire : protège, presse la vision ou punit les entrées profondes."
         }
       ],
-      "note": "Huit vassaux sont disponibles dans la version du test réseau.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "Huit parentés existent dans le test. Le type de cercle limite la famille, mais chaque famille a plusieurs candidats : lisez le pacte avant de verrouiller la partie.",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "Archétypes de vassaux",
-      "desc": "Divers vassaux vous aident avec des capacités uniques. La version du test réseau inclut par exemple :",
+      "title": "Archétypes de parenté",
+      "desc": "Chaque parenté apporte un soutien unique. Le test incluait de telles figures — ce ne sont pas des mascottes décoratives : elles changent vos rotations, duels et tenues d'objectifs.",
       "items": [
         {
-          "title": "Jeune spadassin",
-          "desc": "Une jeune spadassin d'une société clandestine."
+          "title": "Jeune épéiste",
+          "desc": "D'une société clandestine. Pression de mêlée fiable, idéale avec des arts de sang agressifs et de courtes rotations."
         },
         {
-          "title": "Sorcier des flammes",
-          "desc": "Un sorcier maîtrisant les flammes."
+          "title": "Ensorcelleur des flammes",
+          "desc": "Maître du feu. Excellent pour bloquer les goulets et finir après des échanges avec four."
         },
         {
           "title": "Prisonnier chanteur",
-          "desc": "Un prisonnier qui protège ses alliés par le chant."
+          "desc": "Protège les alliés par le chant. Idéal pour les canalisations d'aiguilles ou les effondrements à trois équipes."
         },
         {
           "title": "Loup noir",
-          "desc": "Un loup noir qui règne sur une forêt."
+          "desc": "Seigneur de la forêt. Fort en extérieur et en lisière, où la poursuite décide qui sort de la zone."
+        },
+        {
+          "title": "Porte-bouclier",
+          "desc": "Gardien stoïque qui achète du temps. À utiliser pour se stabiliser après une mauvaise purge."
+        },
+        {
+          "title": "Éclaireur à la lanterne",
+          "desc": "Guide qui éclaire la route. Récompense ceux qui regardent vraiment la carte."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "Progression des vassaux",
-      "desc": "En vainquant des ennemis accompagné d'un vassal, celui-ci gagne aussi de l'expérience et monte de niveau, augmentant sa santé et sa puissance d'attaque. Certains débloquent même de nouvelles attaques selon leur niveau.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "Progression de la parenté",
+      "desc": "En vainquant avec votre parenté, elle gagne de l'expérience et peut grandir. C'est pourquoi le farm en milieu de partie compte encore après la première amélioration d'arme : chaque sac, étourdissement et rugissement converti nourrit le partenaire qui sera encore là en finale à trois. Si elle est à un combat d'une percée, privilégiez l'expérience sûre ; si la purge approche, privilégiez le score.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
-      "title": "Invocation et renvoi",
-      "desc": "Invoquez et congédiez les vassaux depuis le menu Fonction. Quand un vassal meurt, il est automatiquement retiré du combat et ne peut plus être invoqué pendant un certain temps. Hors du combat ou après un renvoi, sa santé se restaure progressivement. Impossible de congédier un vassal qui est sous attaque."
+      "title": "Invoquer et renvoyer",
+      "desc": "Invoquez et renvoyez les parentés depuis le menu Fonctions. Si elles meurent, un rappel est possible après recharge : perdre un partenaire coûte du tempo, pas la partie. Renvoyez volontairement s'il existe un meilleur pacte et que vous pouvez payer l'arrêt. L'erreur courante est de s'accrocher par habitude à un pacte mort ; l'habitude avancée est de le traiter comme un avantage à recharge et de le réévaluer entre phases. Un pacte ne remplace pas le positionnement : il achète des secondes, il ne répare pas une route sans plan qui entre dans trois équipes."
     },
-    "sourceNote": "Les captures officielles et les données systèmes référencent les supports publiés par FromSoftware / Nintendo (guide du network test). La mise en page, les analyses et les recommandations de cette page sont indépendantes et non officielles."
+    "sourceNote": "Captures et faits de systèmes référencent les matériaux publics FromSoftware / Nintendo. Mise en page, analyses et recommandations de cette page sont indépendantes et non officielles."
   },
   "relatedHubs": {
     "eyebrow": "À lire aussi",
@@ -2211,5 +2266,26 @@
         "cta": "Ouvrir Kin"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "Pour une meilleure expérience",
+    "body": "Nous utilisons des cookies pour mémoriser votre langue, voir les pages utiles et — seulement si vous acceptez — des publicités plus pertinentes.",
+    "accept": "Accepter",
+    "reject": "Refuser",
+    "acceptAll": "Tout accepter",
+    "essentialOnly": "Essentiels uniquement",
+    "customize": "Personnaliser",
+    "back": "Retour",
+    "settingsTitle": "Paramètres des cookies",
+    "settingsBody": "Choisissez ce que nous pouvons utiliser. Les cookies essentiels font fonctionner le site et sont toujours actifs.",
+    "essential": "Essentiels",
+    "essentialDesc": "Langue et fonctions de base. Toujours actifs.",
+    "analytics": "Mesure d’audience",
+    "analyticsDesc": "Nous aide à voir les pages utiles (Google Analytics).",
+    "ads": "Publicités personnalisées",
+    "adsDesc": "Autorise des publicités plus pertinentes et la mesure.",
+    "save": "Enregistrer",
+    "footerLink": "Paramètres des cookies",
+    "privacyLink": "Politique de confidentialité"
   }
 }

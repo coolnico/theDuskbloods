@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "Complete Trang Lanh guide for The Duskbloods — Darkmoon stealth and Daughter of the Darkmoon explained, Mama Nātha serpent summons, Alluring Bride blood-drink control, phase-by-phase game plan, and how to pilot this high-skill ambush Bloodsworn in the network test meta."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 
 She finished as a **B-tier high-skill pick** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) — not the safest character, but one of the most dangerous in clean hands. If you want to choose when the fight starts, Trang is how.
 
-![Trang Lanh — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg)
+![Trang Lanh — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2)
 
 Full stats and lore live on the [Trang Lanh character page](/characters/trang-lanh). This guide is the **how-to-play** companion.
 
@@ -195,4 +195,4 @@ Pick **Trang** if you want to choose when fights start and win through ambush. P
 
 *Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
-*Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*
+*Image credit: official materials （权利归原权利人） (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

@@ -130,7 +130,7 @@
     "updatedOn": "Aktualisiert",
     "fallbackNotice": "Dieser Artikel ist noch nicht in Ihrer Sprache verfügbar. Englische Version wird angezeigt.",
     "readingTime": "{min} Min. Lesezeit",
-    "imageCredit": "Bilder in diesem Artikel sind offizielle Materialien © FromSoftware / Nintendo. Rankings, Kommentare und Empfehlungen sind unsere eigenen."
+    "imageCredit": "Bilder in diesem Artikel sind lokal gehostete Ausschnitte öffentlicher Materialien （权利归原权利人） Rankings, Kommentare und Empfehlungen sind unsere eigenen."
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "Aus dem Spiel",
       "cta": "Mehr Ansehen →",
       "alt": "The Duskbloods Bildschirmfoto {n}",
-      "credit": "Screenshots sind offizielle Materialien © FromSoftware / Nintendo. Texte und Analysen der Website sind unabhängig und inoffiziell."
+      "credit": "Bilder sind lokal gehostete Ausschnitte öffentlicher Materialien （权利归原权利人） Texte und Analysen der Website sind unabhängig und inoffiziell."
     },
     "videos": {
       "eyebrow": "TRAILER",
@@ -305,7 +305,7 @@
         {
           "name": "Phase I: Erkundung und Eroberung",
           "desc": "Acht Blutgeweihte betreten die Dämmerungslande und beginnen, Tugend anzuhäufen.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "Besiege Gegner, entzünde Kerzen für Licht-Tugend, erkunde Gegenstände",
             "Regionale Merkmale erscheinen — Blutsäcke, Alchemieöfen, Vasallenkreise",
@@ -316,7 +316,7 @@
         {
           "name": "Phase II: Rituale und Auslese",
           "desc": "Der Kelch beginnt seine Auslese. Blutgeweihte mit zu wenig Tugend werden eliminiert.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "Zwei Tugendarten an Ritualstätten: Schwert-Tugend und Gelübde-Tugend",
             "Fordere Rote Steine (Schwert) oder Goldene Steine (Gelübde) an den Plinthen",
@@ -327,7 +327,7 @@
         {
           "name": "Phase III: Ereignisse und verschärfter Kampf",
           "desc": "Die Auslese geht weiter. Regionale Merkmale ändern sich. Das Schlachtfeld wird gefährlicher.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "Regionale Merkmale ändern sich, bieten neue Verstärkungsmöglichkeiten",
             "Ritualestätten öffnen sich erneut mit härterer Konkurrenz",
@@ -338,7 +338,7 @@
         {
           "name": "Finale Phase: Mondesblut-Verleihung",
           "desc": "Nur die drei Blutgeweihten mit der höchsten Tugend bleiben. Sie kämpfen um den ultimativen Sieg.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "Der Kelch gewährt zwei Leben — einmaliges Wiederbeleben möglich",
             "Bonus-HP basierend auf der gesammelten Tugend vorheriger Phasen",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "Offizielle Screenshots und Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
+    "sourceNote": "Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Albert",
           "melee": "Lorriks Juwelensäbel",
           "ranged": "MP",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "Blutklinge",
@@ -709,7 +709,7 @@
           "name": "Bluthand Jan",
           "melee": "Blutrünstige Axt",
           "ranged": "Zauberstein",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "Schattenschritt",
@@ -761,7 +761,7 @@
           "name": "Trang Lanh",
           "melee": "Vollmondklinge",
           "ranged": "Vollmondklinge (geworfen)",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "Dunkelmond",
@@ -813,7 +813,7 @@
           "name": "Scharfschützin Layla",
           "melee": "Sakrale Katare",
           "ranged": "Scharfschützengewehr",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "Neb-ra-Flucht",
@@ -865,7 +865,7 @@
           "name": "Senator Samir Patres",
           "melee": "Rapier des Senats",
           "ranged": "Geistervogelring",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "Richtpfahl",
@@ -917,7 +917,7 @@
           "name": "Zork",
           "melee": "Unterseekabel",
           "ranged": "Harpune",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "Schwarmfeuer",
@@ -1006,67 +1006,67 @@
       "desc": "Rankings und Einsteiger-Empfehlungen findest du in den Guides.",
       "cta": "Charakter-Guides ansehen"
     },
-    "imageCredit": "Charaktergrafiken und Screenshots sind offizielle Materialien © FromSoftware / Nintendo. Hinweise, Spiel-Tipps und Bewertungen auf dieser Seite sind unabhängige Fan-Analysen, keine offizielle Anleitung."
+    "imageCredit": "Charaktergrafiken und Bilder sind lokal gehostete Ausschnitte öffentlicher Materialien （权利归原权利人） Hinweise, Spiel-Tipps und Bewertungen auf dieser Seite sind unabhängige Fan-Analysen, keine offizielle Anleitung."
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Netzwerktest",
-      "title": "The Duskbloods Closed Network Test",
-      "lead": "Die Bewerbungsphase für den geschlossenen Netzwerktest von The Duskbloods auf Nintendo Switch 2 von FromSoftware ist beendet. Hier finden Sie den vollständigen Zeitplan und alle Details."
+      "title": "Geschlossener Netzwerktest zu The Duskbloods",
+      "lead": "Die Bewerbungsphase für FromSoftwares geschlossenen Netzwerktest zu The Duskbloods auf Nintendo Switch 2 ist beendet. Hier bleiben Zeitplan, Anforderungen und das, was Teilnehmer spielten — nützlicher Kontext bis zum Release 2026."
     },
     "status": {
       "label": "Bewerbungen geschlossen",
-      "desc": "Die Bewerbungsphase für den Netzwerktest ist beendet. Ausgewählte Spieler wurden am 7. August benachrichtigt."
+      "desc": "Die Bewerbungsphase ist beendet. Ausgewählte Spieler wurden am 7. August benachrichtigt. Auch ohne Teilnahme helfen Sessionstruktur, Multiplayer-Tempo und Switch-2-Anforderungen bei der Vorbereitung. Seite merken: Wir aktualisieren bei offiziellen Neuigkeiten."
     },
     "schedule": {
       "eyebrow": "Zeitplan",
       "title": "Vollständiger Ablauf",
       "application": {
-        "label": "Bewerbungszeitraum",
-        "start": "22. Juli (Mi.) um 7:00 Uhr PDT",
-        "end": "28. Juli (Di.) um 6:59 Uhr PDT",
-        "note": "Mehrfache Bewerbungen desselben Nutzers werden abgelehnt. Teilnehmer werden nach Reihenfolge der Anmeldung ausgewählt."
+        "label": "Bewerbungsphase",
+        "start": "22. Juli (Mi.) 7:00 Uhr PDT",
+        "end": "28. Juli (Di.) 6:59 Uhr PDT",
+        "note": "Doppelte Bewerbungen werden abgelehnt. Auswahl nach Reihenfolge — früh war wichtiger als ein poliertes Profil."
       },
       "selection": {
         "label": "Auswahlbekanntgabe",
-        "date": "7. August (Fr.) um 6:00 Uhr PDT",
-        "note": "Prüfen Sie Ihre Kontoseite auf der offiziellen Website, um das Ergebnis zu erfahren. Ausgewählte Spieler erhielten einen Download-Code."
+        "date": "7. August (Fr.) 6:00 Uhr PDT",
+        "note": "Ergebnis im offiziellen Konto prüfen. Ausgewählte erhielten einen Download-Code; bei künftigen Tests dieselbe Seite beobachten, keine Gerüchte-Threads."
       },
       "download": {
         "label": "Client-Download",
-        "date": "Verfügbar ab 18. August (Di.) um 6:00 Uhr PDT",
-        "note": "Ausgewählte Spieler können den Download-Code im Nintendo Store oder Nintendo eShop einlösen. In einigen Regionen wird das Herunterladen über andere Wege als den Nintendo eShop nicht unterstützt."
+        "date": "Ab 18. August (Di.) 6:00 Uhr PDT verfügbar",
+        "note": "Code in Nintendo Store oder Nintendo eShop nutzen. In manchen Regionen kein Download außerhalb des eShop."
       },
       "sessions": {
-        "label": "Test-Sitzungen",
-        "note": "Sitzungstermine und -zeiten können sich ohne Vorankündigung ändern oder abgesagt werden.",
+        "label": "Testsessions",
+        "note": "Termine können ohne Vorwarnung geändert oder abgesagt werden. Der Plan nutzte absichtlich kurze Fenster über Zeitzonen — erwarte Ähnliches statt langer Open Beta.",
         "items": [
           {
-            "date": "21. Aug. 2026 (Fr.)",
-            "time": "3:00 bis 7:00 Uhr PDT"
+            "date": "21. August 2026 (Fr.)",
+            "time": "3:00–7:00 Uhr PDT"
           },
           {
-            "date": "21. Aug. 2026 (Fr.)",
-            "time": "19:00 bis 23:00 Uhr PDT"
+            "date": "21. August 2026 (Fr.)",
+            "time": "19:00–23:00 Uhr PDT"
           },
           {
-            "date": "22. Aug. 2026 (Sa.)",
-            "time": "11:00 bis 15:00 Uhr PDT"
+            "date": "22. August 2026 (Sa.)",
+            "time": "11:00–15:00 Uhr PDT"
           },
           {
-            "date": "23. Aug. 2026 (So.)",
-            "time": "3:00 bis 7:00 Uhr PDT"
+            "date": "23. August 2026 (So.)",
+            "time": "3:00–7:00 Uhr PDT"
           },
           {
-            "date": "23. Aug. 2026 (So.)",
-            "time": "19:00 bis 23:00 Uhr PDT"
+            "date": "23. August 2026 (So.)",
+            "time": "19:00–23:00 Uhr PDT"
           }
         ]
       }
     },
     "requirements": {
-      "eyebrow": "Voraussetzungen",
-      "title": "Was Sie benötigen",
+      "eyebrow": "Anforderungen",
+      "title": "Was du brauchst",
       "items": [
         {
           "label": "Plattform",
@@ -1074,43 +1074,63 @@
         },
         {
           "label": "Mitgliedschaft",
-          "value": "Nintendo Switch Online-Mitgliedschaft"
+          "value": "Nintendo Switch Online"
         },
         {
           "label": "Auswahl",
-          "value": "Nach Reihenfolge der Anmeldung (begrenzte Plätze)"
+          "value": "Nach Anmeldezeit (begrenzte Plätze)"
         },
         {
           "label": "Entwickler",
           "value": "FromSoftware"
         },
         {
-          "label": "Verlag",
-          "value": "Nintendo"
+          "label": "Regionshinweis",
+          "value": "Manche Regionen konnten nicht außerhalb des eShop laden"
         }
       ]
     },
     "expect": {
-      "eyebrow": "Was Sie erwartet",
+      "eyebrow": "Was dich erwartet",
       "title": "Im Test",
       "items": [
         {
-          "title": "Ein Ausschnitt von PvPvE",
-          "desc": "Erwarten Sie einen spielbaren Ausschnitt der 8-Spieler-PvPvE-Action, die das vollständige Spiel prägt."
+          "title": "PvPvE-Struktur",
+          "desc": "Acht Spieler, drei Runden, Cutdown zwischendurch. PvE-Druck ist konstant, aber das Scoreboard schreiben Spielerkämpfe und Zielkontrolle."
         },
         {
-          "title": "Performance- und Stabilitätsprüfungen",
-          "desc": "Als Netzwerktest liegt der Fokus auf Serverlast, Matchmaking und Stabilität unter realen Bedingungen."
+          "title": "Kurze Sessionfenster",
+          "desc": "Jedes Fenster nur wenige Stunden. Belohnte Lowanro-Routen-Wissen — trainiere die Karte wie einen Raid-Abend."
         },
         {
-          "title": "In Arbeit",
-          "desc": "Inhalt, Balance und Optik entsprechen möglicherweise nicht dem finalen Spiel. Erwarten Sie Unregelmäßigkeiten und Änderungen vor dem Release."
+          "title": "Virtue-Ökonomie",
+          "desc": "Virtue entscheidet über Weiterkommen und Cutdown. Lektion: passives Farmen ohne Ziele ist stilles Verlieren."
+        },
+        {
+          "title": "Matchmaking-Gefühl",
+          "desc": "Hohe Nachfrage, volle Lobbys. Bei erneutem Test mit Warteschlange starten — rechtzeitig einloggen."
+        },
+        {
+          "title": "Performance auf Switch 2",
+          "desc": "Nativer Switch-2-Play inkl. Handheld. Netzstabilität war so wichtig wie Kampfskill."
+        },
+        {
+          "title": "Was zum Launch mitgeht",
+          "desc": "Kartenwissen, Virtue-Tempo, Pakt-Gewohnheiten bleiben. Waffen und Zahlen ändern sich, die Entscheidungsschleife nicht."
+        },
+        {
+          "title": "Notizen nutzen",
+          "desc": "Clips mit offener Karte ansehen. Fortschritt kommt daraus, wo Virtue verloren ging, nicht aus Mechanik-Show."
+        },
+        {
+          "title": "Was noch offen ist",
+          "desc": "Kein bestätigtes Kalenderdatum. Bis dahin Verzögerungsgerüchte als Gerüchte behandeln und den Plan als letzten offiziellen Multiplayer-Lastsignal nutzen."
         }
       ]
     },
     "cta": {
-      "title": "Bleiben Sie gespannt auf den Release",
-      "desc": "Der Netzwerktest war ein erster Blick auf The Duskbloods vor dem Release 2026 auf Nintendo Switch 2. Wir halten diese Seite mit den neuesten Informationen auf dem Laufenden."
+      "title": "Bleib gespannt auf den Release",
+      "desc": "Der Test war der erste Blick vor dem geplanten 2026er Launch auf Nintendo Switch 2. Nutze die Links für Timing, Systeme und Charakter-Vorbereitung. Wer mitspielte, hat einen Vorsprung: Wer Lowanro-Calls, Cutdown-Mathematik und Sippen-Breakpoints kennt, startet sofort."
     }
   },
   "faq": {
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "Quellen und Unabhängigkeit",
-          "desc": "Fakten stammen aus offiziellen Nintendo/FromSoftware-Materialien und öffentlicher Berichterstattung. Analysen und Rankings sind unsere eigenen. Offizielle Screenshots sind den Rechteinhabern zugeordnet; Kommentare sind unabhängig."
+          "desc": "Fakten stammen aus öffentlichen Nintendo/FromSoftware-Angaben und öffentlicher Berichterstattung. Analysen und Rankings sind unsere eigenen. Illustrationen sind lokal gehostet; Kommentare sind unabhängig."
         },
         {
           "title": "Korrekturen und Updates",
@@ -1676,7 +1696,7 @@
       "eyebrow": "AUSGEWÄHLTE ANALYSE",
       "title": "Screenshot-Analysen — was diese Bilder wirklich zeigen",
       "lead": "Zwölf offizielle Stills, sortiert in drei nicht überlappende Lesarten: Wer die Blutgeweihten sind, wie Kämpfe wirklich aussehen und wie die Welt Gefahr signalisiert. Jede Notiz startet am Bild und führt zurück ins Match.",
-      "sourceNote": "Die Bilder sind offizielle Screenshots © FromSoftware / Nintendo. Die Analyse ist unabhängig und inoffiziell.",
+      "sourceNote": "Die Bilder sind lokal gehostete Illustrationen （权利归原权利人） Die Analyse ist unabhängig und inoffiziell.",
       "h2A": "Blutgeweihte & Blutkünste",
       "h2B": "Kampf, Kreaturen & Blutkünste",
       "h2C": "Welt, Routen & Omen",
@@ -1786,150 +1806,185 @@
   },
   "maps": {
     "intro": {
-      "eyebrow": "Karte",
-      "title": "Dämmerungslande — Karte der Stadt Lowanro",
-      "lead": "Sobald eine Schlacht beginnt, werden die Blutgeweihten in die Dämmerungslande gerufen. Im Netzwerktest spielen sich alle Schlachten in einem dieser Lande ab: der Stadt Lowanro – einer mehrschichtigen Landschaft aus Wahrzeichen, Gassen und Wildnis.",
-      "updatedAt": "Zuletzt aktualisiert: 19. Oktober 2026"
+      "eyebrow": "Karten",
+      "title": "Lande der Dämmerung — Lowanro-Karte",
+      "lead": "Beginnt eine Dämmerungsschlacht, werden Blutschworene in die Lande der Dämmerung gerufen. Im Netzwerktest fand jeder Kampf auf einem einzigen Land statt: Lowanro — ein vielschichtiges Feld aus Straßen, Landmarken und Wildnis. Diese Seite erklärt den Aufbau, regionale Mechaniken zur Matchmitte und wie du die Karte liest, um weniger Zeit zu verlieren und mehr Virtue vor dem Kelch-Round-Cutdown zu sammeln.",
+      "updatedAt": "Zuletzt aktualisiert: 25. Oktober 2026"
     },
     "lands": {
-      "title": "Die Dämmerungslande",
-      "desc": "Ein Land, viele Ebenen. Erkunde die Lande nach deinem eigenen Gusto, um deinen Blutgeweihten zu stärken und die nötige Tugend für die Auslese zu erlangen.",
+      "title": "Die Lande der Dämmerung",
+      "desc": "Ein Land, viele Schichten. Lowanro ist eine vertikale Zitadelle: der Platz der Uhrmacher verankert das Zentrum, das Domviertel überwacht die oberen Terrassen, und Außenstraßen lösen sich in Höhlen, Wald und Seeufer auf. Erkunde frei, um Blutschworene zu stärken und Virtue für den Cutdown zu sammeln. Routen, die oberflächlich sicher wirken, verstecken oft Drittparteien-Überfälle an Engstellen — behandle jede Landmarke als Ressource und als baldigen Kampf.",
       "points": [
         {
-          "title": "Stadt Lowanro",
-          "desc": "Der einzige Schauplatz des Netzwerktests: ein hoher Uhrturm und eine gewaltige Kathedrale wachen über die Stadt."
+          "title": "Lowanro",
+          "desc": "Einziges Schlachtfeld des Tests — eine Stadt unter Turm und Dom. Häufige Mehr-Team-Kollisionen am Platz, weil er die schnellste Verbindung zwischen Spawn-Quadranten und mehreren Upgrades ist."
         },
         {
-          "title": "Mehrere Gebiete",
-          "desc": "Zur mehrschichtigen Landschaft gehören unter anderem ein Höhlensystem, ein Wald und ein See."
+          "title": "Mehrschichtige Regionen",
+          "desc": "Jenseits der Straßen öffnen sich Höhle, Wald und See. Vertikalität zählt: Simse, Treppen und Dächer erlauben Nahkampf-Builds den Abzug, während Schützen Sichtlinien halten."
         },
         {
-          "title": "Beliebig oft wiederbeleben",
-          "desc": "Die Blutgeweihten werden beliebig oft wiederbelebt, solange sie nicht der Auslese zum Opfer fallen."
+          "title": "Auferstehen bis zum Fall",
+          "desc": "Du kannst beliebig oft wiederbelebt werden, bis du den Cutdown nicht überlebst. Leben sind großzügig, der Kelch nicht: spätes Sterben kostet mehr als frühes, wenn noch Zeit zum Virtue-Aufbau bleibt."
+        },
+        {
+          "title": "Spawn-Quadranten",
+          "desc": "Spieler starten in verschiedenen Quadranten. Die erste Route entscheidet über Ofen-Kontest, sichere Blutbeutel oder goldene Spitzen — jede Eröffnung formt die nächsten zwei Minuten."
+        },
+        {
+          "title": "Cutdown-Druck",
+          "desc": "Nach jeder Runde scheiden die Schwächsten aus. Die Karte ist neutral, das Tempo nicht. Liegen du zurück, erzwinge Kämpfe an Zielen statt in der Wildnis zu wandern."
+        },
+        {
+          "title": "Geländesignale",
+          "desc": "Ritualstätten, Teleporter und Lichtketten kündigen Menschenmengen an. Nutze Gelände als Späher: ist eine Zone zu ruhig, liegt der echte Kampf meist auf der anderen Seite des Turms."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "Regionale Eigenschaften",
-      "desc": "In jedem Gebiet erscheinen je nach Phase verschiedene Eigenschaften, die sich mit dem Kampfverlauf ändern. Prüfe die Karte und suche Verstärkungen, die zu deinem Spielstil passen.",
+      "title": "Regionale Mechaniken",
+      "desc": "Mehrere Mechaniken erscheinen pro Phase und ändern sich mit dem Match. Prüfe Karten-Icons und wähle passende Upgrades. Die „sichere“ Route verbindet oft zwei Mechaniken, ohne sich ins Chaos am Platz zu stürzen.",
       "features": [
         {
-          "title": "Blutsack",
-          "desc": "Blutsäcke wandern durch das Land. Besiege sie für Blutkristalle, mit denen sich Blutgeweihten-Fertigkeiten verbessern lassen.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "Blutbeutel-Ältester",
+          "desc": "Blutsäcke streifen umher. Besiege sie für Kristalle, die Fähigkeiten stärken. Nach dem ersten Cutdown sind sie umkämpft: plane früh statt auf spätes Stehlen zu hoffen.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
           "title": "Alchemieofen",
-          "desc": "Verleihe Waffen Feuer und andere Affinitäten. Eine erneute Verbesserung am passenden Ofen erhöht die Verbesserungsstufe.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "desc": "Verleiht Waffen Feuer und andere Affinitäten. Erneutes Verstärken am passenden Ofen erhöht die Stufe. Affinitäten stapeln ist einer der wenigen Midgame-Power-Spikes ohne Kills.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "Vasallenkreis",
-          "desc": "Kleine Vasallenportale erscheinen: Stärke deinen Pakt und gewähre deinem Vasallen massig Erfahrung.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "Kleine Sippenkreise",
+          "desc": "Verstärken deinen Pakt und geben deiner Sippe viel Erfahrung. Kombiniere mit sicherem Farming, wenn ein Durchbruch naht.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "Erkundungsitems",
-          "desc": "Finde Items in der Wildnis, etwa die Feuerflasche oder den Gedenkpfahl als Wiederbelebungspunkt.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "Goldene Spitzen",
+          "desc": "Können Verbündete rufen. Behandle sie als High-Value-Ziele: Aktivierung unter Druck stabilisiert oft verlorene Kämpfe, aber ungeschütztes Kanalisieren lockt Dritte."
+        },
+        {
+          "title": "Ritualstätten",
+          "desc": "Hier verdienst du Schwert-Virtue mit Kills. Bei aggressivem Score jede Phase anlaufen; bei Vorsprung die Eingänge halten statt das Zentrum zu stürmen."
+        },
+        {
+          "title": "Teleporter",
+          "desc": "Verdichten die Karte und bestrafen langsame Rotationen. Nutze sie zur Flucht oder um als Erster zu verblassenden Zielen zu kommen — und rechne mit Dritten drei Sekunden später."
         }
       ]
     },
     "tools": {
-      "title": "Kartenwerkzeuge & Infoskraft",
-      "desc": "Drücke während einer Dämmerungsschlacht [+] für die Infoskraft und nutze die Karte zu deinem Vorteil.",
+      "title": "Kartentools & Info",
+      "desc": "Drücke [+] im Kampf für Karte und Info. Deine beste Aufklärung bei lauter Audio: Ziele, Teampositionen und Phasenkontext ohne riskantes Spähen.",
       "items": [
         {
-          "title": "Infoskraft",
-          "desc": "Sieh deine Position, die Spuren anderer Blutgeweihter und die Icons der regionalen Eigenschaften neben jedem Gebietsnamen."
+          "title": "Live-Ziele",
+          "desc": "Verfolge Öfen, Kreise, Spitzen und Ritualstätten. Icons folgen der Phase — nach jedem Rundenwechsel neu prüfen."
         },
         {
-          "title": "Sofortreise",
-          "desc": "Wähle ein Warppunkt auf der Karte für Sofortreisen. Nicht nutzbar zu Phasenbeginn, kurz nach Warpen oder Wiederbelebung sowie im Kampf."
+          "title": "Teampositionen",
+          "desc": "Sieh, wo Partner halten. Zwei schon am Platz? Dann keinen Dritten ohne schnellen Abschluss."
         },
         {
-          "title": "Eindringlingsmarker",
-          "desc": "Eindringlinge erscheinen als besondere Marker auf der Karte – inklusive noch stärkerer Varianten."
+          "title": "Phasenkontext",
+          "desc": "Cutdown-Fenster belohnen frühe und späte Routen anders. Früh Aufbau, spät Finale."
         },
         {
-          "title": "Marker setzen",
-          "desc": "Setze Marker auf dem Bildschirm oder der Karte, um Wege und Ziele zu markieren."
+          "title": "Call-Gewohnheit",
+          "desc": "Rufe vor dem Engage. Ein Hinweis verhindert den Lowanro-Klassiker: Duel gewinnen, während Gegner die Spitze nehmen."
+        },
+        {
+          "title": "Sound-Cues",
+          "desc": "Brüllen, Flammen, Beschwörungen sind laut gedacht. Audio ist Info: Kampf hören — einmischen oder eigenes Ziel zuerst?"
+        },
+        {
+          "title": "Routenplan",
+          "desc": "Vor dem Start eine Zwei-Ziel-Schleife wählen. Planloses Wandern ist der stille Virtue-Verlust."
         }
       ]
     },
     "guidesLink": {
       "title": "Routen & Farm-Spots",
-      "desc": "Karten-Strategie-Guides findest du in den Guides.",
-      "cta": "Karten-Guides ansehen"
+      "desc": "Karten-Guides — Routen pro Blutschworen, Ofen-Timing, Cutdown-Mathematik — liegen im Guide-Hub. Mit Plan für die ersten 90 Sekunden wirkt die Karte weniger zufällig.",
+      "cta": "Kartenguides ansehen"
     },
-    "sourceNote": "Offizielle Screenshots und Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
+    "sourceNote": "Systemfakten beziehen sich auf öffentliche Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
   },
   "kin": {
     "intro": {
-      "eyebrow": "Vasallen",
-      "title": "Vasallen — Pakte, Portale & Entwicklung",
-      "lead": "Vasallen sind jene, die einen Pakt mit dem Dämmerungsbund geschlossen haben. Sie verbünden sich mit Blutgeweihten und leihen ihnen ihre Kraft – eine Unterstützung jenseits von Waffen und Fertigkeiten.",
-      "updatedAt": "Zuletzt aktualisiert: 19. Oktober 2026"
+      "eyebrow": "Sippe",
+      "title": "Sippe — Pakte, Kreise & Aufstieg",
+      "lead": "Sippen sind Wesen, die einen Pakt mit dem Orden der Dämmerung schlossen. Sie gehen Pakte mit Blutschworenen ein und leihen Kraft — eine Support-Schicht über Waffen und Fähigkeiten. Diese Seite erklärt Pakte, die drei Kreis-Typen, Test-Archetypen und wie man Sippen im Match ohne Verschwendung wachsen lässt oder wechselt.",
+      "updatedAt": "Zuletzt aktualisiert: 25. Oktober 2026"
     },
     "what": {
-      "title": "Vasallen anheuern",
-      "desc": "Diejenigen, die einen Pakt mit dem Dämmerungsbund geschlossen haben, werden als „Vasallen“ bezeichnet. Du kannst ihre Stärken nutzen, indem du sie anheuerst. Dies wird an Portalen vollzogen, die weithin durch über ihnen in den Himmel ragende Ketten aus Licht sichtbar sind.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "Pakte mit Sippen",
+      "desc": "Wer mit dem Orden der Dämmerung paktiert, ist eine Sippe. Sippen schließen Pakte und leihen Kraft in Beschwörungskreisen an der Basis der Lichtketten. Praktisch ist ein Pakt Kampfpartner und zweite Progressionslinie: Während du Fähigkeiten pushst, wandelt die Sippe Kampfzeit in Erfahrung um. Der Partner zählt so sehr wie die Waffe.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
-      "title": "Vasallenportale",
-      "desc": "Es gibt drei Arten von Vasallenportalen: Ring, Klinge und Auge. Bei jedem Typus kannst du jeweils unterschiedliche Vasallen anheuern.",
+      "title": "Beschwörungskreise",
+      "desc": "Drei Kreistypen, je eine andere Familie. Kreiswahl ist Build-Entscheidung als Kartenentscheidung getarnt: Die zuerst gebundene Familie bestimmt Utility (Sustain, Control oder Burst) in vollen Plätzen.",
       "items": [
         {
           "title": "Ring",
-          "desc": "Ein Portal des Typs Ring. Hier heuerst du eine Familie von Vasallen an."
+          "desc": "Ring-Typ. Familie A — gut für Frontline, die Chaos aushält."
         },
         {
           "title": "Klinge",
-          "desc": "Ein Portal des Typs Klinge. Hier heuerst du eine andere Familie von Vasallen an."
+          "desc": "Klingen-Typ. Familie B — aggressiver, um Scharmützel zu Kills zu machen."
         },
         {
           "title": "Auge",
-          "desc": "Ein Portal des Typs Auge. Hier heuerst du eine dritte Familie von Vasallen an."
+          "desc": "Augen-Typ. Familie C — Utility: schützt, drückt Sicht, bestraft Tiefeintritte."
         }
       ],
-      "note": "Beim Netzwerktest sind acht Vasallen vorhanden.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "Acht Sippen im Test. Der Kreistyp begrenzt die Familie, aber jede Familie hat mehrere Kandidaten — Pakt vor dem Lock-in lesen.",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "Vasallentypen",
-      "desc": "Verschiedene Vasallen unterstützen dich mit einzigartigen Fähigkeiten. Im Netzwerktest etwa:",
+      "title": "Sippen-Archetypen",
+      "desc": "Jede Sippe unterstützt mit eigener Fähigkeit. Im Test erschienen etwa diese — keine Deko-Haustiere: Sie ändern Routing, Duelle und Halten von Zielen.",
       "items": [
         {
           "title": "Junge Schwertkämpferin",
-          "desc": "Eine junge Schwertkämpferin eines Geheimbundes."
+          "desc": "Geheimgesellschaft. Verlässlicher Nahdruck, gut mit aggressiven Blood Arts und kurzen Runden."
         },
         {
           "title": "Flammenzauberer",
-          "desc": "Ein Zaubermeister, der über das Feuer gebietet."
+          "desc": "Meister der Flamme. Gut im Verengen von Chokes und Nachziehen nach Ofen-Trades."
         },
         {
           "title": "Singender Gefangener",
-          "desc": "Ein Gefangener, der Verbündete durch Gesang schützt."
+          "desc": "Schützt Verbündete mit Gesang. Ideal bei Spitzen-Kanälen und Drei-Team-Kollaps."
         },
         {
           "title": "Schwarzer Wolf",
-          "desc": "Ein schwarzer Wolf, der über einen Wald herrscht."
+          "desc": "Herr des Waldes. Stark in offenen Lanes und Waldrändern."
+        },
+        {
+          "title": "Schildträger",
+          "desc": "Stoischer Wächter, kauft Zeit. Gut zur Stabilisierung nach schlechtem Cutdown."
+        },
+        {
+          "title": "Laternen-Späher",
+          "desc": "Pfadfinder mit Licht. Belohnt echtes Kartenlesen."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "Entwicklung der Vasallen",
-      "desc": "Besiegst du Feinde im Beisein eines Vasallen, gewinnt auch er Erfahrung und steigt auf – mit mehr Lebenspunkten und Angriffskraft. Manche erhalten je nach Stufe sogar neue Angriffe.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "Sippen-Aufstieg",
+      "desc": "Besiegst du Gegner mit Sippe, gewinnt sie Erfahrung und kann wachsen. Darum bleibt Midgame-Farming nach der ersten Waffenverstärkung wichtig: Beutel, Taumel, umgewandelte Brülle füttern den Partner fürs Finale zu dritt. Ein Kampf vor dem Breakpoint: sichere Erfahrung. Cutdown nahe: Score priorisieren.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
-      "title": "Beschwörung & Entlassung",
-      "desc": "Beschwöre und entlasse Vasallen über das Funktionsmenü. Stirbt ein Vasall, wird er automatisch entlassen und kann eine Zeitlang nicht erneut beschworen werden. In Ruhe oder außerhalb des Kampfes regeneriert seine Lebenskraft. Einen angegriffenen Vasallen kannst du nicht entlassen."
+      "title": "Rufen & Entlassen",
+      "desc": "Rufe und entlasse Sippen im Funktionsmenü. Nach Tod ist nach Cooldown erneutes Rufen möglich: verlorener Partner ist Tempo-Verlust, nicht Run-Ende. Entlasse bewusst bei besserem Pakt und bezahlbarer Downtime. Der Klassiker ist das Festhalten aus Gewohnheit; die fortgeschrittene Gewohnheit ist, Sippe wie jedes Cooldown-Utility zwischen Phasen neu zu bewerten. Ein Pakt ersetzt kein Positionieren: Er kauft Sekunden, repariert aber keine planlose Route in drei Teams."
     },
-    "sourceNote": "Offizielle Screenshots und Systemfakten beziehen sich auf Materialien von FromSoftware / Nintendo (Gameplay-Guide des Network Tests). Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
+    "sourceNote": "Systemfakten beziehen sich auf öffentliche Materialien von FromSoftware / Nintendo. Layout, Analyse und Empfehlungen dieser Seite sind unabhängig und inoffiziell."
   },
   "relatedHubs": {
     "eyebrow": "Weiterlesen",
@@ -2211,5 +2266,26 @@
         "cta": "Kin öffnen"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "Für ein besseres Erlebnis",
+    "body": "Wir nutzen Cookies, um Ihre Sprache zu merken und zu sehen, welche Seiten helfen — und nur mit Ihrer Zustimmung für passendere Werbung.",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen",
+    "acceptAll": "Alle akzeptieren",
+    "essentialOnly": "Nur notwendige",
+    "customize": "Anpassen",
+    "back": "Zurück",
+    "settingsTitle": "Cookie-Einstellungen",
+    "settingsBody": "Wählen Sie, was wir nutzen dürfen. Notwendige Cookies halten die Website am Laufen und sind immer aktiv.",
+    "essential": "Notwendig",
+    "essentialDesc": "Sprache und Grundfunktionen. Immer aktiv.",
+    "analytics": "Analyse",
+    "analyticsDesc": "Hilft uns zu sehen, welche Seiten nützlich sind (Google Analytics).",
+    "ads": "Personalisierte Werbung",
+    "adsDesc": "Erlaubt passendere Werbung und Messung.",
+    "save": "Auswahl speichern",
+    "footerLink": "Cookie-Einstellungen",
+    "privacyLink": "Datenschutzerklärung"
   }
 }

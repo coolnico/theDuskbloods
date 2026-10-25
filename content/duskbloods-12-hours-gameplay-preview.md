@@ -10,7 +10,7 @@ A 12-hour hands-on preview of The Duskbloods has revealed new details about From
 
 ## Gameplay Video
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/rh2XRuhlHNY" title="The Duskbloods 12-Hour Gameplay Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/rh2XRuhlHNY" title="The Duskbloods 12-Hour Gameplay Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ## What's New
 

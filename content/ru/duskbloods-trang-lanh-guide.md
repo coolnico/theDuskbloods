@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "Полный гайд по Чанг Лан в The Duskbloods — «Тёмная луна» и «Дочь тёмной луны», призыв серебряной змеи «Мама Натха», контроль через «Обольстительную невесту», план по фазам и как пилотировать этого сложного персонажа засад."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 
 Она заняла **B-тир (высокий скилл)** в нашем [тир-листе Кровоклятых](/ru/guides/duskbloods-tier-list) — не самый стабильный персонаж, но в чистых руках один из самых опасных. Если хотите сами выбирать, когда начинается бой — это Чанг.
 
-![Чанг Лан — портрет Кровоклятой](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg)
+![Чанг Лан — портрет Кровоклятой](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2)
 
 Полные статы и лор — на [странице Чанг Лан](/ru/characters/trang-lanh). Этот гайд — практическое **«как играть»**.
 
@@ -195,4 +195,4 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ча�
 
 *Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Снайперу Лейле](/ru/guides/duskbloods-sniper-layla-guide) · [Гайд по Сенатору Самиру](/ru/guides/duskbloods-senator-samir-patres-guide)*
 
-*Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*
+*Изображения: официальные материалы （权利归原权利人） (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

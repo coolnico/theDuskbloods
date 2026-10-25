@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "Полный гайд по Снайперу Лейле (Sniper Layla) в The Duskbloods — «Ночной глаз», «Исчезновение Неб-ра», «Гатлинг Верд», план по фазам и как занять длинный угол как A-тир дальнего пика сетевого теста."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 ---
 
@@ -20,7 +20,7 @@ tags: ["characters", "builds", "tips", "guide", "Sniper Layla"]
 
 > О названии: в официальных русских/китайских материалах имя остаётся латиницей — Layla. Здесь используется **Снайпер Лейла** с указанием **Sniper Layla**.
 
-![Снайпер Лейла — портрет Кровоклятой](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg)
+![Снайпер Лейла — портрет Кровоклятой](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2)
 
 Полные статы и лор — на [странице Лейлы](/ru/characters/sniper-layla). Этот гайд — практическое **«как играть»**.
 
@@ -197,4 +197,4 @@ The Duskbloods идёт в четыре фазы Dusk Battle. Задача Ле�
 
 *Читайте дальше: [Гайд по Зорку](/ru/guides/duskbloods-zork-guide) · [Гайд по Альберту](/ru/guides/duskbloods-albert-guide) · [Гайд по Яну](/ru/guides/duskbloods-bloodhand-jan-guide) · [Гайд по Чанг Лан](/ru/guides/duskbloods-trang-lanh-guide) · [Гайд по Сенатору Самиру](/ru/guides/duskbloods-senator-samir-patres-guide)*
 
-*Изображения: официальные материалы © FromSoftware / Nintendo (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*
+*Изображения: официальные материалы （权利归原权利人） (официальные медиа сетевого теста). Разбор геймплея — независимый фан-комментарий по закрытому сетевому тесту августа 2026 года.*

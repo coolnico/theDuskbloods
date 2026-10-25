@@ -10,7 +10,7 @@ The Duskbloods（ザ・ダスクブラッズ）の12時間プレイ体験から�
 
 ## ゲームプレイ映像
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/rh2XRuhlHNY" title="The Duskbloods 12時間プレイ映像" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/rh2XRuhlHNY" title="The Duskbloods 12時間プレイ映像" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ## 新情報
 

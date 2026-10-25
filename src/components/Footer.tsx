@@ -3,9 +3,11 @@
 import { Link } from '@/i18n/navigation';
 import { useTranslations } from 'next-intl';
 import { DOMAIN } from '@/lib/seo';
+import { openCookieSettings } from './CookieConsent';
 
 export default function Footer() {
   const t = useTranslations('nav');
+  const tc = useTranslations('cookieConsent');
 
   return (
     <footer className="border-t border-border bg-surface/40">
@@ -34,7 +36,6 @@ export default function Footer() {
                 <li><Link href="/characters" className="nav-link">{t('characters')}</Link></li>
                 <li><Link href="/maps" className="nav-link">{t('maps')}</Link></li>
                 <li><Link href="/kin" className="nav-link">{t('kin')}</Link></li>
-                <li><Link href="/gallery" className="nav-link">{t('gallery')}</Link></li>
                 <li><Link href="/network-test" className="nav-link">{t('networkTest')}</Link></li>
                 <li><Link href="/release-date" className="nav-link">{t('releaseDate')}</Link></li>
                 <li><Link href="/system-requirements" className="nav-link">{t('systemRequirements')}</Link></li>
@@ -53,6 +54,15 @@ export default function Footer() {
               <ul className="space-y-2 text-sm">
                 <li><Link href="/privacy" className="nav-link">{t('privacy')}</Link></li>
                 <li><Link href="/terms" className="nav-link">{t('terms')}</Link></li>
+                <li>
+                  <button
+                    type="button"
+                    className="nav-link cursor-pointer"
+                    onClick={openCookieSettings}
+                  >
+                    {tc('footerLink')}
+                  </button>
+                </li>
               </ul>
             </div>
           </div>

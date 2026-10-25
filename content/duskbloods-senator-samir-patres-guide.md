@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-23"
 modified: "2026-10-23"
 summary: "Complete Senator Samir Patres guide for The Duskbloods — Unshakable Sword perfect-guard buffs, Blood Disciple skill economy, Bloodstake swamps and Saurian Form charges, phase-by-phase game plan, and how to pilot this B-tier technique anti-carry in the network test meta."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 He finished as a **B-tier technique / anti-carry** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) — high skill, high reward. He is the pick when you want to **outbuild** the lobby and then **run over** the leader.
 
-![Senator Samir Patres — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg)
+![Senator Samir Patres — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2)
 
 Full stats and lore live on the [Senator Samir Patres character page](/characters/senator-samir-patres). This guide is the **how-to-play** companion.
 
@@ -193,4 +193,4 @@ Pick **Samir** if you want to break the leader with clean defense and a faster b
 
 *Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide)*
 
-*Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*
+*Image credit: official materials （权利归原权利人） (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

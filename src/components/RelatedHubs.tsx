@@ -6,131 +6,83 @@ function linkLocale(locale: string): string | undefined {
   return locale && locale !== 'en' ? locale : undefined;
 }
 
-type Hub = { href: string; navKey: string; descKey: string };
-
-const DESC_FALLBACK: Record<string, string> = {
-  confirmedVsTrackers: 'What is confirmed vs. what trackers claim.',
-  "timelineRumors": "Timeline, confirmed vs. rumored dates, and the launch window.",
-  "hardwareChecklist": "Switch 2, Nintendo Switch Online, storage and accessories.",
-  "platformsFaq": "Platforms, multiplayer, editions, and hardware Q&A.",
-  "windowTrackers": "Official window, trackers, and delay analysis.",
-  "quickRelease": "Quick answers on release and platforms.",
-  "whereDateDrops": "Where the exact date will drop.",
-  "allNews": "All news and analysis.",
-  "testSchedule": "Schedule, results, and what the test revealed.",
-  "onlineHardware": "Online membership, network, and hardware.",
-  "combatVirtue": "Combat, Virtue, phases, and House of Night.",
-  "testHub": "Network test hub.",
-  "howItPlays": "How the game actually plays.",
-  "testServers": "What the test said about servers.",
-  "networkHardware": "Network and hardware checklist.",
-  "displayModes": "Hardware and display modes.",
-  "combatFeel": "Systems that affect combat feel.",
-  "fullGameplay": "Full gameplay guide.",
-  "rosterAbilities": "Bloodsworn roster and abilities.",
-  "gameplayFaq": "Gameplay & multiplayer FAQ.",
-  "pvpveLoops": "PvPvE loops explained.",
-  "pvpveInMatches": "What PvPvE means in matches.",
-  "evergreenMechanics": "Evergreen mechanics guide.",
-  "beginnerAnswers": "Beginner questions answered.",
-  "coreLoop": "Learn the core loop.",
-  "whatYouNeed": "What you need to play.",
-  "startHere": "Start here with common questions.",
-  "alliancesSigils": "Alliances, Sigils, and match flow.",
-  "testMatchmaking": "How the network test handled matchmaking.",
-  "previewSystems": "Systems shown in previews.",
-  "shotsAnalysis": "Official screenshots with analysis.",
-  "whoYouPlay": "Who you play as.",
-  "switch2Requirements": "Switch 2 exclusive requirements.",
-  "launchPlatforms": "Launch window and platforms.",
-  "projectGlance": "The project at a glance.",
-  "fromsoftMultiplayer": "FromSoftware systems in multiplayer.",
-  "combatBuilds": "Combat, Virtue, phases, and builds.",
-  "timelineConfirmed": "Timeline and confirmed launch details.",
-  "playerSearchQs": "The questions players actually search.",
-};
-
-function hubDesc(descKey: string, table: Record<string, string> | undefined): string {
-  return table?.[descKey] || DESC_FALLBACK[descKey] || descKey;
-}
-
+type Hub = { href: string; navKey: string; desc: string };
 
 const HUB_BY_TAG: Record<string, Hub[]> = {
   'release-date': [
-    { href: '/release-date', navKey: 'releaseDate', descKey: 'timelineRumors' },
-    { href: '/system-requirements', navKey: 'systemRequirements', descKey: 'hardwareChecklist' },
-    { href: '/faq', navKey: 'faq', descKey: 'platformsFaq' },
+    { href: '/release-date', navKey: 'releaseDate', desc: 'Timeline, confirmed vs. rumored dates, and the launch window.' },
+    { href: '/system-requirements', navKey: 'systemRequirements', desc: 'Switch 2, Nintendo Switch Online, storage and accessories.' },
+    { href: '/faq', navKey: 'faq', desc: 'Platforms, multiplayer, editions, and hardware Q&A.' },
   ],
   delay: [
-    { href: '/release-date', navKey: 'releaseDate', descKey: 'windowTrackers' },
-    { href: '/faq', navKey: 'faq', descKey: 'quickRelease' },
+    { href: '/release-date', navKey: 'releaseDate', desc: 'Official window, trackers, and delay analysis.' },
+    { href: '/faq', navKey: 'faq', desc: 'Quick answers on release and platforms.' },
   ],
   tracker: [
-    { href: '/release-date', navKey: 'releaseDate', descKey: 'confirmedVsTrackers' },
-    { href: '/faq', navKey: 'faq', descKey: 'quickRelease' },
+    { href: '/release-date', navKey: 'releaseDate', desc: 'What is confirmed vs. what trackers claim.' },
+    { href: '/faq', navKey: 'faq', desc: 'Quick answers on release and platforms.' },
   ],
   'nintendo-direct': [
-    { href: '/release-date', navKey: 'releaseDate', descKey: 'whereDateDrops' },
-    { href: '/latest', navKey: 'latest', descKey: 'allNews' },
+    { href: '/release-date', navKey: 'releaseDate', desc: 'Where the exact date will drop.' },
+    { href: '/latest', navKey: 'latest', desc: 'All news and analysis.' },
   ],
   'network test': [
-    { href: '/network-test', navKey: 'networkTest', descKey: 'testSchedule' },
-    { href: '/system-requirements', navKey: 'systemRequirements', descKey: 'onlineHardware' },
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'combatVirtue' },
+    { href: '/network-test', navKey: 'networkTest', desc: 'Schedule, results, and what the test revealed.' },
+    { href: '/system-requirements', navKey: 'systemRequirements', desc: 'Online membership, network, and hardware.' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Combat, Virtue, phases, and House of Night.' },
   ],
   beta: [
-    { href: '/network-test', navKey: 'networkTest', descKey: 'testHub' },
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'howItPlays' },
+    { href: '/network-test', navKey: 'networkTest', desc: 'Network test hub.' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'How the game actually plays.' },
   ],
   server: [
-    { href: '/network-test', navKey: 'networkTest', descKey: 'testServers' },
-    { href: '/system-requirements', navKey: 'systemRequirements', descKey: 'networkHardware' },
+    { href: '/network-test', navKey: 'networkTest', desc: 'What the test said about servers.' },
+    { href: '/system-requirements', navKey: 'systemRequirements', desc: 'Network and hardware checklist.' },
   ],
   performance: [
-    { href: '/system-requirements', navKey: 'systemRequirements', descKey: 'displayModes' },
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'combatFeel' },
+    { href: '/system-requirements', navKey: 'systemRequirements', desc: 'Hardware and display modes.' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Systems that affect combat feel.' },
   ],
   gameplay: [
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'fullGameplay' },
-    { href: '/characters', navKey: 'characters', descKey: 'rosterAbilities' },
-    { href: '/faq', navKey: 'faq', descKey: 'gameplayFaq' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Full gameplay guide.' },
+    { href: '/characters', navKey: 'characters', desc: 'Bloodsworn roster and abilities.' },
+    { href: '/faq', navKey: 'faq', desc: 'Gameplay & multiplayer FAQ.' },
   ],
   pvpve: [
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'pvpveLoops' },
-    { href: '/faq', navKey: 'faq', descKey: 'pvpveInMatches' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'PvPvE loops explained.' },
+    { href: '/faq', navKey: 'faq', desc: 'What PvPvE means in matches.' },
   ],
   guide: [
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'evergreenMechanics' },
-    { href: '/faq', navKey: 'faq', descKey: 'beginnerAnswers' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Evergreen mechanics guide.' },
+    { href: '/faq', navKey: 'faq', desc: 'Beginner questions answered.' },
   ],
   beginner: [
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'coreLoop' },
-    { href: '/system-requirements', navKey: 'systemRequirements', descKey: 'whatYouNeed' },
-    { href: '/faq', navKey: 'faq', descKey: 'startHere' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Learn the core loop.' },
+    { href: '/system-requirements', navKey: 'systemRequirements', desc: 'What you need to play.' },
+    { href: '/faq', navKey: 'faq', desc: 'Start here with common questions.' },
   ],
   matchmaking: [
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'alliancesSigils' },
-    { href: '/network-test', navKey: 'networkTest', descKey: 'testMatchmaking' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Alliances, Sigils, and match flow.' },
+    { href: '/network-test', navKey: 'networkTest', desc: 'How the network test handled matchmaking.' },
   ],
   preview: [
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'previewSystems' },
-    { href: '/gallery', navKey: 'gallery', descKey: 'shotsAnalysis' },
-    { href: '/characters', navKey: 'characters', descKey: 'whoYouPlay' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'Systems shown in previews.' },
+    { href: '/characters', navKey: 'characters', desc: 'Who you play as.' },
   ],
   switch2: [
-    { href: '/system-requirements', navKey: 'systemRequirements', descKey: 'switch2Requirements' },
-    { href: '/release-date', navKey: 'releaseDate', descKey: 'launchPlatforms' },
+    { href: '/system-requirements', navKey: 'systemRequirements', desc: 'Switch 2 exclusive requirements.' },
+    { href: '/release-date', navKey: 'releaseDate', desc: 'Launch window and platforms.' },
   ],
   fromsoftware: [
-    { href: '/about', navKey: 'about', descKey: 'projectGlance' },
-    { href: '/gameplay', navKey: 'gameplay', descKey: 'fromsoftMultiplayer' },
+    { href: '/about', navKey: 'about', desc: 'The project at a glance.' },
+    { href: '/gameplay', navKey: 'gameplay', desc: 'FromSoftware systems in multiplayer.' },
   ],
 };
 
 const DEFAULT_HUBS: Hub[] = [
-  { href: '/gameplay', navKey: 'gameplay', descKey: 'combatBuilds' },
-  { href: '/release-date', navKey: 'releaseDate', descKey: 'timelineConfirmed' },
-  { href: '/faq', navKey: 'faq', descKey: 'playerSearchQs' },
+  { href: '/gameplay', navKey: 'gameplay', desc: 'Combat, Virtue, phases, and builds.' },
+  { href: '/release-date', navKey: 'releaseDate', desc: 'Timeline and confirmed launch details.' },
+  { href: '/faq', navKey: 'faq', desc: 'The questions players actually search.' },
 ];
 
 function hubsForTags(tags: string[] | undefined, slug: string): Hub[] {
@@ -223,8 +175,6 @@ export default async function RelatedHubs({
 
   const t = await getTranslations({ locale, namespace: 'nav' });
   const tUi = await getTranslations({ locale, namespace: 'relatedHubs' });
-  let hubDescs: Record<string, string> | undefined;
-  try { hubDescs = tUi.raw('hubs') as Record<string, string>; } catch { hubDescs = undefined; }
   const tChars = await getTranslations({ locale, namespace: 'characters' });
 
   let chars: CharLink[] = [];
@@ -258,7 +208,7 @@ export default async function RelatedHubs({
               className="group rounded-[var(--radius)] border border-border bg-surface-2/40 p-4 transition hover:border-blood"
             >
               <div className="text-sm font-semibold text-text group-hover:text-blood">{t(h.navKey as never)}</div>
-              <p className="mt-1 text-xs leading-relaxed text-muted">{hubDesc(h.descKey, hubDescs)}</p>
+              <p className="mt-1 text-xs leading-relaxed text-muted">{h.desc}</p>
             </Link>
           ))}
         </div>

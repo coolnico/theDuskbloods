@@ -42,7 +42,7 @@
     },
     "gallery": {
       "title": "The Duskbloods 갤러리 — 스크린샷 & 전투 분석",
-      "description": "The Duskbloods 공식 스크린샷과 독자 분석: Bloodsworn 전투, 로안로 랜드마크, Blood Arts 텔레그래프, PvPvE 압박, 후반 페이즈 필드 리드까지."
+      "description": "The Duskbloods 사이트 호스팅 공개 자료 이미지과 독자 분석: Bloodsworn 전투, 로안로 랜드마크, Blood Arts 텔레그래프, PvPvE 압박, 후반 페이즈 필드 리드까지."
     },
     "contact": {
       "title": "문의 — The Duskbloods 팬 사이트",
@@ -130,7 +130,7 @@
     "updatedOn": "업데이트",
     "fallbackNotice": "이 기사는 아직 귀하의 언어로 제공되지 않습니다. 영어 버전을 표시합니다.",
     "readingTime": "약 {min}분 소요",
-    "imageCredit": "본 문서의 이미지는 FromSoftware / Nintendo의 공식 자료입니다. 순위·코멘트·추천은 본 사이트의 독립 의견입니다."
+    "imageCredit": "본 문서의 이미지는 FromSoftware / Nintendo의 공개 자료입니다. 순위·코멘트·추천은 본 사이트의 독립 의견입니다."
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "게임 장면",
       "cta": "더 보기 →",
       "alt": "더스크블러드 스크린샷 {n}",
-      "credit": "스크린샷은 FromSoftware / Nintendo의 공식 자료입니다. 사이트 본문과 분석은 독립적인 비공식 콘텐츠입니다."
+      "credit": "스크린샷은 FromSoftware / Nintendo의 공개 자료입니다. 사이트 본문과 분석은 독립적인 비공식 콘텐츠입니다."
     },
     "videos": {
       "eyebrow": "트레일러",
@@ -305,7 +305,7 @@
         {
           "name": "페이즈 I: 탐색과 토벌",
           "desc": "8명의 혈족이 황혼의 땅에 들어가 미덕을 쌓기 시작합니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "적을 쓰러뜨리고, 유체 두개골에 불을 붙여 등불의 미덕 획득, 탐색으로 아이템 수집",
             "각 지역에 경향 출현 — 혈대옹, 연금로, 권속의 소마법진",
@@ -316,7 +316,7 @@
         {
           "name": "페이즈 II: 의식장과 선별",
           "desc": "성배의 선별이 시작됩니다. 미덕이 부족한 혈족이 탈락합니다. 의식장이 개방됩니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "의식장에서 2종 미덕: 검의 미덕 (혈족 처치)과 서약의 미덕 (맹세기둥에 맹세)",
             "석좌에서 적석 (검의 미덕 UP) 또는 황금석 (서약의 미덕 UP) 획득",
@@ -327,7 +327,7 @@
         {
           "name": "페이즈 III: 이벤트와 격전",
           "desc": "선별이 계속되고, 지역 경향이 변화합니다. 전장이 더욱 위험해집니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "지역 경향 변화, 새로운 강화의 기회 출현",
             "의식장 재개방, 더 치열한 경쟁",
@@ -338,7 +338,7 @@
         {
           "name": "최종 페이즈: 달의 수혈",
           "desc": "미덕이 가장 높은 3명의 혈족만 남습니다. 최종 승리를 위해 싸웁니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "성배가 두 개의 생명을 부여 — 한 번만 부활 가능",
             "이전 페이즈까지의 미덕에 따른 추가 HP",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "공식 스크린샷과 시스템 정보는 FromSoftware / Nintendo가 공개한 자료(네트워크 테스트 플레이 가이드)를 참조합니다. 본 페이지의 구성·분석·조언은 독립적인 비공식 콘텐츠입니다."
+    "sourceNote": "사이트 호스팅 공개 자료 이미지과 시스템 정보는 FromSoftware / Nintendo가 공개한 자료(네트워크 테스트 플레이 가이드)를 참조합니다. 본 페이지의 구성·분석·조언은 독립적인 비공식 콘텐츠입니다."
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Albert",
           "melee": "로리크의 보도",
           "ranged": "기관총",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "피의 칼날",
@@ -709,7 +709,7 @@
           "name": "「피에 물든 손」 얀",
           "melee": "갈혈의 도끼",
           "ranged": "마술석",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "순신",
@@ -761,7 +761,7 @@
           "name": "탕 란",
           "melee": "월륜의 칼날",
           "ranged": "월륜의 칼날（투척）",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "암월",
@@ -813,7 +813,7 @@
           "name": "저격수 레일라",
           "melee": "성각의 카타르",
           "ranged": "저격총",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "네뷸러의 소실",
@@ -865,7 +865,7 @@
           "name": "원로 사미르 파트레스",
           "melee": "원로원의 레이피어",
           "ranged": "영조의 반지",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "피의 형벌 기둥",
@@ -917,7 +917,7 @@
           "name": "조크",
           "melee": "해저 케이블",
           "ranged": "스피어건",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "미사일",
@@ -1006,67 +1006,67 @@
       "desc": "랭킹과 초보 추천은 공략에 있습니다.",
       "cta": "캐릭터 공략 보기"
     },
-    "imageCredit": "캐릭터 아트와 스크린샷은 FromSoftware / Nintendo의 공식 자료입니다. 본 페이지의 캐릭터 설명·플레이 팁·평가는 팬 독립 분석이며 공식 가이드가 아닙니다."
+    "imageCredit": "캐릭터 아트와 스크린샷은 FromSoftware / Nintendo의 공개 자료입니다. 본 페이지의 캐릭터 설명·플레이 팁·평가는 팬 독립 분석이며 공식 가이드가 아닙니다."
   },
   "networkTest": {
     "intro": {
       "eyebrow": "네트워크 테스트",
       "title": "The Duskbloods 클로즈드 네트워크 테스트",
-      "lead": "FromSoftware가 Nintendo Switch 2에서 진행하는 The Duskbloods 클로즈드 네트워크 테스트 모집이 종료되었습니다. 아래는 전체 일정과 상세 정보입니다."
+      "lead": "FromSoftware가 Nintendo Switch 2에서 진행한 The Duskbloods 클로즈드 네트워크 테스트 접수는 종료되었습니다. 이 페이지에 전체 일정, 요건, 참가자가 실제로 플레이한 내용을 남깁니다. 2026년 정식 출시를 기다리는 동안 유용한 맥락이 됩니다."
     },
     "status": {
-      "label": "모집 종료",
-      "desc": "네트워크 테스트 신청 기간이 종료되었습니다. 당첨자에게는 8월 7일에 안내가 발송되었습니다."
+      "label": "접수 종료",
+      "desc": "네트워크 테스트 접수가 끝났습니다. 선정된 플레이어는 8월 7일에 통보받았습니다. 놓쳤더라도 아래 세션 구조, 멀티 템포, Switch 2 요건은 향후 테스트나 출시 빌드 준비에 그대로 쓸 수 있습니다. 공식 후속이 나면 갱신하니 이 페이지를 북마크하세요."
     },
     "schedule": {
       "eyebrow": "일정",
       "title": "전체 타임라인",
       "application": {
-        "label": "신청 기간",
-        "start": "7월 22일 (수) 오전 7시 (태평양 하계 시간)",
-        "end": "7월 28일 (화) 오전 6시 59분 (태평양 하계 시간)",
-        "note": "동일 사용자의 중복 신청은 거부됩니다. 참가자는 신청 순서에 따라 선정됩니다."
+        "label": "접수 기간",
+        "start": "7월 22일 (수) 7:00 a.m. PDT",
+        "end": "7월 28일 (화) 6:59 a.m. PDT",
+        "note": "동일 사용자의 중복 접수는 거부됩니다. 참가자는 선착순 선정—프로필보다 빨리 신청하는 편이 중요했습니다."
       },
       "selection": {
-        "label": "당첨 발표",
-        "date": "8월 7일 (금) 오전 6시 (태평양 하계 시간)",
-        "note": "공식 사이트의 내 페이지에서 신청 결과를 확인하세요. 당첨자에게는 다운로드 코드가 발송됩니다."
+        "label": "선정 발표",
+        "date": "8월 7일 (금) 6:00 a.m. PDT",
+        "note": "공식 사이트 계정 페이지에서 결과를 확인하세요. 선정자에게는 다운로드 코드가 제공되었습니다. 향후 테스트도 같은 페이지를 확인하고 제3자 루머 스레드를 믿지 마세요."
       },
       "download": {
         "label": "클라이언트 다운로드",
-        "date": "8월 18일 (화) 오전 6시 (태평양 하계 시간)부터",
-        "note": "당첨자는 다운로드 코드를 사용하여 Nintendo Store 또는 Nintendo eShop에서 다운로드할 수 있습니다. 일부 지역에서는 Nintendo eShop 이외의 수단으로 다운로드가 지원되지 않습니다."
+        "date": "8월 18일 (화) 6:00 a.m. PDT부터 이용 가능",
+        "note": "선정자는 Nintendo Store 또는 Nintendo eShop에서 코드를 사용할 수 있습니다. 일부 지역에서는 eShop 이외 수단이 지원되지 않습니다."
       },
       "sessions": {
         "label": "테스트 세션",
-        "note": "세션 일정은 사전 예고 없이 변경되거나 취소될 수 있습니다.",
+        "note": "세션 일시는 예고 없이 변경·취소될 수 있습니다. 일정은 시간대를 가로지르는 짧은 창을 의도적으로 썼습니다—향후 테스트도 장기 오픈 베타가 아니라 유사한 버스트형 세션을 예상하세요.",
         "items": [
           {
             "date": "2026년 8월 21일 (금)",
-            "time": "오전 3시 ~ 오전 7시 (태평양 하계 시간)"
+            "time": "3:00 a.m. – 7:00 a.m. PDT"
           },
           {
             "date": "2026년 8월 21일 (금)",
-            "time": "오후 7시 ~ 오후 11시 (태평양 하계 시간)"
+            "time": "7:00 p.m. – 11:00 p.m. PDT"
           },
           {
             "date": "2026년 8월 22일 (토)",
-            "time": "오전 11시 ~ 오후 3시 (태평양 하계 시간)"
+            "time": "11:00 a.m. – 3:00 p.m. PDT"
           },
           {
             "date": "2026년 8월 23일 (일)",
-            "time": "오전 3시 ~ 오전 7시 (태평양 하계 시간)"
+            "time": "3:00 a.m. – 7:00 a.m. PDT"
           },
           {
             "date": "2026년 8월 23일 (일)",
-            "time": "오후 7시 ~ 오후 11시 (태평양 하계 시간)"
+            "time": "7:00 p.m. – 11:00 p.m. PDT"
           }
         ]
       }
     },
     "requirements": {
-      "eyebrow": "참가 조건",
-      "title": "필요 사항",
+      "eyebrow": "요건",
+      "title": "준비할 것",
       "items": [
         {
           "label": "플랫폼",
@@ -1077,40 +1077,60 @@
           "value": "Nintendo Switch Online 멤버십"
         },
         {
-          "label": "선정 방식",
-          "value": "신청 순서 (인원 제한)"
+          "label": "선정",
+          "value": "선착순 (인원 제한)"
         },
         {
           "label": "개발",
           "value": "FromSoftware"
         },
         {
-          "label": "배급",
-          "value": "Nintendo"
+          "label": "지역 참고",
+          "value": "일부 지역은 eShop 외 다운로드 불가"
         }
       ]
     },
     "expect": {
-      "eyebrow": "테스트 내용",
-      "title": "테스트 체험",
+      "eyebrow": "무엇을 기대할까",
+      "title": "테스트 안쪽",
       "items": [
         {
-          "title": "PvPvE의 일부",
-          "desc": "본작을 특징짓는 8인 PvPvE 액션의 플레이 가능한 일부를 체험할 수 있습니다."
+          "title": "PvPvE 구조",
+          "desc": "8명이 3라운드를 다투고 중간 도태가 있습니다. PvE 압박은 상시지만, 점수판은 플레이어 전투와 목표 장악으로 쓰입니다."
         },
         {
-          "title": "성능 및 안정성 검증",
-          "desc": "네트워크 테스트로서, 실제 환경에서의 서버 부하, 매칭, 안정성이 중점입니다."
+          "title": "짧은 세션 창",
+          "desc": "각 창은 몇 시간뿐. 로안로 동선을 이미 아는 플레이어에게 유리했습니다—정식에 대비한 연습도 레이드 준비처럼."
         },
         {
-          "title": "개발 중 콘텐츠",
-          "desc": "콘텐츠, 밸런스, 영상은 최종 버전을 대표하지 않을 수 있습니다. 발매 전 조정될 수 있습니다."
+          "title": "버쳐 경제",
+          "desc": "버쳐가 진출과 도태를 결정합니다. 테스트의 교훈은 명확—다투지 않고 파밍만 하면 조용히 집니다."
+        },
+        {
+          "title": "매치메이킹 체감",
+          "desc": "초기 보고는 수요가 강하고 로비가 붐볐다고 합니다. 재테스트라면 시작 시간에 대기열 압박을 예상하고 시작 전에 로그인하세요."
+        },
+        {
+          "title": "Switch 2 성능",
+          "desc": "Switch 2 네이티브(휴대 포함)가 대상입니다. 피크 시간대 네트워크 안정도 전투 기술만큼 중요했습니다."
+        },
+        {
+          "title": "출시로 가져갈 것",
+          "desc": "맵 지식, 버쳐 템포, 계약/킨 습관은 이어집니다. 무기와 수치는 바뀔 수 있어도 의사결정 루프는 바뀌지 않습니다."
+        },
+        {
+          "title": "테스트 노트 활용법",
+          "desc": "맵을 열어둔 채 리플레이를 보세요. 성장 대부분은 \"버쳐를 어디서 잃었는가\"를 발견하는 데서 오지, 화려한 컨트롤이 아닙니다. 본작이 채점하는 것은 동선 판단입니다."
+        },
+        {
+          "title": "아직 기다리는 것",
+          "desc": "정식 출시의 정확한 달력 날짜는 미확인입니다. 그때까지 지연 루머는 루머로 취급하고, 이 일정을 마지막 공식 멀티 부하 신호로 삼으세요."
         }
       ]
     },
     "cta": {
-      "title": "정식 발매를 기대해 주세요",
-      "desc": "네트워크 테스트는 The Duskbloods의 2026년 Nintendo Switch 2 발매에 앞선 선행 체험이었습니다. 최신 정보는 이 페이지에서 안내드리겠습니다."
+      "title": "정식 출시를 기대해 주세요",
+      "desc": "네트워크 테스트는 2026년 Nintendo Switch 2 출시 전 첫 공개였습니다. 아래 링크에서 출시 시기, 시스템 심화, 캐릭터 준비를 따라가세요—공식 세부가 나오면 갱신합니다. 참가했다면 노트를 선두 이점으로 여기세요. 로안로 콜, 도태 계산, 킨 돌파를 아는 플레이어는 처음부터 싸울 수 있습니다."
     }
   },
   "faq": {
@@ -1211,7 +1231,7 @@
           },
           {
             "q": "플레이 가능한 캐릭터는 몇 명인가요?",
-            "a": "공식 자료는 12체 이상의 Bloodsworn을 말합니다. 전체 로스터는 아직 공개되지 않았으며, 출시에 가까워지면 추가 공개가 예상됩니다."
+            "a": "공개 자료는 12체 이상의 Bloodsworn을 말합니다. 전체 로스터는 아직 공개되지 않았으며, 출시에 가까워지면 추가 공개가 예상됩니다."
           },
           {
             "q": "피의 역사란 무엇인가요?",
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "출처와 독립성",
-          "desc": "사실은 Nintendo/FromSoftware 공식 자료와 공개 보도에 근거합니다. 분석과 순위는 본 사이트의 의견입니다. 공식 스크린샷은 권리자를 표기하고, 논평은 독립적으로 작성합니다."
+          "desc": "사실은 Nintendo/FromSoftware 공개 자료와 공개 보도에 근거합니다. 분석과 순위는 본 사이트의 의견입니다. 사이트 호스팅 공개 자료 이미지은 권리자를 표기하고, 논평은 독립적으로 작성합니다."
         },
         {
           "title": "정정과 업데이트",
@@ -1474,7 +1494,7 @@
         },
         {
           "title": "12체 이상의 Bloodsworn",
-          "desc": "공식 자료는 고유한 무기·능력과 사용자 정의 가능한 피의 역사를 지닌 12체 이상의 플레이 가능 Bloodsworn을 약속합니다."
+          "desc": "공개 자료는 고유한 무기·능력과 사용자 정의 가능한 피의 역사를 지닌 12체 이상의 플레이 가능 Bloodsworn을 약속합니다."
         }
       ],
       "unconfirmed": [
@@ -1662,11 +1682,11 @@
     "intro": {
       "eyebrow": "스크린샷",
       "title": "갤러리",
-      "lead": "The Duskbloods 공식 스크린샷 — FromSoftware의 Nintendo Switch 2용 멀티플레이어 액션 타이틀의 어둡고 몰입감 있는 세계를 탐험하세요."
+      "lead": "The Duskbloods 사이트 호스팅 공개 자료 이미지 — FromSoftware의 Nintendo Switch 2용 멀티플레이어 액션 타이틀의 어둡고 몰입감 있는 세계를 탐험하세요."
     },
     "main": {
       "eyebrow": "메인 세트",
-      "title": "공식 스크린샷",
+      "title": "사이트 호스팅 공개 자료 이미지",
       "alt": "더스크블러드 스크린샷 {n}"
     },
     "lightbox": {
@@ -1676,7 +1696,7 @@
       "eyebrow": "특집 분석",
       "title": "스크린샷 분석 — 이 프레임이 실제로 보여주는 것",
       "lead": "공식 스틸 12장을 겹치지 않는 세 갈래로 나눴습니다. Bloodsworn은 누구인가, 전투는 실제로 어떻게 보이는가, 세계는 어떻게 위험을 신호하는가. 각 주석은 화면에서 시작해 매치 플레이로 돌아옵니다.",
-      "sourceNote": "이미지는 공식 스크린샷 © FromSoftware / Nintendo. 분석은 독립적이며 비공식입니다.",
+      "sourceNote": "이미지는 사이트 호스팅 공개 자료 이미지 （权利归原权利人） 분석은 독립적이며 비공식입니다.",
       "h2A": "Bloodsworn과 피의 기술",
       "h2B": "전투, 크리에이처 & Blood Arts",
       "h2C": "세계, 루트 & 징조",
@@ -1787,149 +1807,184 @@
   "maps": {
     "intro": {
       "eyebrow": "맵",
-      "title": "황혼의 땅 — 로안로 거리 지도 가이드",
-      "lead": "전투가 시작되면 혈족은 「황혼의 땅」에 소환됩니다. 네트워크 테스트 버전의 무대는 그중 하나인 「로안로 거리」——시계탑, 대성당, 시가지와 동굴·호수로 이루어진 입체적인 필드입니다.",
-      "updatedAt": "최종 업데이트: 2026년 10월 19일"
+      "title": "황혼의 땅 — 로안로 시티 맵 가이드",
+      "lead": "황혼 전투가 시작되면 블러드스워른이 황혼의 땅으로 소환됩니다. 네트워크 테스트의 모든 경기는 한 땅—로안로 시티에서 열립니다. 랜드마크, 거리, 황야가 층층이 겹친 입체 전장입니다. 이 페이지는 지형 구조, 중반에 눈여길 지역 요소, 지도 읽는 법을 다뤄 헤매는 시간을 줄이고 성배의 도태 전에 버쳐를 쌓는 데 도움을 줍니다.",
+      "updatedAt": "최종 업데이트: 2026년 10월 25일"
     },
     "lands": {
       "title": "황혼의 땅",
-      "desc": "하나의 대지에 여러 지역이 펼쳐집니다. 자유롭게 탐색하며 혈족을 강화하고, 성배의 선별을 극복하기 위한 미덕을 모으세요.",
+      "desc": "하나의 땅, 겹겹의 층. 로안로는 수직 성채 도시입니다. 종탑 광장이 중심이고, 성당 구역이 상단 테라스를 내려다보며, 외곽 거리는 동굴·숲·호안으로 녹아듭니다. 자유롭게 탐색해 블러드스워른을 강화하고 도태를 버틸 버쳐를 쌓으세요. 지표에서 안전해 보이는 길도 목구멍 같은 길목에 제3자 매복이 숨어 있는 경우가 많습니다. 모든 랜드마크를 자원 지점이자 곧 시작될 전투로 대우하세요.",
       "points": [
         {
-          "title": "로안로 거리",
-          "desc": "네트워크 테스트의 유일한 전장. 도시를 내려다보는 시계탑과 대성당, 그리고 주변에 펼쳐진 시가지."
+          "title": "로안로 시티",
+          "desc": "네트워크 테스트 유일의 전장—종탑과 성당이 내려다보는 도시로 거리가 사방으로 퍼집니다. 광장에서 다대다 충돌이 잦은 이유는 스폰 사분면과 여러 강화 등장지 사이 최단 경로이기 때문입니다."
         },
         {
-          "title": "입체적인 다지역 구조",
-          "desc": "시가지 외에도 동굴과 호수 등 여러 지역으로 나누어진 입체적인 필드가 펼쳐져 있습니다."
+          "title": "다층 지역",
+          "desc": "거리를 지나면 동굴·숲·호수 등 여러 지역으로 갈라집니다. 입체성이 핵심입니다. 난간·계단·지붕은 근접 빌드의 이탈을 돕고, 원거리 고지에서 사선을 잡을 수 있습니다."
         },
         {
-          "title": "몇 번이고 부활",
-          "desc": "이 땅에서는 쓰러져도 선별로 패배할 때까지 몇 번이고 부활할 수 있습니다."
+          "title": "쓰러질 때까지 부활 가능",
+          "desc": "황혼의 땅에서는 몇 번이든 부활할 수 있습니다—도태에서 살아남지 못할 때까지. 생명은 관대하지만 성배는 잔인합니다. 후반 사망 비용이 초반보다 훨씬 크며, 그때는 버쳐를 다시 세울 시간이 남아 있습니다."
+        },
+        {
+          "title": "스폰 사분면",
+          "desc": "시작 시 플레이어는 서로 다른 사분면으로 내려갑니다. 첫 동선 선택이 용광로 쟁탈, 무쟁점 블러드백 확보, 아군 소환 황금 첨탑 돌입 중 무엇을 할지 결정하고 다음 2분을 만듭니다."
+        },
+        {
+          "title": "도태 압박",
+          "desc": "각 라운드 종료 후 최하위 플레이어는 도태됩니다. 지도는 중립이지만 템포는 아닙니다. 뒤처졌다면 황야를 배회하지 말고 목표 근처에서 싸움을 여세요."
+        },
+        {
+          "title": "지형 단서",
+          "desc": "의식 지점, 전송 패드, 빛의 사슬에 주의—군중이 몰릴 징조입니다. 지형을 정찰 도구로 쓰세요. 지나치게 조용한 지역이라면 진짜 싸움은 보통 종탑 반대편에 있습니다."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "지역 특성",
-      "desc": "각 지역에는 페이즈마다 몇 가지 특성이 나타나며, 전투 진행에 따라 변화합니다. 맵의 특성을 확인하고 자신의 플레이 스타일에 맞는 강화를 찾아보세요.",
+      "title": "지역 요소",
+      "desc": "각 페이즈마다 지역에 요소가 등장하고 경기 진행에 따라 달라집니다. 맵 아이콘을 확인하고 플레이 스타일에 맞는 강화를 고르세요. 안전한 동선이란 두 요소를 이으면서 광장 삼자 난투에 뛰어들지 않는 길인 경우가 많습니다.",
       "features": [
         {
-          "title": "혈대옹",
-          "desc": "「혈대옹」이 대지를 배회합니다. 쓰러뜨리면 얻는 「혈결정」으로 혈족 기술을 강화할 수 있습니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "블러드백 장로",
+          "desc": "블러드싹이 땅을 떠돕니다. 처치하면 블러드 크리스탈을 얻어 블러드스워른 스킬을 강화합니다. 첫 도태 후 쟁탈이 심하니 늦은 훔치기에 베팅하지 말고 초반에 크리스탈 동선을 잡으세요.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
-          "title": "연금로",
-          "desc": "「연금로」에서 무기에 불 속성 등의 속성을 부여. 속성이 같은 연금로에서 다시 강화하면 강화 단계가 1 올라갑니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "title": "연금 용광로",
+          "desc": "무기에 불 속성 등을 부여합니다. 맞는 용광로에서 재강화하면 강화 레벨이 오릅니다. 속성 정렬은 킬에 의존하지 않는 드문 중반 파워 스파이크입니다.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "권속의 소마법진",
-          "desc": "「권속의 소마법진」이 등장. 권속과의 계약을 강화해 계약한 권속에게 대량의 경험치를 줄 수 있습니다.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "킨 소환 고리",
+          "desc": "작은 킨 소환 고리가 등장—계약을 강화하고 파트너 킨에게 대량 경험치를 줍니다. 킨이 돌파 임박이면 안전 파밍과 함께.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "탐색 아이템",
-          "desc": "탐색이나 적 격파로 아이템 획득. 불길을 일으키는 화염병이나 부활 지점으로 삼을 수 있는 기념 말뚝 등.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "황금 첨탑",
+          "desc": "황금 첨탑은 아군을 불러들입니다. 고가치 목표로 대우하세요. 압박 속 기동은 패전을 되돌릴 수 있지만, 서서 채널링하는 것은 제3자를 초대하는 일입니다."
+        },
+        {
+          "title": "의식 지점",
+          "desc": "의식 지점에서 플레이어를 죽여 검의 버쳐를 얻습니다. 공격적 득점이면 매 페이즈 지나고, 리드 유지면 중앙을 무리하게 노리지 말고 입구를 틀어막으세요."
+        },
+        {
+          "title": "전송 패드",
+          "desc": "전송 패드는 맵을 압축하고 느린 로테를 벌합니다. 포위 탈출 또는 사라지기 직전 목표 선점에 쓰고, 3초 뒤 누군가 온다고 가정하세요."
         }
       ]
     },
     "tools": {
-      "title": "맵 도구와 인포 화면",
-      "desc": "황혼 전투 중 [+]로 인포 화면을 열고 맵 도구를 활용하세요.",
+      "title": "맵 도구와 정보 화면",
+      "desc": "황혼 전투 중 [+]를 눌러 정보 화면과 맵을 엽니다. 사운드가 시끄러울 때 최고의 정찰입니다. 목표 아이콘, 아군 위치, 페이즈 맥락을 위험한 엿보기 없이 파악할 수 있습니다.",
       "items": [
         {
-          "title": "인포 화면",
-          "desc": "자신의 위치, 다른 혈족의 동선, 지역 이름 옆의 지역 특성 아이콘을 확인할 수 있습니다."
+          "title": "실시간 목표",
+          "desc": "용광로·고리·첨탑·의식 지점 등장을 추적합니다. 아이콘은 페이즈와 함께 갱신되니 라운드 전환 후 다시 확인하세요."
         },
         {
-          "title": "워프",
-          "desc": "맵의 워프 지점을 선택해 즉시 이동. 페이즈 시작 직후, 워프나 부활 직후, 전투 중에는 사용 불가."
+          "title": "아군 위치",
+          "desc": "파트너 블러드스워른이 어디를 지키는지 봅니다. 두 명이 이미 광장에 투입됐다면 빠르게 끝낼 수 없으면 3명째를 보내지 마세요."
         },
         {
-          "title": "침략자 마커",
-          "desc": "침략자는 맵에 전용 마커로 표시됩니다. 더 강력한 침략자도 존재합니다."
+          "title": "페이즈 맥락",
+          "desc": "도태 창과 경기 구조는 초반·후반에 다른 동선을 보상합니다. 초반은 준비, 후반은 파이널로 수렴."
         },
         {
-          "title": "핀 설치",
-          "desc": "화면이나 맵에 핀을 설치해 탐색의 표시로 사용할 수 있습니다."
+          "title": "빠른 콜 습관",
+          "desc": "교전 전에 가능하면 콜을. 한 마디가 로안로의 고전적 실수—내가 결투를 이기는 사이 뒤에서 첨탑을 뺏기는—를 막습니다."
+        },
+        {
+          "title": "사운드 단서",
+          "desc": "포효 전환, 불꽃 기술, 아군 소환은 일부러 큽니다. 오디오도 정보입니다. 싸움 소리를 들으면 끼어들지 먼저 끝낼지 정하세요."
+        },
+        {
+          "title": "동선 계획",
+          "desc": "문 열리기 전에 2목표 루프를 정하세요. 계획 없는 배회는 싸움 한 번 못 해 보고 버쳐에서 조용히 지는 흔한 원인입니다."
         }
       ]
     },
     "guidesLink": {
-      "title": "루트 & 파밍 스팟",
-      "desc": "맵 전략 공략은 공략에 있습니다.",
-      "cta": "맵 공략 보기"
+      "title": "동선과 파밍 지점",
+      "desc": "맵 전략 가이드—블러드스워른별 동선, 용광로 타이밍, 후반 도태 계산—는 가이드 허브에 있습니다. 첫 90초에 계획이 있으면 맵이 그렇게 무작위로 느껴지지 않습니다.",
+      "cta": "맵 가이드 보기"
     },
-    "sourceNote": "공식 스크린샷과 시스템 정보는 FromSoftware / Nintendo가 공개한 자료(네트워크 테스트 플레이 가이드)를 참조합니다. 본 페이지의 구성·분석·조언은 독립적인 비공식 콘텐츠입니다."
+    "sourceNote": "사이트 호스팅 공개 자료 이미지과 시스템 사실은 FromSoftware / Nintendo가 공개한 네트워크 테스트 플레이 가이드를 참조합니다. 이 페이지의 구조·분석·추천은 독립적인 비공식 콘텐츠입니다."
   },
   "kin": {
     "intro": {
-      "eyebrow": "권속",
-      "title": "권속 — 계약, 마법진, 성장",
-      "lead": "권속이란 황혼 협회와 거래한 자들을 부르는 이름. 혈족과 계약해 힘을 빌려주며, 무기와 혈족 기술에 더해지는 지원 체계입니다.",
-      "updatedAt": "최종 업데이트: 2026년 10월 19일"
+      "eyebrow": "킨",
+      "title": "킨 — 계약, 소환 고리, 성장",
+      "lead": "킨은 황혼 교단과 계약한 존재입니다. 블러드스워른과 계약해 전투에서 힘을 빌려줍니다—무기와 스킬 위의 지원 레이어입니다. 이 페이지는 계약의 역할, 세 가지 소환 고리의 차이, 네트워크 테스트에 나온 계열, 경기 중 낭비 없이 키우거나 교체하는 법을 설명합니다.",
+      "updatedAt": "최종 업데이트: 2026년 10월 25일"
     },
     "what": {
-      "title": "권속과의 계약",
-      "desc": "황혼 협회와 거래한 자들을 「권속」이라고 부릅니다. 권속은 혈족과 계약하여 그 힘을 빌려줍니다. 계약은 하늘로 뻗은 빛의 사슬 밑에 있는 마법진에서 진행합니다.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "킨과의 계약",
+      "desc": "황혼 교단과 계약한 자를 킨이라 부릅니다. 킨은 블러드스워른과 계약해 힘을 빌려줍니다. 계약은 하늘로 뻗은 빛의 사슬 뿌리에 있는 소환 고리에서 맺습니다. 실전에서 계약은 전투 파트너이자 두 번째 성장 트랙입니다. 내 스킬을 밀면서도 킨은 전투 시간을 경험치로 바꿉니다—남기는 파트너는 든 무기만큼 중요합니다.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
-      "title": "소환 마법진",
-      "desc": "마법진에는 「바퀴」, 「칼날」, 「눈동자」의 3종류가 있으며 각각 계약할 수 있는 권속의 종류가 다릅니다.",
+      "title": "소환 고리",
+      "desc": "킨 소환 고리는 세 타입. 각각 다른 계열과 계약합니다. 고리 선택은 맵 판단으로 위장한 빌드 판단입니다. 처음 묶는 계열이 혼전에서 기댈 수 있는 유틸(지속·통제·폭발 압박)을 결정합니다.",
       "items": [
         {
-          "title": "바퀴",
-          "desc": "「바퀴」의 마법진. 한 종류의 권속과 계약할 수 있습니다."
+          "title": "고리",
+          "desc": "Ring형 소환 고리. 한 계열과 계약—광장 난투를 버틸 전선 지원이 필요할 때."
         },
         {
           "title": "칼날",
-          "desc": "「칼날」의 마법진. 다른 종류의 권속과 계약할 수 있습니다."
+          "desc": "Blade형 소환 고리. 다른 계열과 계약—소규모 교전을 킬로 바꾸는 공격적 도구 성향."
         },
         {
-          "title": "눈동자",
-          "desc": "「눈동자」의 마법진. 또 다른 종류의 권속과 계약할 수 있습니다."
+          "title": "눈",
+          "desc": "Eye형 소환 고리. 또 다른 계열과 계약—아군 보호, 시야 압박, 과도한 진입 징벌 등 유틸 성향."
         }
       ],
-      "note": "네트워크 테스트 버전에는 8종류의 권속이 존재합니다.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "네트워크 테스트 버전에는 킨이 8체 있습니다. 고리 타입은 묶을 수 있는 계열을 제한하지만, 각 계열에도 후보는 여럿—확정 전에 계약 내용을 읽으세요.",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "권속의 유형",
-      "desc": "다양한 권속이 개성적인 능력으로 혈족의 전투를 지원합니다. 예를 들어:",
+      "title": "킨 계열",
+      "desc": "다양한 킨이 고유 능력으로 지원합니다. 네트워크 테스트에 나온 모습—장식용 펫이 아니며, 각각 동선·결투·거점 운영을 바꿉니다.",
       "items": [
         {
-          "title": "어린 검사",
-          "desc": "비밀 조직의 어린 검사."
+          "title": "어린 여검사",
+          "desc": "비밀결사의 어린 여검사. 믿을 만한 근접 압박으로 공격적 블러드 아츠와 의식 지점 간 짧은 로테에 잘 맞습니다."
         },
         {
-          "title": "화염의 마술사",
-          "desc": "불을 조종하는 마술사."
+          "title": "화염 술사",
+          "desc": "불을 마스터한 술사. 목구멍 봉쇄와 용광로 부여 후 수확에 우수합니다."
         },
         {
-          "title": "노래하는 포로",
-          "desc": "노래로 같은 편을 지키는 포로 남성."
+          "title": "노래하는 죄수",
+          "desc": "노래로 아군을 지키는 죄수. 첨탑 채널링 집결이나 삼자 붕괴를 버틸 때 최적입니다."
         },
         {
           "title": "검은 늑대",
-          "desc": "숲의 주인인 검은 늑대."
+          "desc": "숲을 군림하는 검은 늑대. 야외 레인과 숲 가장자리에서 강하며, 추격과 개방 사선으로 탈출자를 가릅니다."
+        },
+        {
+          "title": "방패 든 자",
+          "desc": "시간을 벌어 주는 침착한 수호자. 도태 후 나쁜 판을 재정비할 때."
+        },
+        {
+          "title": "랜턴 정찰병",
+          "desc": "길을 밝히는 길잡이. 맵을 정말 보는 플레이어를 보상하는 정보형 킨입니다."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "권속의 성장",
-      "desc": "권속을 거느린 상태에서 적을 쓰러뜨리면 권속도 경험치를 얻어 Lv.이 오르고 최대 HP와 공격력이 상승합니다. 권속에 따라서는 새로운 공격이 늘어나는 경우도 있습니다.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "킨 성장",
+      "desc": "킨과 함께 적을 처치하면 경험치를 얻고 성장합니다. 첫 무기 강화 후에도 중반 파밍이 중요한 이유입니다. 치운 블러드백, 경직, 포효 전환은 최종 3인전에 함께할 파트너를 키웁니다. 돌파까지 한 판이면 안전 경험치를, 도태 창이 닫히면 점수를 우선하세요.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
-      "title": "소환과 소환 해제",
-      "desc": "기능 메뉴에서 권속을 소환·소환 해제할 수 있습니다. 권속이 쓰러지면 자동으로 소환 해제되며 일정 시간 재소환할 수 없습니다. 소환 해제 중이거나 전투 밖에서는 HP가 서서히 회복됩니다. 공격을 받고 있는 동안에는 소환 해제할 수 없습니다."
+      "title": "소환과 해제",
+      "desc": "기능 메뉴에서 소환·해제합니다. 킨이 죽으면 쿨 후 재소환할 수 있어 파트너 손실은 템포 손실이지 런 종료가 아닙니다. 더 나은 계약이 있고 다운타임을 감수할 수 있으면 스스로 해제하세요. 흔한 실수는 습관처럼 죽은 계약을 붙드는 것. 좋은 습관은 킨을 쿨다운형 이점처럼 페이즈 사이에 재평가하는 것입니다. 계약이 포지셔닝을 대신하지 못한다는 것도 기억하세요. 몇 초는 사들여도 계획 없이 세 부대로 돌진하는 동선은 고칠 수 없습니다."
     },
-    "sourceNote": "공식 스크린샷과 시스템 정보는 FromSoftware / Nintendo가 공개한 자료(네트워크 테스트 플레이 가이드)를 참조합니다. 본 페이지의 구성·분석·조언은 독립적인 비공식 콘텐츠입니다."
+    "sourceNote": "사이트 호스팅 공개 자료 이미지과 시스템 사실은 FromSoftware / Nintendo가 공개한 네트워크 테스트 플레이 가이드를 참조합니다. 이 페이지의 구조·분석·추천은 독립적인 비공식 콘텐츠입니다."
   },
   "systemRequirements": {
     "intro": {
@@ -2211,5 +2266,26 @@
         "cta": "킨 열기"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "더 나은 이용을 위해",
+    "body": "쿠키는 언어 설정 저장과 페이지 이용 파악에 사용합니다. 동의하시면 더 관련성 높은 광고에도 활용합니다.",
+    "accept": "동의",
+    "reject": "거부",
+    "acceptAll": "모두 동의",
+    "essentialOnly": "필수만",
+    "customize": "맞춤 설정",
+    "back": "뒤로",
+    "settingsTitle": "쿠키 설정",
+    "settingsBody": "사용할 항목을 선택하세요. 필수 쿠키는 사이트 동작에 필요하며 항상 켜져 있습니다.",
+    "essential": "필수",
+    "essentialDesc": "언어 설정과 기본 기능. 항상 켜짐.",
+    "analytics": "분석",
+    "analyticsDesc": "어떤 페이지가 도움이 되는지 파악합니다(Google Analytics).",
+    "ads": "맞춤 광고",
+    "adsDesc": "더 관련성 높은 광고와 효과 측정을 허용합니다.",
+    "save": "선택 저장",
+    "footerLink": "쿠키 설정",
+    "privacyLink": "개인정보 처리방침"
   }
 }

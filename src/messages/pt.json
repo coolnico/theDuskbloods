@@ -42,7 +42,7 @@
     },
     "gallery": {
       "title": "Galeria de The Duskbloods — Capturas e análises de combate",
-      "description": "Capturas oficiais de The Duskbloods com análises originais: combate dos Bloodsworn, pontos de referência de Lowanro, telegrafias das artes de sangue, pressão PvPvE e leituras de mapa nas fases finais."
+      "description": "Ilustrações de The Duskbloods com análises originais: combate dos Bloodsworn, pontos de referência de Lowanro, telegrafias das artes de sangue, pressão PvPvE e leituras de mapa nas fases finais."
     },
     "contact": {
       "title": "Contato — Site fã de The Duskbloods",
@@ -130,7 +130,7 @@
     "updatedOn": "Atualizado",
     "fallbackNotice": "Este artigo ainda não está disponível no seu idioma. Exibindo versão em inglês.",
     "readingTime": "{min} min de leitura",
-    "imageCredit": "As imagens deste artigo são materiais oficiais © FromSoftware / Nintendo. Rankings, comentários e recomendações são nossos."
+    "imageCredit": "As imagens deste artigo são recortes locais de materiais públicos （权利归原权利人） Rankings, comentários e recomendações são nossos."
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "Do Jogo",
       "cta": "Ver Mais →",
       "alt": "Captura de The Duskbloods {n}",
-      "credit": "As capturas são materiais oficiais © FromSoftware / Nintendo. Os textos e análises do site são independentes e não oficiais."
+      "credit": "As imagens são recortes locais （权利归原权利人） Os textos e análises do site são independentes e não oficiais."
     },
     "videos": {
       "eyebrow": "TRAILERS",
@@ -305,7 +305,7 @@
         {
           "name": "Fase I: Exploração e conquista",
           "desc": "Oito Bloodsworn entram nas Terras do Crepúsculo e começam a acumular Virtude.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "Derrote inimigos, acenda velas para Virtude da Chama, explore itens",
             "Características regionais aparecem — Bolsas de Sangue, Fornos Alquímicos, Círculos de Vassalos",
@@ -316,7 +316,7 @@
         {
           "name": "Fase II: Locais rituais e triagem",
           "desc": "O Graal começa sua triagem. Bloodsworn com Virtude insuficiente são eliminados.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "Dois tipos de Virtude nos locais rituais: Virtude da Espada e Virtude do Juramento",
             "Reivindique Pedras Vermelhas (espada) ou Pedras de Ouro (juramento) dos plintos",
@@ -327,7 +327,7 @@
         {
           "name": "Fase III: Eventos e batalha intensificada",
           "desc": "A triagem continua. Características regionais mudam. O campo de batalha fica mais perigoso.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "Características regionais mudam, oferecendo novas oportunidades",
             "Locais rituais reabrem com competição mais feroz",
@@ -338,7 +338,7 @@
         {
           "name": "Fase final: Concessão de sangue lunar",
           "desc": "Restam apenas os três Bloodsworn com maior Virtude. Eles lutam pela vitória final.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "O Graal concede duas vidas — você pode reviver uma vez",
             "HP bônus baseado na Virtude acumulada nas fases anteriores",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "Capturas oficiais e dados de sistemas referenciam materiais publicados pela FromSoftware / Nintendo (guia do network test). O layout, as análises e as recomendações desta página são independentes e não oficiais."
+    "sourceNote": "Dados de sistemas referenciam materiais publicados pela FromSoftware / Nintendo (guia do network test). O layout, as análises e as recomendações desta página são independentes e não oficiais."
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "Albert",
           "melee": "Sabre dos Lorrik",
           "ranged": "Submetralhadora",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "Lâmina de Sangue",
@@ -709,7 +709,7 @@
           "name": "Jan Mão Sangrenta",
           "melee": "Machado Sangrento",
           "ranged": "Rubi de Feitiçaria",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "Flash",
@@ -761,7 +761,7 @@
           "name": "Trang Lanh",
           "melee": "Lâmina da Lua Cheia",
           "ranged": "Lâmina da Lua Cheia (lançada)",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "Lua Negra",
@@ -813,7 +813,7 @@
           "name": "Layla, a Atiradora",
           "melee": "Catares Hieroglíficos",
           "ranged": "Rifle de Precisão",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "Desvanecimento Neb-ra",
@@ -865,7 +865,7 @@
           "name": "Senador Samir Patres",
           "melee": "Estoque do Senado",
           "ranged": "Anel Aviário",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "Estaca de Sangue",
@@ -917,7 +917,7 @@
           "name": "Zork",
           "melee": "Cable Submarino",
           "ranged": "Arpão",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "Míssil",
@@ -1006,87 +1006,87 @@
       "desc": "Rankings e recomendações para iniciantes estão nos Guias.",
       "cta": "Ver guias de personagens"
     },
-    "imageCredit": "Arte de personagens e capturas são materiais oficiais © FromSoftware / Nintendo. Notas, dicas de jogo e avaliações desta página são análises independentes de fãs, não guia oficial."
+    "imageCredit": "Arte de personagens e imagens são recortes locais （权利归原权利人） Notas, dicas de jogo e avaliações desta página são análises independentes de fãs, não guia oficial."
   },
   "networkTest": {
     "intro": {
       "eyebrow": "Teste de rede",
-      "title": "The Duskbloods Closed Network Test",
-      "lead": "O período de inscrição para o teste de rede fechado de The Duskbloods no Nintendo Switch 2 da FromSoftware terminou. Veja o calendário completo e todos os detalhes."
+      "title": "Teste de rede fechado de The Duskbloods",
+      "lead": "O período de candidatura ao teste de rede fechado da FromSoftware na Nintendo Switch 2 terminou. Aqui ficam o calendário completo, os requisitos e o que os participantes jogaram — contexto útil até ao lançamento de 2026."
     },
     "status": {
-      "label": "Inscrições encerradas",
-      "desc": "O período de inscrição para o teste de rede terminou. Os jogadores selecionados foram notificados em 7 de agosto."
+      "label": "Candidaturas encerradas",
+      "desc": "O período de candidatura terminou. Os selecionados foram notificados a 7 de agosto. Mesmo que o tenhas perdido, a estrutura das sessões, o ritmo multiplayer e os requisitos da Switch 2 ajudam a preparar-te. Marca esta página: atualizamos quando houver novidades oficiais."
     },
     "schedule": {
-      "eyebrow": "Cronograma",
-      "title": "Cronograma completo",
+      "eyebrow": "Calendário",
+      "title": "Linha temporal completa",
       "application": {
-        "label": "Período de inscrição",
+        "label": "Período de candidatura",
         "start": "22 de julho (qua.) às 7:00 PDT",
         "end": "28 de julho (ter.) às 6:59 PDT",
-        "note": "Inscrições múltiplas do mesmo usuário serão rejeitadas. Os participantes serão selecionados por ordem de inscrição."
+        "note": "Candidaturas repetidas são rejeitadas. Seleção por ordem de registo — valia mais inscrever cedo do que ter um perfil polido."
       },
       "selection": {
         "label": "Anúncio da seleção",
         "date": "7 de agosto (sex.) às 6:00 PDT",
-        "note": "Verifique a página da sua conta no site oficial para saber o resultado. Os jogadores selecionados receberam um código de download."
+        "note": "Vê o resultado na conta do site oficial. Os selecionados receberam um código de descarga; num futuro teste, vigia a mesma página, não threads de rumores."
       },
       "download": {
-        "label": "Download do cliente",
+        "label": "Descarga do cliente",
         "date": "Disponível a partir de 18 de agosto (ter.) às 6:00 PDT",
-        "note": "Os jogadores selecionados podem usar o código de download na Nintendo Store ou no Nintendo eShop. Em algumas regiões, o download por meios diferentes do Nintendo eShop não é suportado."
+        "note": "Usa o código na Nintendo Store ou Nintendo eShop. Algumas regiões não descarregam por outros meios."
       },
       "sessions": {
         "label": "Sessões de teste",
-        "note": "As datas e horários das sessões podem mudar ou ser cancelados sem aviso prévio.",
+        "note": "As datas podem mudar ou ser canceladas sem aviso. O calendário usou janelas curtas entre fusos: num futuro teste, espera algo semelhante, não uma beta longa.",
         "items": [
           {
-            "date": "21 ago 2026 (sex.)",
-            "time": "3:00 às 7:00 PDT"
+            "date": "Aug. 21, 2026 (Fri.)",
+            "time": "3:00 a.m. to 7:00 a.m. PDT"
           },
           {
-            "date": "21 ago 2026 (sex.)",
-            "time": "19:00 às 23:00 PDT"
+            "date": "Aug. 21, 2026 (Fri.)",
+            "time": "7:00 p.m. to 11:00 p.m. PDT"
           },
           {
-            "date": "22 ago 2026 (sáb.)",
-            "time": "11:00 às 15:00 PDT"
+            "date": "Aug. 22, 2026 (Sat.)",
+            "time": "11:00 a.m. to 3:00 p.m. PDT"
           },
           {
-            "date": "23 ago 2026 (dom.)",
-            "time": "3:00 às 7:00 PDT"
+            "date": "Aug. 23, 2026 (Sun.)",
+            "time": "3:00 a.m. to 7:00 a.m. PDT"
           },
           {
-            "date": "23 ago 2026 (dom.)",
-            "time": "19:00 às 23:00 PDT"
+            "date": "Aug. 23, 2026 (Sun.)",
+            "time": "7:00 p.m. to 11:00 p.m. PDT"
           }
         ]
       }
     },
     "requirements": {
       "eyebrow": "Requisitos",
-      "title": "O que você precisa",
+      "title": "O que precisas",
       "items": [
         {
-          "label": "Plataforma",
+          "label": "Platform",
           "value": "Nintendo Switch 2"
         },
         {
-          "label": "Assinatura",
-          "value": "Assinatura do Nintendo Switch Online"
+          "label": "Membership",
+          "value": "Nintendo Switch Online membership"
         },
         {
-          "label": "Seleção",
-          "value": "Por ordem de inscrição (vagas limitadas)"
+          "label": "Selection",
+          "value": "By order of sign-up (limited spots)"
         },
         {
-          "label": "Desenvolvedora",
+          "label": "Developer",
           "value": "FromSoftware"
         },
         {
-          "label": "Editora",
-          "value": "Nintendo"
+          "label": "Region note",
+          "value": "Some regions could not download outside Nintendo eShop"
         }
       ]
     },
@@ -1095,22 +1095,42 @@
       "title": "Dentro do teste",
       "items": [
         {
-          "title": "Uma amostra de PvPvE",
-          "desc": "Espere uma porção jogável da ação PvPvE de 8 jogadores que define o jogo completo."
+          "title": "PvPvE structure",
+          "desc": "Eight players compete across three rounds with mid-round culling. PvE pressure is constant, but the scoreboard is still written by player fights and objective control."
         },
         {
-          "title": "Verificações de desempenho e estabilidade",
-          "desc": "Como teste de rede, o foco está na carga do servidor, no matchmaking e na estabilidade em condições reais."
+          "title": "Short session windows",
+          "desc": "Each test window was only a few hours. That rewarded players who had already learned Lowanro routes — practice the map in the final game the same way you would practice a raid night."
         },
         {
-          "title": "Trabalho em andamento",
-          "desc": "Conteúdo, balanceamento e visuais podem não representar o jogo final. Espere imperfeições e mudanças antes do lançamento."
+          "title": "Virtue economy",
+          "desc": "Virtue decides who advances and who is culled. The test made one lesson obvious: passive farming without contesting objectives is how you quietly lose."
+        },
+        {
+          "title": "Matchmaking feel",
+          "desc": "Early reports suggested strong demand and busy lobbies. If a future test opens, expect queue pressure at session start — log in before the window, not at the buzzer."
+        },
+        {
+          "title": "Performance on Switch 2",
+          "desc": "The test targeted native Switch 2 play, including handheld mode. Network stability mattered as much as combat skill during peak hours."
+        },
+        {
+          "title": "What transfers to launch",
+          "desc": "Map knowledge, Virtue tempo, and compact/kin habits will carry forward. Weapons and exact balance numbers may change, but the decision loop will not."
+        },
+        {
+          "title": "How to use the test notes",
+          "desc": "Rewatch your clips with the map open. Most improvement comes from noticing where you lost Virtue, not from mechanical flash — pathing is the skill check The Duskbloods actually grades."
+        },
+        {
+          "title": "What we are still waiting on",
+          "desc": "An exact calendar date for the full release has not been confirmed. Until then, treat delay rumors as rumors and use this schedule as the last official multiplayer stress signal."
         }
       ]
     },
     "cta": {
-      "title": "Fique atento ao lançamento completo",
-      "desc": "O teste de rede foi um primeiro olhar de The Duskbloods antes do lançamento em 2026 no Nintendo Switch 2. Manteremos esta página atualizada com as últimas novidades."
+      "title": "Fica atento ao lançamento completo",
+      "desc": "O teste foi o primeiro olhar antes do lançamento previsto para 2026 na Nintendo Switch 2. Usa as ligações para timing, sistemas e preparação de personagens. Se jogaste, as tuas notas são vantagem: quem conhece callouts, poda e limiares de parentesco arranca em vantagem."
     }
   },
   "faq": {
@@ -1211,7 +1231,7 @@
           },
           {
             "q": "Quantos personagens jogáveis existem?",
-            "a": "Materiais oficiais falam em mais de uma dúzia de Bloodsworn. Um elenco completo ainda não foi publicado; mais revelações são esperadas mais perto do lançamento."
+            "a": "Relatórios públicos falam em mais de uma dúzia de Bloodsworn. Um elenco completo ainda não foi publicado; mais revelações são esperadas mais perto do lançamento."
           },
           {
             "q": "O que é história de sangue?",
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "Fontes e independência",
-          "desc": "Os factos vêm de materiais oficiais Nintendo/FromSoftware e reportagem pública. Análises e rankings são nossos. Capturas oficiais são creditadas aos titulares; o comentário é independente."
+          "desc": "Os factos vêm de materiais públicos Nintendo/FromSoftware e reportagem pública. Análises e rankings são nossos. Imagens locais são creditadas aos titulares; o comentário é independente."
         },
         {
           "title": "Correções e atualizações",
@@ -1474,7 +1494,7 @@
         },
         {
           "title": "Mais de uma dúzia de Bloodsworn",
-          "desc": "Materiais oficiais prometem um elenco com mais de uma dúzia de Bloodsworn jogáveis, cada um com armas, habilidades e uma história de sangue personalizável."
+          "desc": "Relatórios públicos apontam um elenco com mais de uma dúzia de Bloodsworn jogáveis, cada um com armas, habilidades e uma história de sangue personalizável."
         }
       ],
       "unconfirmed": [
@@ -1666,7 +1686,7 @@
     },
     "main": {
       "eyebrow": "CONJUNTO PRINCIPAL",
-      "title": "Capturas Oficiais",
+      "title": "Ilustrações",
       "alt": "Captura de The Duskbloods {n}"
     },
     "lightbox": {
@@ -1676,7 +1696,7 @@
       "eyebrow": "ANÁLISE EM DESTAQUE",
       "title": "Análises das capturas — o que essas imagens realmente mostram",
       "lead": "Doze stills oficiais em três leituras que não se sobrepõem: quem são os Bloodsworn, como os combates realmente parecem e como o mundo sinaliza o perigo. Cada nota parte do que está na tela e volta à partida.",
-      "sourceNote": "As imagens são capturas oficiais © FromSoftware / Nintendo. A análise é independente e não oficial.",
+      "sourceNote": "As imagens são recortes locais de materiais públicos （权利归原权利人） A análise é independente e não oficial.",
       "h2A": "Bloodsworn e artes de sangue",
       "h2B": "Combate, criaturas e artes de sangue",
       "h2C": "Mundo, rotas e presságios",
@@ -1786,150 +1806,185 @@
   },
   "maps": {
     "intro": {
-      "eyebrow": "Mapa",
+      "eyebrow": "Mapas",
       "title": "Terras do Crepúsculo — Guia do mapa de Lowanro",
-      "lead": "Quando uma batalha começa, os Bloodsworn são invocados às Terras do Crepúsculo. No Network Test, toda partida acontece em um único lugar: a cidade de Lowanro — um campo em várias camadas com monumentos, ruas e natureza.",
-      "updatedAt": "Última atualização: 19 de outubro de 2026"
+      "lead": "Quando uma Batalha do Crepúsculo começa, os Jurados de Sangue são convocados para as Terras do Crepúsculo. No teste de rede, cada partida ocorria numa só terra: Lowanro — um campo multicamadas de ruas, marcos e natureza. Esta guia explica a estrutura do terreno, os traços regionais que importam a meio da partida e como ler o mapa para perder menos tempo e acumular mais Virtude antes da poda do graal.",
+      "updatedAt": "Última atualização: 25 de outubro de 2026"
     },
     "lands": {
       "title": "As Terras do Crepúsculo",
-      "desc": "Um lugar, muitas camadas. Explore livremente para fortalecer seu Bloodsworn e acumular a Virtude necessária para sobreviver à seleção do graal.",
+      "desc": "Uma terra, muitas camadas. Lowanro é uma cidadela vertical: a praça do relógio ancora o centro, o bairro da catedral vigia os terraços altos e as ruas exteriores dissolvem-se em grutas, floresta e margem do lago. Explora livremente para fortalecer os Jurados e acumular a Virtude necessária à sobrevivência. As rotas que parecem seguras costumam esconder emboscadas de terceiros nos estreitos: trata cada marco como recurso e como combate iminente.",
       "points": [
         {
-          "title": "Cidade de Lowanro",
-          "desc": "O único campo do Network Test: uma torre do relógio e uma catedral vigiam a cidade ao redor."
+          "title": "Lowanro City",
+          "desc": "The network test's sole battleground — a city watched over by a towering clock tower and cathedral, with streets spreading around them. Expect frequent multi-team collisions in the plaza because it is the fastest path between spawn quadrants and several upgrade spawns."
         },
         {
-          "title": "Regiões multinível",
-          "desc": "Além das ruas, a área inclui várias regiões, como uma caverna, uma floresta e um lago."
+          "title": "Multilayered Regions",
+          "desc": "Beyond the streets, the field branches into multiple regions including a cave, a forest, and a lake. Verticality matters: ledges, stairwells, and rooftops let short-range builds disengage while ranged Bloodsworn hold sightlines from above."
         },
         {
-          "title": "Ressuscite à vontade",
-          "desc": "Você pode ressuscitar quantas vezes quiser, até ser eliminado na seleção."
+          "title": "Revive Until You Fall",
+          "desc": "You can revive any number of times in the Lands of Dusk — until you fail to survive the culling. Because lives are generous but the grail is not, dying late in a round is far more expensive than dying early while you still have time to rebuild Virtue."
+        },
+        {
+          "title": "Spawn Quadrants",
+          "desc": "Players drop into distinct quadrants at match start. Early routing choices decide whether you contest a contested furnace, claim uncontested bloodbags, or sprint for golden spires that summon allies — each opening shapes the next two minutes of the round."
+        },
+        {
+          "title": "Culling Pressure",
+          "desc": "After each round, the lowest-scoring players are culled. The map itself is neutral, but tempo is not: if you are behind, force fights near objectives instead of wandering the wilderness hoping for isolated PvE value."
+        },
+        {
+          "title": "Terrain Tells",
+          "desc": "Look for ritual sites, teleport pads, and chains of light — they telegraph where players will cluster. Use the terrain as a scouting tool: if a region is quiet and empty, the real fight is usually on the other side of the clock tower."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "Características regionais",
-      "desc": "Cada região apresenta diferentes características a cada fase, mudando conforme a partida avança. Verifique o mapa e busque melhorias adequadas ao seu estilo.",
+      "title": "Traços regionais",
+      "desc": "Vários traços aparecem por fase e mudam com a partida. Vê os ícones e escolhe upgrades ao teu estilo. A rota “segura” costuma encadear dois traços sem se atirar a uma refrega de três equipas na praça.",
       "features": [
         {
-          "title": "Bolsa de sangue",
-          "desc": "Bolsas de sangue vagam pela terra. Derrote-as para obter cristais de sangue que melhoram as técnicas de Bloodsworn.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "Bloodbag Elder",
+          "desc": "Bloodsacs wander the land. Defeat them for blood crystals that enhance your Bloodsworn Skills. They are usually contested after the first culling, so secure a crystal route early instead of gambling on a late steal.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
-          "title": "Forno alquímico",
-          "desc": "Imbua armas com fogo e outras afinidades. Melhorar novamente no forno correspondente aumenta o nível da arma.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "title": "Alchemy Furnace",
+          "desc": "Imbue weapons with fire and other affinities. Enhancing again at a matching furnace raises the weapon's enhancement level. Stacking a matching affinity is one of the few mid-round power spikes that is not tied to killing other players.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "Círculo de vassalos",
-          "desc": "Aparecem pequenos círculos de invocação: fortaleça seu pacto e conceda muita experiência ao vassalo parceiro.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "Kin Small Circles",
+          "desc": "Small kin summoning circles appear — strengthen your compact and grant a large amount of experience to your partnered kin. Pair this with a safe farming loop if your kin is close to a breakthrough.",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "Itens de exploração",
-          "desc": "Encontre itens pelo mapa, como o frasco de fogo ou a estaca comemorativa para marcar um ponto de ressurreição.",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "Golden Spires",
+          "desc": "Golden spires can summon allies into the field. Treat them as high-value objectives: activating one under pressure often turns a losing skirmish into a stable fight, but standing in the open to channel is an invitation to third parties."
+        },
+        {
+          "title": "Ritual Sites",
+          "desc": "Ritual Sites are where Sword Virtue is earned by killing players. If you are building an aggressive scoreline, path past them every phase; if you are protecting a lead, gatekeep the entrances instead of forcing the center."
+        },
+        {
+          "title": "Teleport Pads",
+          "desc": "Teleport pads compress the map and punish slow rotations. Use them to escape collapses or to arrive first at a fading objective — then expect someone else to arrive three seconds later."
         }
       ]
     },
     "tools": {
-      "title": "Ferramentas do mapa e tela de informações",
-      "desc": "Pressione [+] durante uma batalha para abrir a tela de informações e aproveitar o mapa.",
+      "title": "Ferramentas do mapa e ecrã de info",
+      "desc": "Preme [+] durante a batalha para abrir mapa e info. É a melhor reconhecimento quando o áudio está barulhento: ícones de objetivos, posições da equipa e contexto de fase sem se expor.",
       "items": [
         {
-          "title": "Tela de informações",
-          "desc": "Consulte sua posição, os rastros de outros Bloodsworn e os ícones de características ao lado de cada área."
+          "title": "Live Objectives",
+          "desc": "Track furnaces, circles, spires, and ritual sites as they appear. Icons update with the phase, so re-check after every round transition."
         },
         {
-          "title": "Viagem instantânea",
-          "desc": "Selecione um ponto de teletransporte no mapa para viajar na hora. Indisponível no início da fase, logo após viajar ou ressuscitar, e em combate."
+          "title": "Team Positions",
+          "desc": "See where your Bloodsworn partners are holding. If two teammates are already committed to the plaza, do not add a third unless you can finish the fight quickly."
         },
         {
-          "title": "Marcadores de invasores",
-          "desc": "Invasores aparecem no mapa com marcadores especiais, incluindo variantes ainda mais fortes."
+          "title": "Phase Context",
+          "desc": "Culling windows and match structure reward different routes early versus late. Early rounds favor setup; late rounds favor closing on the final battle."
         },
         {
-          "title": "Pins",
-          "desc": "Coloque pins na tela ou no mapa para marcar rotas e pontos de interesse."
+          "title": "Quick Ping Habits",
+          "desc": "Ping before you engage when possible. A one-second callout prevents the classic Lowanro mistake of winning a duel while the enemy team takes the spire behind you."
+        },
+        {
+          "title": "Sound Cues",
+          "desc": "Roar conversions, flame arts, and ally summons are loud on purpose. Audio is information: if you hear a fight, decide whether to third-party or complete your own feature first."
+        },
+        {
+          "title": "Route Planning",
+          "desc": "Before the gate opens, pick a two-feature loop. Wandering without a loop is how players fall behind on Virtue without realizing they never took a real fight."
         }
       ]
     },
     "guidesLink": {
-      "title": "Rotas e pontos de farm",
-      "desc": "Guias de estratégia de mapa estão nos Guias.",
-      "cta": "Ver guias de mapas"
+      "title": "Rotas e spots de farm",
+      "desc": "As guias de estratégia de mapa — rotas por Jurado, timings de forno e cálculo de poda — estão no hub de guias. Com um plano para os primeiros 90 segundos, o mapa parece menos aleatório.",
+      "cta": "Ver guias de mapa"
     },
-    "sourceNote": "Capturas oficiais e dados de sistemas referenciam materiais publicados pela FromSoftware / Nintendo (guia do network test). O layout, as análises e as recomendações desta página são independentes e não oficiais."
+    "sourceNote": "Capturas e dados de sistemas referenciam materiais públicos da FromSoftware / Nintendo. Layout, análises e recomendações desta página são independentes e não oficiais."
   },
   "kin": {
     "intro": {
-      "eyebrow": "Vassalos",
-      "title": "Vassalos — pactos, círculos e progressão",
-      "lead": "Vassalos são aqueles que fecharam um acordo com a Ordem do Crepúsculo. Eles firmam pactos com os Bloodsworn e emprestam sua força — um apoio além de armas e técnicas.",
-      "updatedAt": "Última atualização: 19 de outubro de 2026"
+      "eyebrow": "Parentesco",
+      "title": "Parentesco — Pactos, círculos e crescimento",
+      "lead": "Os parentescos são seres que pactuaram com a Ordem do Crepúsculo. Fazem pactos com os Jurados de Sangue e emprestam poder: uma camada de suporte sobre armas e habilidades. Esta página explica os pactos, os três círculos, os arquétipos do teste e como crescer ou trocar de parentesco sem desperdiçar a partida.",
+      "updatedAt": "Última atualização: 25 de outubro de 2026"
     },
     "what": {
-      "title": "Pactos com vassalos",
-      "desc": "Aqueles que fecharam um acordo com a Ordem do Crepúsculo são chamados de vassalos. Eles firmam pactos com os Bloodsworn, emprestando seu poder. Os pactos são formados nos círculos de invocação, na base das correntes de luz que se erguem até o céu.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "Pactos com parentescos",
+      "desc": "Quem tem acordo com a Ordem do Crepúsculo é um parentesco. Empresta poder aos Jurados em círculos de invocação na base das correntes de luz. Na prática, um pacto é parceiro de combate e uma segunda linha de progressão: enquanto empurras as tuas habilidades, o parentesco converte tempo de luta em experiência. O parceiro que manténs conta tanto como a arma que levas.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
       "title": "Círculos de invocação",
-      "desc": "Existem três tipos de círculos de invocação de vassalos. Cada um permite pactuar com um tipo diferente de vassalo.",
+      "desc": "Há três tipos de círculo, cada um com uma família. Escolher círculo é uma decisão de build disfarçada de decisão de mapa: a família ligada primeiro define a utilidade (sustentação, controlo ou pressão) quando a praça enche.",
       "items": [
         {
-          "title": "Anel",
-          "desc": "Um círculo do tipo Anel. Pactua com uma família de vassalos."
+          "title": "Ring",
+          "desc": "A Ring-type summoning circle. Contracts with one family of kin — often the pick when you want reliable frontline support that can survive messy plaza brawls."
         },
         {
-          "title": "Lâmina",
-          "desc": "Um círculo do tipo Lâmina. Pactua com outra família de vassalos."
+          "title": "Blade",
+          "desc": "A Blade-type summoning circle. Contracts with a different family of kin — typically more aggressive tools that help you convert skirmishes instead of stalling them."
         },
         {
-          "title": "Olho",
-          "desc": "Um círculo do tipo Olho. Pactua com uma terceira família de vassalos."
+          "title": "Eye",
+          "desc": "An Eye-type summoning circle. Contracts with yet another family of kin — utility-oriented partners that protect allies, reveal pressure, or punish overcommitted attackers."
         }
       ],
-      "note": "Oito vassalos existem na versão do Network Test.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "Eight kin exist in the network test version. Circle type limits which family you can bind, but every family still has multiple candidates — read the compact offer before you lock the run.",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "Arquétipos de vassalos",
-      "desc": "Vários vassalos oferecem apoio com habilidades únicas. Entre eles:",
+      "title": "Arquétipos de parentesco",
+      "desc": "Cada parentesco oferece apoio com habilidades únicas. O teste incluía figuras destas — não são mascotes decorativas: mudam como rotas, duelas e seguras objetivos.",
       "items": [
         {
-          "title": "Jovem espadachim",
-          "desc": "Uma jovem espadachim de uma sociedade clandestina."
+          "title": "Young Swordswoman",
+          "desc": "A young swordswoman of a clandestine society. Reliable melee pressure that pairs well with aggressive Blood Arts and short rotations between ritual sites."
         },
         {
-          "title": "Feiticeiro das chamas",
-          "desc": "Um feiticeiro que domina as chamas."
+          "title": "Flame Sorcerer",
+          "desc": "A sorcerer who has mastered the flame. Excellent at denying chokes and finishing weakened targets after a furnace-imbued trade."
         },
         {
-          "title": "Prisioneiro cantor",
-          "desc": "Um prisioneiro que protege aliados com o canto."
+          "title": "Singing Prisoner",
+          "desc": "A prisoner who can protect allies by singing. Best when your team is stacking for spire channels or surviving a three-team collapse."
         },
         {
-          "title": "Lobo negro",
-          "desc": "Um lobo negro que domina uma floresta."
+          "title": "Black Wolf",
+          "desc": "A black wolf who lords over a forest. Strong in outdoor lanes and forest edges, where chase tools and open sightlines decide who leaves the region."
+        },
+        {
+          "title": "Shield Bearer",
+          "desc": "A stoic guardian who buys time. Use them when you need to stabilize after a bad culling instead of forcing another duel on low Virtue."
+        },
+        {
+          "title": "Lantern Scout",
+          "desc": "A pathfinder who lights the way. Information-heavy kin that reward players who actually look at the map instead of autopiloting the plaza."
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "Progressão dos vassalos",
-      "desc": "Ao derrotar inimigos acompanhado de um vassalo, ele também ganha experiência e sobe de nível, aumentando vida e poder de ataque. Alguns desbloqueiam novos ataques conforme o nível.",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "Crescimento do parentesco",
+      "desc": "Se derrotas inimigos com o parentesco, este ganha experiência e pode crescer. Por isso o farm a meio da partida continua a contar após a primeira melhoria de arma: cada saco, atordoamento e rugido convertido alimenta o parceiro que ainda estará contigo na final a três. Se falta um combate para um salto, prioriza experiência segura; se a poda fecha, prioriza a pontuação.",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
-      "title": "Invocação e dispensa",
-      "desc": "Invoque e dispense vassalos pelo menu de funções. Se um vassalo morrer, é dispensado automaticamente e não pode ser invocado por um tempo. Fora de combate ou dispensado, sua vida se regenera aos poucos. Não é possível dispensar um vassalo sob ataque."
+      "title": "Invocar e dispensar",
+      "desc": "Invoca e dispensa parentescos no menu Funções. Se morrem, podes invocar outra vez após o cooldown: perder um parceiro é perda de tempo, não fim da run. Dispensa deliberadamente se há um pacto melhor e podes pagar a paragem. O erro comum é agarrar por hábito um pacto morto; o hábito avançado é tratá-lo como qualquer vantagem com cooldown e reavaliá-lo entre fases. Um pacto não substitui posicionamento: compra segundos, não corrige uma rota sem plano que entra em três equipas."
     },
-    "sourceNote": "Capturas oficiais e dados de sistemas referenciam materiais publicados pela FromSoftware / Nintendo (guia do network test). O layout, as análises e as recomendações desta página são independentes e não oficiais."
+    "sourceNote": "Capturas e dados de sistemas referenciam materiais públicos da FromSoftware / Nintendo. Layout, análises e recomendações desta página são independentes e não oficiais."
   },
   "relatedHubs": {
     "eyebrow": "Continue lendo",
@@ -2211,5 +2266,26 @@
         "cta": "Abrir Kin"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "Para uma melhor experiência",
+    "body": "Usamos cookies para memorizar o idioma, perceber que páginas ajudam e — só se aceitar — anúncios mais relevantes.",
+    "accept": "Aceitar",
+    "reject": "Recusar",
+    "acceptAll": "Aceitar tudo",
+    "essentialOnly": "Só essenciais",
+    "customize": "Personalizar",
+    "back": "Voltar",
+    "settingsTitle": "Definições de cookies",
+    "settingsBody": "Escolha o que podemos usar. Os cookies essenciais mantêm o site a funcionar e estão sempre ativos.",
+    "essential": "Essenciais",
+    "essentialDesc": "Idioma e funções básicas. Sempre ativos.",
+    "analytics": "Análise",
+    "analyticsDesc": "Ajuda a perceber que páginas são úteis (Google Analytics).",
+    "ads": "Anúncios personalizados",
+    "adsDesc": "Permite anúncios mais relevantes e medição.",
+    "save": "Guardar preferências",
+    "footerLink": "Definições de cookies",
+    "privacyLink": "Política de privacidade"
   }
 }

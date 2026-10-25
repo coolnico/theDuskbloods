@@ -42,7 +42,7 @@
     },
     "gallery": {
       "title": "The Duskbloods ギャラリー — スクリーンショットと戦闘ブレイクダウン",
-      "description": "The Duskbloodsの公式スクリーンショットと独自解析：Bloodsworn戦闘、ロアンローのランドマーク、血技の予備動作、PvPvEの圧力、終盤のステージ読み。"
+      "description": "The Duskbloodsのサイト掲載の公開素材トリムと独自解析：Bloodsworn戦闘、ロアンローのランドマーク、血技の予備動作、PvPvEの圧力、終盤のステージ読み。"
     },
     "contact": {
       "title": "お問い合わせ — The Duskbloods ファンサイト",
@@ -130,7 +130,7 @@
     "updatedOn": "更新日",
     "fallbackNotice": "この記事はまだお使いの言語で利用できません。英語版を表示しています。",
     "readingTime": "約{min}分",
-    "imageCredit": "本記事の画像は FromSoftware / Nintendo の公式素材です。ランキング・コメント・推奨は当サイトの独自見解です。"
+    "imageCredit": "本記事の画像は FromSoftware / Nintendo の公開素材のトリムです。ランキング・コメント・推奨は当サイトの独自見解です。"
   },
   "home": {
     "hero": {
@@ -236,7 +236,7 @@
       "title": "ゲームシーン",
       "cta": "もっと見る →",
       "alt": "ダスクブラッド スクリーンショット {n}",
-      "credit": "スクリーンショットは FromSoftware / Nintendo の公式素材です。サイト本文と分析は独立した非公式コンテンツです。"
+      "credit": "スクリーンショットは FromSoftware / Nintendo の公開素材のトリムです。サイト本文と分析は独立した非公式コンテンツです。"
     },
     "videos": {
       "eyebrow": "トレーラー",
@@ -305,7 +305,7 @@
         {
           "name": "フェイズⅠ：探索と討伐",
           "desc": "8人の血族が黄昏の地に入り、美徳の蓄積を開始します。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2",
           "bullets": [
             "敵を倒し、遺体の頭蓋に火を灯して灯の美徳を得る、探索でアイテム収集",
             "各地域に傾向が出現——血袋翁、錬金炉、眷属の小魔法陣",
@@ -316,7 +316,7 @@
         {
           "name": "フェイズⅡ：儀式場と選別",
           "desc": "聖杯の選別が始まり、美徳が不足した血族が排除されます。儀式場が開放されます。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/virtue/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/virtue/pc/img_01.jpg?v=2",
           "bullets": [
             "儀式場で2種の美徳：剣の美徳（血族を倒す）と誓約の美徳（誓柱に誓う）",
             "石の座から赤石（剣の美徳UP）か黄金石（誓約の美徳UP）を取得",
@@ -327,7 +327,7 @@
         {
           "name": "フェイズⅢ：イベントと激戦",
           "desc": "選別が続き、地域の傾向が変化。戦場はより危険になります。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2",
           "bullets": [
             "地域の傾向が変化し、新たな強化の機会出现",
             "儀式場が再開放され、より激しい競争",
@@ -338,7 +338,7 @@
         {
           "name": "最終フェイズ：月の授血",
           "desc": "美徳が最も高い3人の血族だけが残ります。最終勝利をかけて戦います。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/battlefactor/pc/img_01.jpg",
+          "image": "https://img.duskbloods.net/dusk/battlefactor/pc/img_01.jpg?v=2",
           "bullets": [
             "聖杯が2つの命を授ける——一度だけ復活可能",
             "前フェイズまでの美徳に応じた追加HP",
@@ -592,7 +592,7 @@
         }
       ]
     },
-    "sourceNote": "公式スクリーンショットとシステム情報は FromSoftware / Nintendo 公開資料（ネットワークテスト攻略ガイド）を参照しています。本ページの構成・分析・所見は独立した非公式コンテンツです。"
+    "sourceNote": "サイト掲載の公開素材トリムとシステム情報は FromSoftware / Nintendo 公開資料（ネットワークテスト攻略ガイド）を参照しています。本ページの構成・分析・所見は独立した非公式コンテンツです。"
   },
   "characters": {
     "intro": {
@@ -657,7 +657,7 @@
           "name": "アルバート",
           "melee": "ローリクの宝刀",
           "ranged": "機関銃",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2",
           "bloodArts": [
             {
               "name": "血の刃",
@@ -709,7 +709,7 @@
           "name": "「血の手」のヤン",
           "melee": "渇血の斧",
           "ranged": "魔術の石",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2",
           "bloodArts": [
             {
               "name": "瞬身",
@@ -761,7 +761,7 @@
           "name": "タン・ラン",
           "melee": "月輪の刃",
           "ranged": "月輪の刃（投擲）",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2",
           "bloodArts": [
             {
               "name": "暗月",
@@ -813,7 +813,7 @@
           "name": "狙撃手レイラ",
           "melee": "聖刻のカタール",
           "ranged": "狙撃銃",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2",
           "bloodArts": [
             {
               "name": "ネブラの消失",
@@ -865,7 +865,7 @@
           "name": "元老サミール＝パトレス",
           "melee": "元老院のレイピア",
           "ranged": "霊鳥の指輪",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2",
           "bloodArts": [
             {
               "name": "血の刑柱",
@@ -917,7 +917,7 @@
           "name": "ゾーク",
           "melee": "海底ケーブル",
           "ranged": "スピアガン",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg",
+          "image": "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2",
           "bloodArts": [
             {
               "name": "ミサイル",
@@ -1006,67 +1006,67 @@
       "desc": "ランキングと初心者向けおすすめは攻略にあります。",
       "cta": "キャラ攻略を見る"
     },
-    "imageCredit": "キャラクターアートとスクリーンショットは FromSoftware / Nintendo の公式素材です。本ページの解説・プレイ所見・評価はファンによる独立分析であり、公式ガイドではありません。"
+    "imageCredit": "キャラクターアートとスクリーンショットは FromSoftware / Nintendo の公開素材のトリムです。本ページの解説・プレイ所見・評価はファンによる独立分析であり、公式ガイドではありません。"
   },
   "networkTest": {
     "intro": {
       "eyebrow": "ネットワークテスト",
-      "title": "The Duskbloods クローズド・ネットワークテスト",
-      "lead": "FromSoftware が Nintendo Switch 2 で実施する The Duskbloods のクローズド・ネットワークテストの募集は終了しました。以下は完全なスケジュールと詳細情報です。"
+      "title": "The Duskbloods クローズド ネットワークテスト",
+      "lead": "FromSoftware による Nintendo Switch 2 版 The Duskbloods クローズド ネットワークテストの応募は終了しました。このページにスケジュール・要件・参加者が実際に遊んだ内容を残しています。2026年の本編リリース待つ間の文脈として有用です。"
     },
     "status": {
-      "label": "募集は終了しました",
-      "desc": "ネットワークテストの応募期間は終了しました。当選者には 8 月 7 日に通知が送られました。"
+      "label": "応募終了",
+      "desc": "ネットワークテストの応募期間は終了しました。選抜プレイヤーには8月7日に通知。逃した場合でも、以下のセッション構造・マルチのテンポ・Switch 2要件は、将来のテストやローンチ版への準備になります。公式続報が出たら更新するので、このページをブックマークを。"
     },
     "schedule": {
       "eyebrow": "スケジュール",
-      "title": "完全なタイムライン",
+      "title": "全体タイムライン",
       "application": {
         "label": "応募期間",
-        "start": "7月22日（水）午前7時（太平洋夏時間）",
-        "end": "7月28日（火）午前6時59分（太平洋夏時間）",
-        "note": "同一ユーザーによる重複応募は拒否されます。参加者は応募順に選出されます。"
+        "start": "7月22日（水）7:00 a.m. PDT",
+        "end": "7月28日（火）6:59 a.m. PDT",
+        "note": "同一ユーザーの重複応募は拒否。参加者は先着順で選抜——資料の見た目より早く手を挙げる方が効きました。"
       },
       "selection": {
-        "label": "当選発表",
-        "date": "8月7日（金）午前6時（太平洋夏時間）",
-        "note": "公式サイトのマイページで応募結果をご確認ください。当選者にはダウンロードコードが送付されます。"
+        "label": "選抜発表",
+        "date": "8月7日（金）6:00 a.m. PDT",
+        "note": "公式サイトのアカウントページで結果確認。選抜者にはダウンロードコード。今後のテストも同じページを確認し、第三者の噂スレを信用しないで。"
       },
       "download": {
-        "label": "クライアントダウンロード",
-        "date": "8月18日（火）午前6時（太平洋夏時間）より",
-        "note": "当選者はダウンロードコードを使用して Nintendo Store または Nintendo eShop からダウンロードできます。一部地域では Nintendo eShop 以外でのダウンロードはサポートされていません。"
+        "label": "クライアントDL",
+        "date": "8月18日（火）6:00 a.m. PDT 以降に利用可能",
+        "note": "選抜者は Nintendo Store / Nintendo eShop でコードを使用。地域によって eShop 以外の取得手段は未対応。"
       },
       "sessions": {
         "label": "テストセッション",
-        "note": "セッションの日時は予告なく変更または中止される場合があります。",
+        "note": "日時は予告なく変更・中止の可能性。意図的にタイムゾーンをまたぐ短い窓を採用——今後も長期間のオープンベータではなく、同様のバースト型セッションを想定しましょう。",
         "items": [
           {
             "date": "2026年8月21日（金）",
-            "time": "午前3時〜午前7時（太平洋夏時間）"
+            "time": "3:00 a.m. – 7:00 a.m. PDT"
           },
           {
             "date": "2026年8月21日（金）",
-            "time": "午後7時〜午後11時（太平洋夏時間）"
+            "time": "7:00 p.m. – 11:00 p.m. PDT"
           },
           {
             "date": "2026年8月22日（土）",
-            "time": "午前11時〜午後3時（太平洋夏時間）"
+            "time": "11:00 a.m. – 3:00 p.m. PDT"
           },
           {
             "date": "2026年8月23日（日）",
-            "time": "午前3時〜午前7時（太平洋夏時間）"
+            "time": "3:00 a.m. – 7:00 a.m. PDT"
           },
           {
             "date": "2026年8月23日（日）",
-            "time": "午後7時〜午後11時（太平洋夏時間）"
+            "time": "7:00 p.m. – 11:00 p.m. PDT"
           }
         ]
       }
     },
     "requirements": {
-      "eyebrow": "参加条件",
-      "title": "必要要件",
+      "eyebrow": "要件",
+      "title": "必要なもの",
       "items": [
         {
           "label": "プラットフォーム",
@@ -1074,43 +1074,63 @@
         },
         {
           "label": "会員",
-          "value": "Nintendo Switch Online メンバーシップ"
+          "value": "Nintendo Switch Online 会員"
         },
         {
-          "label": "選出方法",
-          "value": "応募順（定員あり）"
+          "label": "選抜",
+          "value": "先着順（枠限定）"
         },
         {
           "label": "開発",
           "value": "FromSoftware"
         },
         {
-          "label": "販売",
-          "value": "任天堂"
+          "label": "地域注意",
+          "value": "一部地域では eShop 以外の取得不可"
         }
       ]
     },
     "expect": {
-      "eyebrow": "テスト内容",
-      "title": "テスト体験",
+      "eyebrow": "想定される体験",
+      "title": "テストの中身",
       "items": [
         {
-          "title": "PvPvE の一部",
-          "desc": "本作を特徴付ける 8 人 PvPvE アクションのプレイアブルな一部を体験できます。"
+          "title": "PvPvE 構造",
+          "desc": "8人が3ラウンドを争い、途中淘汰あり。PvE圧は常時ですが、スコアボードはプレイヤー戦闘と目的掌握で書かれます。"
         },
         {
-          "title": "パフォーマンスと安定性の検証",
-          "desc": "ネットワークテストとして、リアルな条件下でのサーバー負荷、マッチメイキング、安定性が重点です。"
+          "title": "短いセッション窓",
+          "desc": "各窓は数時間だけ。ロワンロ動線を既に知るプレイヤーが有利でした。本番に向けた練習は、レイド当日の準備と同じ密度で。"
         },
         {
-          "title": "開発中のコンテンツ",
-          "desc": "コンテンツ、バランス、映像は最終版を代表するものではありません。発売前に調整される可能性があります。"
+          "title": "ヴィルト経済",
+          "desc": "ヴィルトが昇格と淘汰を決めます。テストの教訓は明確——争わずに放置ファームするだけでは、静かに負けます。"
+        },
+        {
+          "title": "マッチメイキング体感",
+          "desc": "初期報告では需要が強くロビーが混雑。再テストなら開始時刻にキュー圧を想定し、開始前にログインを。"
+        },
+        {
+          "title": "Switch 2 動作",
+          "desc": "Switch 2 ネイティブ（携帯モード含む）が対象。ピーク時、ネットワーク安定は戦闘技術と同じくらい重要でした。"
+        },
+        {
+          "title": "本編に持ち越るもの",
+          "desc": "マップ知識、ヴィルトのテンポ、契約/キントーの習慣は継続。武器や数値は変わり得ますが、意思決定ループは変わりません。"
+        },
+        {
+          "title": "テストメモの使い方",
+          "desc": "マップを開いたままリプレイを。上達の大半は『ヴィルトをどこで落としたか』の発見からで、手数の派手さではありません。本作が採点するのは動線判断です。"
+        },
+        {
+          "title": "未確定の点",
+          "desc": "本編の正確な暦日は未発表。それまで遅延噂は噂として扱い、このスケジュールを最後の公式マルチ負荷シグナルとしましょう。"
         }
       ]
     },
     "cta": {
-      "title": "本編の発売にご期待ください",
-      "desc": "ネットワークテストは The Duskbloods の 2026 年 Nintendo Switch 2 発売に先駆けての先行体験でした。最新情報は本ページでお知らせします。"
+      "title": "本編リリースに乞うご期待",
+      "desc": "ネットワークテストは 2026 年 Nintendo Switch 2 へのローンチ前に初公開された一瞥でした。発売時期・システム深掘り・キャラ準備は下のリンクへ。公式詳細が入り次第更新します。参加済みならメモはアドバンテージ——ロワンロのコール、淘汰計算、キントー突破を知るプレイヤーは最初から戦えます。"
     }
   },
   "faq": {
@@ -1395,7 +1415,7 @@
         },
         {
           "title": "出典と独立性",
-          "desc": "事実は Nintendo/FromSoftware の公式情報と公開報道に基づきます。分析やランキングは当サイトの見解です。公式スクリーンショットは権利者を明記し、コメントは独立して作成しています。"
+          "desc": "事実は Nintendo/FromSoftware の公式情報と公開報道に基づきます。分析やランキングは当サイトの見解です。サイト掲載の公開素材トリムは権利者を明記し、コメントは独立して作成しています。"
         },
         {
           "title": "訂正と更新",
@@ -1662,11 +1682,11 @@
     "intro": {
       "eyebrow": "スクリーンショット",
       "title": "ギャラリー",
-      "lead": "The Duskbloods（ダスクブラッド）の公式スクリーンショット — フロム・ソフトウェアが贈るNintendo Switch 2用マルチプレイアクションの暗く没入感のある世界をご覧ください。"
+      "lead": "The Duskbloods（ダスクブラッド）のサイト掲載の公開素材トリム — フロム・ソフトウェアが贈るNintendo Switch 2用マルチプレイアクションの暗く没入感のある世界をご覧ください。"
     },
     "main": {
       "eyebrow": "メインセット",
-      "title": "公式スクリーンショット",
+      "title": "サイト掲載の公開素材トリム",
       "alt": "ダスクブラッド スクリーンショット {n}"
     },
     "lightbox": {
@@ -1676,7 +1696,7 @@
       "eyebrow": "ピックアップ解説",
       "title": "スクリーンショット解説——この絵が本当に見せているもの",
       "lead": "公式の静止画12点を、重ならない3つの読み口に分けた：Bloodsworn とは誰か、戦いはどう見えるか、世界がどう危険を知らせるか。各注釈は画面から始め、マッチ理解へ戻る。",
-      "sourceNote": "画像は公式スクリーンショット © FromSoftware / Nintendo。解説は本サイトの独立した非公式コンテンツです。",
+      "sourceNote": "画像はサイト掲載の公開素材トリム （权利归原权利人）。解説は本サイトの独立した非公式コンテンツです。",
       "h2A": "Bloodsworn と血の技",
       "h2B": "戦闘、クリーチャー、Blood Arts",
       "h2C": "世界、ルート、予兆",
@@ -1787,149 +1807,185 @@
   "maps": {
     "intro": {
       "eyebrow": "マップ",
-      "title": "黄昏の地 — ロアンローの街 マップガイド",
-      "lead": "戦いが始まると、血族は「黄昏の地」に召喚されます。ネットワークテスト版の舞台はそのひとつ「ロアンローの街」——時計塔、大聖堂、市街、洞窟や湖が広がる立体的なフィールドです。",
-      "updatedAt": "最終更新：2026年10月19日"
+      "title": "黄昏の地 — ロワンロシティ マップ攻略",
+      "lead": "黄昏バトルが始まると、ブラッドスウォーンは黄昏の地へ召喚されます。ネットワークテストでは全試合が一つの大地——ロワンロシティで開催されます。ランドマーク、街路、荒野が層をなす立体的な戦場です。このページでは地形の構造、中盤に意識すべき地域ギミック、そして読み方を解説し、迷う時間を減らし、聖杯の淘汰を生き抜くためのヴィルトを貯める助けにします。",
+      "updatedAt": "最終更新：2026年10月25日"
     },
     "lands": {
       "title": "黄昏の地",
-      "desc": "ひとつの大地に複数の地域。自由に駆け巡って血族を強化し、聖杯による選別を生き抜くための美徳を集めましょう。",
+      "desc": "一つの大地、多重の層。ロワンロは垂直な城塞都市です。時計塔広場が中心となり、聖堂地区が上段テラスを見下ろし、外縁の街路は洞窟・森・湖岸へと溶け込みます。自由に探索してブラッドスウォーンを強化し、淘汰を生き抜くヴィルトを貯めましょう。地表では安全に見える経路でも、隘路には第三者の伏せ待ちが潜んでいることがよくあります。各ランドマークを『資源ポイント』であると同時に『まもなく始まる戦まる戦闘』として扱ってください。",
       "points": [
         {
-          "title": "ロアンローの街",
-          "desc": "ネットワークテスト版の唯一の舞台。街を見下ろす時計塔と大聖堂、その周囲に広がる市街。"
+          "title": "ロワンロシティ",
+          "desc": "ネットワークテスト唯一の戦場。時計塔と聖堂に見下ろされる都市で、街路が四方に広がります。広場での多者乱戦が非常に多いのは、スポーン象限の間や強化湧出地点への中継点だからです。"
         },
         {
-          "title": "立体的な複数地域",
-          "desc": "市街のほか、洞窟や湖など複数の地域に分かれた立体的なフィールドが広がっています。"
+          "title": "多層リージョン",
+          "desc": "街路の外側は洞窟・森・湖などへ枝分かれします。立体性が重要で、縁や階段・屋根は近接ビルドの離脱を助け、遠距離は高所から射線を張れます。"
         },
         {
-          "title": "何度でも復活可能",
-          "desc": "この地では倒れても、選別によって敗北するまでは何度でも復活できます。"
+          "title": "倒れるまで何度でも復活",
+          "desc": "黄昏の地では何度でも復活できます——淘汰に負けなくなるまで。命は寛大ですが聖杯は容赦しません。終盤の死亡コストは序盤より高く、ヴィルトを立て直す時間も残っています。"
+        },
+        {
+          "title": "スポーン象限",
+          "desc": "開始時にプレイヤーは異なる象限へ降下します。最初の動線が、炉心の争奪、無競争のブラッドバッグ確保、味方召喚の黄金尖塔へ突撃するかを決め、次の2分を形づくります。"
+        },
+        {
+          "title": "淘汰圧",
+          "desc": "各ラウンド終了時、スコア最下位プレイヤーは淘汰されます。マップ自体は中立ですがテンポはそうではありません。リードされてる時は荒野をさまよわず、目的付近で仕掛けましょう。"
+        },
+        {
+          "title": "地形の手がかり",
+          "desc": "儀式地点、転送パッド、光の鎖に注意——人が集まる予兆です。地形を偵察に使いましょう。異常に静かなエリアなら、本当の戦闘はたいてい時計塔の反対側です。"
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/lowanro.jpg"
+      "image": "https://img.duskbloods.net/dusk/blood_relative/pc/lowanro.jpg?v=2"
     },
     "regions": {
-      "title": "地域傾向",
-      "desc": "各地域にはフェイズごとにいくつかの傾向が現れ、戦いの進展に応じて変化します。マップで傾向を確認し、自分のプレイスタイルに合った強化を見つけましょう。",
+      "title": "地域ギミック",
+      "desc": "各フェーズで地域ごとにギミックが出現し、試合進行で変化します。マップアイコンを確認し、自分のスタイルに合う強化を選びましょう。安全な動線とは、2つのギミックをつなぎつつ、広場の三者乱戦に突っ込まない経路であることが多くあります。",
       "features": [
         {
-          "title": "血袋翁",
-          "desc": "「血袋翁」が大地を徘徊。倒すと血結晶を入手でき、血族技の強化に使えます。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_01.png"
+          "title": "ブラッドバッグ長老",
+          "desc": "ブラッドサックが大地を徘徊。倒すとブラッドクリスタルが手に入り、ブラッドスウォーンスキルを強化できます。最初の淘汰後は争奪されるので、後半の奪い合いに賭けず早期にクリスタル動線を決めましょう。",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_01.png?v=2"
         },
         {
           "title": "錬金炉",
-          "desc": "「錬金炉」で武器に炎などの属性を付与。属性が一致する錬金炉で再度強化すると、強化レベルが1段階上がります。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_03.png"
+          "desc": "武器に炎などの属性を付与。対応する炉で再強化すると強化レベルが上がります。属性を揃えることは、キルに依存しない数少ない中盤パワースパイクです。",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_03.png?v=2"
         },
         {
-          "title": "眷属の小魔法陣",
-          "desc": "「眷属の小魔法陣」が出現。契約を強化し、契約中の眷属に大量の経験値を与えられます。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+          "title": "キントーの小環",
+          "desc": "小型のキントー召喚環が出現——契約を強化し、相棒のキントーに大量経験を与えます。突破間近なら安全な周回と合わせて。",
+          "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
         },
         {
-          "title": "探索アイテム",
-          "desc": "探索や敵撃破でアイテム入手。炎を上げる火炎瓶や、復活地点にできる記念の杭など。",
-          "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_04.jpg"
+          "title": "黄金尖塔",
+          "desc": "黄金尖塔は味方を呼び込めます。高価値目的として扱いましょう。圧力下での起動は負け戦を立て直すこともありますが、無防備にチャネリングすれば第三者を招きます。"
+        },
+        {
+          "title": "儀式地点",
+          "description_skip": 1,
+          "desc": "儀式地点ではプレイヤーを倒して剣のヴィルトを得ます。攻撃的スコアリングなら毎フェーズ立ち寄り、リード保持なら中心を無理に取らず入口を塞ぎましょう。"
+        },
+        {
+          "title": "転送パッド",
+          "desc": "転送パッドはマップを圧縮し、遅いローテを罰します。崩壊からの脱出、または消えかけの目的への先行に使い、3秒後に誰かが来ると想定しましょう。"
         }
       ]
     },
     "tools": {
-      "title": "マップツールとインフォ画面",
-      "desc": "黄昏戦いの最中は [+] でインフォ画面を開き、マップを活用しましょう。",
+      "title": "マップツールと情報画面",
+      "desc": "黄昏バトル中に [+] で情報画面とマップを開けます。音が騒がしい時の最良の偵察です。目的アイコン、味方位置、フェーズ文脈を、危険なピークなしに把握できます。",
       "items": [
         {
-          "title": "インフォ画面",
-          "desc": "自分の位置、他の血族の足取り、地域名の横にある地域傾向アイコンを確認できます。"
+          "title": "ライブ目的",
+          "desc": "炉心・環・尖塔・儀式地点の出現を追跡。アイコンはフェーズ更新されるので、ラウンド切替後に再確認を。"
         },
         {
-          "title": "ワープ",
-          "desc": "マップのワープ地点を選択して即時移動。フェイズ開始直後、ワープや復活直後、戦闘中は使用不可。"
+          "title": "味方位置",
+          "desc": "相棒ブラッドスウォーンがどこを守るか確認。2人が広場に投入済みなら、素早く決着できる場合を除き3人目を送らないで。"
         },
         {
-          "title": "侵略者のマーカー",
-          "desc": "侵略者はマップ上に専用マーカーで表示。さらに強力な侵略者も存在します。"
+          "title": "フェーズ文脈",
+          "desc": "淘汰ウィンドウと試合構造は、序盤と終盤で異なる動線を報酬にします。序盤は仕込み、終盤はファイナルへ収束。"
         },
         {
-          "title": "ピン設置",
-          "desc": "画面やマップにピンを設置し、探索の目印にできます。"
+          "title": "素早いコール習慣",
+          "desc": "交戦前に可能な限りコールを。一声で、対面に勝った隙に背後で尖塔を取られる定番ミスを防げます。"
+        },
+        {
+          "title": "サイン音",
+          "desc": "咆哮転化・炎の技・味方召喚は意図的に大きく聞こえます。音も情報です。戦闘音を聞いたら、割り込むか自分のギミックを先に終えるか決めましょう。"
+        },
+        {
+          "title": "動線計画",
+          "desc": "開門前に2ギミック周回を決めましょう。計画なしじゃないさまよいは、戦闘経験なしにヴィルトで静かに負ける典型です。"
         }
       ]
     },
     "guidesLink": {
-      "title": "ルートと周回ガイド",
-      "desc": "マップ戦略の攻略は攻略にあります。",
-      "cta": "マップ攻略を見る"
+      "title": "動線とファーム地点",
+      "desc": "マップ戦略ガイド——ブラッドスウォーン別動線、炉のタイミング、終盤淘汰の計算——はガイドハブへ。最初の90秒に計画があれば、マップはそうランダムに感じません。",
+      "cta": "マップガイドを見る"
     },
-    "sourceNote": "公式スクリーンショットとシステム情報は FromSoftware / Nintendo 公開資料（ネットワークテスト攻略ガイド）を参照しています。本ページの構成・分析・所見は独立した非公式コンテンツです。"
+    "sourceNote": "サイト掲載の公開素材トリムとシステム事実は FromSoftware / Nintendo 公表のネットワークテスト玩法ガイドを参照。本ページの構成・分析・推奨は独立した非公式コンテンツです。"
   },
   "kin": {
     "intro": {
-      "eyebrow": "眷属",
-      "title": "眷属 — 契約・魔法陣・成長",
-      "lead": "眷属とは、黄昏協会と取引した者たちの呼び名。血族と契約し力を貸してくれる、武器や血族技に加えた支援の仕組みです。",
-      "updatedAt": "最終更新：2026年10月19日"
+      "eyebrow": "キントー",
+      "title": "キントー — 契約・召喚環・成長",
+      "lead": "キントーは黄昏教団と契約した存在です。ブラッドスウォーンと契約し、戦いで力を貸します——武器とスキルの上の支援レイヤーです。このページでは契約の役割、3種の召喚環の違い、ネットワークテストに現れた系統、試合中に無駄なく育てる・乗り換える方法を解説します。",
+      "updatedAt": "最終更新：2026年10月25日"
     },
     "what": {
-      "title": "眷属との契約",
-      "desc": "黄昏協会と取引した者たちを「眷属」と呼びます。眷属は血族と契約し、その力を貸してくれます。契約は空に伸びる光の鎖の下にある魔法陣で行います。",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_compact.jpg"
+      "title": "キントーとの契約",
+      "desc": "黄昏教団と契約した者をキントーと呼びます。キントーはブラッドスウォーンと契約し力を貸します。契約は空へ伸びる光の鎖の根元にある召喚環で結びます。実運用では契約は戦闘パートナーであり、第2の成長トラックでもあります。自分のスキルを伸ばす間も、キントーは戦闘時間を経験に変えます——だから相棒の選択は、武器の選択と同じくらい重要です。",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_compact.jpg?v=2"
     },
     "circles": {
-      "title": "召喚魔法陣",
-      "desc": "魔法陣には「輪」「刃」「瞳」の三種があり、それぞれ契約できる眷属の種類が異なります。",
+      "title": "召喚環",
+      "desc": "キントー召喚環は3タイプ。それぞれ異なる系統と契約できます。環を選ぶのはマップ判断に見せかけたビルド判断です。最初に縛る系統が、混戦で頼れるユーティリティ（持続・拘束・爆発圧）を決めます。",
       "items": [
         {
-          "title": "輪",
-          "desc": "「輪」の魔法陣。他の魔法陣とは異なる種類の眷属と契約できます。"
+          "title": "環",
+          "desc": "Ring型召喚環。ある系統と契約——広場乱戦に耐える前線支援が欲しい時に。"
         },
         {
           "title": "刃",
-          "desc": "「刃」の魔法陣。さらに別の種類の眷属と契約できます。"
+          "desc": "Blade型召喚環。別の系統と契約——小競り合いをキルへ変える攻撃的ツール寄り。"
         },
         {
-          "title": "瞳",
-          "desc": "「瞳」の魔法陣。第三の種類の眷属と契約できます。"
+          "title": "眼",
+          "desc": "Eye型召喚環。また別の系統と契約——味方保護、視界圧、深追いの罰などユーティリティ寄り。"
         }
       ],
-      "note": "ネットワークテスト版では 8 体の眷属が存在します。",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/expedition/pc/img_02.png"
+      "note": "ネットワークテスト版ではキントーは8体。環タイプは縛れる系統を制限しますが、各系統にも候補は複数——ラン確定前に契約内容を読みましょう。",
+      "image": "https://img.duskbloods.net/dusk/expedition/pc/img_02.png?v=2"
     },
     "examples": {
-      "title": "眷属のタイプ",
-      "desc": "さまざまな眷属が個性的な能力で血族の戦いをサポートします。例えば：",
+      "title": "キントー系統",
+      "desc": "多様なキントーが固有能力で支援します。ネットワークテストには次のような姿が——どれも装飾ペットではなく、動線・デュエル・防衛の仕方を変えます。",
       "items": [
         {
-          "title": "幼き剣士",
-          "desc": "秘密組織の幼き剣士。"
+          "title": "若い女剣士",
+          "desc": "秘密結社の若い女剣士。信頼できる近接圧で、攻撃的ブラッドアーツと儀式地点間の短いローテに合う。"
         },
         {
-          "title": "炎の魔術師",
-          "desc": "炎を操る魔術師。"
+          "title": "炎の術士",
+          "desc": "炎を極めた術士。隘路の封鎖や、炉付与後の刈り取りに優秀。"
         },
         {
-          "title": "歌う虜囚",
-          "desc": "歌で味方を守る虜囚の男。"
+          "title": "歌う囚人",
+          "desc": "歌で仲間を守れる囚人。尖塔チャネリング集合や三者崩壊の耐久に最適。"
         },
         {
           "title": "黒狼",
-          "desc": "森の主たる黒狼。"
+          "desc": "森を支配する黒狼。屋外レーンと林縁で強く、追撃と視界で脱出者を決めます。"
+        },
+        {
+          "title": "盾持ち",
+          "desc": "時間を買ってくれる堅実な守り手。淘汰後に悪い状況を立て直す時に。"
+        },
+        {
+          "title": "ランタン斥候",
+          "desc": "道を照らす道案内。マップを本当に見るプレイヤーを報いる情報型。"
         }
       ],
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_kin_ex.png"
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_kin_ex.png?v=2"
     },
     "grow": {
-      "title": "眷属の成長",
-      "desc": "眷属を従えた状態で敵を倒すと、眷属も経験値を得て Lv. が上がり、最大 HP と攻撃力が上昇します。眷属によっては新しい攻撃が増えることもあります。",
-      "image": "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg"
+      "title": "キントー成長",
+      "desc": "キントー同伴で敵を倒すと経験を得て成長します。最初の武器強化後も中盤ファームが重要な理由です。片付けたブラッドバッグ、よろめき、咆哮転化は、最終3人戦でも隣にいる相棒を養います。突破まで1戦なら安全経験を、淘汰ウィンドウが閉じるならスコアを優先しましょう。",
+      "image": "https://img.duskbloods.net/dusk/enhancing_bloodsworn/pc/ss/image_levelup_of_kin.jpg?v=2"
     },
     "summon": {
-      "title": "召喚と召還",
-      "desc": "ファンクションメニューから眷属を召喚・召還できます。眷属が倒れると自動的に召還され、一定時間は再召喚できません。召還中や非戦闘時は HP が徐々に回復します。攻撃を受けている間は召還できません。"
+      "title": "召喚と解除",
+      "desc": "機能メニューから召喚・解除。死亡後はクール後に再召喚でき、相棒喪失はテンポ損失であってラン終了ではありません。より良い契約がありダウンタイムを払えるなら自ら解除を。定番ミスは惰性で死んだ契約を抱えること。優れた習慣は、フェーズ間にキントーをクールダウン型アドバンテージとして再評価することです。契約は立ち回りの代替にならないことも忘れずに。数秒は買えても、計画なく三部隊に突っ込む動線は直せません。"
     },
-    "sourceNote": "公式スクリーンショットとシステム情報は FromSoftware / Nintendo 公開資料（ネットワークテスト攻略ガイド）を参照しています。本ページの構成・分析・所見は独立した非公式コンテンツです。"
+    "sourceNote": "サイト掲載の公開素材トリムとシステム事実は FromSoftware / Nintendo 公表のネットワークテスト玩法ガイドを参照。本ページの構成・分析・推奨は独立した非公式コンテンツです。"
   },
   "relatedHubs": {
     "eyebrow": "あわせて読む",
@@ -2211,5 +2267,26 @@
         "cta": "キンドリッドを開く"
       }
     }
+  },
+  "cookieConsent": {
+    "title": "より快適な閲覧のために",
+    "body": "Cookie は言語設定の保存やページの利用状況の把握に使います。ご同意いただければ、より関連性の高い広告にも活用します。",
+    "accept": "同意する",
+    "reject": "拒否する",
+    "acceptAll": "すべて同意",
+    "essentialOnly": "必須のみ",
+    "customize": "カスタマイズ",
+    "back": "戻る",
+    "settingsTitle": "Cookie 設定",
+    "settingsBody": "利用できる項目を選んでください。必須 Cookie はサイト動作に必要で常に有効です。",
+    "essential": "必須",
+    "essentialDesc": "言語設定と基本機能。常に有効。",
+    "analytics": "分析",
+    "analyticsDesc": "どのページが役立つかを把握します（Google Analytics）。",
+    "ads": "パーソナライズ広告",
+    "adsDesc": "関連性の高い広告配信と効果測定を許可します。",
+    "save": "選択を保存",
+    "footerLink": "Cookie 設定",
+    "privacyLink": "プライバシーポリシー"
   }
 }

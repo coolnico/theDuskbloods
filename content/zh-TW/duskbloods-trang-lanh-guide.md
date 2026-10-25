@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-22"
 modified: "2026-10-22"
 summary: "《黃昏血族》陳蘭完全攻略——暗月隱匿與暗月之女機制詳解、銀蛇瑪瑪娜塔召塔召喚、誘人新娘飲血魅惑、分階段打法，以及如何駕馭這個高難度高回報的伏擊控場角色。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 
 她在本站[血誓者強度榜](/zh-TW/guides/duskbloods-tier-list)中是 **B 檔高上限**——不是最穩的角色，但在乾淨操作下極其危險。如果你想決定戰鬥什麼時候開始，陳蘭就是答案。
 
-![陳蘭 — 血誓者立繪](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg)
+![陳蘭 — 血誓者立繪](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2)
 
 完整數值與背景見 [陳蘭角色頁](/zh-TW/characters/trang-lanh)。本篇是**怎麼玩**的實戰攻略。
 
@@ -195,4 +195,4 @@ tags: ["characters", "builds", "tips", "guide", "Trang Lanh"]
 
 *相關閱讀：[佐克攻略](/zh-TW/guides/duskbloods-zork-guide) · [阿爾伯特攻略](/zh-TW/guides/duskbloods-albert-guide) · [血手揚攻略](/zh-TW/guides/duskbloods-bloodhand-jan-guide) · [狙擊手 Layla 攻略](/zh-TW/guides/duskbloods-sniper-layla-guide) · [長老 Samir Patres 攻略](/zh-TW/guides/duskbloods-senator-samir-patres-guide)*
 
-*圖片：官方素材 © FromSoftware / Nintendo（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*
+*圖片：官方素材 （权利归原权利人）（官方網路測試媒體）。玩法分析為基於 2026 年 8 月封閉網路測試的獨立玩家評論。*

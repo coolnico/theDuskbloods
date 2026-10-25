@@ -33,7 +33,7 @@ Full kits and lore live on the [Bloodsworn roster page](/characters). Core loop 
 <a id="albert"></a>
 ### Albert — S | The Default Answer
 
-![Albert — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+![Albert — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2)
 
 **Kit**: Lorrik's Jeweled Saber · Submachine Gun · Blood Blade · Light of Hayern
 
@@ -46,7 +46,7 @@ Albert is the most approachable all-rounder in the network test. Clean melee sta
 <a id="zork"></a>
 ### Zork — S | Be the Problem
 
-![Zork — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
+![Zork — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2)
 
 **Kit**: Undersea Cable · Speargun / Rockets · Missile · Human Rocket
 
@@ -63,7 +63,7 @@ Zork is a diving-suit wrecking ball. He grows max HP off kills (**Law of the Dee
 <a id="sniper-layla"></a>
 ### Sniper Layla — A | Own the Sightline
 
-![Sniper Layla — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg)
+![Sniper Layla — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2)
 
 **Kit**: Hieroglyph Katars · Verd Gatling Gun · Neb-ra Vanishing · Nighteye
 
@@ -75,7 +75,7 @@ Layla controls elevation and long sightlines, then vanishes to reset. On Lowanro
 <a id="bloodhand-jan"></a>
 ### Bloodhand Jan — A | Win Ugly, Win Long
 
-![Bloodhand Jan — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+![Bloodhand Jan — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2)
 
 **Kit**: Bloodthirsty Axe · Blink · Surrender to My Blood · Bloodhand Lineage
 
@@ -91,7 +91,7 @@ Jan trades HP on purpose, counter-heals, and spellbinds minions to snowball. He 
 <a id="trang-lanh"></a>
 ### Trang Lanh — B | Decide the Fight From Stealth
 
-![Trang Lanh — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg)
+![Trang Lanh — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2)
 
 **Kit**: Full Moon Blade · Darkmoon · Mama Nātha · Alluring Bride
 
@@ -103,7 +103,7 @@ Trang Lanh opens from stealth, drinks blood in crowds, and controls tempo. In th
 <a id="senator-samir-patres"></a>
 ### Senator Samir Patres — B | Outbuild, Then Run Them Over
 
-![Senator Samir Patres — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg)
+![Senator Samir Patres — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2)
 
 **Kit**: Senate Rapier · Bloodstake · Saurian Form · Unshakable Sword
 
@@ -154,7 +154,4 @@ See the [Characters](/characters) page for weapons, Blood Arts, and Aspects, and
 
 ---
 
-
-*Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Albert Guide](/guides/duskbloods-albert-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
-
-*Image credit: official materials © FromSoftware / Nintendo. Rankings and commentary are independent fan analysis.*
+*Image note: site-hosted crops of public materials (rights remain with their owners). Rankings and commentary are independent fan analysis.*

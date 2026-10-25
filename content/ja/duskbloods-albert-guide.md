@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "The Duskbloods アルバート完全攻略——高位ローリックの血と起業家の仕組み、ブラッドブレードとハイエルンの光のコンボ、フェーズ別プラン、そしてなぜこの宝石サーベルがネットテスト最安の S ティアなのか。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Albert"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **S ティア**。初めての人への第一推奨キャラでもある。公式資料は彼のキットを「歩く論拠」と表現する——クリーンな近接圧力、中距離の確認、そして美徳で成長する血系スキル。
 
 
-![アルバート — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+![アルバート — ブラッドスウォーン立ち絵](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ The Duskbloods は 4 フェーズの Dusk Battle。アルバートの役割は�
 
 *関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide) · [サミル・パトリス攻略](/ja/guides/duskbloods-senator-samir-patres-guide)*
 
-*画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*
+*画像：公式素材 （权利归原权利人）（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

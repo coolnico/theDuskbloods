@@ -4,7 +4,8 @@ import { useTranslations } from 'next-intl';
 import { useState } from 'react';
 import { X, ChevronLeft, ChevronRight, ImageIcon, BookOpen } from 'lucide-react';
 
-const BASE = 'https://media.fromsoftware.jp/theduskbloods/resources/images/images/pc';
+const BASE = 'https://img.duskbloods.net/dusk/gallery';
+const V = '?v=2';
 
 // Official screenshots (001-030, skipping 011)
 const MAIN = [1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30];
@@ -15,7 +16,7 @@ function pad(n: number) {
 
 /** Grid thumbnail (800x450). */
 function imageSrc(n: number) {
-  return `${BASE}/${pad(n)}.png`;
+  return `${BASE}/${pad(n)}.png${V}`;
 }
 
 /**
@@ -24,7 +25,8 @@ function imageSrc(n: number) {
  * duplicate grid section.
  */
 function hiResSrc(n: number) {
-  return `${BASE}/expansion/${pad(n)}.png`;
+  // Same cropped asset as thumbnail (no separate expansion set on R2)
+  return `${BASE}/${pad(n)}.png${V}`;
 }
 
 type FeaturedItem = {

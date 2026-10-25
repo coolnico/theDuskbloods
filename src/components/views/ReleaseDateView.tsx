@@ -33,7 +33,8 @@ export default function ReleaseDateView() {
   const windowParagraphs = t.raw('window.paragraphs') as string[];
   const confirmed = t.raw('status.confirmed') as StatusItem[];
   const unconfirmed = t.raw('status.unconfirmed') as StatusItem[];
-  const timeline = t.raw('timeline.items') as TimelineItem[];
+  // Newest first — reverse chronological timeline
+  const timeline = (t.raw('timeline.items') as TimelineItem[]).slice().reverse();
   const editions = t.raw('editions.items') as Fact[];
   const watch = t.raw('watch.items') as WatchItem[];
   const related = t.raw('related.items') as RelatedItem[];

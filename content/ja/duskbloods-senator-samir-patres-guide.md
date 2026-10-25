@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-23"
 modified: "2026-10-23"
 summary: "The Duskbloods 元老院議員サミル・パトリス完全攻略——不動の剣の完美ガード、ブラッドディサイプルのスキル経済、ブラッドステイクとサウリアフォーム、フェーズ別プラン、そして B ティア対キャリーをどう乗りこなすか。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 当サイトの[ブラッドスウォーン ティアリスト](/ja/guides/duskbloods-tier-list)では **B ティアの技術／対キャリー**。ロビーに先んじて完成させ、リーダーを轢き倒したいときに選ぶ。
 
-![サミル・パトリス — ブラッドスウォーン立ち絵](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg)
+![サミル・パトリス — ブラッドスウォーン立ち絵](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2)
 
 詳細ステータスと設定は [サミルのキャラクター頁](/ja/characters/senator-samir-patres)。本稿は **使い方** の実践ガイド。
 
@@ -185,4 +185,4 @@ tags: ["characters", "builds", "tips", "guide", "Senator Samir Patres"]
 
 *関連記事：[ゾーク攻略](/ja/guides/duskbloods-zork-guide) · [アルバート攻略](/ja/guides/duskbloods-albert-guide) · [ブラッドハンド・ジャン攻略](/ja/guides/duskbloods-bloodhand-jan-guide) · [トラン・ラン攻略](/ja/guides/duskbloods-trang-lanh-guide) · [狙撃手レイラ攻略](/ja/guides/duskbloods-sniper-layla-guide)*
 
-*画像：公式素材 © FromSoftware / Nintendo（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*
+*画像：公式素材 （权利归原权利人）（公式ネットワークテスト媒体）。ゲームプレイ分析は 2026 年 8 月クローズド・ネットワークテストに基づく独立ファンコメントです。*

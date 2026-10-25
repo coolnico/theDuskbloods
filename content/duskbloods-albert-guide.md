@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "Complete Albert guide for The Duskbloods — High Lorrik Blood and Upriser explained, Blood Blade and Light of Hayern combos, phase-by-phase game plan, and why this jeweled-saber Bloodsworn is the safest S-tier pick in the network test meta."
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Albert"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Albert"]
 He finished as an **S-tier pick** in our [Bloodsworn tier list](/guides/duskbloods-tier-list) and is the character we recommend to anyone learning the game. Official materials describe his kit as a "walking argument" — clean melee pressure, mid-range confirms, and blood arts that scale with how well you manage Virtue.
 
 
-![Albert — Bloodsworn portrait](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+![Albert — Bloodsworn portrait](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ Pick **Albert** if you want the safest way to learn the game and a kit that is n
 
 *Related guides: [Zork Guide](/guides/duskbloods-zork-guide) · [Bloodhand Jan Guide](/guides/duskbloods-bloodhand-jan-guide) · [Trang Lanh Guide](/guides/duskbloods-trang-lanh-guide) · [Sniper Layla Guide](/guides/duskbloods-sniper-layla-guide) · [Senator Samir Patres Guide](/guides/duskbloods-senator-samir-patres-guide)*
 
-*Image credit: official materials © FromSoftware / Nintendo (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*
+*Image credit: official materials （权利归原权利人） (official network test media). Gameplay analysis is independent fan commentary based on the August 2026 closed network test.*

@@ -33,7 +33,7 @@ tags: ["tier-list", "characters"]
 <a id="albert"></a>
 ### 阿尔伯特 Albert —— S ｜ 答案就在默认位
 
-![阿尔伯特 Albert 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/albert.jpg)
+![阿尔伯特 Albert 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/albert.jpg?v=2)
 
 **技能**：洛瑞克宝石军刀 · 冲锋枪 · 血刃（Blood Blade） · 海恩之光（Light of Hayern）
 
@@ -46,7 +46,7 @@ tags: ["tier-list", "characters"]
 <a id="zork"></a>
 ### 佐克 Zork —— S ｜ 成为全场要处理的麻烦
 
-![佐克 Zork 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/zork.jpg)
+![佐克 Zork 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/zork.jpg?v=2)
 
 **技能**：海底电缆 · 鱼叉枪 / 火箭 · 导弹 · 人肉火箭
 
@@ -63,7 +63,7 @@ tags: ["tier-list", "characters"]
 <a id="layla"></a>
 ### 狙击手蕾拉 Sniper Layla —— A ｜ 控住视线
 
-![狙击手蕾拉 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/layla.jpg)
+![狙击手蕾拉 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/layla.jpg?v=2)
 
 **技能**：圣书拳刃 · 绿玉加特林 · 内布拉消失 · 夜视锁定
 
@@ -75,7 +75,7 @@ tags: ["tier-list", "characters"]
 <a id="jan"></a>
 ### 血手扬 Bloodhand Jan —— A ｜ 难看地赢，然后赢很久
 
-![血手扬 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+![血手扬 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2)
 
 **技能**：嗜血斧 · 闪步 · 向吾血臣服 · 血手血脉
 
@@ -91,7 +91,7 @@ tags: ["tier-list", "characters"]
 <a id="trang"></a>
 ### 陈兰 Trang Lanh —— B ｜ 潜行决定胜负
 
-![陈兰 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/lanh.jpg)
+![陈兰 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/lanh.jpg?v=2)
 
 **技能**：满月刃 · 暗月 · 玛玛娜莎 · 诱血新娘
 
@@ -103,7 +103,7 @@ tags: ["tier-list", "characters"]
 <a id="samir"></a>
 ### 参议员萨米尔 Senator Samir Patres —— B ｜ 发育碾过他们
 
-![参议员萨米尔 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/samir.jpg)
+![参议员萨米尔 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/samir.jpg?v=2)
 
 **技能**：元老院刺剑 · 血桩 · 蜥形 · 不动之剑
 

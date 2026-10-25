@@ -4,7 +4,7 @@ section: guides
 date: "2026-10-21"
 modified: "2026-10-21"
 summary: "《黄昏血族》血手扬完全攻略——血手血脉反击回血与血之领主魅惑机制详解、闪现与臣服吾血连招、分阶段打法，以及为什么这把嗜血战斧是网测 A 档的长局之王。"
-image: "https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg"
+image: "https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2"
 tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 他在本站[血誓者强度榜](/zh/guides/duskbloods-tier-list)中是 **A 档专精**——网测版本里最强的长局角色。如果你更喜欢靠压制和续航取胜，而不是干净秒杀，血手扬就是你的选择。
 
 
-![血手扬 — 血誓者立绘](https://media.fromsoftware.jp/theduskbloods/campaign/resources/networktest/images/gameplayguide/blood_relative/pc/charactor/jan.jpg)
+![血手扬 — 血誓者立绘](https://img.duskbloods.net/dusk/blood_relative/pc/charactor/jan.jpg?v=2)
 
 
 
@@ -198,4 +198,4 @@ tags: ["characters", "builds", "tips", "guide", "Bloodhand Jan"]
 
 *相关阅读：[佐克攻略](/zh/guides/duskbloods-zork-guide) · [阿尔伯特攻略](/zh/guides/duskbloods-albert-guide) · [陈兰攻略](/zh/guides/duskbloods-trang-lanh-guide) · [狙击手 Layla 攻略](/zh/guides/duskbloods-sniper-layla-guide) · [长老 Samir Patres 攻略](/zh/guides/duskbloods-senator-samir-patres-guide)*
 
-*图片：官方素材 © FromSoftware / Nintendo（官方网络测试媒体）。玩法分析为基于 2026 年 8 月封闭网络测试的独立玩家评论。*
+*图片：官方素材 （权利归原权利人）（官方网络测试媒体）。玩法分析为基于 2026 年 8 月封闭网络测试的独立玩家评论。*
